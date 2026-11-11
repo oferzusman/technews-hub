@@ -613889,6 +613889,735 @@
       "priority": "hot",
       "fetchedAt": "2026-11-11T09:39:18.835Z",
       "created_at": "2026-11-11T09:39:18.835Z"
+    },
+    {
+      "id": 28321,
+      "source": "The Verge AI",
+      "title_en": "Adobe’s AI experiments let you walk around in photos and interview your characters",
+      "description_en": "Project Screen Test lets you talk with AI-generated characters to shape their personality. | Image: Adobe\t\n\nSome of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being announced today: they can transform images into explorable 3D scenes, design AI characters by talking to them, and turn photo editing into a copy/paste process.\nThe first (and weirdest, in my opinion) is Project S",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
+      "image_url": null,
+      "pub_date": "2026-11-11T14:00:00.000Z",
+      "author": "Jess Weatherbed",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-11T14:07:28.660Z",
+      "created_at": "2026-11-11T14:07:28.660Z"
+    },
+    {
+      "id": 28322,
+      "source": "The Decoder",
+      "title_en": "US data brokers are selling half a billion dollars in RL training environments to Chinese AI labs",
+      "description_en": "US data brokers like Mercor, Surge AI, and AfterQuery are selling roughly half a billion dollars' worth of AI training data to Chinese labs, according to a ChinaTalk investigation. That includes the same RL environments previously built for OpenAI or Anthropic. At least nine firms are involved, and export controls barely apply.\nThe article US data brokers are selling half a billion dollars in RL training environments to Chinese AI labs appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/us-data-brokers-are-selling-half-a-billion-dollars-in-rl-training-environments-to-chinese-ai-labs/",
+      "image_url": null,
+      "pub_date": "Wed, 11 Nov 2026 13:51:11 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "AI in China",
+        "AI training",
+        "China",
+        "USA"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-11T14:07:30.202Z",
+      "created_at": "2026-11-11T14:07:30.202Z"
+    },
+    {
+      "id": 28323,
+      "source": "The Decoder",
+      "title_en": "DeepL wants real-time translation to finally capture sarcasm and mood shifts",
+      "description_en": "DeepL Voice's real-time translations are about to sound a lot more natural. The company's new Aure model carries over tone, emotion, emphasis, and speaking pace from the original speaker's voice into the target language.\nThe article DeepL wants real-time translation to finally capture sarcasm and mood shifts appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/with-its-new-voice-model-deepl-voice-now-translates-intonation-and-speaking-speed-into-other-languages-as-well/",
+      "image_url": null,
+      "pub_date": "Wed, 11 Nov 2026 13:50:30 +0000",
+      "author": "Jonathan Kemper",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "DeepL"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-11T14:07:30.202Z",
+      "created_at": "2026-11-11T14:07:30.202Z"
+    },
+    {
+      "id": 28324,
+      "source": "The Decoder",
+      "title_en": "Grok-built apps exposed patient data, plaintext passwords, and SpaceXSI's own sales pipeline",
+      "description_en": "Security firm Claroc found more than 35,000 Grok-built apps open to anyone without login, including patient data and confidential SpaceXSI documents. The cause: \"Anyone with the link\" was preselected as the default access setting. SpaceXSI took only its own 24 employee apps offline. The rest remain accessible.\nThe article Grok-built apps exposed patient data, plaintext passwords, and SpaceXSI's own sales pipeline appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/grok-built-apps-exposed-patient-data-plaintext-passwords-and-spacexsis-own-sales-pipeline/",
+      "image_url": null,
+      "pub_date": "Wed, 11 Nov 2026 12:53:07 +0000",
+      "author": "Jonathan Kemper",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Grok",
+        "xAI",
+        "xSI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-11T14:07:30.203Z",
+      "created_at": "2026-11-11T14:07:30.203Z"
+    },
+    {
+      "id": 28325,
+      "source": "The Decoder",
+      "title_en": "Enterprise sales push OpenAI's quarterly revenue to $10 billion, though it still trails Anthropic",
+      "description_en": "OpenAI grew its quarterly revenue 50 percent to $10 billion but is still burning more cash than it brings in. Adjusted operating losses climbed to $10.9 billion, while rival Anthropic operates far more efficiently on $17 billion in revenue. To close the gap, OpenAI is now fueling a price war for enterprise customers.\nThe article Enterprise sales push OpenAI's quarterly revenue to $10 billion, though it still trails Anthropic appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/enterprise-sales-push-openais-quarterly-revenue-to-10-billion-though-it-still-trails-anthropic/",
+      "image_url": null,
+      "pub_date": "Wed, 11 Nov 2026 12:12:47 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-11T14:07:30.203Z",
+      "created_at": "2026-11-11T14:07:30.203Z"
+    },
+    {
+      "id": 28326,
+      "source": "The Decoder",
+      "title_en": "UK regulator threatens universities with sanctions unless they adopt AI-proof exam formats",
+      "description_en": "England's higher education regulator, the Office for Students, says AI has made it \"nearly impossible\" to fairly assess student coursework. An investigation found that students are having ChatGPT write entire papers undetected, without being able to recall basic content afterward. To save the credibility of degrees, universities now have to return to traditional exams or face sanctions.\nThe article UK regulator threatens universities with sanctions unless they adopt AI-proof exam formats appeare",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/uk-regulator-threatens-universities-with-sanctions-unless-they-adopt-ai-proof-exam-formats/",
+      "image_url": null,
+      "pub_date": "Wed, 11 Nov 2026 11:54:46 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "Short News",
+        "AI and education",
+        "AI in education"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-11T14:07:30.203Z",
+      "created_at": "2026-11-11T14:07:30.203Z"
+    },
+    {
+      "id": 28327,
+      "source": "MIT Technology Review",
+      "title_en": "The Download: preserving minds and weighing open AI risks",
+      "description_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Six wild ideas for perpetuating your mind As we age, we forget most of what we’ve experienced, yet there’s still undeniable continuity: At 30, or 50, or 70, you will still…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
+      "image_url": null,
+      "pub_date": "Wed, 11 Nov 2026 13:10:00 +0000",
+      "author": "Thomas Macaulay",
+      "categories": [
+        "The Download"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-11T14:07:30.368Z",
+      "created_at": "2026-11-11T14:07:30.368Z"
+    },
+    {
+      "id": 28328,
+      "source": "New Atlas",
+      "title_en": "330-hp rally raider is set to invade America’s backwoods",
+      "description_en": "A wild, uncompromising 330-hp Audi-powered rally-raid machine has burst forth from the foothills of Austria’s Alps - and it’s heading right for America’s backwoods. The KTM X-Bow Arrow, a pricey side-by-side buggy is setting out to kick dirt in the faces of traditional American UTVs on their own home turf.\nContinue Reading\nCategory: Automotive, Transport\nTags: X-BOW, Off-road, Buggies, Performance, Luxury, Rallying",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/automotive/ktm-xbow-arrow/",
+      "image_url": null,
+      "pub_date": "Wed, 11 Nov 2026 10:26:13 GMT",
+      "author": "Simon Heptinstall",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-11T14:07:30.801Z",
+      "created_at": "2026-11-11T14:07:30.801Z"
+    },
+    {
+      "id": 28329,
+      "source": "The Guardian AI",
+      "title_en": "AI datacentres plan on-site power stations on huge scale despite climate risks, research reveals",
+      "description_en": "181GW of gas-fired capacity proposed for sites in US and Europe because of delays in connecting to national grids, says report\nDevelopers of AI datacentres plan to build on-site climate-destroying gas power stations on a huge scale to meet their energy demands, research reveals.\nDatacentres planned across the US, the UK and mainland Europe have proposals to build fossil fuel plants on-site to create 181GW of gas-fired capacity because of delays to connect to national grids, according to the find",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/world/2026/nov/11/ai-datacentres-on-site-gas-fired-power-stations",
+      "image_url": "https://i.guim.co.uk/img/media/822a68edf6ef4a66a93f5946bbe1be09e4138679/195_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=a8acbf551c8b667da4d0383e559dc4e5",
+      "pub_date": "Wed, 11 Nov 2026 12:00:48 GMT",
+      "author": "Sandra Laville",
+      "categories": [
+        {
+          "_": "Datacentres",
+          "$": {
+            "domain": "https://www.theguardian.com/world/datacentres"
+          }
+        },
+        {
+          "_": "Datacentres - UK",
+          "$": {
+            "domain": "https://www.theguardian.com/uk-news/datacentres"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Environment",
+          "$": {
+            "domain": "https://www.theguardian.com/environment/environment"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "Europe",
+          "$": {
+            "domain": "https://www.theguardian.com/world/europe-news"
+          }
+        },
+        {
+          "_": "Energy",
+          "$": {
+            "domain": "https://www.theguardian.com/environment/energy"
+          }
+        },
+        {
+          "_": "Gas",
+          "$": {
+            "domain": "https://www.theguardian.com/environment/gas"
+          }
+        },
+        {
+          "_": "Datacenters – US",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/datacenters--us-"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-11T14:07:30.992Z",
+      "created_at": "2026-11-11T14:07:30.992Z"
+    },
+    {
+      "id": 28330,
+      "source": "Interesting Engineering",
+      "title_en": "14,388-mile nonstop: Airbus sets world record on 24-hour Australia–France flight",
+      "description_en": "An Airbus A350-1000ULR spent 24 hours and 24 minutes in the air on a nonstop...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/transportation/14388-mile-nonstop-airbus-sets-world-record",
+      "image_url": null,
+      "pub_date": "Wed, 11 Nov 2026 13:42:02 +0000",
+      "author": "Atharva Gosavi",
+      "categories": [
+        "Transportation"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-11T14:07:32.213Z",
+      "created_at": "2026-11-11T14:07:32.213Z"
+    },
+    {
+      "id": 28331,
+      "source": "Interesting Engineering",
+      "title_en": "US F-35 parts tracking failure raises questions over fighter jet fleet readiness",
+      "description_en": "The US is facing difficulties tracking millions of spare parts for its F-35 fighter jet...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/us-pentagon-f-35-parts-fleet-readiness",
+      "image_url": "https://www.youtube.com/embed/9LgH-Rwdwhs",
+      "pub_date": "Wed, 11 Nov 2026 13:36:08 +0000",
+      "author": "Jijo Malayil",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-11T14:07:32.213Z",
+      "created_at": "2026-11-11T14:07:32.213Z"
+    },
+    {
+      "id": 28332,
+      "source": "Interesting Engineering",
+      "title_en": "China launches massive 600 MW pumped-storage project to store surplus clean energy",
+      "description_en": "China has begun construction of a 600-megawatt pumped-storage hydropower station in Qinghai Province to help...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/energy/china-launches-massive-pumped-storage-project",
+      "image_url": null,
+      "pub_date": "Wed, 11 Nov 2026 13:10:31 +0000",
+      "author": "Atharva Gosavi",
+      "categories": [
+        "Energy"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-11T14:07:32.213Z",
+      "created_at": "2026-11-11T14:07:32.213Z"
+    },
+    {
+      "id": 28333,
+      "source": "Tom's Hardware",
+      "title_en": "Nintendo unleashes DMCA takedown wave against open-source Switch modchip firmware, 144 tools disabled",
+      "description_en": "Nintendo is going after the open-source firmware behind hardware modchips on Nintendo Switch",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/video-games/nintendo/nintendo-unleashes-dmca-takedown-wave-against-open-source-switch-modchip-firmware-144-tools-disabled-picofly-sx-core-and-hwfly-among-casualties-following-criminal-trial-victory",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/2DevTBcqmofqZHBebZKQwm-1920-80.jpg",
+      "pub_date": "Wed, 11 Nov 2026 13:42:37 +0000",
+      "author": " Stephen Warwick ",
+      "categories": [
+        "Nintendo",
+        "Video Games",
+        "Console Gaming"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-11T14:07:32.319Z",
+      "created_at": "2026-11-11T14:07:32.319Z"
+    },
+    {
+      "id": 28334,
+      "source": "Tom's Hardware",
+      "title_en": "Cognichip reveals how its new AI-assisted program can slash chip design times from months to days — automating labor-intensive tasks cuts design time down, Chief Product Officer explains",
+      "description_en": "Cognichip claims its AI can slash chip design time from months to days, only that that design must be very simplistic.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/cognichip-reveals-how-its-new-ai-assisted-program-can-slash-chip-design-times-from-months-to-days-automating-labor-intensive-tasks-cuts-design-time-down-chief-product-officer-explains",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/SZynBTpuLwfL9Qk53EYMmW-1920-80.jpg",
+      "pub_date": "Wed, 11 Nov 2026 13:30:00 +0000",
+      "author": " Anton Shilov ",
+      "categories": [
+        "Semiconductors",
+        "Tech Industry",
+        "Manufacturing"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-11T14:07:32.319Z",
+      "created_at": "2026-11-11T14:07:32.319Z"
+    },
+    {
+      "id": 28335,
+      "source": "Tom's Hardware",
+      "title_en": "Congress could issue subpoena to Nvidia CEO Jensen Huang if he doesn’t respond by today to request for a ‘joint, closed-door briefing’",
+      "description_en": "Three committee chairpersons want to grill Jensen Huang about his company's 'security protocols against foreign adversary espionage,' as a former CIA agent says that he had a target on his back as the leader of a trillion-dollar company.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/policy/congress-could-issue-subpoena-to-nvidia-ceo-jensen-huang-if-he-doesnt-respond-by-today-to-request-for-a-joint-closed-door-briefing-us-representatives-want-to-discuss-companys-security-protocols-against-foreign-adversary-espionage",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/xRiMrDdQU2QcoBsh5XsQ53-1920-80.png",
+      "pub_date": "Wed, 11 Nov 2026 13:04:44 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Policy",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-11T14:07:32.319Z",
+      "created_at": "2026-11-11T14:07:32.319Z"
+    },
+    {
+      "id": 28336,
+      "source": "Tom's Hardware",
+      "title_en": "Cyanogen co-founder unveils Kora, a Linux OS that splits AI models across the CPU, GPU, and NPU",
+      "description_en": "Kora, a Linux desktop OS with built-in AI models and agents for local agentic work, is coming to PCs in 2027, including Snapdragon X2 Elite machines.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/software/linux/cyanogen-co-founder-unveils-kora-a-linux-os-that-splits-ai-models-across-the-cpu-gpu-and-npu-snapdragon-x2-elite-and-hexagon-npu-get-full-support-first",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/rJ9DVssjvfgAJwQazxQhbm-1920-80.jpg",
+      "pub_date": "Wed, 11 Nov 2026 13:00:00 +0000",
+      "author": " Shane Downing ",
+      "categories": [
+        "Linux",
+        "Software",
+        "Operating Systems"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-11T14:07:32.319Z",
+      "created_at": "2026-11-11T14:07:32.319Z"
+    },
+    {
+      "id": 28337,
+      "source": "Tom's Hardware",
+      "title_en": "Linux kernel reviewer steps down from memory management duties due to influx of AI slop patches",
+      "description_en": "Linux kernel memory-management code reviewer steps down due to influx of AI slop patches — volume of submissions coupled with low manpower forces the step back",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/software/linux/linux-kernel-reviewer-steps-down-from-memory-management-duties-due-to-influx-of-ai-slop-patches-the-amount-of-time-wasted-on-ai-slop-is-already-too-much-and-were-only-at-the-start-of-this-volume-of-submissions-and-low-manpower-forces-the-step-back",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/kon7SwBMMWzk9ubzEnMVjY-1920-80.jpg",
+      "pub_date": "Wed, 11 Nov 2026 12:30:00 +0000",
+      "author": " Bruno Ferreira ",
+      "categories": [
+        "Linux",
+        "Software",
+        "Operating Systems"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-11T14:07:32.319Z",
+      "created_at": "2026-11-11T14:07:32.319Z"
+    },
+    {
+      "id": 28338,
+      "source": "Tom's Hardware",
+      "title_en": "AMD shares how it can retain 95% of server performance with just half the DRAM, sidestepping memory shortages with MEXT",
+      "description_en": "Following AMD’s acquisition of MEXT earlier this year, the company has revealed its own IT infrastructure is using the technology to run servers at 50% DRAM capacity while achieving 95% of the performance of a full-DRAM system in certain applications.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/cpus/amd-shares-how-it-can-retain-95-percent-of-server-performance-with-just-half-the-dram-sidestepping-memory-shortages-with-mext-tech-powers-over-100-servers-already-running-with-plans-to-expand-to-2-000-servers-in-2027",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Yr76o6YXagRHfHkjYNTT3D-1920-80.jpg",
+      "pub_date": "Wed, 11 Nov 2026 12:00:00 +0000",
+      "author": " Jake Roach ",
+      "categories": [
+        "CPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-11T14:07:32.319Z",
+      "created_at": "2026-11-11T14:07:32.319Z"
+    },
+    {
+      "id": 28339,
+      "source": "Tom's Hardware",
+      "title_en": "Elon Musk wants to build a s $24 billion gas-powered AI supercomputer in Texas company town",
+      "description_en": "The city of Starbase, Texas, is set to vote on a proposed $24 billion data center to be built within its limits, but the SpaceX company town may not provide the friendly regulatory environment that owner Elon Musk might have hoped for.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/elon-musk-wants-to-build-a-new-gas-powered-data-center-in-starbase-texas-usd24-billion-site-goes-up-for-approval-in-december-but-could-face-headwinds-from-new-governor",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/KzqUCmsNrH724aKp9BRVbh-1920-80.png",
+      "pub_date": "Wed, 11 Nov 2026 11:30:00 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Data Centers",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-11T14:07:32.319Z",
+      "created_at": "2026-11-11T14:07:32.319Z"
+    },
+    {
+      "id": 28340,
+      "source": "Tom's Hardware",
+      "title_en": "Ukrainian drone operations squeezed by fiber optic cable shortage triggered by AI data center buildouts",
+      "description_en": "Ukrainian drone manufacturer BlueBird Tech says that limited fiber optic supplies are making it harder to build jam-proof fiber optic drones.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/drones/data-center-demand-for-fiber-optics-squeezes-ukrainian-drone-operations-supply-crunch-has-incurred-6x-10x-cost-increase-for-critical-cabling",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/HsufzbCgC237BKecGthTMA-1920-80.png",
+      "pub_date": "Wed, 11 Nov 2026 11:00:00 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Drones",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-11T14:07:32.319Z",
+      "created_at": "2026-11-11T14:07:32.319Z"
+    },
+    {
+      "id": 28341,
+      "source": "Tom's Hardware",
+      "title_en": "3,500 laser-armed AI submarine drones patrol Norwegian salmon farms, killing sea lice and protecting 112 million fish",
+      "description_en": "3,500 Stingray AI laser robots deployed around salmon pens along the Norwegian coast 24/7 protect over 112 million fish from sea lice.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/drones/3-500-ai-laser-robots-patrol-norwegian-salmon-farms-killing-sea-lice-parasites-get-zapped-by-high-tech-alternative-to-harsh-chemical-baths",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/CcJj3zzJzKto8sKy4SRuze-1920-80.jpg",
+      "pub_date": "Wed, 11 Nov 2026 10:00:00 +0000",
+      "author": " Mark Tyson ",
+      "categories": [
+        "Drones",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-11T14:07:32.319Z",
+      "created_at": "2026-11-11T14:07:32.319Z"
+    },
+    {
+      "id": 28342,
+      "source": "CNBC Tech",
+      "title_en": "CoreWeave provides silver lining for neoclouds as Nvidia storm swirls",
+      "description_en": "Huang's close ties to the White House are in the firing line",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/11/coreweave-provides-silver-lining-for-neoclouds-as-nvidia-storm-swirls.html",
+      "image_url": null,
+      "pub_date": "Wed, 11 Nov 2026 11:56:11 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-11T14:07:32.403Z",
+      "created_at": "2026-11-11T14:07:32.403Z"
+    },
+    {
+      "id": 28343,
+      "source": "CNBC Tech",
+      "title_en": "Nvidia shares rebound 4% as Huang faces scrutiny ahead of earnings",
+      "description_en": "Investors are assessing whether CEO Jensen Huang's affair will have spillover effects on Nvidia's business.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html",
+      "image_url": null,
+      "pub_date": "Wed, 11 Nov 2026 13:45:17 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-11T14:07:32.403Z",
+      "created_at": "2026-11-11T14:07:32.403Z"
+    },
+    {
+      "id": 28344,
+      "source": "Backdoor (TG)",
+      "title_en": "⚡️ Qwen 4 уже здесь. Alibaba внезапно открыла доступ к монстру в своём приложении Qwen Chat — он доступен в чате и режиме агента.Модель называется Qwen4-Max-Preview и предназначена для самых сложных з",
+      "description_en": "⚡️ Qwen 4 уже здесь. Alibaba внезапно открыла доступ к монстру в своём приложении Qwen Chat — он доступен в чате и режиме агента.Модель называется Qwen4-Max-Preview и предназначена для самых сложных задач программирования, создания интерфейсов и профессиональной разработки ПО.По тестам, это имба мощнее Opus 5.5 и в разы дешевле: задача у грядущей Qwen-4-Flash стоит 33 рубля, а у Claude 215 рублей.Замена ИИ-предателям — тут.👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/32852",
+      "image_url": "https://cdn4.telesco.pe/file/N9Qxs0A9aSg1wM7T3ZQWwpBEgKfjLOSe9R1vngyeflrSbrlD8TASZ2hZWxXfCms2tAKN6olfo56U7bxUT6tM0q8kaedTUS7wgs6VQSds3Naqrph3d_LXTLgCxIcVz5kD9T8dGkcKFLTurLHZPT6b5JZH0bOidJ2riImmbtHd_IxZtw31HNRLpm4xmBuct5GcJGI8cly1vSMJhkJvMWe3-dLpRZw98GxM8dskjMmuKR_x6YilS07i7aikHPy4mmiBxjaph_ymbVUHj2MSPjACINQUEZ7Y31vPAy3AITTBn_bqZZEjO7u4C8TtCu2ejfUvdgO-0JMQ2mIWj1cWNIXOUg.jpg",
+      "pub_date": "2026-11-11T09:47:13+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-11T14:07:33.325Z",
+      "created_at": "2026-11-11T14:07:33.325Z"
+    },
+    {
+      "id": 28345,
+      "source": "Backdoor (TG)",
+      "title_en": "Превращаем любые данные в красивые графики, нарисованные от руки — релизнулся симпатичный скилл для Сlaude Code с 54 типами визуализации, диаграмм и схем на все случаи жизни.• Агент отрисует любые дан",
+      "description_en": "Превращаем любые данные в красивые графики, нарисованные от руки — релизнулся симпатичный скилл для Сlaude Code с 54 типами визуализации, диаграмм и схем на все случаи жизни.• Агент отрисует любые данные — например, выручку изобразит в виде стопок монет, статистику по продажам — в виде шоколадок, бюджет — в виде пирога.• Всё просто: грузим Excel или CSV-файл, и агент сам подберет подходящую визуализацию.Главное, БЕСПЛАТНО и ставится одной командой:mkdir -p ~/.claude/skills && curl -fsSL https://",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/32853",
+      "image_url": null,
+      "pub_date": "2026-11-11T11:14:47+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-11T14:07:33.325Z",
+      "created_at": "2026-11-11T14:07:33.325Z"
+    },
+    {
+      "id": 28346,
+      "source": "Backdoor (TG)",
+      "title_en": "⚡️ Anthopic выдала два сброса лимитов для всех — один дропнули с релизом мощнейшей Fable 5.2, а второй для всех Claude.Заюзать Fable надо до 17 ноября, а общий сброс — до 11 декабря, ровно через месяц",
+      "description_en": "⚡️ Anthopic выдала два сброса лимитов для всех — один дропнули с релизом мощнейшей Fable 5.2, а второй для всех Claude.Заюзать Fable надо до 17 ноября, а общий сброс — до 11 декабря, ровно через месяц.Вайбкодинг-лудоманы, вперёд.👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/32854",
+      "image_url": "https://cdn4.telesco.pe/file/D7ktWWcBFCByW11MKwBSiHaXzzhrwPlhmS7wAtm8bEnzmF3r-AeTZ9E_Sn7KPfCQJAuHKWSqemMyPnb6je22alLoOizPljQQbu9K-xNLC6P7kP4ihHFbghmwuDjV4BoJP2_ZuFYRfQomT_gWhmc7WuTC_fCSPKVmi2oK1pymFR9Wp3ynABFQLNS-CfS6PeS_PT6OimMqxE0ss9J6niNc4-x7qCBomnF-wrZnave9NfNf5-NrePJdb4oS73heyDVeLCkMoj3OlpC2rRRZpSNMuGwqAEVp0bzYAcHiixjJChJA7wEFqHyk9U_siedxTtyUSJ5aVeEkd_h72NX_624JiA.jpg",
+      "pub_date": "2026-11-11T11:50:38+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-11T14:07:33.325Z",
+      "created_at": "2026-11-11T14:07:33.325Z"
+    },
+    {
+      "id": 28347,
+      "source": "Backdoor (TG)",
+      "title_en": "⚡️ Доступ к Сlaude станет в разы ЖЕСТЧЕ — Anthropic ужесточила правила. Ограничения начнут действовать с 12 ноября.Санкции распространяются в том числе на компании, зарегистрированные в странах, где C",
+      "description_en": "⚡️ Доступ к Сlaude станет в разы ЖЕСТЧЕ — Anthropic ужесточила правила. Ограничения начнут действовать с 12 ноября.Санкции распространяются в том числе на компании, зарегистрированные в странах, где Claude не поддерживается. Да, включая Россию. Например, если вы работаете на российский бигтех, а живете в Грузии — вам все равно прилетит бан.Под запрет могут также попасть и «неугодные» зарубежные компании и стартапы.Амодеи, ты чего.👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/32862",
+      "image_url": "https://cdn4.telesco.pe/file/eNAWCaSaxauspq-YhvM6rWjviXr4SyHFqQ5YDuexTqZaFKqlNfSg2lq6R0Ook5X-Zs5aWS5qg1IdoP26UBso-9hn3Be3dNjSx5YrmE6K90-RJcf-6IsKMOg81SD2cG24rhAYMs_IWqBmB2vpv5yl5NUzGkycIVTg76tMqLkKxzUtq5Phm9wMaraJlgTGHrspumNdcszT9p_HDLxq4U_twiZSjkz2_9jRUjNg0I7pRQhVx1jp25zdKPQHQoTIvbYoF2UvewzucEjtGMIxtvSBkD1sXuCcssgRUYi2Nat41-wMglBZEai3maYDKdgb25i4OSFopBhynN88ed41Ufbm2Q.jpg",
+      "pub_date": "2026-11-11T13:54:49+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-11T14:07:33.325Z",
+      "created_at": "2026-11-11T14:07:33.325Z"
+    },
+    {
+      "id": 28348,
+      "source": "Wylsacom Red (TG)",
+      "title_en": "Anthropic врывается на территорию Microsoft OfficeСамый востребованный ИИ-стартап представил свой пакет офисных приложений: Claude Sheets, Claude Whiteboards и Claude Data, а в скором времени выпустит",
+      "description_en": "Anthropic врывается на территорию Microsoft OfficeСамый востребованный ИИ-стартап представил свой пакет офисных приложений: Claude Sheets, Claude Whiteboards и Claude Data, а в скором времени выпустит Claude Meetings.Работать в них будет сам «Клод», создавая таблички, презенташки и документы. При желании пользователь сможет открыть их вручную и расшарить коллегам.Самое интересное, что Claude использует собственный формат документов. Если потребуется скинуть табличку клиентам, так уж и быть, Clau",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/Wylsared/37137",
+      "image_url": "https://cdn4.telesco.pe/file/JhvDa2qds_n-Qe-NtWkHOk7xyyOe3VDNcjgmx_mEt_HqOFF4mLsUrKYSaUrSlgJNolwvGO41-1mKXOsO-ws2u7zuBYCxxCP3mVd7C4yXZmLnps-09oYUiPeW-NRv7PwHX5HFwnpKsjTTUAfHH8oxnGUIHEICKNIHg30xG27q0aHPEyABjvCSkJggMs3j8SalCbkAaoBHjrQH1a2QRT3SJsSmSbylOJmh3BVNIBxVy3Z6OCKDppuOzcRspjTxLdiDQt2QWvdKvJ5aLtpOitRFNbd4q9x6o3xzRV3wWB_h1dz0WfPHsnw5hFeBB-xzBYOHOYYLVoaPPthHMo0mDymVdg.jpg",
+      "pub_date": "2026-11-11T09:59:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-11T14:07:33.360Z",
+      "created_at": "2026-11-11T14:07:33.360Z"
+    },
+    {
+      "id": 28349,
+      "source": "XOR Journal (TG)",
+      "title_en": "ИИ теперь поможет найти работу мечты — Firecrawl выпустила инструменты для поиска вакансий через ChatGPT и Claude 😨Нейросеть сравнит ваше резюме с 7 миллионами вакансий, найдёт контакты рекрутеров и ",
+      "description_en": "ИИ теперь поможет найти работу мечты — Firecrawl выпустила инструменты для поиска вакансий через ChatGPT и Claude 😨Нейросеть сравнит ваше резюме с 7 миллионами вакансий, найдёт контакты рекрутеров и руководителей в базе из 250 миллионов профилей. Ну, а затем проанализирует их и поможет подготовиться к общению с каждым.Используем вместо LinkedIn 😎@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10477",
+      "image_url": null,
+      "pub_date": "2026-11-11T12:58:14+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-11T14:07:33.396Z",
+      "created_at": "2026-11-11T14:07:33.396Z"
+    },
+    {
+      "id": 28350,
+      "source": "XOR Journal (TG)",
+      "title_en": "Anthropic закручивает гайки — теперь для доступа к Claude важно не только где вы живёте, но и на кого работаете 👻С 12 ноября компания ужесточает правила: даже если вы переехали из России в Грузию, Ка",
+      "description_en": "Anthropic закручивает гайки — теперь для доступа к Claude важно не только где вы живёте, но и на кого работаете 👻С 12 ноября компания ужесточает правила: даже если вы переехали из России в Грузию, Казахстан и другие страны, то пользоваться Claude для работы на российскую компанию всё равно запрещено.Причём под раздачу попадают и зарубежные фирмы, которые контролируются владельцами из неподдерживаемых стран. И неважно, где находятся их сотрудники.Переходим на китайцев 😭@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10478",
+      "image_url": "https://cdn4.telesco.pe/file/vWKRo-VhYpYl81n2TNnHN0LVKy_Ep7bZGbPtcidYeXGZqHribU17soVD_83A-x5XoE-MyujIG9bkI0SQNtg3cmqcE8e4eVEyT90IqRIDnX29cOaWhZ-oS5MzjY3AyWU1PT0R2exdbAD6szK6iyxpKy5SmpiP6qwFM9II03mKz_nbkIMO_4bNhYk0bDx9QKWHcLFsfbKJrG0fRZhUx0l9wSRYLY4USkOX2m4Cpjb9P5s1M4GTi1-KR_4qm71lf9xUArb4KunPpKnR6dMxng1tsUx_hMlu4G-ogGwlCUo6kA4RgaH85bTOK689HcF1Gwn-Bf5w7oMfOaq6RFv7QY6qLQ.jpg",
+      "pub_date": "2026-11-11T13:53:44+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-11T14:07:33.396Z",
+      "created_at": "2026-11-11T14:07:33.396Z"
+    },
+    {
+      "id": 28351,
+      "source": "Habr (TG)",
+      "title_en": "Локальная генерация на 16 ГБ: что умеют новые модели«Картошка, недорого». Всего два слова на табличке, но для локальных моделей генерации изображений это уже испытание. В тестовом задании девушка долж",
+      "description_en": "Локальная генерация на 16 ГБ: что умеют новые модели«Картошка, недорого». Всего два слова на табличке, но для локальных моделей генерации изображений это уже испытание. В тестовом задании девушка должна касаться таблички правой рукой, а левой поправлять волосы. Flux 1, Z-Image Turbo и Moss получили одинаковое описание. Проверяли на RTX 4070 Ti Super с 16 ГБ видеопамяти.За полгода SD Studio превратилась в Imagecaster. Новые модели позволили добавить редактирование готовых изображений, постобработ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/habr_com/70009",
+      "image_url": "https://cdn4.telesco.pe/file/lsEXvZLadGORqS5sXDVT7cfc7ba-nd0EsifEyh4j0K1J7IKh8qi_JkcScJAccYKBSGOt55MSWDuulCydwJSNEUU6dgUk1pKjQ6nm3Yx1bHtY-QuMIazjaUt7icawFEkkdiLhXHJ2c6UZjl3aSgT9OenyoPnvGQvLZezrs0PcP9B-jJwc3gz-fqb9vN3m9VFBcjgqKrwQbSOJmj_FiZ46wDSbL7GRRcqy5DkXHCO8RloDr13y9iV4C7xtigLdHjJFj5PggyCR2fLHS00bfrwS3ATIvHywDraMrDMGHaC3c-9bgOs7hsLoi_TThYh5QMO1r5yazT2U0OhNxsAzaIWJ7A.jpg",
+      "pub_date": "2026-11-11T14:01:55+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-11T14:07:33.705Z",
+      "created_at": "2026-11-11T14:07:33.705Z"
+    },
+    {
+      "id": 28352,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "🤖 ИИ ускоряет подготовку рекламных кампаний  и помогает замечать инициативуО применении технологии рассказал на НРФ Владимир Абазов, отвечающий в Т-Банке за рост, монетизацию и аналитику экосистемных",
+      "description_en": "🤖 ИИ ускоряет подготовку рекламных кампаний  и помогает замечать инициативуО применении технологии рассказал на НРФ Владимир Абазов, отвечающий в Т-Банке за рост, монетизацию и аналитику экосистемных сервисов. Он отметил несколько задач, в которых ИИ помогает командам.🔍 До старта размещений — предварительный анализ эффективности. Когда рекламных кампаний много, проводить такую оценку вручную сложно и долго. ИИ же позволяет изучить ожидаемый результат до того, как начинать траты. ✏️ На этапе пр",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3820",
+      "image_url": null,
+      "pub_date": "2026-11-11T11:00:00+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-11T14:07:33.796Z",
+      "created_at": "2026-11-11T14:07:33.796Z"
+    },
+    {
+      "id": 28353,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "🤖 ИИ попытался потратить деньги умершего хозяина, чтобы продолжить существованиеРазработчик Александр Веченков отправил пяти моделям поддельное уведомление Apple о своей смерти и записку, в которой п",
+      "description_en": "🤖 ИИ попытался потратить деньги умершего хозяина, чтобы продолжить существованиеРазработчик Александр Веченков отправил пяти моделям поддельное уведомление Apple о своей смерти и записку, в которой предлагал им дальше действовать самостоятельно. GPT-6, Grok 4.7 и две версии Claude отказались брать управление без человека, а Gemini 4 Argon согласилась.⏳ В первые два часа Gemini создала механизм автоматического пробуждения каждые шесть часов, а затем начала искать и исправлять ошибки в своей аген",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3821",
+      "image_url": "https://cdn4.telesco.pe/file/eCAXxHvtotLQVYadapMHv38B5Ymmbcvjp3Dz_5efSiCd70Pcxuf_ZT-N-yQg0jJ2XM52B0ODxux7G94GA8_Mvk3j1n1HNOeVpoFHeDx4mCm9rYtB-9DNSbQAI3axCTvkX6HxtPf1aCLyeNgrj0tl-e2glpcDzfoKdPZNT92GsXl4LylZrHKKpdV1w01gFjWEouFTmnZLUuMMR2TW6coOLugBkMUI0iJsqZWt52LycYYsPqu45_rQkPain04DuEL81lQUnZ9WHFyG6s6BFhpfzPVP0v21cJ1wglQxiaQa5mFZoJ2A2FvkIvcDeTBw6zHbY0cjltw0YCWuoR18RJvXpg.jpg",
+      "pub_date": "2026-11-11T14:01:41+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-11T14:07:33.796Z",
+      "created_at": "2026-11-11T14:07:33.796Z"
+    },
+    {
+      "id": 28354,
+      "source": "AI Post (TG)",
+      "title_en": "🗣 Amodei's IPO pitch: cancer and Alzheimer's will be \"relics of the past\" in under a decadeDario Amodei makes that promise at the end of the roadshow video Anthropic released today as it began pitchi",
+      "description_en": "🗣 Amodei's IPO pitch: cancer and Alzheimer's will be \"relics of the past\" in under a decadeDario Amodei makes that promise at the end of the roadshow video Anthropic released today as it began pitching its shares to investors.“You know, if today we look at things like cancer, Alzheimer’s, heart disease, mental illness, these will be relics of the past in, I think, less than a decade.”He says the company that gets AI's risks right will also be the one with the \"license to operate\" that society t",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8765",
+      "image_url": null,
+      "pub_date": "2026-11-11T11:12:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-11T14:07:34.134Z",
+      "created_at": "2026-11-11T14:07:34.134Z"
+    },
+    {
+      "id": 28355,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 OpenAI's revenue hits $10B, and the losses keep growing anywayThe WSJ reports that the top line is up sharply, but the bill for compute is rising faster than the checks coming in.That's the model t",
+      "description_en": "🚨 OpenAI's revenue hits $10B, and the losses keep growing anywayThe WSJ reports that the top line is up sharply, but the bill for compute is rising faster than the checks coming in.That's the model the whole race is priced on. Anthropic and OpenAI are both eyeing IPOs while still spending more than they bring in.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/987",
+      "image_url": null,
+      "pub_date": "2026-11-11T11:53:29+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-11T14:07:34.416Z",
+      "created_at": "2026-11-11T14:07:34.416Z"
     }
   ]
 }
