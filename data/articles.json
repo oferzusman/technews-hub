@@ -614618,6 +614618,165 @@
       "priority": "batch",
       "fetchedAt": "2026-11-11T14:07:34.416Z",
       "created_at": "2026-11-11T14:07:34.416Z"
+    },
+    {
+      "id": 28356,
+      "source": "TechCrunch AI",
+      "title_en": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+      "description_en": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
+      "image_url": null,
+      "pub_date": "Wed, 11 Nov 2026 14:00:00 +0000",
+      "author": "Tim Fernholz",
+      "categories": [
+        "AI",
+        "Exclusive"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-11T14:56:31.997Z",
+      "created_at": "2026-11-11T14:56:31.997Z"
+    },
+    {
+      "id": 28357,
+      "source": "Ars Technica",
+      "title_en": "Google DeepMind just mathematically verified key parts of Signal",
+      "description_en": "The four-week project hints that AI could make formal verification far more practical.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/signal_icon-1024x648.jpg",
+      "pub_date": "Wed, 11 Nov 2026 14:08:57 +0000",
+      "author": "\n                    Lily Hay Newman, wired.com\n                ",
+      "categories": [
+        "AI",
+        "Security",
+        "deepmind",
+        "encryption",
+        "signal"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-11T14:56:32.087Z",
+      "created_at": "2026-11-11T14:56:32.087Z"
+    },
+    {
+      "id": 28358,
+      "source": "The Decoder",
+      "title_en": "Anthropic says AI is eroding Nvidia's CUDA lead, cutting an AMD chip switch from months to three days",
+      "description_en": "Anthropic claims it used AI itself to breach Nvidia's CUDA moat. The company's in-house model Mythos reportedly ported Claude to AMD GPUs in just three days, with almost no human intervention. Anthropic now runs Claude on four chip families and aims to cut costs and reduce vendor dependencies.\nThe article Anthropic says AI is eroding Nvidia's CUDA lead, cutting an AMD chip switch from months to three days appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/anthropic-says-ai-is-eroding-nvidias-cuda-lead-cutting-an-amd-chip-switch-from-months-to-three-days/",
+      "image_url": null,
+      "pub_date": "Wed, 11 Nov 2026 14:25:20 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "AMD",
+        "Anthropic",
+        "Nvidia"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-11T14:56:33.477Z",
+      "created_at": "2026-11-11T14:56:33.477Z"
+    },
+    {
+      "id": 28359,
+      "source": "Hugging Face Blog",
+      "title_en": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://huggingface.co/blog/token-pooling",
+      "image_url": null,
+      "pub_date": "Wed, 11 Nov 2026 00:00:00 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-11T14:56:33.767Z",
+      "created_at": "2026-11-11T14:56:33.767Z"
+    },
+    {
+      "id": 28360,
+      "source": "Interesting Engineering",
+      "title_en": "U.S. Air Force upgrades F-16 radar test systems to check 160 antennas, 70 radomes a year",
+      "description_en": "Hill Air Force Base has upgraded two test systems used to verify F-16 radar components,...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/hill-depot-f-16-radar-testing",
+      "image_url": null,
+      "pub_date": "Wed, 11 Nov 2026 14:23:51 +0000",
+      "author": "Munis Raza",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-11T14:56:34.879Z",
+      "created_at": "2026-11-11T14:56:34.879Z"
+    },
+    {
+      "id": 28361,
+      "source": "Tom's Hardware",
+      "title_en": "Softbank loses $3.7 billion on canceled AI data center gas turbine orders days after denying Elon Musk’s claim it was defaulting",
+      "description_en": "SoftBank might not have defaulted on a raft of gas turbine orders, but it has pulled out of deals for unwanted power units after overestimating how many it could use amid the AI data center buildout boom.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/softbank-loses-usd3-7-billion-on-canceled-ai-data-center-gas-turbine-orders-days-after-denying-elon-musks-claim-it-was-defaulting-company-kills-reserved-13-gigawatts-of-power-more-than-six-hoover-dams-worth-of-capacity",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/oVtZCcAvC5GeZw8jGbrs65-1920-80.jpg",
+      "pub_date": "Wed, 11 Nov 2026 14:29:43 +0000",
+      "author": " Oliver Haslam ",
+      "categories": [
+        "Data Centers",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-11T14:56:35.873Z",
+      "created_at": "2026-11-11T14:56:35.873Z"
+    },
+    {
+      "id": 28362,
+      "source": "Tom's Hardware",
+      "title_en": "ASRock quietly rolls out new firmware after disastrous previous update killed Radeon RX 7900-series GPUs",
+      "description_en": "Asrock's VBIOS 1.0.6 update follows reports of Radeon RX 7900 XT and XTX graphics cards failing to boot after installing the previous firmware.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/gpus/asrock-attempts-to-correct-botched-radeon-rx-7000-firmware-release-with-new-version-revised-release-should-work-ok-but-company-provides-no-explanation-for-bricked-cards",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/vYFmafSqNeAuDCoRgWnUha-1920-80.jpg",
+      "pub_date": "Wed, 11 Nov 2026 14:20:00 +0000",
+      "author": " Kunal Khullar ",
+      "categories": [
+        "GPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-11T14:56:35.874Z",
+      "created_at": "2026-11-11T14:56:35.874Z"
+    },
+    {
+      "id": 28363,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🤖 Gemini Robotics 2.5 put a humanoid on Mercedes-Benz production lines, and it hit 96%DeepMind says Apptronik's Apollo 2 sorted metal brackets from bulk bins into trays in Hungary and Germany. Across",
+      "description_en": "🤖 Gemini Robotics 2.5 put a humanoid on Mercedes-Benz production lines, and it hit 96%DeepMind says Apptronik's Apollo 2 sorted metal brackets from bulk bins into trays in Hungary and Germany. Across 200+ tasks, success is up 30% to 100% over baselines, and tasks run 20% to 30% faster.Safe completion around people improved 43%. It's rolling out to partners only, and a 96% pick rate on a line means a fumble every 25 parts.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/988",
+      "image_url": null,
+      "pub_date": "2026-11-11T14:25:49+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-11T14:56:37.584Z",
+      "created_at": "2026-11-11T14:56:37.584Z"
     }
   ]
 }
