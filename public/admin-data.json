@@ -1,26 +1,26 @@
 {
-  "total": 28363,
-  "translated": 28354,
+  "total": 28379,
+  "translated": 28370,
   "untranslated": 9,
-  "today": 91,
-  "week": 854,
+  "today": 107,
+  "week": 870,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 2630,
-      "translated": 2630,
+      "total": 2632,
+      "translated": 2632,
       "lastDate": "Wed, 30 Sep 2026 18:00:39 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 2486,
-      "translated": 2486,
+      "total": 2489,
+      "translated": 2489,
       "lastDate": "Wed, 30 Sep 2026 23:56:36 +0000"
     },
     {
       "name": "TechCrunch AI",
-      "total": 1892,
-      "translated": 1892,
+      "total": 1895,
+      "translated": 1895,
       "lastDate": "Wed, 30 Sep 2026 23:43:07 +0000"
     },
     {
@@ -31,14 +31,14 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 1689,
-      "translated": 1687,
-      "lastDate": "2026-11-11T11:12:01+00:00"
+      "total": 1690,
+      "translated": 1688,
+      "lastDate": "2026-11-11T17:12:51+00:00"
     },
     {
       "name": "The Decoder",
-      "total": 1554,
-      "translated": 1554,
+      "total": 1555,
+      "translated": 1555,
       "lastDate": "Wed, 30 Sep 2026 22:06:30 +0000"
     },
     {
@@ -73,21 +73,21 @@
     },
     {
       "name": "The Verge AI",
-      "total": 1050,
-      "translated": 1050,
-      "lastDate": "2026-11-11T14:00:00.000Z"
+      "total": 1052,
+      "translated": 1052,
+      "lastDate": "2026-11-11T16:00:00.000Z"
     },
     {
       "name": "MarkTechPost",
-      "total": 903,
-      "translated": 903,
+      "total": 904,
+      "translated": 904,
       "lastDate": "Wed, 30 Sep 2026 21:30:08 +0000"
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 854,
-      "translated": 854,
-      "lastDate": "2026-11-11T14:25:49+00:00"
+      "total": 855,
+      "translated": 855,
+      "lastDate": "2026-11-11T17:26:29+00:00"
     },
     {
       "name": "Backdoor (TG)",
@@ -109,8 +109,8 @@
     },
     {
       "name": "MIT Technology Review",
-      "total": 503,
-      "translated": 503,
+      "total": 504,
+      "translated": 504,
       "lastDate": "Wed, 30 Sep 2026 12:10:00 +0000"
     },
     {
@@ -169,8 +169,8 @@
     },
     {
       "name": "Google AI Blog",
-      "total": 110,
-      "translated": 110,
+      "total": 111,
+      "translated": 111,
       "lastDate": "Wed, 25 Mar 2026 16:00:00 +0000"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-11-11T17:19:50.695Z"
+  "generatedAt": "2026-11-11T17:29:19.923Z"
 }
