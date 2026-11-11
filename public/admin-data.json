@@ -1,9 +1,9 @@
 {
-  "total": 28298,
-  "translated": 28289,
+  "total": 28304,
+  "translated": 28295,
   "untranslated": 9,
-  "today": 26,
-  "week": 789,
+  "today": 32,
+  "week": 795,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -25,15 +25,15 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 1800,
-      "translated": 1800,
+      "total": 1801,
+      "translated": 1801,
       "lastDate": "Wed, 30 Sep 2026 23:50:01 GMT"
     },
     {
       "name": "AI Post (TG)",
-      "total": 1686,
-      "translated": 1684,
-      "lastDate": "2026-11-11T03:07:01+00:00"
+      "total": 1687,
+      "translated": 1685,
+      "lastDate": "2026-11-11T06:01:01+00:00"
     },
     {
       "name": "The Decoder",
@@ -67,9 +67,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 1095,
-      "translated": 1093,
-      "lastDate": "2026-11-10T21:10:02+00:00"
+      "total": 1096,
+      "translated": 1094,
+      "lastDate": "2026-11-11T06:23:24+00:00"
     },
     {
       "name": "The Verge AI",
@@ -91,21 +91,21 @@
     },
     {
       "name": "Backdoor (TG)",
-      "total": 725,
-      "translated": 723,
-      "lastDate": "2026-11-10T21:05:38+00:00"
+      "total": 726,
+      "translated": 724,
+      "lastDate": "2026-11-11T06:43:51+00:00"
     },
     {
       "name": "OpenAI Blog",
-      "total": 698,
-      "translated": 698,
+      "total": 699,
+      "translated": 699,
       "lastDate": "Wed, 30 Sep 2026 10:30:00 GMT"
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 526,
-      "translated": 524,
-      "lastDate": "2026-11-10T16:02:00+00:00"
+      "total": 527,
+      "translated": 525,
+      "lastDate": "2026-11-11T06:12:17+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-11-11T06:03:01.556Z"
+  "generatedAt": "2026-11-11T06:57:19.453Z"
 }
