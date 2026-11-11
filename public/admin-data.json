@@ -1,9 +1,9 @@
 {
-  "total": 28285,
-  "translated": 28276,
+  "total": 28298,
+  "translated": 28289,
   "untranslated": 9,
-  "today": 13,
-  "week": 776,
+  "today": 26,
+  "week": 789,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 2481,
-      "translated": 2481,
+      "total": 2482,
+      "translated": 2482,
       "lastDate": "Wed, 30 Sep 2026 23:56:36 +0000"
     },
     {
@@ -25,15 +25,15 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 1799,
-      "translated": 1799,
+      "total": 1800,
+      "translated": 1800,
       "lastDate": "Wed, 30 Sep 2026 23:50:01 GMT"
     },
     {
       "name": "AI Post (TG)",
-      "total": 1685,
-      "translated": 1683,
-      "lastDate": "2026-11-11T00:24:01+00:00"
+      "total": 1686,
+      "translated": 1684,
+      "lastDate": "2026-11-11T03:07:01+00:00"
     },
     {
       "name": "The Decoder",
@@ -49,14 +49,14 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 1403,
-      "translated": 1403,
+      "total": 1405,
+      "translated": 1405,
       "lastDate": "Wed, 30 Sep 2026 19:12:28 GMT"
     },
     {
       "name": "New Atlas",
-      "total": 1265,
-      "translated": 1265,
+      "total": 1267,
+      "translated": 1267,
       "lastDate": "Wed, 30 Sep 2026 22:56:52 GMT"
     },
     {
@@ -79,15 +79,15 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 901,
-      "translated": 901,
+      "total": 902,
+      "translated": 902,
       "lastDate": "Wed, 30 Sep 2026 21:30:08 +0000"
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 849,
-      "translated": 849,
-      "lastDate": "2026-11-11T01:46:29+00:00"
+      "total": 851,
+      "translated": 851,
+      "lastDate": "2026-11-11T05:51:29+00:00"
     },
     {
       "name": "Backdoor (TG)",
@@ -97,8 +97,8 @@
     },
     {
       "name": "OpenAI Blog",
-      "total": 696,
-      "translated": 696,
+      "total": 698,
+      "translated": 698,
       "lastDate": "Wed, 30 Sep 2026 10:30:00 GMT"
     },
     {
@@ -139,8 +139,8 @@
     },
     {
       "name": "Hugging Face Blog",
-      "total": 312,
-      "translated": 312,
+      "total": 313,
+      "translated": 313,
       "lastDate": "Wed, 30 Sep 2026 00:00:00 GMT"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-11-11T02:28:22.612Z"
+  "generatedAt": "2026-11-11T06:03:01.556Z"
 }
