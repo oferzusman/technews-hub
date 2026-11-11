@@ -614777,6 +614777,350 @@
       "priority": "hot",
       "fetchedAt": "2026-11-11T14:56:37.584Z",
       "created_at": "2026-11-11T14:56:37.584Z"
+    },
+    {
+      "id": 28364,
+      "source": "TechCrunch AI",
+      "title_en": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
+      "description_en": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
+      "image_url": null,
+      "pub_date": "Wed, 11 Nov 2026 16:16:07 +0000",
+      "author": "Russell Brandom",
+      "categories": [
+        "AI",
+        "China",
+        "Jensen Huang",
+        "nvidia"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-11T17:27:07.651Z",
+      "created_at": "2026-11-11T17:27:07.651Z"
+    },
+    {
+      "id": 28365,
+      "source": "TechCrunch AI",
+      "title_en": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+      "description_en": "Sales of $10B represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+      "image_url": null,
+      "pub_date": "Wed, 11 Nov 2026 16:14:44 +0000",
+      "author": "Ram Iyer",
+      "categories": [
+        "AI",
+        "Anthropic",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-11T17:27:07.652Z",
+      "created_at": "2026-11-11T17:27:07.652Z"
+    },
+    {
+      "id": 28366,
+      "source": "TechCrunch AI",
+      "title_en": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+      "description_en": "At 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+      "image_url": null,
+      "pub_date": "Wed, 11 Nov 2026 15:00:00 +0000",
+      "author": "Julie Bort",
+      "categories": [
+        "Enterprise",
+        "TC",
+        "AI",
+        "Databricks"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-11T17:27:07.652Z",
+      "created_at": "2026-11-11T17:27:07.652Z"
+    },
+    {
+      "id": 28367,
+      "source": "The Verge AI",
+      "title_en": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+      "description_en": "Tabletop isn’t anything to do with D&D or boardgames, but it does make it easier to coordinate with freinds, | Image: Google\t\n\nGoogle has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities with workplace management apps like Asana and Monday, but with a built-in AI feature that allows you to vibecode personalized interactive tools by describing the",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
+      "image_url": null,
+      "pub_date": "2026-11-11T16:00:00.000Z",
+      "author": "Jess Weatherbed",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-11T17:27:07.668Z",
+      "created_at": "2026-11-11T17:27:07.668Z"
+    },
+    {
+      "id": 28368,
+      "source": "The Verge AI",
+      "title_en": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+      "description_en": "A graphic representing Google’s AlphaGenome Atlas. | Image: Google\t\n\nResearchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could hold important clues to the causes of disease - and point the way to new treatments.\nAlphaGenome 2 is the successor to DeepMind's genome-predicting AI model AlphaGenome, which was released last year. While nearly every ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+      "image_url": null,
+      "pub_date": "2026-11-11T15:00:00.000Z",
+      "author": "Robert Hart",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-11T17:27:07.668Z",
+      "created_at": "2026-11-11T17:27:07.668Z"
+    },
+    {
+      "id": 28369,
+      "source": "The Decoder",
+      "title_en": "Helsing built an AI system that prepares targets for weapons systems and says every decision will carry a human name",
+      "description_en": "Helsing has unveiled Clarity, an AI platform that uses agents to distill sensor data into target recommendations for weapons systems, all under human oversight and European control. But experience from the Iran war, Gaza, and a near-miss involving China shows that the speed of automation and data fusion create risks that are hard to contain.\nThe article Helsing built an AI system that prepares targets for weapons systems and says every decision will carry a human name appeared first on The Decod",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/helsing-built-an-ai-system-that-prepares-targets-for-weapons-systems-and-says-every-decision-will-carry-a-human-name/",
+      "image_url": null,
+      "pub_date": "Wed, 11 Nov 2026 15:12:53 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "AI and warfare",
+        "AI in Europe",
+        "Helsing",
+        "Military",
+        "Palantir"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-11T17:27:09.025Z",
+      "created_at": "2026-11-11T17:27:09.025Z"
+    },
+    {
+      "id": 28370,
+      "source": "MIT Technology Review",
+      "title_en": "What to know about this year’s UN climate talks",
+      "description_en": "It’s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey. COP31 officially kicked off on November 8, marking the beginning of negotiations on one of the biggest stages of the climate world. Turkey and Australia are cohosting this…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
+      "image_url": null,
+      "pub_date": "Wed, 11 Nov 2026 17:00:00 +0000",
+      "author": "Casey Crownhart",
+      "categories": [
+        "Climate change and energy",
+        "App",
+        "Summary",
+        "The Spark"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-11T17:27:09.114Z",
+      "created_at": "2026-11-11T17:27:09.114Z"
+    },
+    {
+      "id": 28371,
+      "source": "Google AI Blog",
+      "title_en": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+      "description_en": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/labs_tabletop_blog_image_2784x1.max-600x600.format-webp.webp",
+      "pub_date": "Wed, 11 Nov 2026 16:00:00 +0000",
+      "author": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Roman Nurik"
+        ],
+        "title": [
+          "Design & Engineering Lead, Google Labs"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "categories": [
+        "Google Labs",
+        "AI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-11T17:27:09.384Z",
+      "created_at": "2026-11-11T17:27:09.384Z"
+    },
+    {
+      "id": 28372,
+      "source": "MarkTechPost",
+      "title_en": "Marktechpost AI Launches GPU Leaderboard and the Deploy It Chrome Extension",
+      "description_en": "Marktechpost Launches GPU Leaderboard and the Deploy It Chrome Extension\nThe post Marktechpost AI Launches GPU Leaderboard and the Deploy It Chrome Extension appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/11/11/marktechpost-gpu-leaderboard-chrome-extension-launch/",
+      "image_url": null,
+      "pub_date": "Wed, 11 Nov 2026 15:51:14 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Comparison",
+        "Editors Pick",
+        "For Devs",
+        "Language Model",
+        "New Releases",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-11T17:27:09.425Z",
+      "created_at": "2026-11-11T17:27:09.425Z"
+    },
+    {
+      "id": 28373,
+      "source": "Interesting Engineering",
+      "title_en": "Prez Trump plans talks with Xi Jinping and Putin on Iran war and nuclear weapons",
+      "description_en": "President Donald Trump said Nov. 8 that he expects to meet Chinese President Xi Jinping...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/us-president-trump-xi-putin-iran",
+      "image_url": null,
+      "pub_date": "Wed, 11 Nov 2026 16:43:06 +0000",
+      "author": "Daniel Kamberski",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-11T17:27:10.885Z",
+      "created_at": "2026-11-11T17:27:10.885Z"
+    },
+    {
+      "id": 28374,
+      "source": "Interesting Engineering",
+      "title_en": "Single coolant drop cools simulated computer chip hotspots by 30.6°F in 15 seconds",
+      "description_en": "University of Waterloo engineers developed a hybrid cooling method that pairs a water bath with...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/science/waterloo-chip-hotspot-cooling",
+      "image_url": null,
+      "pub_date": "Wed, 11 Nov 2026 15:47:22 +0000",
+      "author": "Daniel Kamberski",
+      "categories": [
+        "Science"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-11T17:27:10.885Z",
+      "created_at": "2026-11-11T17:27:10.885Z"
+    },
+    {
+      "id": 28375,
+      "source": "Interesting Engineering",
+      "title_en": "Carbon from the cosmos? US scientists find clues in Hawaiian volcanic rocks",
+      "description_en": "Yale and Columbia researchers say most of Earth’s carbon may have come from the outer...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/science/earth-core-carbon-solar-system",
+      "image_url": null,
+      "pub_date": "Wed, 11 Nov 2026 15:16:16 +0000",
+      "author": "Daniel Kamberski",
+      "categories": [
+        "Science"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-11T17:27:10.885Z",
+      "created_at": "2026-11-11T17:27:10.885Z"
+    },
+    {
+      "id": 28376,
+      "source": "Tom's Hardware",
+      "title_en": "OpenAI and Georgia county leaders hit with Mafia-style RICO racketeering lawsuit over $30 billion AI data center",
+      "description_en": "The plaintiffs alleged that the parties committed fraud and concealment through NDAs and misleading public statements.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/georgia-politicians-openai-slapped-with-racketeering-lawsuit-over-3-2-gigawatt-ai-data-centers-plaintiffs-allege-multiple-violations-were-part-of-a-coordinated-scheme-to-get-project-camellia-approved",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/rqn39aj9hMqYUZdPPwgxYd-1920-80.jpg",
+      "pub_date": "Wed, 11 Nov 2026 16:30:00 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Data Centers",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-11T17:27:11.225Z",
+      "created_at": "2026-11-11T17:27:11.225Z"
+    },
+    {
+      "id": 28377,
+      "source": "Tom's Hardware",
+      "title_en": "SpaceX develops its own ‘Kessel’ rack-scale system featuring 72 Nvidia Rubin GPUs for data centers in space, report claims",
+      "description_en": "SpaceX is reportedly developing a 'Kessel' rack-scale system design with 72 Nvidia Rubin GPUs that relies on a massive 84-layer PCB midplane.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/spacex-develops-its-own-kessel-rack-scale-system-featuring-72-nvidia-rubin-gpus-for-data-centers-in-space-report-claims-replaces-conventional-nvlink-cable-assemblies-with-a-massive-84-layer-printed-circuit-board",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/H9AoDYcDEGHaWVoTNcrLHK-1920-80.png",
+      "pub_date": "Wed, 11 Nov 2026 15:03:08 +0000",
+      "author": " Anton Shilov ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-11T17:27:11.226Z",
+      "created_at": "2026-11-11T17:27:11.226Z"
+    },
+    {
+      "id": 28378,
+      "source": "AI Post (TG)",
+      "title_en": "🥺 ChatGPT is about to lose its original voice. Custom GPTs are going tooAdvanced and Standard voice will vanish from ChatGPT's voice settings in a month. Anyone still using them will be moved to Live",
+      "description_en": "🥺 ChatGPT is about to lose its original voice. Custom GPTs are going tooAdvanced and Standard voice will vanish from ChatGPT's voice settings in a month. Anyone still using them will be moved to Live voice, built on GPT-Live, the model OpenAI launched in July.Since then voice use has nearly doubled, and virtually everyone who talks to ChatGPT already uses GPT-Live, OpenAI says. It listens and speaks at the same time, drops a \"mhmm\" while you talk and stays quiet when you need a moment to think.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8766",
+      "image_url": "https://cdn4.telesco.pe/file/Xu-KZ5uqdGBnd80-md8v0vr6CWbG2wxXLQtgg932OjZl71NaBhCFwyod4Tm7ayIX_u4nA4i6GB28SBWtQwWKjDpArIKEaUtkUgby0Qb71COY9KxhnjY0fQcq-6nRUuIpRkMlpnMzNtQ4tOzAoITtRIDVNlHiyn29HkLcgsBT1AxKm_O07yimvrLbifHsv6NrP-VrfOL2m14e2DDEVTp71ov-AM52y-_NHByopomdxXqmctIJAAMbV5cviMbb8b_Y3uWzta3PR2s1bRHlJpGmI0CQ5iB9mITUj_DvAXmMFf_VrMKK9iJA66KTG0Is4c-WLXt1nz6XZLtJvDXU_ZkdIw.jpg",
+      "pub_date": "2026-11-11T17:12:51+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-11T17:27:14.496Z",
+      "created_at": "2026-11-11T17:27:14.496Z"
+    },
+    {
+      "id": 28379,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 A PLA-linked Chinese university bought Nvidia H200s while sitting on a US blacklistReuters reports that military-linked institutions found ways around the restrictions, apparently through indirect ",
+      "description_en": "🚨 A PLA-linked Chinese university bought Nvidia H200s while sitting on a US blacklistReuters reports that military-linked institutions found ways around the restrictions, apparently through indirect purchases rather than a front door order. A blacklist only works if the sale stops at the first buyer, and the H200 is the chip Washington said it was gatekeeping.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/989",
+      "image_url": null,
+      "pub_date": "2026-11-11T17:26:29+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-11T17:27:14.717Z",
+      "created_at": "2026-11-11T17:27:14.717Z"
     }
   ]
 }
