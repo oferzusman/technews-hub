@@ -615640,6 +615640,37 @@
       "priority": "hot",
       "fetchedAt": "2026-11-11T21:21:06.565Z",
       "created_at": "2026-11-11T21:21:06.565Z"
+    },
+    {
+      "id": 28404,
+      "source": "MarkTechPost",
+      "title_en": "Google Launches Gemini Decisions API With Gemini Decision 1 at $0.10/M Tokens",
+      "description_en": "Google launched the Gemini Decisions API, powered by Gemini Decision 1. It returns calibrated probabilities for up to 1,000 yes/no, choice and rubric questions over text, images, audio, video and PDFs, at $0.10 per 1M input tokens.\nThe post Google Launches Gemini Decisions API With Gemini Decision 1 at $0.10/M Tokens appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/11/11/google-gemini-decisions-api-gemini-decision-1/",
+      "image_url": null,
+      "pub_date": "Wed, 11 Nov 2026 21:21:42 +0000",
+      "author": "Michal Sutter",
+      "categories": [
+        "Agentic AI",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Decision Models",
+        "Editors Pick",
+        "Enterprise AI",
+        "For Devs",
+        "Language Model",
+        "New Releases",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-11T21:46:29.830Z",
+      "created_at": "2026-11-11T21:46:29.830Z"
     }
   ]
 }
