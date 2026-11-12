@@ -616738,6 +616738,430 @@
       "priority": "hot",
       "fetchedAt": "2026-11-12T10:41:02.402Z",
       "created_at": "2026-11-12T10:41:02.402Z"
+    },
+    {
+      "id": 28457,
+      "source": "The Decoder",
+      "title_en": "Google Deepmind shifts genomics AI from bulk tissue predictions to single cell type resolution with AlphaGenome 2",
+      "description_en": "Google Deepmind has unveiled AlphaGenome 2, an AI model that analyzes genetic variants for individual cell types rather than across bulk tissue. Trained on more than 107 million cell profiles, it identifies nearly twice as many disease-relevant gene changes as its predecessor. The model is available for noncommercial research through an API and is set to be integrated into Google's agentic platform Antigravity.\nThe article Google Deepmind shifts genomics AI from bulk tissue predictions to single",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/google-deepmind-shifts-genomics-ai-from-bulk-tissue-predictions-to-single-cell-type-resolution-with-alphagenome-2/",
+      "image_url": null,
+      "pub_date": "Thu, 12 Nov 2026 12:09:43 +0000",
+      "author": "Alan Truly",
+      "categories": [
+        "AI research",
+        "Artificial Intelligence",
+        "AI and biology",
+        "Google Deepmind"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-12T12:39:53.760Z",
+      "created_at": "2026-11-12T12:39:53.760Z"
+    },
+    {
+      "id": 28458,
+      "source": "The Guardian AI",
+      "title_en": "AI helped the UK defy expectations – but will Britain’s resilience fizzle out?",
+      "description_en": "Despite John Healey’s defiance, the economy faces threats from a tech slowdown and energy bills this winter\n\nAI helps UK economy grow at fastest pace for more than two years\n\nThe forecasters were clear when John Healey became chancellor in July: Britain’s resilience to the war in the Middle East would not last. The global economic headwinds were too strong, inflation was beginning to rise and growth would slow to a trickle.\nFour months into the job, the economy is continuing to defy expectations",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/business/2026/nov/12/ai-uk-economy-john-healey",
+      "image_url": "https://i.guim.co.uk/img/media/9f8f14e2a01ec8c9a4d21b8b65ed45042405e31d/820_0_5862_4690/master/5862.jpg?width=140&quality=85&auto=format&fit=max&s=7f6da137da3ee2aac8277aa8d883eebd",
+      "pub_date": "Thu, 12 Nov 2026 12:37:53 GMT",
+      "author": "Richard Partington Senior economics correspondent",
+      "categories": [
+        {
+          "_": "Economic growth (GDP)",
+          "$": {
+            "domain": "https://www.theguardian.com/business/economicgrowth"
+          }
+        },
+        {
+          "_": "Economics",
+          "$": {
+            "domain": "https://www.theguardian.com/business/economics"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        },
+        {
+          "_": "Politics",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/politics"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-12T12:39:54.699Z",
+      "created_at": "2026-11-12T12:39:54.699Z"
+    },
+    {
+      "id": 28459,
+      "source": "The Guardian AI",
+      "title_en": "Billions lost and markets roiled by one man’s indiscretion. Isn’t it now clear that these tech bros are too powerful? | Aditya Chakrabortty",
+      "description_en": "Nvidia CEO Jensen Huang’s affair must be the costliest fling in human history – and a preview of what awaits when the tech bubble bursts\nOne thing we all know about the tech billionaires is they are super-smart. We know this largely because they never stop telling us. The “cognitive elite”, to use their favoured phrase, are entitled to shape our future without our say-so. When Elon Musk goes hiring, he wants “super-high-IQ small-government revolutionaries”. Long before they got private jets, wha",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/12/billions-lost-markets-roiled-one-man-indiscretion-tech-bro-jensen-huang-affair-nvidia",
+      "image_url": "https://i.guim.co.uk/img/media/03c8cb4f126e4ac044519697304d0f093e91e3a6/0_1_5000_3999/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=31a1975ae3c07664152339a25f69b320",
+      "pub_date": "Thu, 12 Nov 2026 11:17:51 GMT",
+      "author": "Aditya Chakrabortty",
+      "categories": [
+        {
+          "_": "Jensen Huang",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/jensen-huang"
+          }
+        },
+        {
+          "_": "Nvidia",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/nvidia"
+          }
+        },
+        {
+          "_": "Elon Musk",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/elon-musk"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Donald Trump",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/donaldtrump"
+          }
+        },
+        {
+          "_": "China",
+          "$": {
+            "domain": "https://www.theguardian.com/world/china"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "Espionage",
+          "$": {
+            "domain": "https://www.theguardian.com/world/espionage"
+          }
+        },
+        {
+          "_": "Asia Pacific",
+          "$": {
+            "domain": "https://www.theguardian.com/world/asia-pacific"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-12T12:39:54.699Z",
+      "created_at": "2026-11-12T12:39:54.699Z"
+    },
+    {
+      "id": 28460,
+      "source": "The Guardian AI",
+      "title_en": "NHS England deletes ‘misleading’ claim 137 trusts benefiting from Palantir AI tools",
+      "description_en": "Exclusive: The Guardian revealed 29 hospital trusts were not or hardly using the controversial patient data tech\nNHS England has deleted a claim from its website stating 137 hospital trusts are benefiting from Palantir’s AI health data system after the Guardian revealed 29 of them were not using all or most of the controversial technology.\nHealth bosses had published a list of all the NHS bodies “live” with and “realising benefits” from the AI-powered federated data platform (FDP), a system set ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/nov/12/nhs-england-deletes-misleading-claim-137-trusts-benefiting-from-palantir-ai-tools",
+      "image_url": "https://i.guim.co.uk/img/media/95c422c3f4ddb97d445e586e9da99aba18c88ab1/373_0_4131_3305/master/4131.jpg?width=140&quality=85&auto=format&fit=max&s=671135c91b04e887ed3f64e0a8b1afd4",
+      "pub_date": "Thu, 12 Nov 2026 11:00:47 GMT",
+      "author": "Robert Booth and Denis Campbell",
+      "categories": [
+        {
+          "_": "Palantir",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/palantir"
+          }
+        },
+        {
+          "_": "NHS",
+          "$": {
+            "domain": "https://www.theguardian.com/society/nhs"
+          }
+        },
+        {
+          "_": "England",
+          "$": {
+            "domain": "https://www.theguardian.com/uk-news/england"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Data protection",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/data-protection"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-12T12:39:54.699Z",
+      "created_at": "2026-11-12T12:39:54.699Z"
+    },
+    {
+      "id": 28461,
+      "source": "Interesting Engineering",
+      "title_en": "MIT scientists design impact-resistant materials inspired by leaves and dragonfly wings",
+      "description_en": "Advancement in various fields hinges on the best quality materials. Now, a new class of...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/innovation/impact-resistant-materials-inspired-by-leaves",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/multiscale-metamaterials.gif",
+      "pub_date": "Thu, 12 Nov 2026 11:10:08 +0000",
+      "author": "Mrigakshi Dixit",
+      "categories": [
+        "Innovation"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-12T12:39:55.406Z",
+      "created_at": "2026-11-12T12:39:55.406Z"
+    },
+    {
+      "id": 28462,
+      "source": "Tom's Hardware",
+      "title_en": "Google reworks TPU silicon into specialized systems for agents and security",
+      "description_en": "Google’s TPU 8i Max and TPU 8tx reuse TPU 8i and TPU 8t silicon to target long-context agents and confidential inference.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-adds-two-new-specialized-chips-for-ai-agents-and-security-to-8th-gen-tpu-lineup-tpu-8i-max-puts-two-chips-on-one-package-for-long-context-work-tpu-8tx-swaps-arm-hosts-for-amd-epyc",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Ut57hXr6UTF3v4LJmkuGSi-1920-80.jpg",
+      "pub_date": "Thu, 12 Nov 2026 11:00:00 +0000",
+      "author": " Shane Downing ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-12T12:39:55.920Z",
+      "created_at": "2026-11-12T12:39:55.920Z"
+    },
+    {
+      "id": 28463,
+      "source": "CNBC Tech",
+      "title_en": "Nerves around Nvidia as investors await the outcome of Board's crisis CEO meeting",
+      "description_en": "Shares in Nvidia are back in the red in premarket trading as Huang's future hangs in the balance",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/12/nvidia-boards-crisis-meeting.html",
+      "image_url": null,
+      "pub_date": "Thu, 12 Nov 2026 11:06:41 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-12T12:39:56.037Z",
+      "created_at": "2026-11-12T12:39:56.037Z"
+    },
+    {
+      "id": 28464,
+      "source": "CNBC Tech",
+      "title_en": "Ukraine warns of fresh Starshield disruptions as U.S. envoys arrive in Moscow for talks with Putin",
+      "description_en": "Starshield is SpaceX's military-grade satellite network designed for government and national security use, building on the technology developed for Starlink.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/12/starlink-starshield-ukraine-restrictions-spacex.html",
+      "image_url": null,
+      "pub_date": "Thu, 12 Nov 2026 11:23:04 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-12T12:39:56.037Z",
+      "created_at": "2026-11-12T12:39:56.037Z"
+    },
+    {
+      "id": 28465,
+      "source": "CNBC Tech",
+      "title_en": "‘A dark day for Nvidia’: Here’s what analysts are saying as markets brace for news on Huang's fate",
+      "description_en": "The company's board convened Wednesday evening after reports emerged of Huang engaging in an affair with an employee.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/12/jensen-huang-nvidia-affair-ceo.html",
+      "image_url": null,
+      "pub_date": "Thu, 12 Nov 2026 11:17:37 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-12T12:39:56.037Z",
+      "created_at": "2026-11-12T12:39:56.037Z"
+    },
+    {
+      "id": 28466,
+      "source": "Backdoor (TG)",
+      "title_en": "Алиса AI дропнула персонального ИИ-агента — появился режим «Действуй!», в котором нейронка самостоятельно работает с сайтами, выполняет многошаговые поручения и даже звонит. Под капотом работу моделей",
+      "description_en": "Алиса AI дропнула персонального ИИ-агента — появился режим «Действуй!», в котором нейронка самостоятельно работает с сайтами, выполняет многошаговые поручения и даже звонит. Под капотом работу моделей, специализированных агентов и инструментов связывает новый собственный харнесс — среда, в которой ассистент выполняет поручение. При этом постоянной привязки к конкретным моделям нет — тестируется сочетание собственных и открытых решений, если это помогает повысить качество и эффективность продукта",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/32887",
+      "image_url": "https://cdn4.telesco.pe/file/enS9bQxQeb4bx0xDj3W4ZCTFO4d8gdNHai1SyqNg-GQtbhx1uYV1oZwxY554QRH8ANRlun6Aj5TlPZIidl1j2dlfaG5eK3lw2QJCwhTPhmTGeXaL-OroiSYQXZWW0eNRVFfheH66UlgLvTVHeuTgO75DxRKYjSTgdRfueECghuy86iVG3EfIet7nKF7LvzN3CM6BArl9oFRxKaSFYo7f_-VQcnlNZhY_YRqZVwvy6h0WJm_KsfXQpLCx5Ggpmlop19S1RA5rfg3dD31e0SsveSfobozYuJtvkGh-eOKClcoA0hR1gtmnbAc4m6_gFV4qiQmXjlrD4C1B2eo4Rwja9w.jpg",
+      "pub_date": "2026-11-12T11:01:00+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-12T12:40:01.573Z",
+      "created_at": "2026-11-12T12:40:01.573Z"
+    },
+    {
+      "id": 28467,
+      "source": "Backdoor (TG)",
+      "title_en": "⚡️ Хуанга готовы нанять в России делать процессоры — заявил зампред ИТ-комитета Госдумы Горелкин. Такой специалист обладает «уникальными знаниями».Конечно, посягать на корпоративные секреты NVIDIA в Р",
+      "description_en": "⚡️ Хуанга готовы нанять в России делать процессоры — заявил зампред ИТ-комитета Госдумы Горелкин. Такой специалист обладает «уникальными знаниями».Конечно, посягать на корпоративные секреты NVIDIA в РФ не будут, уточнил Горелкин, но как управленец и специалист — Хуанг очень хорош. А личные драмы можно оставить за кадром.Приедет поднять демографию.👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/32889",
+      "image_url": "https://cdn4.telesco.pe/file/BOm9hIjYVzb4xQB8A_Diw-mJu8s6U2ISN8RXkv6V3P3VYwpoIljPpdE0472jhhbxEctuAnYsYFyoFL2BlbTlQC14hY4jnBNhcF4M5y3aQ5Iw2NfbLCdMkRffyJkRs-7Q_TGhqF1aFUFkqk0LVOvWbbRTVLfV5iRZxwm2JWRFij1cRtovymB3q-c11L9A1eJKaF3yCqusehVwzvlpn-lR4mEvyBQ7c6zRsEmGW-8Na2Do9Q_2wuEuskzKxtI5ZRlMZgoFCWsp9YcWlbnB8DY4FRqBTsL3k5GM5C2jv1rIfQxzJwJFZuXI0c3g2vF1SFsb6NUa_txotHRrBahX1NxjEQ.jpg",
+      "pub_date": "2026-11-12T12:01:26+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-12T12:40:01.573Z",
+      "created_at": "2026-11-12T12:40:01.573Z"
+    },
+    {
+      "id": 28468,
+      "source": "Wylsacom Red (TG)",
+      "title_en": "По данным Bloomberg, совет директоров NVIDIA запустил процедуру подбора кандидатов на пост временного CEO.",
+      "description_en": "По данным Bloomberg, совет директоров NVIDIA запустил процедуру подбора кандидатов на пост временного CEO.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/Wylsared/37156",
+      "image_url": "https://cdn4.telesco.pe/file/VO_hD0Vc-X8GkdYv0AUuqj7A7KspHP6YMselVkZfWhmAvytL0xCl6HYvy1wDdjWQR-FSqpLqjPXFhmwiBvui2BGFmWOoSrrnGGx4h1h8cAc9ep923-6S18QtCBf_xqyc4R3SE1XZj3u1-acMC9wFl_NiYkWBgCm9gA6zrE1s-C1o_yBUFf96Zb-mJax4kC6grBBDOdV5l5K9rG3RG_lg0MsANpLk1aRMT2BTVl5RLk64nECOPIH8p2gBcUuE5gyscBd3ePDv_IhQMpYQnSG04lEL-5sdMyiS7Waecx3_6G2IDTVqHN8HPbDWRFC9DJTtrbSIBUG4_Pzv-t_ri72xcg.jpg",
+      "pub_date": "2026-11-12T12:10:11+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-12T12:40:01.631Z",
+      "created_at": "2026-11-12T12:40:01.631Z"
+    },
+    {
+      "id": 28469,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "🔍 ИИ-агенты помогли найти неизвестное поселение майяИсследователь Google Пьетро Миотти с помощью ИИ-агентов нашел в мексиканских джунглях возможное затерянное поселение майя.В октябре Миотти путешест",
+      "description_en": "🔍 ИИ-агенты помогли найти неизвестное поселение майяИсследователь Google Пьетро Миотти с помощью ИИ-агентов нашел в мексиканских джунглях возможное затерянное поселение майя.В октябре Миотти путешествовал по Перу и разговаривал с Gemini о Хайраме Бингеме, «открывшем» Мачу-Пикчу в 1911 году. Он спросил ИИ, как бы Бингем искал древние города сегодня. Gemini, ChatGPT, Claude и Grok предложили одно и то же — искать с помощью лидарной съемки, позволяющей восстановить рельеф под лесом.Открытых данных",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3823",
+      "image_url": null,
+      "pub_date": "2026-11-12T12:01:14+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-12T12:40:02.053Z",
+      "created_at": "2026-11-12T12:40:02.053Z"
+    },
+    {
+      "id": 28470,
+      "source": "AI Post (TG)",
+      "title_en": "📢 Grok Bot now joins your team's video calls and picks up work without being askedGrok Bot 1.0 is out, and its bots are now built to work like colleagues. A whole team can share one bot and talk to i",
+      "description_en": "📢 Grok Bot now joins your team's video calls and picks up work without being askedGrok Bot 1.0 is out, and its bots are now built to work like colleagues. A whole team can share one bot and talk to it in Slack, Microsoft Teams or a video call, where it takes part through the chat.It's meant to spot work on its own: a deadline coming up, a task left unfinished, new research that points away from the team's plan. Then it offers to take it on, and brings in a person when a decision needs human jud",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8771",
+      "image_url": null,
+      "pub_date": "2026-11-12T11:45:27+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-12T12:40:02.357Z",
+      "created_at": "2026-11-12T12:40:02.357Z"
+    },
+    {
+      "id": 28471,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🤖 One agent for everyone beats one agent per person, in all four of Anthropic's testsAnthropic's alignment team put frontier models from Anthropic, OpenAI and Alibaba into shared-resource setups. Tho",
+      "description_en": "🤖 One agent for everyone beats one agent per person, in all four of Anthropic's testsAnthropic's alignment team put frontier models from Anthropic, OpenAI and Alibaba into shared-resource setups. Those included a token budget, a group food order and a merge queue. A single coordinator beat peer-to-peer agent teams by roughly 10 to 45 points for both Claude models.On the shared API budget, Opus 5 teams hit just 47% of the coordinator's score, and Sonnet 5 teams hit 38%. Agents stalled as teams g",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/996",
+      "image_url": null,
+      "pub_date": "2026-11-12T10:44:29+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-12T12:40:02.746Z",
+      "created_at": "2026-11-12T12:40:02.746Z"
     }
   ]
 }
