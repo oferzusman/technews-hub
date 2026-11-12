@@ -619817,6 +619817,59 @@
       "priority": "batch",
       "fetchedAt": "2026-11-12T23:41:31.834Z",
       "created_at": "2026-11-12T23:41:31.834Z"
+    },
+    {
+      "id": 28594,
+      "source": "OpenAI Blog",
+      "title_en": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "description_en": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/business/customer-stories/amplitude",
+      "image_url": null,
+      "pub_date": "Thu, 12 Nov 2026 20:00:00 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-12T23:58:20.263Z",
+      "created_at": "2026-11-12T23:58:20.263Z"
+    },
+    {
+      "id": 28595,
+      "source": "Interesting Engineering",
+      "title_en": "930 mph unmanned supersonic aircraft gets advanced systems for military missions",
+      "description_en": "American defense startup Hermeus is joining forces with Northrop Grumman to develop advanced mission capabilities...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/hermeus-northrop-grumman-930-mph-aircraft",
+      "image_url": null,
+      "pub_date": "Thu, 12 Nov 2026 23:48:18 +0000",
+      "author": "Aamir Khollam",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-12T23:58:21.765Z",
+      "created_at": "2026-11-12T23:58:21.765Z"
+    },
+    {
+      "id": 28596,
+      "source": "CNBC Tech",
+      "title_en": "Cramer says Jensen Huang betrayed Nvidia shareholders. How to pick up the pieces",
+      "description_en": "Without Huang, Cramer said Thursday, \"There won't be a better Nvidia, just a different one.\"",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-exit-cramer.html",
+      "image_url": null,
+      "pub_date": "Thu, 12 Nov 2026 23:14:56 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-12T23:58:22.405Z",
+      "created_at": "2026-11-12T23:58:22.405Z"
     }
   ]
 }
