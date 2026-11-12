@@ -616039,6 +616039,127 @@
       "priority": "hot",
       "fetchedAt": "2026-11-12T02:22:11.637Z",
       "created_at": "2026-11-12T02:22:11.637Z"
+    },
+    {
+      "id": 28425,
+      "source": "TechCrunch AI",
+      "title_en": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+      "description_en": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+      "image_url": null,
+      "pub_date": "Thu, 12 Nov 2026 03:13:10 +0000",
+      "author": "Connie Loizos",
+      "categories": [
+        "AI",
+        "TC"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-12T04:12:48.723Z",
+      "created_at": "2026-11-12T04:12:48.723Z"
+    },
+    {
+      "id": 28426,
+      "source": "The Guardian AI",
+      "title_en": "The (alleged) spy who loved me: the Nvidia scandal - podcast",
+      "description_en": "Global technology editor Dan Milmo on the scandal rocking the world of AI: US intelligence believes the lover of Nvidia’s chief executive, Jensen Huang, is a Chinese spy\nNvidia is one of the biggest companies in the world. Its chief executive, Jensen Huang, is worth around $150bn (£112bn). But the AI giant’s stock is sliding – and Huang’s position is under question – after it emerged on Sunday that he had been having an affair with a woman US intelligence services believe is a Chinese spy.\nGloba",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/news/audio/2026/nov/12/the-alleged-spy-who-loved-me-the-nvidia-scandal-podcast",
+      "image_url": "https://i.guim.co.uk/img/media/8dec83e4c4633e80b61e9dc9b5b21a2303829e51/189_0_2059_1648/master/2059.jpg?width=140&quality=85&auto=format&fit=max&s=2d25256cb00eceece3ad9475930e10f3",
+      "pub_date": "Thu, 12 Nov 2026 03:00:07 GMT",
+      "author": "Presented by Helen Pidd with Dan Milmo; produced by Ruth Abrahams, Tom Glasser and Brian McNamara; executive producer Sami Kent",
+      "categories": [
+        {
+          "_": "Nvidia",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/nvidia"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Donald Trump",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/donaldtrump"
+          }
+        },
+        {
+          "_": "China",
+          "$": {
+            "domain": "https://www.theguardian.com/world/china"
+          }
+        },
+        {
+          "_": "Espionage",
+          "$": {
+            "domain": "https://www.theguardian.com/world/espionage"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-12T04:12:50.532Z",
+      "created_at": "2026-11-12T04:12:50.532Z"
+    },
+    {
+      "id": 28427,
+      "source": "Interesting Engineering",
+      "title_en": "Torus uses spare grid connections to bring modular data centers online in 12–16 weeks",
+      "description_en": "Torus has launched a modular computing system designed to bring inference capacity online at existing...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/energy/torus-foundry-modular-compute-500m-funding",
+      "image_url": null,
+      "pub_date": "Thu, 12 Nov 2026 03:00:32 +0000",
+      "author": "Neetika Walter",
+      "categories": [
+        "Energy"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-12T04:12:51.587Z",
+      "created_at": "2026-11-12T04:12:51.587Z"
+    },
+    {
+      "id": 28428,
+      "source": "CNBC Tech",
+      "title_en": "Elon Musk says it would be an 'honor' to hire Nvidia's Jensen Huang",
+      "description_en": "The post on X comes amid reports that Nvidia's board is preparing to oust Huang.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/12/elon-musk-jensen-huang-nvidia-tesla.html",
+      "image_url": null,
+      "pub_date": "Thu, 12 Nov 2026 03:25:05 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-12T04:12:51.836Z",
+      "created_at": "2026-11-12T04:12:51.836Z"
+    },
+    {
+      "id": 28429,
+      "source": "CNBC Tech",
+      "title_en": "What we know so far about Nvidia partner Megaspeed’s Asia footprint",
+      "description_en": "Megaspeed is at the center of a U.S. probe over its role in sending billions of restricted Nvidia chips to China, and its executive's alleged affair with Jensen Huang.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/12/nvidia-megaspeed-alice-huang-jensen-.html",
+      "image_url": null,
+      "pub_date": "Thu, 12 Nov 2026 03:02:03 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-12T04:12:51.836Z",
+      "created_at": "2026-11-12T04:12:51.836Z"
     }
   ]
 }
