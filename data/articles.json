@@ -616603,6 +616603,141 @@
       "priority": "batch",
       "fetchedAt": "2026-11-12T10:03:03.276Z",
       "created_at": "2026-11-12T10:03:03.276Z"
+    },
+    {
+      "id": 28450,
+      "source": "The Decoder",
+      "title_en": "Australia's proposed AI safety bill would force frontier model makers to open up to independent testing",
+      "description_en": "Australia's government, led by Prime Minister Anthony Albanese, wants to enshrine mandatory safety rules for frontier AI companies in law for the first time. A new regulator would enforce independent model audits and impose steep penalties for violations. With this move, Canberra is deliberately prioritizing domestic regulation before entering international talks.\nThe article Australia's proposed AI safety bill would force frontier model makers to open up to independent testing appeared first on",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/australias-proposed-ai-safety-bill-would-force-frontier-model-makers-to-open-up-to-independent-testing/",
+      "image_url": null,
+      "pub_date": "Thu, 12 Nov 2026 10:09:56 +0000",
+      "author": "Manuel Uth",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "Short News",
+        "AI and safety",
+        "Regulation"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-12T10:40:56.844Z",
+      "created_at": "2026-11-12T10:40:56.844Z"
+    },
+    {
+      "id": 28451,
+      "source": "OpenAI Blog",
+      "title_en": "Holiday Extras is rethinking what it can build with Codex",
+      "description_en": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "image_url": null,
+      "pub_date": "Thu, 12 Nov 2026 09:30:00 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-12T10:40:57.073Z",
+      "created_at": "2026-11-12T10:40:57.073Z"
+    },
+    {
+      "id": 28452,
+      "source": "OpenAI Blog",
+      "title_en": "Supporting research on AI and children’s safety",
+      "description_en": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/children-first-declaration",
+      "image_url": null,
+      "pub_date": "Thu, 12 Nov 2026 00:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Global Affairs"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-12T10:40:57.073Z",
+      "created_at": "2026-11-12T10:40:57.073Z"
+    },
+    {
+      "id": 28453,
+      "source": "Interesting Engineering",
+      "title_en": "Fully solar-powered drone with 30-hour endurance makes debut flight in China",
+      "description_en": "China’s first commercial-grade solar-powered drone has completed its maiden flight in the country’s northwest, where...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/transportation/china-flies-commercial-grade-solar-drone",
+      "image_url": null,
+      "pub_date": "Thu, 12 Nov 2026 10:23:47 +0000",
+      "author": "Atharva Gosavi",
+      "categories": [
+        "Transportation"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-12T10:41:00.389Z",
+      "created_at": "2026-11-12T10:41:00.389Z"
+    },
+    {
+      "id": 28454,
+      "source": "Tom's Hardware",
+      "title_en": "Techie uses voltage glitching hack to turn $2,500 Nvidia 8GB cryptomining GPU into a full-fat $20,000 A100 with 80GB of VRAM",
+      "description_en": "A techie turned a $2,500 CMP-170HX 8GB mining card into a full-fat $20,000 A100 80GB by carefully blowing onboard fuses to unlock entire VRAM and shader modules.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/gpus/techie-turns-usd2-500-cmp-170hx-8gb-mining-card-into-a-full-fat-a100-80gb-with-voltage-glitching-carefully-blowing-onboard-fuses-to-unlock-entire-vram-and-shader-modules",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/QaaiweaJKxjDDJTGrtCSU5-1920-80.jpg",
+      "pub_date": "Thu, 12 Nov 2026 10:30:00 +0000",
+      "author": " Bruno Ferreira ",
+      "categories": [
+        "GPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-12T10:41:00.817Z",
+      "created_at": "2026-11-12T10:41:00.817Z"
+    },
+    {
+      "id": 28455,
+      "source": "Tom's Hardware",
+      "title_en": "Struggling marijuana farmers pivot to becoming AI data center sites to escape falling weed revenue",
+      "description_en": "One expert says that it still depends on the perfect confluence of cheap power, favorable regulation, and reliable connectivity.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/cannabis-farmers-consider-joining-ai-bandwagon-due-to-falling-weed-revenue-existing-sites-could-house-mini-data-center-nodes-but-still-face-serious-challenges-during-conversion",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/vWebVo9EKENXbmKRqghcNg-1920-80.png",
+      "pub_date": "Thu, 12 Nov 2026 10:00:00 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Data Centers",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-12T10:41:00.817Z",
+      "created_at": "2026-11-12T10:41:00.817Z"
+    },
+    {
+      "id": 28456,
+      "source": "Backdoor (TG)",
+      "title_en": "⚡️ Тим Кук возглавит NVIDIA — СМИ. Сообщается, что экс-главу Apple рассматривают на замену Хуангу.Площадки с прогнозами оценивают такую вероятность в 91%. За последнюю неделю NVIDIA потеряла 673 млрд ",
+      "description_en": "⚡️ Тим Кук возглавит NVIDIA — СМИ. Сообщается, что экс-главу Apple рассматривают на замену Хуангу.Площадки с прогнозами оценивают такую вероятность в 91%. За последнюю неделю NVIDIA потеряла 673 млрд долларов капитализации, больше 10%.Все девочки-азиатки пустили слезу.👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/32883",
+      "image_url": "https://cdn4.telesco.pe/file/CQEo6vNZzB7vldYvcnjLyKqx7Rhs7LURYAXN-Zzl_cV8mJiXK28zoIjYQSHX0ySh8wWVwwRJFqi2qPJIoYmRtmm-CAvrIjR2YW4HwgNEtQ2-g7Dto_Wqfchw0B1atHnCvOVPpoYIhSINb1hE4MpUVbAmOCHhb3FEgRH-JjgqwufmdghtkBujo4ZbZm62n0jH_Okkj7nu5T_jvq6BrYyYIhuy34LCVkALrIB6ldLduD01rjthW-3wiL_FIjLL8YuDeeqRc2bHZq9MFUrLHjbvyhBq9rnAf_hfj6DbtK5tygA3IGNmY1zeEhhEOleOo2s8Y2JPn3Zx7taSFTVlF7r2cg.jpg",
+      "pub_date": "2026-11-12T10:05:07+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-12T10:41:02.402Z",
+      "created_at": "2026-11-12T10:41:02.402Z"
     }
   ]
 }
