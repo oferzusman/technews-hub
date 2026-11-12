@@ -616160,6 +616160,449 @@
       "priority": "hot",
       "fetchedAt": "2026-11-12T04:12:51.836Z",
       "created_at": "2026-11-12T04:12:51.836Z"
+    },
+    {
+      "id": 28430,
+      "source": "MarkTechPost",
+      "title_en": "IBM Announces IBM Quantum Nighthawk r3: A New Processor to Support 10k Quantum Operations on 520 Programmable Qubits",
+      "description_en": "IBM announced Quantum Nighthawk r3, a 520-qubit processor designed for 10,000 quantum operations. 2 r3 chips will link into a 1,040-qubit system in 2027, while Nighthawk r2 already posts up to 19x speedups over Heron.\nThe post IBM Announces IBM Quantum Nighthawk r3: A New Processor to Support 10k Quantum Operations on 520 Programmable Qubits appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/11/12/ibm-quantum-nighthawk-r3-520-qubits-1040-qubit-system-2027/",
+      "image_url": null,
+      "pub_date": "Thu, 12 Nov 2026 08:42:21 +0000",
+      "author": "Michal Sutter",
+      "categories": [
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Hardware",
+        "New Releases",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-12T10:02:58.594Z",
+      "created_at": "2026-11-12T10:02:58.594Z"
+    },
+    {
+      "id": 28431,
+      "source": "The Guardian AI",
+      "title_en": "Fewer hours and higher wages – or more burnout and surveillance: employers told to prepare for AI",
+      "description_en": "Workplace relations minister Amanda Rishworth launches best practice guide on AI adoption after Qantas and Canva job cuts\n\nGet our daily political email, free app or daily news podcast\n\nEntry-level jobs will be the first to be automated due to AI, but it could mean fewer hours and higher wages for ordinary workers – or make jobs tougher with more burnout and workplace surveillance – the government has warned employers.\nWhile major companies like Qantas and Canva slash their workforces in restruc",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/nov/12/fewer-hours-and-higher-wages-or-more-burnout-and-surveillance-employers-told-to-prepare-for-ai",
+      "image_url": "https://i.guim.co.uk/img/media/88f866d6c520f3ee449d59a96f327fcbd089d492/420_0_4200_3360/master/4200.jpg?width=140&quality=85&auto=format&fit=max&s=12ff34a009b7acaf088f4b450b3e1c93",
+      "pub_date": "Thu, 12 Nov 2026 06:55:44 GMT",
+      "author": "Josh Butler",
+      "categories": [
+        {
+          "_": "Australian politics",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/australian-politics"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Australia news",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/australia-news"
+          }
+        },
+        {
+          "_": "Job losses",
+          "$": {
+            "domain": "https://www.theguardian.com/business/job-losses"
+          }
+        },
+        {
+          "_": "Industrial relations",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/industrial-relations"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-12T10:02:59.136Z",
+      "created_at": "2026-11-12T10:02:59.136Z"
+    },
+    {
+      "id": 28432,
+      "source": "The Guardian AI",
+      "title_en": "Thursday briefing: What we do (and don’t) know about Alice Huang and the Nvidia affair",
+      "description_en": "In today’s newsletter: US intelligence reportedly believes the former tech executive was recruited by Beijing, raising questions about the security of the AI industry and Trump’s close ties to Nvidia chief Jensen Huang\n\nGood morning. Espionage is supposed to be a secretive business, and spies are supposed to be virtually invisible. That hasn’t been the case for Alice Huang, the mysterious Shanghai executive who formed a romantic relationship with Jensen Huang, the founder of Nvidia, one of Ameri",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair",
+      "image_url": "https://i.guim.co.uk/img/media/b76023068afd6989a4d83782e8ad21ac88094570/335_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=ae6e7cc781873a609353d81df20f9e53",
+      "pub_date": "Thu, 12 Nov 2026 06:43:31 GMT",
+      "author": "Hettie O'Brien",
+      "categories": [
+        {
+          "_": "China",
+          "$": {
+            "domain": "https://www.theguardian.com/world/china"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Nvidia",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/nvidia"
+          }
+        },
+        {
+          "_": "Jensen Huang",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/jensen-huang"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Asia Pacific",
+          "$": {
+            "domain": "https://www.theguardian.com/world/asia-pacific"
+          }
+        },
+        {
+          "_": "Donald Trump",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/donaldtrump"
+          }
+        },
+        {
+          "_": "Technology sector",
+          "$": {
+            "domain": "https://www.theguardian.com/business/technology"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-12T10:02:59.136Z",
+      "created_at": "2026-11-12T10:02:59.136Z"
+    },
+    {
+      "id": 28433,
+      "source": "CNBC Tech",
+      "title_en": "Ukrainian defense tech startup hits $6 billion valuation as investors bet on battle-tested drones",
+      "description_en": "UFORCE's NEMESIS drones have completed 300,000 combat flights, and its MAGURA naval vessels have contributed to the destruction of Russian warships.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/12/uforce-defense-tech-drones-warfare-ukraine.html",
+      "image_url": null,
+      "pub_date": "Thu, 12 Nov 2026 09:05:22 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-12T10:03:00.564Z",
+      "created_at": "2026-11-12T10:03:00.564Z"
+    },
+    {
+      "id": 28434,
+      "source": "CNBC Tech",
+      "title_en": "Nvidia stock falls 6% as investors await Jensen Huang’s fate",
+      "description_en": "Nvidia's board met on Wednesday to discuss whether to oust Jensen Huang as CEO.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html",
+      "image_url": null,
+      "pub_date": "Thu, 12 Nov 2026 09:49:21 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-12T10:03:00.564Z",
+      "created_at": "2026-11-12T10:03:00.564Z"
+    },
+    {
+      "id": 28435,
+      "source": "CNBC Tech",
+      "title_en": "AI is coming for consulting’s billable hours — and its graduate pipeline",
+      "description_en": "AI is changing the consulting industry, forcing firms to rethink billable hours and the traditional graduate career ladder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/12/ai-consulting-billable-hours-graduate-hiring.html",
+      "image_url": null,
+      "pub_date": "Thu, 12 Nov 2026 08:20:56 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-12T10:03:00.564Z",
+      "created_at": "2026-11-12T10:03:00.564Z"
+    },
+    {
+      "id": 28436,
+      "source": "CNBC Tech",
+      "title_en": "Jensen Huang's affair with alleged spy revives push to tighten China chip curbs ahead of Trump-Xi summit",
+      "description_en": "The scandal engulfing Jensen Huang is fueling calls for tighter restrictions on China's access to advanced AI chips, just days before the Trump-Xi summit.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/12/nvidia-trump-jensen-chip-export-controls-china-xi-.html",
+      "image_url": null,
+      "pub_date": "Thu, 12 Nov 2026 07:50:34 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-12T10:03:00.564Z",
+      "created_at": "2026-11-12T10:03:00.564Z"
+    },
+    {
+      "id": 28437,
+      "source": "Product Hunt",
+      "title_en": "Insight7 Voice AI Agents",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/insight7",
+      "image_url": null,
+      "pub_date": "2026-11-11T13:19:50.000Z",
+      "author": "Clinton Folaranmi",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-12T10:03:01.675Z",
+      "created_at": "2026-11-12T10:03:01.675Z"
+    },
+    {
+      "id": 28438,
+      "source": "Product Hunt",
+      "title_en": "Adobe AI Assistant",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/adobe-ai-assistant",
+      "image_url": null,
+      "pub_date": "2026-11-10T18:55:39.000Z",
+      "author": "Rohan Chaubey",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-12T10:03:01.675Z",
+      "created_at": "2026-11-12T10:03:01.675Z"
+    },
+    {
+      "id": 28439,
+      "source": "Product Hunt",
+      "title_en": "AirWave",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/airwave-2",
+      "image_url": null,
+      "pub_date": "2026-11-09T12:29:26.000Z",
+      "author": "Jeffrey van Hees",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-12T10:03:01.675Z",
+      "created_at": "2026-11-12T10:03:01.675Z"
+    },
+    {
+      "id": 28440,
+      "source": "Backdoor (TG)",
+      "title_en": "⚡️ Хуангу отрубят член — основателя NVIDIA скоро УВОЛЯТ из собственной компании за бесконечные измены. Он обрушил акции и начал самый большой скандал. Совет директоров начал искать Хуангу замену, пише",
+      "description_en": "⚡️ Хуангу отрубят член — основателя NVIDIA скоро УВОЛЯТ из собственной компании за бесконечные измены. Он обрушил акции и начал самый большой скандал. Совет директоров начал искать Хуангу замену, пишет WSJ. Суровое наказание ждёт изменщика уже сегодня, назначено заседание.Контора шпионок.👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/32875",
+      "image_url": "https://cdn4.telesco.pe/file/XLPnthw2X3H1orgnRVV5U2tMJWN_tRPau6M6ej7_IpuOFKf4dorC4GL4ZTS3Mk8rIBB4_VRIszgjr2lK01VQDOgw50Dy1aMsky_zxDxuzwvBZ1oLo0-Qhw-mArPtVBLu4sz0_faTAfKgX7Y00Wv4hzEmDjkxTRnfrclEb-TG9ggIE1MPtRUp2K4eA7YDMG7QcOMLopb8UMv1_JBI3wAyOS51gT66EUyNkHP4N06k2lLzmHK1hCUqlt8DUfiz5nmjXmdzuvp93LFgxCoRvkCC-FkVwv58INRkgDRa5FcSqJ6g0qTWlrGG1p6AlbFESEuxPpY-X40J6Qq6TOabclVCFg.jpg",
+      "pub_date": "2026-11-12T05:46:55+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-12T10:03:02.317Z",
+      "created_at": "2026-11-12T10:03:02.317Z"
+    },
+    {
+      "id": 28441,
+      "source": "Backdoor (TG)",
+      "title_en": "⚡️ NVIDIA развалил куколд — Хуанга с китайской любовницей познакомил ее МУЖ. Скандал продолжает набирать обороты. Вот что пишет The WSJ.Китайский бизнесмен Кан Вэй, который знаком с Хуангом уже 10 лет",
+      "description_en": "⚡️ NVIDIA развалил куколд — Хуанга с китайской любовницей познакомил ее МУЖ. Скандал продолжает набирать обороты. Вот что пишет The WSJ.Китайский бизнесмен Кан Вэй, который знаком с Хуангом уже 10 лет, лично представил ему супругу Элис Хуанг. Что случилось дальше — мы знаем.Самое интересное, что муж оказался куколдом — он знал о романтической связи и был не против. При этом Элис реально подозревают в работе на китайскую разведку, хоть пока это и не доказано.Санта Барбара отдыхает.👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/32879",
+      "image_url": "https://cdn4.telesco.pe/file/A8zI59SZ1BaAI6QicpRH6b85uk7bZvm43_acUCQNOaEwOcQpTnwcph1_dl9GmM9ZtOE2S9GF69fZqIltvXlwwXzkCrxeN-DtSVkjwkGJPCG44cXt1MrynPSc01flHXbmff_-Xs3ItDqeoEiz2gLN_tCbn151-w0IsJ97TSvsxY9dh-17E0-DYDX0DXs6RRemvkNROd-ZHkY5OKTPKfCSqGzaZQoyU1gbYxvWEryfVfmkXrbCo1CJ82zKNYI0UJBFEBvw3CRtJfkpiDmGDRwx2hRwvcSwFnJ0dU1kgrj5irGcLKEqAIbJKcyg44q0kDFG0oTUUDhU4fUB-iCl6cyWIQ.jpg",
+      "pub_date": "2026-11-12T08:47:21+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-12T10:03:02.318Z",
+      "created_at": "2026-11-12T10:03:02.318Z"
+    },
+    {
+      "id": 28442,
+      "source": "Wylsacom Red (TG)",
+      "title_en": "Интрижка года: совет директоров NVIDIA собирается уволить CEO Дженсена Хуанга теперь уже из-за двух сексуальных скандаловНесколько дней назад главу NVIDIA поймали на романе с главой Сингапурского стар",
+      "description_en": "Интрижка года: совет директоров NVIDIA собирается уволить CEO Дженсена Хуанга теперь уже из-за двух сексуальных скандаловНесколько дней назад главу NVIDIA поймали на романе с главой Сингапурского стартапа Megaseed Элис Хуанг, подозреваемой в шпионаже на правительство Китая.За внебрачные интрижки влиятельных CEO обычно не увольняют, но за первым проколом сразу вылез второй.Газета New York Times сообщила, что Хуанг подкатывал к своим подчинённым и даже завёл роман с вице-президентом NVIDIA по вопр",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/Wylsared/37151",
+      "image_url": "https://cdn4.telesco.pe/file/McT71ILd8ibvNDrySJYFErKtKjUNHeSl7T2r77qv4iBp0vP06DOiWqDRzICXUykovSldKHB4EK7yeYe-k-CN26I7ysTnjEY_9acC3J5ObJByM5Ry6Nrje2MPxBGYrKnOOXN46v2zvX_L35OzE3dTD6uLB-2cGP0BAxHgYYZtpaN0pBlPoTDEF5Mxat2GK2CezgQIs35ItNpuOWLOodTVbLVT6kH_ieGmC0h52kJmZ_HbMoOR7iQK5DfJ5mJZwbxz2yLBEDX1oILJDRUfsmMaaodk0RTlx16rVK2jpeZqhg-NPpw8LjGggeewiMXCO4tUYcVdERs3c4y0BwLkQ5VWDA.jpg",
+      "pub_date": "2026-11-12T07:13:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-12T10:03:02.343Z",
+      "created_at": "2026-11-12T10:03:02.343Z"
+    },
+    {
+      "id": 28443,
+      "source": "XOR Journal (TG)",
+      "title_en": "Хуанг может покинуть пост главы Nvidia из-за любовных интрижек — совет директоров компании готовится уволить создателя главного поставщика чипов для ИИ 😨Как пишет WSJ, причиной стали сразу две внебра",
+      "description_en": "Хуанг может покинуть пост главы Nvidia из-за любовных интрижек — совет директоров компании готовится уволить создателя главного поставщика чипов для ИИ 😨Как пишет WSJ, причиной стали сразу две внебрачные связи Дон Хуанга. Сначала всплыла история с китайской шпионкой, а теперь стало известно о романе с замужней вице-президентом Nvidia Кимберли Пауэлл. По словам сотрудников, парочку даже засняли вместе в отеле во время конференции.Совет директоров собирается решить судьбу неугомонного 63-летнего ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10480",
+      "image_url": "https://cdn4.telesco.pe/file/Mv-QvnrP5xgc4Mm2PMSkXRORhQc2hKd5zEAVqb-BY8nhcS1HBDgk24Qtknn5vfjJcN7RDNxwr5TZEu-qYeWWqrRY_BlgPfL4Kw6LTZ0tYL5JU6mI0zyJ9tYCtp122DcEBViDDW8izSZkoOfiHb0cpmo52FQkzGvk3dnbNT4EMcp6t_fX6or285nfNBrmmm7ETCEKgFfv5qKm3nFHBQiirK-OWiOqv-NsBnx4zKnyQH78Ahm5ejOlLhfXdiSK4xjztx4xC7VPGm2aiEQUD1nZaBugqizL1fKB6usTqHfIYJ5DbXZw7eTesI2D7Uagk4E7CG1n4FDCuWnnwQY23YMDYQ.jpg",
+      "pub_date": "2026-11-12T05:32:09+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-12T10:03:02.434Z",
+      "created_at": "2026-11-12T10:03:02.434Z"
+    },
+    {
+      "id": 28444,
+      "source": "XOR Journal (TG)",
+      "title_en": "Хранить данные можно даже в Minecraft, Discord и обычной PNG-картинке — разработчики придумали кучу безумных альтернатив привычным БД 🧠Но хранить мало: данные нужно уметь находить, обновлять и восста",
+      "description_en": "Хранить данные можно даже в Minecraft, Discord и обычной PNG-картинке — разработчики придумали кучу безумных альтернатив привычным БД 🧠Но хранить мало: данные нужно уметь находить, обновлять и восстанавливать после потери. Например, в Т1 Облако для PostgreSQL можно настроить автоматические резервные копии и восстановить из них базу.Как с этими же задачами справляются необычные хранилища рассказали специалисты ИТ-холдинга Т1 в карточках.А если хотите больше знать о данных и технологиях, то подпи",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10481",
+      "image_url": "https://cdn4.telesco.pe/file/MiJo_ZeF6PyhC9wSOCyNizATDVkP9bEZ8twssEkQi-Myl-9anuZyZ8TRjyQR9dO7j1NppG4b1tvJzDh90LOB62MwWQGZMsm1qT63Tdj6B-Nb33C4y7Pu6jFfu7_jS9tzJE75-PJuxeADko2iMaxr4cnQrNDLgcD7Q084wm72q4i8rvRhEe1PceBOe-l7eTAfYNE4OBCW0sPd-HhP7ARj-xDZTEi1z_BL63Nww0IPqbT3Me4jSdDtnUVHcP2TEVFqd3pDLWy2Xovn2BZ22uzDO5h_KQmTjfIzNI1zFryjMtAs7GhwlLPOnVtNahWhhMc7oa0d-WyuxdZ2vin1Ob7OdQ.jpg",
+      "pub_date": "2026-11-12T07:35:02+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-12T10:03:02.434Z",
+      "created_at": "2026-11-12T10:03:02.434Z"
+    },
+    {
+      "id": 28445,
+      "source": "XOR Journal (TG)",
+      "title_en": "Технологии развивались ради этого 😂@xor_journal",
+      "description_en": "Технологии развивались ради этого 😂@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10487",
+      "image_url": "https://cdn4.telesco.pe/file/G5T9sgxdDpdwWweld9Se2msbVvH0Lh-jxvvKHi6gTrJ-D4ltHKg3rHb3VP2vPQjhynJCVEBJjVvapyuf9qqfw9VsGl_ZTjB4CzBA7UkiygPfJOmyvESM5B89kdUSSHmHP0YT9lquzMMkkTaldh8D2XRXCghME52U9eEUfw41bHpl236EyHUMZZvUa0ZuK8Pn0NOcEzlkcwnY_t7Hg8XONgqRIfGvySQzqURy8vqSiws47J1-QA5FyAMVwzMoVBLm0crvagC9mneVRfcOYUwj2MVvTB_YNAtOlUhQiO_sWwemMp6k55J499W4QeM4Juo5w_Rah5szL-kFS5wvdOR93g.jpg",
+      "pub_date": "2026-11-12T08:17:06+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-12T10:03:02.434Z",
+      "created_at": "2026-11-12T10:03:02.434Z"
+    },
+    {
+      "id": 28446,
+      "source": "Hi, AI English (TG)",
+      "title_en": "🔍 Scientists Tested Whether It Matters If Men Pee Standing or SittingA Colombian urology research group compared 52 men aged 18–39 who urinated standing and sitting. They found no significant differe",
+      "description_en": "🔍 Scientists Tested Whether It Matters If Men Pee Standing or SittingA Colombian urology research group compared 52 men aged 18–39 who urinated standing and sitting. They found no significant difference between the two postures.The debate over the \"right\" way has been going on for a long time. Some argue that sitting is better for prostate issues, since it may help relax the pelvic floor muscles. Others insist standing is more natural. But previous studies produced conflicting results.Participa",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimediaen/2924",
+      "image_url": "https://cdn4.telesco.pe/file/ImhCjzkxaiBXB1E9nM8IWh7D6NwVBzbTX2ICFnzJTHkAjDFm1UgPA74aAosGcnrIYXkxVf4D-DIomojEla3GYX5V_AS2653gy2-pluA5q7X0hhX6BO2MsxZsfcp3D9UsgPgfbHfmkyEx5H6xf00_VdJ9RFZEBuVqA-vOG02F-1nvuCW2BM6eXxhxKbiab_GsxECCOXLoGaUE1feHJzNzosWzJPAKzSNatZBGMeRqMjk5C73wq31aV8pFzcFG1HV7dR5S3s_lKR7WoaK-f6CgfrClR-PicyR_mclAc6AnFReyugyygZbZ8bmBca8qcnGTa9kUtp_b6AIG1TcGACNxMg.jpg",
+      "pub_date": "2026-11-12T08:33:00+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-12T10:03:02.728Z",
+      "created_at": "2026-11-12T10:03:02.728Z"
+    },
+    {
+      "id": 28447,
+      "source": "AI Post (TG)",
+      "title_en": "🤖 A robot ran a chemistry experiment and cleaned up after itself. The video isn't sped upMost robot videos online carry a \"4x\" or \"8x\" label in the corner. Jim Fan, Nvidia's director of robotics, say",
+      "description_en": "🤖 A robot ran a chemistry experiment and cleaned up after itself. The video isn't sped upMost robot videos online carry a \"4x\" or \"8x\" label in the corner. Jim Fan, Nvidia's director of robotics, says this one is autonomous, uncut and at 1x speed.Nvidia's GR00T 2 model controls real dexterous robot hands through a chemistry lab experiment from start to finish, then tidies up.Fan calls it episode 1 of a series of real-time robot videos. \"No one can speed up reality, except Dr. Strange.\"Nvidia re",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8770",
+      "image_url": null,
+      "pub_date": "2026-11-12T04:55:13+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-12T10:03:03.023Z",
+      "created_at": "2026-11-12T10:03:03.023Z"
+    },
+    {
+      "id": 28448,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 240,000 banned Nvidia chips allegedly reached China, mostly H100s and H200sTom's Hardware reports that Alice Huang helped secure over $7.5B in GPU imports during her three-year relationship with Je",
+      "description_en": "🚨 240,000 banned Nvidia chips allegedly reached China, mostly H100s and H200sTom's Hardware reports that Alice Huang helped secure over $7.5B in GPU imports during her three-year relationship with Jensen Huang.That's about $31K per chip on average, so the money was real even if the export rules weren't.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/994",
+      "image_url": null,
+      "pub_date": "2026-11-12T04:42:29+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-12T10:03:03.276Z",
+      "created_at": "2026-11-12T10:03:03.276Z"
+    },
+    {
+      "id": 28449,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 Nvidia quietly stopped reporting Singapore revenue, right as Megaspeed came under scrutinyThe WSJ says the line item vanished from last year's filings, and the timing is awkward.• Nvidia says it ba",
+      "description_en": "🚨 Nvidia quietly stopped reporting Singapore revenue, right as Megaspeed came under scrutinyThe WSJ says the line item vanished from last year's filings, and the timing is awkward.• Nvidia says it banned all sales to Megaspeed in June 2025• Commerce has still allowed parts and replacement components to ship• Singapore is still investigating Megaspeed",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/995",
+      "image_url": null,
+      "pub_date": "2026-11-12T07:43:29+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-12T10:03:03.276Z",
+      "created_at": "2026-11-12T10:03:03.276Z"
     }
   ]
 }
