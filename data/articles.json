@@ -620055,6 +620055,323 @@
       "priority": "hot",
       "fetchedAt": "2026-11-13T06:16:16.858Z",
       "created_at": "2026-11-13T06:16:16.858Z"
+    },
+    {
+      "id": 28607,
+      "source": "The Guardian AI",
+      "title_en": "Nvidia scandal sparks US national security furore and calls to take tough line on China",
+      "description_en": "Former CEO Jensen Huang and US commerce secretary to appear before Congress amid bipartisan concern that America’s security was put at risk\n\n Nvidia scandal – latest updates\n\nAnalysis: Jensen Huang built an AI kingdom. Now he’s gone, will Nvidia’s ramparts be breached?\n\nNvidia’s ousted CEO Jensen Huang and Donald Trump’s commerce secretary are expected to testify before Congress in the coming weeks, as the fallout from Huang’s reported affair with an alleged Chinese spy reverberated across the U",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
+      "image_url": "https://i.guim.co.uk/img/media/0d3df019313f519170bba84980c64edd12ee84bc/377_159_2717_2174/master/2717.jpg?width=140&quality=85&auto=format&fit=max&s=d2cd274ed55597e6e6ca5111c50a3175",
+      "pub_date": "Fri, 13 Nov 2026 06:34:59 GMT",
+      "author": "Jonathan Yerushalmy and agencies",
+      "categories": [
+        {
+          "_": "Nvidia",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/nvidia"
+          }
+        },
+        {
+          "_": "Jensen Huang",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/jensen-huang"
+          }
+        },
+        {
+          "_": "China",
+          "$": {
+            "domain": "https://www.theguardian.com/world/china"
+          }
+        },
+        {
+          "_": "US politics",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-politics"
+          }
+        },
+        {
+          "_": "Asia Pacific",
+          "$": {
+            "domain": "https://www.theguardian.com/world/asia-pacific"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-13T08:14:44.783Z",
+      "created_at": "2026-11-13T08:14:44.783Z"
+    },
+    {
+      "id": 28608,
+      "source": "Interesting Engineering",
+      "title_en": "150,000 frames per second in 3D: Record-setting imager for fast, one-shot events",
+      "description_en": "A new imaging technique can record the 3D shape of a moving object at up...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/science/c-blip-ultrafast-3d-imaging-150000-frames-per-second",
+      "image_url": null,
+      "pub_date": "Fri, 13 Nov 2026 07:54:33 +0000",
+      "author": "Munis Raza",
+      "categories": [
+        "Science"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-13T08:14:45.341Z",
+      "created_at": "2026-11-13T08:14:45.341Z"
+    },
+    {
+      "id": 28609,
+      "source": "CNBC Tech",
+      "title_en": "Nvidia without Jensen Huang. What lies ahead for Asian chipmakers?",
+      "description_en": "Nvidia's leadership shake-up raises questions for Asian chipmakers, though analysts expect limited near-term disruption.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/13/nvidia-without-jensen-huang-what-lies-ahead-for-asian-chipmakers-.html",
+      "image_url": null,
+      "pub_date": "Fri, 13 Nov 2026 07:29:15 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-13T08:14:46.322Z",
+      "created_at": "2026-11-13T08:14:46.322Z"
+    },
+    {
+      "id": 28610,
+      "source": "CNBC Tech",
+      "title_en": "Why Singapore keeps turning up in the fight over Nvidia chips and China",
+      "description_en": "Singapore said it had barred Alice Huang from re-entering the country and that U.S. authorities had provided limited help with its yearlong investigations.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-alice-spy-megaspeed-.html",
+      "image_url": null,
+      "pub_date": "Fri, 13 Nov 2026 07:15:01 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-13T08:14:46.322Z",
+      "created_at": "2026-11-13T08:14:46.322Z"
+    },
+    {
+      "id": 28611,
+      "source": "CNBC Tech",
+      "title_en": "Nvidia on track for longest weekly losing streak since 2012 as market value sinks by $1.6 trillion",
+      "description_en": "Jensen Huang's resignation added to Nvidia's market woes, with the stock already in a downward slide since early October.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html",
+      "image_url": null,
+      "pub_date": "Fri, 13 Nov 2026 05:51:34 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-13T08:14:46.322Z",
+      "created_at": "2026-11-13T08:14:46.322Z"
+    },
+    {
+      "id": 28612,
+      "source": "Product Hunt",
+      "title_en": "Trainn MCP",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/trainn",
+      "image_url": null,
+      "pub_date": "2026-11-12T05:01:59.000Z",
+      "author": "Kevin William David",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-13T08:14:47.317Z",
+      "created_at": "2026-11-13T08:14:47.317Z"
+    },
+    {
+      "id": 28613,
+      "source": "Product Hunt",
+      "title_en": "Templify AI",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/templify",
+      "image_url": null,
+      "pub_date": "2026-10-26T11:56:03.000Z",
+      "author": "Rohan Chaubey",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-13T08:14:47.317Z",
+      "created_at": "2026-11-13T08:14:47.317Z"
+    },
+    {
+      "id": 28614,
+      "source": "Product Hunt",
+      "title_en": "Kairos",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/kairos-18",
+      "image_url": null,
+      "pub_date": "2026-11-07T16:38:24.000Z",
+      "author": "Louis Moon",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-13T08:14:47.317Z",
+      "created_at": "2026-11-13T08:14:47.317Z"
+    },
+    {
+      "id": 28615,
+      "source": "Product Hunt",
+      "title_en": "Aven App Agent",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/aven-app-agent",
+      "image_url": null,
+      "pub_date": "2026-11-11T22:12:11.000Z",
+      "author": "Himanshu Kumar Pathak",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-13T08:14:47.317Z",
+      "created_at": "2026-11-13T08:14:47.317Z"
+    },
+    {
+      "id": 28616,
+      "source": "Wylsacom Red (TG)",
+      "title_en": "Сервисы Microsoft легли по всему мируНаибольшие трудности возникли с Microsoft 365, Teams, Store, Copilot и Outlook.",
+      "description_en": "Сервисы Microsoft легли по всему мируНаибольшие трудности возникли с Microsoft 365, Teams, Store, Copilot и Outlook.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/Wylsared/37174",
+      "image_url": "https://cdn4.telesco.pe/file/LeOQabPSz4w3HYK26d_b_phTsjwby156LqV20p0AWXZK08yslDRQii3A_U6rMhmlX6EpMgib0KiORxpK9pqhXQt_-JLc7EeIWXHeKcHe8ju92JH-31YGGkl5-1M376URx3NgI4kI7kbKMFcNAWKEO1wnwQoPGZ_Qb185k5qYRhI51mo-mcUJg9dZMI9nQ6mrDQ4lTeExeUCKjrI0reVKE6uwwz_3N4IRsaSWNOTnHcZ1Kh00mtfuxfoZ2d2dUFMxww62DiLIObuq9d3cMYq6qEB5EKF_CZI-4lV-hpDf8qeNKhEy_mqESmEnUIIHWXB8JqQnccjUT0zKcjDKEzp-hw.jpg",
+      "pub_date": "2026-11-13T07:31:53+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-13T08:14:47.989Z",
+      "created_at": "2026-11-13T08:14:47.989Z"
+    },
+    {
+      "id": 28617,
+      "source": "XOR Journal (TG)",
+      "title_en": "В ранней компьютерной сети, где работали университеты и исследовательские центры, появилась реклама компьютеров. Получатели начали жаловаться, а администрация объявила такую рассылку недопустимой. Так",
+      "description_en": "В ранней компьютерной сети, где работали университеты и исследовательские центры, появилась реклама компьютеров. Получатели начали жаловаться, а администрация объявила такую рассылку недопустимой. Так в 1978 году встретили первый спам.Подписывайтесь 👉 @techno_yandex",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10499",
+      "image_url": null,
+      "pub_date": "2026-11-13T07:35:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-13T08:14:48.005Z",
+      "created_at": "2026-11-13T08:14:48.005Z"
+    },
+    {
+      "id": 28618,
+      "source": "XOR Journal (TG)",
+      "title_en": "«Я кусок д*рьма» — Дженсен Хуанг сломался на фоне разборок и увольнения из Nvidia 🥲Bloomberg рассказал, как прошли последние часы миллиардера на посту главы компании, и это было тяжело. Обычно энерги",
+      "description_en": "«Я кусок д*рьма» — Дженсен Хуанг сломался на фоне разборок и увольнения из Nvidia 🥲Bloomberg рассказал, как прошли последние часы миллиардера на посту главы компании, и это было тяжело. Обычно энергичный и властный Хуанг, у которого под прямым руководством 60 человек, выглядел опустошённым, отвечал на всё «мне всё равно» и «как угодно». Позже в разговорах со знакомыми он начал даже называть себя «куском дерьма».Тем временем сотрудники Nvidia и инвесторы возмущаются и требуют вернуть своего люби",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10500",
+      "image_url": "https://cdn4.telesco.pe/file/IETHA8V1-vK0SvoClh15lq8-Hp8pY2WwIsb4tJ_3so5GVgZImUMBYqZRtxT1nMCKm16Rp1J1i5yn_AkGSyaF0bXmx_izPXxKzYKR5N-g0uIJE-f1R6mrbc42uJCwKZqpVLJFiGtX8sw3KH1co4ZfsdznDI9Gw0wARCnULt1C6yKG_3LWQ5VvIRNdhLj46Bzd5oDgR2L35ICp7yLZoeXJTsK6vT6KRXv6c6kxolRpSd8lteR3gbxB18AqTd5fNuN_FgHyxUNP8hMYEFH7YS-fUULBlop3EagD3neRW_7k8wkPDW9nccEC9bjXMJm8nWniGBmt4eaidWRgMiqfFiGOtQ.jpg",
+      "pub_date": "2026-11-13T08:07:02+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-13T08:14:48.005Z",
+      "created_at": "2026-11-13T08:14:48.005Z"
+    },
+    {
+      "id": 28619,
+      "source": "Hi, AI English (TG)",
+      "title_en": "🔍 Amazon Unveils a Home Security DroneAmazon-owned Ring has unveiled the Ring Drone Cam, a flying security camera that autonomously flies from room to room, checks on what's happening inside the home",
+      "description_en": "🔍 Amazon Unveils a Home Security DroneAmazon-owned Ring has unveiled the Ring Drone Cam, a flying security camera that autonomously flies from room to room, checks on what's happening inside the home, and sends video footage to its owner if it spots anything suspicious.💻 The drone connects to the home security system. If, for example, a sensor on the back door is triggered, the device will fly over to investigate. Users can also set custom patrol routes and schedules to keep an eye on their ap",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimediaen/2927",
+      "image_url": null,
+      "pub_date": "2026-11-13T08:12:30+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-13T08:14:48.272Z",
+      "created_at": "2026-11-13T08:14:48.272Z"
+    },
+    {
+      "id": 28620,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "🔍 Домашнего дрона-охранника представил AmazonКомпания Ring, принадлежащая Amazon, представила летающую камеру Ring Drone Cam. Она самостоятельно облетает комнаты, проверяет обстановку в доме и отправ",
+      "description_en": "🔍 Домашнего дрона-охранника представил AmazonКомпания Ring, принадлежащая Amazon, представила летающую камеру Ring Drone Cam. Она самостоятельно облетает комнаты, проверяет обстановку в доме и отправляет владельцу видео, если замечает что-то подозрительное.💻 Дрон подключается к домашней системе безопасности. Если, например, сработает датчик на задней двери, устройство полетит проверять, что произошло. Также ему можно задать маршрут и расписание патрулирования, чтобы следить за квартирой во вре",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3825",
+      "image_url": null,
+      "pub_date": "2026-11-13T06:21:33+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-13T08:14:48.300Z",
+      "created_at": "2026-11-13T08:14:48.300Z"
+    },
+    {
+      "id": 28621,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 Jensen Huang is expected to testify before Congress, and Lutnick is going firstSenate Banking chair Tim Scott wants both of them on the record about Nvidia and the Commerce Department's role. Lutni",
+      "description_en": "🚨 Jensen Huang is expected to testify before Congress, and Lutnick is going firstSenate Banking chair Tim Scott wants both of them on the record about Nvidia and the Commerce Department's role. Lutnick has agreed to appear voluntarily. Meanwhile Republicans want new chip export limits attached to the must-pass defense bill, and Malaysia is probing a Megaspeed subsidiary over possible chip diversion.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/1006",
+      "image_url": null,
+      "pub_date": "2026-11-13T06:24:29+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-13T08:14:48.779Z",
+      "created_at": "2026-11-13T08:14:48.779Z"
+    },
+    {
+      "id": 28622,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 TSMC just put a security incident on the SEC recordThe foundry behind most of the world's AI accelerators filed a statement on the incident. The title is all that's public so far. Nothing on scope,",
+      "description_en": "🚨 TSMC just put a security incident on the SEC recordThe foundry behind most of the world's AI accelerators filed a statement on the incident. The title is all that's public so far. Nothing on scope, what was touched, or whether wafer output is affected.If the intruders got near process data or customer designs, Nvidia, AMD and Apple all have a problem.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/1007",
+      "image_url": null,
+      "pub_date": "2026-11-13T07:55:47+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-13T08:14:48.779Z",
+      "created_at": "2026-11-13T08:14:48.779Z"
     }
   ]
 }
