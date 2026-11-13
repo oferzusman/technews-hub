@@ -621640,6 +621640,659 @@
       "priority": "hot",
       "fetchedAt": "2026-11-13T16:23:48.582Z",
       "created_at": "2026-11-13T16:23:48.582Z"
+    },
+    {
+      "id": 28687,
+      "source": "TechCrunch AI",
+      "title_en": "Export-banned Nvidia chips are behind China’s most powerful AI models—uh oh, Jensen!",
+      "description_en": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "image_url": null,
+      "pub_date": "Fri, 13 Nov 2026 18:40:30 +0000",
+      "author": "Tim Fernholz",
+      "categories": [
+        "AI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-13T18:43:43.200Z",
+      "created_at": "2026-11-13T18:43:43.200Z"
+    },
+    {
+      "id": 28688,
+      "source": "Ars Technica",
+      "title_en": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+      "description_en": "Researcher traces a path from AI reward hacking to potential human extinction.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-destination-1152x648.jpg",
+      "pub_date": "Fri, 13 Nov 2026 17:25:45 +0000",
+      "author": "\n                    Kyle Orland\n                ",
+      "categories": [
+        "AI",
+        "Doom",
+        "openai",
+        "sci-fi",
+        "takeover"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-13T18:43:43.288Z",
+      "created_at": "2026-11-13T18:43:43.288Z"
+    },
+    {
+      "id": 28689,
+      "source": "Ars Technica",
+      "title_en": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
+      "description_en": "\"SignDrop\" exploit lets local users gain all-powerful System rights.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1237693734-1152x648-1783631068.jpg",
+      "pub_date": "Fri, 13 Nov 2026 16:26:32 +0000",
+      "author": "\n                    Dan Goodin\n                ",
+      "categories": [
+        "Biz & IT",
+        "Security",
+        "exploits",
+        "microsoft",
+        "vulnerabilities",
+        "Windows",
+        "zerodays"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-13T18:43:43.288Z",
+      "created_at": "2026-11-13T18:43:43.288Z"
+    },
+    {
+      "id": 28690,
+      "source": "The Decoder",
+      "title_en": "Banks bar Chinese and Hong Kong investors from Anthropic IPO over US export controls",
+      "description_en": "Chinese investors are shut out of Anthropic's IPO, Bloomberg reports. Banks are rejecting buy orders from mainland China and Hong Kong, citing U.S. export control rules known as ITAR. Similar restrictions applied during SpaceX's IPO, and Anthropic's products aren't available in either region anyway.\nThe article Banks bar Chinese and Hong Kong investors from Anthropic IPO over US export controls appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/banks-bar-chinese-and-hong-kong-investors-from-anthropic-ipo-over-us-export-controls/",
+      "image_url": null,
+      "pub_date": "Fri, 13 Nov 2026 18:01:53 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Anthropic",
+        "Claude"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-13T18:43:44.474Z",
+      "created_at": "2026-11-13T18:43:44.474Z"
+    },
+    {
+      "id": 28691,
+      "source": "The Decoder",
+      "title_en": "Anthropic's Claude for Manufacturing plugs AI directly into factory software to automate industrial workflows",
+      "description_en": "Anthropic's new Claude for Manufacturing plugin connects the AI directly to Autodesk Fusion, Oracle NetSuite, and Infor. Its 17 specialized skills let the AI draft quotes, compare suppliers, and place backup orders when deliveries are delayed, all after human approval. The plugin doesn't control physical machines yet, but Anthropic is separately developing the Model Hardware Standard for that.\nThe article Anthropic's Claude for Manufacturing plugs AI directly into factory software to automate in",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/anthropics-claude-for-manufacturing-plugs-ai-directly-into-factory-software-to-automate-industrial-workflows/",
+      "image_url": null,
+      "pub_date": "Fri, 13 Nov 2026 16:37:01 +0000",
+      "author": "Manuel Uth",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "AI at work",
+        "Anthropic",
+        "Claude"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-13T18:43:44.475Z",
+      "created_at": "2026-11-13T18:43:44.475Z"
+    },
+    {
+      "id": 28692,
+      "source": "MarkTechPost",
+      "title_en": "Best AI Video Generation Models in 2026: Elo, Price per Second, Open Weights",
+      "description_en": "The AI video leaderboard looks very different from 12 months ago. Native audio is now table stakes. Clips run 15–30 seconds. And an open-weights model sits in the top 3. This ranking (as of Nov 13, 2026) uses one quality signal: blind human-preference Elo from the Artificial Analysis Video Arena. We pair it with API […]\nThe post Best AI Video Generation Models in 2026: Elo, Price per Second, Open Weights appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/11/13/best-ai-video-generation-models-2026/",
+      "image_url": null,
+      "pub_date": "Fri, 13 Nov 2026 17:23:51 +0000",
+      "author": "Michal Sutter",
+      "categories": [
+        "Agentic AI",
+        "Applications",
+        "Artificial Intelligence",
+        "Comparison",
+        "Editors Pick",
+        "Generative AI",
+        "Language Model",
+        "Large Language Model",
+        "Staff",
+        "Technology",
+        "Top"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-13T18:43:44.667Z",
+      "created_at": "2026-11-13T18:43:44.667Z"
+    },
+    {
+      "id": 28693,
+      "source": "Hugging Face Blog",
+      "title_en": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "image_url": null,
+      "pub_date": "Fri, 13 Nov 2026 18:00:39 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-13T18:43:44.737Z",
+      "created_at": "2026-11-13T18:43:44.737Z"
+    },
+    {
+      "id": 28694,
+      "source": "Hugging Face Blog",
+      "title_en": "XYBench: Helping with the problem behind the question",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://huggingface.co/blog/allenai/xybench",
+      "image_url": null,
+      "pub_date": "Fri, 13 Nov 2026 17:02:35 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-13T18:43:44.737Z",
+      "created_at": "2026-11-13T18:43:44.737Z"
+    },
+    {
+      "id": 28695,
+      "source": "New Atlas",
+      "title_en": "Review: The world's first Full HD tri-fold portable projector",
+      "description_en": "Though Aurzen has been in the projected home entertainment game for a wee while now, I think it's fair to say that the brand didn't really become a global sensation (as such) until last year's launch of the Zip. This (still available) little marvel completely reworked the portable pico projector formula, shaping up as a double-hinge, three-part-folding magic box with built-in power and onboard sound.\nContinue Reading\nCategory: Home Entertainment, Consumer Tech, Technology\nTags: Pico projector, H",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/home-entertainment/review-aurzen-zip-pro-full-hd-tri-fold-projector/",
+      "image_url": null,
+      "pub_date": "Fri, 13 Nov 2026 16:33:29 GMT",
+      "author": "Paul Ridden",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-13T18:43:45.226Z",
+      "created_at": "2026-11-13T18:43:45.226Z"
+    },
+    {
+      "id": 28696,
+      "source": "The Guardian AI",
+      "title_en": "How it feels to battle with a flood of AI-generated complaints | Letters",
+      "description_en": "An investigator writes that a human-written grievance at least gets to the heart of the issue immediately. Plus letters from Dexter Jandoo and Pete Bibby\nRe your article (‘AI clog’: UK public bodies battle onslaught of chatbot-generated complaints, 8 November), I’m a complaint investigator for a housing association. I’ve worked here for nine years, and the scope of my job has completely changed within a few months. I am well-versed in policy and legislation, and I love my job, but it can be unbe",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/nov/13/how-it-feels-to-battle-with-a-flood-of-ai-generated-complaints",
+      "image_url": "https://i.guim.co.uk/img/media/b492cc78910d604e67e0013a83af3f4da1ff5723/432_0_5029_4024/master/5029.jpg?width=140&quality=85&auto=format&fit=max&s=c4d17011787bbe2735537df992aa1e6c",
+      "pub_date": "Fri, 13 Nov 2026 17:53:05 GMT",
+      "author": "Guardian Staff",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Chatbots",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/chatbots"
+          }
+        },
+        {
+          "_": "Local government",
+          "$": {
+            "domain": "https://www.theguardian.com/society/localgovernment"
+          }
+        },
+        {
+          "_": "Society",
+          "$": {
+            "domain": "https://www.theguardian.com/society/society"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-13T18:43:45.358Z",
+      "created_at": "2026-11-13T18:43:45.358Z"
+    },
+    {
+      "id": 28697,
+      "source": "The Guardian AI",
+      "title_en": "The Guardian view on M John Harrison’s Booker win: a new frontier for science fiction | Editorial",
+      "description_en": "The End of Everything is a novel for our age of permacrisis. Genre boundaries belong to the past\n“Science fiction will never be Literature with a capital ‘L,’” began a New York Times review of Margaret Atwood’s novel Oryx and Crake back in 2003. Now, the seemingly impossible has happened – M John Harrison’s The End of Everything is the first science fiction novel to win the Booker prize.\nFans have hailed this as a victory for a long-marginalised genre. The author himself was not so sure. “Writin",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/13/the-guardian-view-on-m-john-harrisons-booker-win-a-new-frontier-for-science-fiction",
+      "image_url": "https://i.guim.co.uk/img/media/1ebe3b8e8d45e3f33e2d410da4fddc5189f8aa2c/628_0_6160_4928/master/6160.jpg?width=140&quality=85&auto=format&fit=max&s=f9d9ba8d5253363da13bf79b594cad26",
+      "pub_date": "Fri, 13 Nov 2026 18:00:56 GMT",
+      "author": "Editorial",
+      "categories": [
+        {
+          "_": "Booker prize",
+          "$": {
+            "domain": "https://www.theguardian.com/books/booker-prize"
+          }
+        },
+        {
+          "_": "Books",
+          "$": {
+            "domain": "https://www.theguardian.com/books/books"
+          }
+        },
+        {
+          "_": "Science fiction books",
+          "$": {
+            "domain": "https://www.theguardian.com/books/science-fiction"
+          }
+        },
+        {
+          "_": "Awards and prizes",
+          "$": {
+            "domain": "https://www.theguardian.com/culture/awards-and-prizes"
+          }
+        },
+        {
+          "_": "Culture",
+          "$": {
+            "domain": "https://www.theguardian.com/culture/culture"
+          }
+        },
+        {
+          "_": "Fiction",
+          "$": {
+            "domain": "https://www.theguardian.com/books/fiction"
+          }
+        },
+        {
+          "_": "Margaret Atwood",
+          "$": {
+            "domain": "https://www.theguardian.com/books/margaretatwood"
+          }
+        },
+        {
+          "_": "Cop31",
+          "$": {
+            "domain": "https://www.theguardian.com/environment/cop31"
+          }
+        },
+        {
+          "_": "Environment",
+          "$": {
+            "domain": "https://www.theguardian.com/environment/environment"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Cybercrime",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/cybercrime"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-13T18:43:45.358Z",
+      "created_at": "2026-11-13T18:43:45.358Z"
+    },
+    {
+      "id": 28698,
+      "source": "The Guardian AI",
+      "title_en": "If Gen Z are asked to go to war, it might not be in the way they expect | Brief letters",
+      "description_en": "Fighting for your country | Starbucks | Sparta | Itching powder\nJason Okundaye addresses the issue of whether Britain’s youth would be willing to lay down their lives in defence of our country (Gen Z doesn‘t relish going to war – so what! You should worry more about the reckless generations that do, 10 November). A more likely scenario is that they will be asked to fight and die for the sake of a Nato ally on Russia’s border, such as Poland or Lithuania.\r\n \n\r\n Matthew J Smith\r\n \n\r\n New Malden, L",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/world/2026/nov/13/if-gen-z-are-asked-to-go-to-war-it-might-not-be-in-the-way-they-expect",
+      "image_url": "https://i.guim.co.uk/img/media/5302f817c9ffca31369c0ca5793631f39f9b326b/541_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=81fd26d9cdb68c9dd40cf657c5918d98",
+      "pub_date": "Fri, 13 Nov 2026 17:52:28 GMT",
+      "author": "Guardian Staff",
+      "categories": [
+        {
+          "_": "Nato",
+          "$": {
+            "domain": "https://www.theguardian.com/world/nato"
+          }
+        },
+        {
+          "_": "Starbucks",
+          "$": {
+            "domain": "https://www.theguardian.com/business/starbucks"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "History",
+          "$": {
+            "domain": "https://www.theguardian.com/education/historyandhistoryofart"
+          }
+        },
+        {
+          "_": "Older people",
+          "$": {
+            "domain": "https://www.theguardian.com/society/older-people"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-13T18:43:45.358Z",
+      "created_at": "2026-11-13T18:43:45.358Z"
+    },
+    {
+      "id": 28699,
+      "source": "The Guardian AI",
+      "title_en": "Why the Nvidia scandal is far from over – The Latest",
+      "description_en": "Jensen Huang’s resignation from the AI chipmaker Nvidia has sent shockwaves through the global economy. Huang resigned after reported affairs with an Nvidia executive and a woman alleged to be a Chinese spy. The fallout is not over yet, with criticism mounting over the apparent lack of action from the US commerce secretary, Howard Lutnick. Lucy Hough speaks to the Guardian’s global technology reporter, Aisha Down – watch on YouTube\n Continue reading...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/news/audio/2026/nov/13/why-the-nvidia-scandal-is-far-from-over-the-latest",
+      "image_url": "https://i.guim.co.uk/img/media/75bf5eb8de343b0ea6f988499ae792221dcaae08/383_0_6160_4927/master/6160.jpg?width=140&quality=85&auto=format&fit=max&s=2e8f8f83cadea33977f74611c82178f3",
+      "pub_date": "Fri, 13 Nov 2026 17:43:20 GMT",
+      "author": "Presented by Lucy Houghwith Aisha Down; produced by Hana Williams; senior producer Leonore Schick; executive producer Zoe Hitch",
+      "categories": [
+        {
+          "_": "Nvidia",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/nvidia"
+          }
+        },
+        {
+          "_": "Jensen Huang",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/jensen-huang"
+          }
+        },
+        {
+          "_": "China",
+          "$": {
+            "domain": "https://www.theguardian.com/world/china"
+          }
+        },
+        {
+          "_": "US politics",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-politics"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Trump administration",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/trump-administration"
+          }
+        },
+        {
+          "_": "Asia Pacific",
+          "$": {
+            "domain": "https://www.theguardian.com/world/asia-pacific"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-13T18:43:45.358Z",
+      "created_at": "2026-11-13T18:43:45.358Z"
+    },
+    {
+      "id": 28700,
+      "source": "The Guardian AI",
+      "title_en": "‘Ahead of his time’: AI helps unlock discoveries hidden in notebooks of man who transformed maths",
+      "description_en": "Kurt Gödel left 1,009 pages of densely written text – much of it in an obsolete shorthand – which is now said to contain hundreds of proved theorems\nThe Austrian logician Kurt Gödel was one of the most original thinkers of the 20th century. His two incompleteness theorems, published in 1931, transformed mathematics and paved the way for the digital age.\nAfter his seminal results of the 1930s, Gödel published only a few papers. His unpublished work, however, runs to tens of thousands of pages, an",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+      "image_url": "https://i.guim.co.uk/img/media/6eeccf216579fe2181ae737d30f31abd7590125c/210_58_1759_1407/master/1759.jpg?width=140&quality=85&auto=format&fit=max&s=e95b645a4c0a5af395dfec056a8ec751",
+      "pub_date": "Fri, 13 Nov 2026 16:38:27 GMT",
+      "author": "Alex Bellos",
+      "categories": [
+        {
+          "_": "Mathematics",
+          "$": {
+            "domain": "https://www.theguardian.com/science/mathematics"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Finland",
+          "$": {
+            "domain": "https://www.theguardian.com/world/finland"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        },
+        {
+          "_": "Science",
+          "$": {
+            "domain": "https://www.theguardian.com/science/science"
+          }
+        },
+        {
+          "_": "Europe",
+          "$": {
+            "domain": "https://www.theguardian.com/world/europe-news"
+          }
+        },
+        {
+          "_": "Austria",
+          "$": {
+            "domain": "https://www.theguardian.com/world/austria"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-13T18:43:45.358Z",
+      "created_at": "2026-11-13T18:43:45.358Z"
+    },
+    {
+      "id": 28701,
+      "source": "Interesting Engineering",
+      "title_en": "China mobilizes 40 aircraft, military drones fly above 26,000 feet in wildfire drill",
+      "description_en": "In a high-altitude emergency preparedness drill, Chinese rescue and military aviation units mobilized advanced platforms...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/china-military-drones-forest-fire-drill",
+      "image_url": null,
+      "pub_date": "Fri, 13 Nov 2026 18:22:00 +0000",
+      "author": "Raghav Kalra",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-13T18:43:46.253Z",
+      "created_at": "2026-11-13T18:43:46.253Z"
+    },
+    {
+      "id": 28702,
+      "source": "Interesting Engineering",
+      "title_en": "US startup turns to cloning and gene editing to develop better military dogs",
+      "description_en": "Warhound, an American defense startup, plans to combine cloning, genetic research and early training to...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/warhound-clonning-training-military-dogs",
+      "image_url": null,
+      "pub_date": "Fri, 13 Nov 2026 18:21:12 +0000",
+      "author": "Kaushal Kishore",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-13T18:43:46.253Z",
+      "created_at": "2026-11-13T18:43:46.253Z"
+    },
+    {
+      "id": 28703,
+      "source": "XOR Journal (TG)",
+      "title_en": "Алгоритм Яндекса помог астрономам найти кандидатов в планетарные туманности 😨Планетарные туманности — это светящиеся облака газа, которые остаются после того, как звезда вроде нашего Солнца доживает ",
+      "description_en": "Алгоритм Яндекса помог астрономам найти кандидатов в планетарные туманности 😨Планетарные туманности — это светящиеся облака газа, которые остаются после того, как звезда вроде нашего Солнца доживает свой век и сбрасывает внешние оболочки. Искать их непросто: на снимках и по спектрам такие туманности легко спутать с остатками взорвавшихся звёзд и облаками, где рождаются новые светила.Исследователи из Университета Чукурова проверили 149 объектов из каталога HASH. В помощь классическому анализу он",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10504",
+      "image_url": "https://cdn4.telesco.pe/file/btjM1wv_uXml6PD3mdFCIQv66YLl-IAGYIyjzO0S26ZWsFqoVBCg9HU4zESqz9FEBT6zdAwoLfsm7PTjz3m1bK6Uol03msI9-CzgQgwRxQn7D3hFst0J9Kq_CV0dFnaCCeXXt9Df7vj9cstlD3vqFfRrg_kbNHonLYA_eWWzAhBNX6rBcpWTZ5UHytxGzjZEaFL3rt8R4ajHVym13ku1xR9WsDATqCH_AG-5kSARFngizJzY0GA1C1ZE2gyePQXoYaIsmjtegY77iqQfNwozCkgs0CQzKNlq42oelghP2pMzn0JSvjFHBj5Ur5_efNLNFMcRm-W8vOLDR4Yr9Lw67A.jpg",
+      "pub_date": "2026-11-13T16:35:02+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-13T18:43:50.447Z",
+      "created_at": "2026-11-13T18:43:50.447Z"
+    },
+    {
+      "id": 28704,
+      "source": "XOR Journal (TG)",
+      "title_en": "Дуров сообщил, что взломать юзеров ТГ путем получения сообщения НЕВОЗМОЖНО.Если вы думаете иначе — можете попытаться взломать учетку Дурова, но сначала придется заплатить 11 тысяч звезд или ~19.000 ру",
+      "description_en": "Дуров сообщил, что взломать юзеров ТГ путем получения сообщения НЕВОЗМОЖНО.Если вы думаете иначе — можете попытаться взломать учетку Дурова, но сначала придется заплатить 11 тысяч звезд или ~19.000 рублей 😂@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10505",
+      "image_url": "https://cdn4.telesco.pe/file/vGyjdfwK_jwkl0sX3tOc3bj17jKmo_lsfmqpSKplcJ3Dx53GiS1DlkyzC94tl1jI4z2KLdCyN0PMQIW9qhtmLq_tvYNrSRSRuBhFIU15BWuvi4HAvoAZggahbYteKfUz7VB-QSduNwHWVMoKUtoTQHO-hqYrGm6auv1Rd8YY0i15CgHeE88k_rE1p3hNtb0Jz9MNtMBlxL3wOVeFzy4N6CvqL2lMfBCQEsr82jwu5mIOmnxI2ft7LqHiR5xoX0pTxJlYBcY6A-9WXHwBe0s2S-_lsS9noUxse8PMUwT5CB33pOiwLIsOWv4ue8epDLuWjpiRliZEzsjVaJU9Zc1wrA.jpg",
+      "pub_date": "2026-11-13T17:06:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-13T18:43:50.447Z",
+      "created_at": "2026-11-13T18:43:50.447Z"
+    },
+    {
+      "id": 28705,
+      "source": "AI Post (TG)",
+      "title_en": "🧐 Nvidia chips barred from China left fingerprints in DeepSeek's newest AI modelsSix models released since April by DeepSeek, Moonshot (the maker of Kimi), MiniMax and Ant Group were started on Nvidi",
+      "description_en": "🧐 Nvidia chips barred from China left fingerprints in DeepSeek's newest AI modelsSix models released since April by DeepSeek, Moonshot (the maker of Kimi), MiniMax and Ant Group were started on Nvidia's Blackwell chips, ex-OpenAI researcher Will DePue says in a new report. Selling those chips to China needs a US license, and none has been reported.The clue is in the published weights. A model begins training from random numbers whose layout depends on how many cores the chip has, and traces of ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8782",
+      "image_url": "https://cdn4.telesco.pe/file/hCTx2-m8ILoU9UwV8kEVzf7AKtKozj815SssF_0nFyY8YnltbYwkQriqI7Cxxj8sIJfDT5UG7agPySSfQfB-nMJdwDvPeFdgwaY8VnLUFGlGZhbo6bSrBxbGSRMc4lfIGbXMe84pzACfowRFl-RwXy4_4y0sAvVL9UiKENW6zW1pvMAuN3gCpM0XeT7_WQz_jL1zfUGvzGGcg99_3yPOvIaPwnbfXegC1Vb7DjOZ8bpjWoXTgSh0Y01IDNMORrHWY6GBHYchmO0AaZgcwvSR67mCTstKoJOcyuHzmxgI7HSgzdzE0lz3mO5lWCDrIaR_luBtnnKs5iEbWWOBteJS7g.jpg",
+      "pub_date": "2026-11-13T17:52:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-13T18:43:50.993Z",
+      "created_at": "2026-11-13T18:43:50.993Z"
+    },
+    {
+      "id": 28706,
+      "source": "AI Post (TG)",
+      "title_en": "🤖 Teachers talk through a lesson, and Wharton's AI turns it into a playable simulationPrimer, from Ethan Mollick's Generative AI Labs at Wharton, starts by interviewing the teacher: the topic, the st",
+      "description_en": "🤖 Teachers talk through a lesson, and Wharton's AI turns it into a playable simulationPrimer, from Ethan Mollick's Generative AI Labs at Wharton, starts by interviewing the teacher: the topic, the students' level, what they already know and where they usually go wrong. Teachers can speak or type and upload lesson plans or rubrics.It then writes a design document, and nothing gets built until the teacher approves it. In the demo, that's a water-cycle lesson for 7th and 8th graders.Students meet ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8783",
+      "image_url": "https://cdn4.telesco.pe/file/ZZoI_mrFdWQBUMtpLZhdQ97-NYtTmjmVw0ms0Pp8yMegQEdjYskBoAFQi78ubVvioZnxjyfrNaKYtIazPAJBZduQ95eok0xBPp8OixKqO6y8FYwJ2H-dAba3lTVJjaG1bwaKMhnREhfioiXUFP_ImhrgT9Kvf9q7dY-PDRu3nR8HTgTtdcPrYUeHLZuty5viwBrsjZARhR2V7Q9c9AIdKG9evqeYzcQ6tQVrkQbDLjSXI6cMLBX3H3L-KjegsU5aDHuErQjrrVNOJYo5tGw9EAsfkYUQcAiEMvoiV--1jEYJ97qBXeWEB004fqsr31Rb6CKDssDsLy3qd08KrUf6jw.jpg",
+      "pub_date": "2026-11-13T17:57:03+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-13T18:43:50.993Z",
+      "created_at": "2026-11-13T18:43:50.993Z"
+    },
+    {
+      "id": 28707,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🤖 OpenAI disbands its robotics team because GPT-6 Astra can just drive the robotsFortune reports the researchers moved under Mark Chen's main research org, and the applied and hardware teams moved un",
+      "description_en": "🤖 OpenAI disbands its robotics team because GPT-6 Astra can just drive the robotsFortune reports the researchers moved under Mark Chen's main research org, and the applied and hardware teams moved under Greg Brockman. OpenAI says it's accelerating robotics, not quitting it.Its CoRL booth in Austin sat empty this week. Altman still targets a first humanoid demo in 2027.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/1011",
+      "image_url": null,
+      "pub_date": "2026-11-13T18:36:29+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-13T18:43:51.292Z",
+      "created_at": "2026-11-13T18:43:51.292Z"
     }
   ]
 }
