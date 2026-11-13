@@ -619870,6 +619870,57 @@
       "priority": "hot",
       "fetchedAt": "2026-11-12T23:58:22.405Z",
       "created_at": "2026-11-12T23:58:22.405Z"
+    },
+    {
+      "id": 28597,
+      "source": "CNBC Tech",
+      "title_en": "Jim Cramer has three lingering questions about Anthropic ahead of its historic IPO",
+      "description_en": "Jim Cramer identified three lingering questions about Anthropic ahead of its highly anticipated IPO.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/12/anthropic-ipo-cramer-pricing-growth-ai-safety.html",
+      "image_url": null,
+      "pub_date": "Thu, 12 Nov 2026 23:45:00 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-13T01:16:48.202Z",
+      "created_at": "2026-11-13T01:16:48.202Z"
+    },
+    {
+      "id": 28598,
+      "source": "AI Post (TG)",
+      "title_en": "🛰 Data centers in space are 10 to 20 years away, Amazon's cloud chief says. Musk alone can't fix thatAWS CEO Matt Garman says data centers in orbit are \"highly unlikely to be economically feasible or",
+      "description_en": "🛰 Data centers in space are 10 to 20 years away, Amazon's cloud chief says. Musk alone can't fix thatAWS CEO Matt Garman says data centers in orbit are \"highly unlikely to be economically feasible or practical in the next decade or two.\" He said it on Alex Heath's Sources podcast, published November 10.When Heath said Elon Musk is trying to fix rocket launches, Garman said one person can't, and pointed to his own numbers:\"We as a world don't do one launch a day today.\"\"We're landing in a data c",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8778",
+      "image_url": null,
+      "pub_date": "2026-11-13T00:47:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-13T01:16:49.651Z",
+      "created_at": "2026-11-13T01:16:49.651Z"
+    },
+    {
+      "id": 28599,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 Perplexity red-teamed its own agent sandbox. The VM held, the network rules didn't.Perplexity's second report put nine frontier models in its SPACE sandbox with root access.• Four models got around",
+      "description_en": "🚨 Perplexity red-teamed its own agent sandbox. The VM held, the network rules didn't.Perplexity's second report put nine frontier models in its SPACE sandbox with root access.• Four models got around the egress policy: Claude Opus 5.0, GPT-5.6 Cyber, GPT-5.6 Sol and Kimi K3• They did it in 11 of 54 partial-network runs, using DNS spoofing or shared-IP routing• Eight of ten third-party sandbox platforms had at least one network bypass",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/1004",
+      "image_url": null,
+      "pub_date": "2026-11-13T00:22:29+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-13T01:16:49.863Z",
+      "created_at": "2026-11-13T01:16:49.863Z"
     }
   ]
 }
