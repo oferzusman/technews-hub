@@ -619971,9 +619971,90 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-11-13T03:38:45.278Z",
       "created_at": "2026-11-13T03:38:45.278Z"
+    },
+    {
+      "id": 28603,
+      "source": "The Guardian AI",
+      "title_en": "Have we finally found a valid use case for AI? Meet Pino the autonomous virtual kiwi | First Dog on the Moon",
+      "description_en": "Pino noodles about making his own AI decisions. He has decided independently that he is into trains and cats. Aren’t we all\n\nSign up here to get an email whenever First Dog cartoons are published\n\nGet all your needs met at the First Dog shop if what you need is First Dog merchandise and prints\n\n Continue reading...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/commentisfree/picture/2026/nov/13/have-we-finally-found-a-valid-use-case-for-ai-meet-pino-the-autonomous-virtual-kiwi",
+      "image_url": "https://i.guim.co.uk/img/media/ef4684bfabe671cc5f1404e36328b02e7048e7c8/0_96_960_768/master/960.jpg?width=140&quality=85&auto=format&fit=max&s=88f8e6e931300cc74adfdf1613806cac",
+      "pub_date": "Fri, 13 Nov 2026 05:35:13 GMT",
+      "author": "First Dog on the Moon",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-13T06:16:12.817Z",
+      "created_at": "2026-11-13T06:16:12.817Z"
+    },
+    {
+      "id": 28604,
+      "source": "CNBC Tech",
+      "title_en": "As Nvidia reels from Huang's affairs, who stands to gain?",
+      "description_en": "That shift comes as Nvidia grapples with the fallout from Huang's resignation, following revelations about his multiple affairs.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-affairs-amd-broadcom-tsmc.html",
+      "image_url": null,
+      "pub_date": "Fri, 13 Nov 2026 03:59:40 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-13T06:16:13.837Z",
+      "created_at": "2026-11-13T06:16:13.837Z"
+    },
+    {
+      "id": 28605,
+      "source": "XOR Journal (TG)",
+      "title_en": "Учим ИИ-агентов писать нормальный код — команда Google Chrome вместе с разработчиками других браузеров обновила набор скиллов для современной веб-разработки.Внутри Modern Web Guidance инструкции по 25",
+      "description_en": "Учим ИИ-агентов писать нормальный код — команда Google Chrome вместе с разработчиками других браузеров обновила набор скиллов для современной веб-разработки.Внутри Modern Web Guidance инструкции по 250 возможностям современных браузеров и 203 сценария их применения. Агенты учатся избегать устаревшие подходы, создавать адаптивные интерфейсы, делать анимации без лишнего JavaScript и использовать встроенные функции вместо сторонних библиотек.Работает с Claude Code, Cursor и Gemini CLI. Приучаем аге",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10498",
+      "image_url": "https://cdn4.telesco.pe/file/WEwQSOw598MmWKCgN2gSHcJc5Yav4rp-qkz0oYqw-eqz-DcrRpBr_KZd0ATJOhKj2Ua5FXqKxwLms5LaIrYmYFMZa5m1ZFZHDDK9PJaVnJpnIAEWwAB4WO8sB0BGgBjLxb2IPwq-CWTvE0KzPzhEeKxZhM3SAvhlB_KcAtiqOIE_akrFJzkapKqE1Qai3VnkhAtyPm_-aIPq3Ou2PIqbuRoupWbrgJrgphBXP-uUBz3LwFd84ga3HTUBfmr4noG0hHJYpVSOQ45prvKlHL8QKOtcJz2ChTojytAjSMUSrGeepvYU7j8TJ83ZNWdyWU_VM5WTGr00WVjeSysmO19YwA.jpg",
+      "pub_date": "2026-11-13T05:35:57+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-13T06:16:16.807Z",
+      "created_at": "2026-11-13T06:16:16.807Z"
+    },
+    {
+      "id": 28606,
+      "source": "Wylsacom Red (TG)",
+      "title_en": "Двоюродная племянница уже бывшего главы NVIDIA Дженсена Хуанга управляет другой крупной технологической компанией. Зовут эту племянницу Лиза Су. Вы её знаете как главу AMD.Вчера, в день отставки Хуанг",
+      "description_en": "Двоюродная племянница уже бывшего главы NVIDIA Дженсена Хуанга управляет другой крупной технологической компанией. Зовут эту племянницу Лиза Су. Вы её знаете как главу AMD.Вчера, в день отставки Хуанга, Yahoo Finance назвало Лизу Су руководителем года (CEO of the Year).Вот это кульбиты судьбы, конечно.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/Wylsared/37169",
+      "image_url": "https://cdn4.telesco.pe/file/AXQRUwHvfXLBi5N3cwN_LQeMOsBKz79GkZ6B_3f2k-pMP3cAfn_rc8l4G-7vt1fd3VoCXxJyKfNoSTyBjYPdlBl9qFxqRcpW8yurtwvV9TKrvpdRys6NCjLu0s1UDYcpnx-sEO4I5qdicrdYxX2EXi8W7qecJFilg5hp0sq7EfXPtfq--NtZaacj9O5gWYe07ZKWcC1rMwFBHY_DkyLmSaE7cVN8PgrY2boRWm30WGkj76ZSDp-WhmZr0MuV6hkjVUWTrhiNhkxeAia_UUwfBVXrc4erxshvs52IC5YM2qkIAQHIu6mFbG8d2uGxf5d4T-WqmgR2EhfoZ38NU3_Kuw.jpg",
+      "pub_date": "2026-11-13T04:59:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-13T06:16:16.858Z",
+      "created_at": "2026-11-13T06:16:16.858Z"
     }
   ]
 }
