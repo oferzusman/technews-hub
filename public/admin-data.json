@@ -1,9 +1,9 @@
 {
-  "total": 28599,
-  "translated": 28590,
-  "untranslated": 9,
-  "today": 3,
-  "week": 794,
+  "total": 28602,
+  "translated": 28592,
+  "untranslated": 10,
+  "today": 6,
+  "week": 797,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 2508,
-      "translated": 2508,
+      "total": 2509,
+      "translated": 2509,
       "lastDate": "Wed, 30 Sep 2026 23:56:36 +0000"
     },
     {
@@ -55,8 +55,8 @@
     },
     {
       "name": "New Atlas",
-      "total": 1273,
-      "translated": 1273,
+      "total": 1274,
+      "translated": 1274,
       "lastDate": "Wed, 30 Sep 2026 22:56:52 GMT"
     },
     {
@@ -85,9 +85,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 869,
+      "total": 870,
       "translated": 869,
-      "lastDate": "2026-11-13T00:22:29+00:00"
+      "lastDate": "2026-11-13T03:23:29+00:00"
     },
     {
       "name": "Backdoor (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-11-13T01:39:07.756Z"
+  "generatedAt": "2026-11-13T03:39:57.636Z"
 }
