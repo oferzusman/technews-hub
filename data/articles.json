@@ -624354,6 +624354,199 @@
       "priority": "hot",
       "fetchedAt": "2026-11-14T17:56:35.418Z",
       "created_at": "2026-11-14T17:56:35.418Z"
+    },
+    {
+      "id": 28806,
+      "source": "The Decoder",
+      "title_en": "Anthropic CEO Amodei admits \"there's a huge uncertainty in what's going to happen next year\" days before a record IPO",
+      "description_en": "Days before what could be the largest IPO in history, Anthropic CEO Dario Amodei called buying compute 'the deepest business dilemma' his company faces. Anthropic's commitments now total nearly $901 billion, and it's still far from clear whether future revenue will justify those costs. The planned IPO is largely meant to serve as a financial buffer against that uncertainty.\nThe article Anthropic CEO Amodei admits \"there's a huge uncertainty in what's going to happen next year\" days before a reco",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/",
+      "image_url": null,
+      "pub_date": "Sat, 14 Nov 2026 19:05:17 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "Anthropic"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-14T20:12:43.716Z",
+      "created_at": "2026-11-14T20:12:43.716Z"
+    },
+    {
+      "id": 28807,
+      "source": "MarkTechPost",
+      "title_en": "Cmpnd Releases dspy-wsp: Weight-Space Programming Comes to DSPy",
+      "description_en": "Cmpnd released dspy-wsp, a prototype DSPy optimizer for weight-space programming. A frontier LLM reads a small model’s weights, edits them in a sandbox, and tests each change, with no gradients and about $5 to $10 per run.\nThe post Cmpnd Releases dspy-wsp: Weight-Space Programming Comes to DSPy appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/11/14/cmpnd-dspy-wsp-weight-space-programming/",
+      "image_url": null,
+      "pub_date": "Sat, 14 Nov 2026 16:45:48 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Deep Learning",
+        "Editors Pick",
+        "For Devs",
+        "Language Model",
+        "Machine Learning",
+        "New Releases",
+        "Python",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-14T20:12:47.400Z",
+      "created_at": "2026-11-14T20:12:47.400Z"
+    },
+    {
+      "id": 28808,
+      "source": "New Atlas",
+      "title_en": "US air traffic control finally bids farewell to the floppy disk era",
+      "description_en": "The FAA is fast-forwarding the American air traffic control system into the 21st century as it begins a massive modernization program to replace legacy computer systems so old that they depend on 3.5-in floppy disks and vintage programming to operate.\nContinue Reading\nCategory: Aircraft, Transport\nTags: FAA, Aircraft, Computers",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/aircraft/us-air-traffic-control-system-farewell-floppy-disk/",
+      "image_url": null,
+      "pub_date": "Sat, 14 Nov 2026 20:03:00 GMT",
+      "author": "David Szondy",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-14T20:12:50.346Z",
+      "created_at": "2026-11-14T20:12:50.346Z"
+    },
+    {
+      "id": 28809,
+      "source": "The Guardian AI",
+      "title_en": "Art ‘must not be sacrificed on the altar of corporate profit’ Liberal senator says as AI policy debate rages",
+      "description_en": "Andrew McLachlan says he chooses ‘real forests over virtual ones’ as he urges Labor government to consider AI’s impact on artists and environment\n\nGet our daily political email, free app or daily news podcast\n\nOutspoken Liberal senator Andrew McLachlan has raised the alarm about the approach of his party and the Labor government to AI, urging artists’ copyright not be “sacrificed” for investment and that building new datacentres must not be prioritised above environmental concerns.\nAs Labor cons",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/australia-news/2026/nov/15/art-over-profit-ai-policy-debate-andrew-mclachlan",
+      "image_url": "https://i.guim.co.uk/img/media/bb100c4ad17c64282442b40c27895d51765e32dd/0_0_3485_2789/master/3485.jpg?width=140&quality=85&auto=format&fit=max&s=d72d9f2961e3b70e5c920ce9fd1fa088",
+      "pub_date": "Sat, 14 Nov 2026 19:00:52 GMT",
+      "author": "Tess Ikonomou and Josh Butler",
+      "categories": [
+        {
+          "_": "Australian politics",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/australian-politics"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Datacentres - Australia",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/datacentres"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Australia news",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/australia-news"
+          }
+        },
+        {
+          "_": "Liberal party",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/liberal-party"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-14T20:12:50.425Z",
+      "created_at": "2026-11-14T20:12:50.425Z"
+    },
+    {
+      "id": 28810,
+      "source": "CNBC Tech",
+      "title_en": "Nvidia's leadership crisis rattles the AI trade. Here's how we're adjusting our portfolio",
+      "description_en": "Despite the turbulence, the S&P 500 secured a weekly gain of 2.5%, while the tech-heavy Nasdaq added 2.3%.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/investingclub/2026/11/14/nvidias-leadership-crisis-rattles-wall-street-how-were-adjusting.html",
+      "image_url": null,
+      "pub_date": "Sat, 14 Nov 2026 18:48:39 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-14T20:12:51.962Z",
+      "created_at": "2026-11-14T20:12:51.962Z"
+    },
+    {
+      "id": 28811,
+      "source": "Hi, AI English (TG)",
+      "title_en": "💻 OpenAI Has Launched Retro Gaming Console for Vibe CodersOpenAI has teamed up with ModRetro to announce ModRetro Chromatic: Codex Edition. This special version of the Chromatic is a modern take on t",
+      "description_en": "💻 OpenAI Has Launched Retro Gaming Console for Vibe CodersOpenAI has teamed up with ModRetro to announce ModRetro Chromatic: Codex Edition. This special version of the Chromatic is a modern take on the Game Boy Color, designed for games created with Codex AI. And yes, it can still play original Game Boy and Game Boy Color cartridges.The user describes the game idea to Codex, and the AI handles the game logic architecture, pixel art, and character animation rendering. A dedicated plugin then tur",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimediaen/2936",
+      "image_url": null,
+      "pub_date": "2026-11-14T19:05:00+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-14T20:12:55.371Z",
+      "created_at": "2026-11-14T20:12:55.371Z"
+    },
+    {
+      "id": 28812,
+      "source": "AI Post (TG)",
+      "title_en": "❗️OpenAI has officially disbanded its robotics team, just five months after relaunching it.@aipost 🏴",
+      "description_en": "❗️OpenAI has officially disbanded its robotics team, just five months after relaunching it.@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8792",
+      "image_url": "https://cdn4.telesco.pe/file/q9eIsA5Vvs6VnccHExqUlUr-nYwqzOEG9pZ442UlTHeBDJ3NRFVe2y73mubtytx_zWomItyDB4QICMZ7fxhyBBFpLmtOKpgjz7pfqOx3DThOs-fg3w7LIDdV739g6ME4uCqGEqp-awjHihxWKAzVPOnwxZTHF5d77JHxZNwr2t8iIBbMxLJm4ZFCUsxR6wxiVPvSQHGOFiAlo-Ge8yWwBd5w27aW_e49f1Fx89T20GaE2eQtS7MbN2bBgnT7Fazvw5Jloxgfj-Vn7XxHFQvsqOdaGk2QE4UCrczkUcMr3izxzhCQbpsSv0uJINaSqXiHBFqwWGjNnaBq35aVM7-q0A.jpg",
+      "pub_date": "2026-11-14T18:06:02+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-14T20:12:55.597Z",
+      "created_at": "2026-11-14T20:12:55.597Z"
+    },
+    {
+      "id": 28813,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🤖 Google says Antigravity's /teamwork is cracking open problems, with human experts in the loopGoogle shared results from its multi-agent mode, built on Gemini 4 Argon, Carbon and Hydrogen:• Open pro",
+      "description_en": "🤖 Google says Antigravity's /teamwork is cracking open problems, with human experts in the loopGoogle shared results from its multi-agent mode, built on Gemini 4 Argon, Carbon and Hydrogen:• Open problems in math, chemistry, systems software and ML engineering• New work in information theory, formal verification, molecular structures and kernel optimization• Some production infrastructure gains inside Google• Tools are now available in Antigravity, alongside /boost",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/1020",
+      "image_url": null,
+      "pub_date": "2026-11-14T20:02:29+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-14T20:12:55.791Z",
+      "created_at": "2026-11-14T20:12:55.791Z"
     }
   ]
 }
