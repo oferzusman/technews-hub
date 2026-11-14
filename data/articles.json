@@ -623242,6 +623242,65 @@
       "priority": "hot",
       "fetchedAt": "2026-11-14T08:38:53.434Z",
       "created_at": "2026-11-14T08:38:53.434Z"
+    },
+    {
+      "id": 28753,
+      "source": "The Guardian AI",
+      "title_en": "‘It’s like the wild west’: how AI has rocked the literary world",
+      "description_en": "With authors losing lucrative deals and writers removed from prize shortlists, accusations of AI use are sending shock waves through the publishing industry. Is it too late to turn the tide on machine writing?\nThe romance novelist Coral Hart got her break writing books for Mills & Boon, the publisher of bodice-ripper paperbacks. In 2012, she decided to dip her toe in self-publishing. She felt drawn to dark romance, a subgenre featuring twisted, toxic love stories that was taking off online but t",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/books/ng-interactive/2026/nov/14/its-like-the-wild-west-how-ai-has-rocked-the-literary-world",
+      "image_url": "https://i.guim.co.uk/img/media/b8a39bdb32dea0bb0e41f2a5aa45ffef61974668/725_1297_5935_4748/master/5935.jpg?width=140&quality=85&auto=format&fit=max&s=927a09ab22659010f2178728a1ffac08",
+      "pub_date": "Sat, 14 Nov 2026 09:00:40 GMT",
+      "author": "Sophie McBain",
+      "categories": [
+        {
+          "_": "Books",
+          "$": {
+            "domain": "https://www.theguardian.com/books/books"
+          }
+        },
+        {
+          "_": "Publishing",
+          "$": {
+            "domain": "https://www.theguardian.com/books/publishing"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Fiction",
+          "$": {
+            "domain": "https://www.theguardian.com/books/fiction"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-14T09:09:34.812Z",
+      "created_at": "2026-11-14T09:09:34.812Z"
+    },
+    {
+      "id": 28754,
+      "source": "XOR Journal (TG)",
+      "title_en": "❤️❤️❤️❤️❤️❤️❤️❤️Большие цели складываются из маленьких шагов. Начать новое дело, выбрать незнакомый маршрут или попробовать что-то непривычное. Энергетик «Энергия первых» — про твой активный ритм!",
+      "description_en": "❤️❤️❤️❤️❤️❤️❤️❤️Большие цели складываются из маленьких шагов. Начать новое дело, выбрать незнакомый маршрут или попробовать что-то непривычное. Энергетик «Энергия первых» — про твой активный ритм!",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10509",
+      "image_url": "https://cdn4.telesco.pe/file/GiQnjiB4z_5hatTWhClb_AjPRNknAniUhphKypCCh3tKHqTPzkq4i7XblSLyTm8i_mWZKuMWtPuR6awd2IoqkmWovfmAQaKjzvsMmTocK2_vJ6aCiZ-FoOFhcItAR5OMwQ-lj3dqaG4gW24njv0Uc_gZT7Vy4Fa4u_9s8U7rAemoWeovT05CgaiiBg1iU48SdU-q2YyBtdQXnHWUbkAS09_5diPcF_MU44qWviM1HAAsvEsiPK8LPCU815KgyCWmjJSlqNeEStnMr9tx8P06bOzGfb6NuRSzcXuBbUQpBqWmAqeBQ_JCzUKdFrMUzU1WvEvtvgHMxZi9vPT8hhQGoQ.jpg",
+      "pub_date": "2026-11-14T09:00:04+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-14T09:09:38.582Z",
+      "created_at": "2026-11-14T09:09:38.582Z"
     }
   ]
 }
