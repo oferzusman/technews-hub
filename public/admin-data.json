@@ -1,9 +1,9 @@
 {
-  "total": 28830,
-  "translated": 28821,
+  "total": 28834,
+  "translated": 28825,
   "untranslated": 9,
-  "today": 10,
-  "week": 866,
+  "today": 14,
+  "week": 870,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -43,9 +43,9 @@
     },
     {
       "name": "Product Hunt",
-      "total": 1506,
-      "translated": 1506,
-      "lastDate": "2026-11-12T20:18:13.000Z"
+      "total": 1507,
+      "translated": 1507,
+      "lastDate": "2026-11-14T06:54:44.000Z"
     },
     {
       "name": "The Guardian AI",
@@ -85,9 +85,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 888,
-      "translated": 888,
-      "lastDate": "2026-11-15T05:05:29+00:00"
+      "total": 889,
+      "translated": 889,
+      "lastDate": "2026-11-15T08:06:29+00:00"
     },
     {
       "name": "Backdoor (TG)",
@@ -103,9 +103,9 @@
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 540,
-      "translated": 538,
-      "lastDate": "2026-11-14T15:18:01+00:00"
+      "total": 541,
+      "translated": 539,
+      "lastDate": "2026-11-15T08:02:20+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -163,9 +163,9 @@
     },
     {
       "name": "Data Science ODS.ai (TG)",
-      "total": 159,
-      "translated": 159,
-      "lastDate": "2026-11-09T09:14:02+00:00"
+      "total": 160,
+      "translated": 160,
+      "lastDate": "2026-11-15T07:00:46+00:00"
     },
     {
       "name": "Google AI Blog",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-11-15T06:59:40.671Z"
+  "generatedAt": "2026-11-15T08:29:58.725Z"
 }
