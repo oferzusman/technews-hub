@@ -1,9 +1,9 @@
 {
-  "total": 28826,
-  "translated": 28817,
+  "total": 28830,
+  "translated": 28821,
   "untranslated": 9,
-  "today": 6,
-  "week": 862,
+  "today": 10,
+  "week": 866,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -31,9 +31,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 1718,
-      "translated": 1716,
-      "lastDate": "2026-11-15T02:54:01+00:00"
+      "total": 1719,
+      "translated": 1717,
+      "lastDate": "2026-11-15T05:41:01+00:00"
     },
     {
       "name": "The Decoder",
@@ -49,8 +49,8 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 1431,
-      "translated": 1431,
+      "total": 1432,
+      "translated": 1432,
       "lastDate": "Wed, 30 Sep 2026 19:12:28 GMT"
     },
     {
@@ -67,9 +67,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 1125,
-      "translated": 1123,
-      "lastDate": "2026-11-14T21:54:33+00:00"
+      "total": 1126,
+      "translated": 1124,
+      "lastDate": "2026-11-15T06:07:02+00:00"
     },
     {
       "name": "The Verge AI",
@@ -85,9 +85,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 887,
-      "translated": 887,
-      "lastDate": "2026-11-15T02:04:29+00:00"
+      "total": 888,
+      "translated": 888,
+      "lastDate": "2026-11-15T05:05:29+00:00"
     },
     {
       "name": "Backdoor (TG)",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-11-15T06:26:53.549Z"
+  "generatedAt": "2026-11-15T06:58:43.335Z"
 }
