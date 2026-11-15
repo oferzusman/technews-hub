@@ -625049,7 +625049,7 @@
       "author": "David Szondy",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-11-15T11:28:56.381Z",
       "created_at": "2026-11-15T11:28:56.381Z"
     },
@@ -625225,6 +625225,310 @@
       "priority": "hot",
       "fetchedAt": "2026-11-15T11:29:04.390Z",
       "created_at": "2026-11-15T11:29:04.390Z"
+    },
+    {
+      "id": 28847,
+      "source": "The Verge AI",
+      "title_en": "An overview of Jensen Huang’s messy days",
+      "description_en": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here.\nHow it started\nOn October 29th, The New York Times reported that Nvidia co-founder and showman CEO Jensen Huang appeared to be the target of a Chinese spy plot. Any major tech CEO potentiall",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+      "image_url": null,
+      "pub_date": "2026-11-15T13:00:00.000Z",
+      "author": "Terrence O’Brien",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-15T14:36:50.829Z",
+      "created_at": "2026-11-15T14:36:50.829Z"
+    },
+    {
+      "id": 28848,
+      "source": "The Decoder",
+      "title_en": "Firm linked to Jensen Huang's ex-lover reportedly brokered nearly $12 billion in Nvidia chip orders for China",
+      "description_en": "Megaspeed, the firm owned by ousted Nvidia CEO Jensen Huang's former lover Alice Huang, arranged nearly $12 billion in Nvidia chip orders for Chinese companies between 2024 and 2025, according to the WSJ. Short seller Culper Research estimates Nvidia's actual China revenue share exceeds 20 percent, far above the officially reported 7 percent.\nThe article Firm linked to Jensen Huang's ex-lover reportedly brokered nearly $12 billion in Nvidia chip orders for China appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/firm-linked-to-jensen-huangs-ex-lover-reportedly-brokered-nearly-12-billion-in-nvidia-chip-orders-for-china/",
+      "image_url": null,
+      "pub_date": "Sun, 15 Nov 2026 11:35:12 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Nvidia"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-15T14:36:52.071Z",
+      "created_at": "2026-11-15T14:36:52.071Z"
+    },
+    {
+      "id": 28849,
+      "source": "The Guardian AI",
+      "title_en": "Is the AI job apocalypse finally here? The evidence suggests otherwise | John Quiggin",
+      "description_en": "The role AI played in job losses at Australia’s NAB, Qantas, Canva and Atlassian is far from clear  – but it may prove to have more impact on the stock market than the jobs market\n\nGet our breaking news email, free app or daily news podcast\n\nIn 1987, the Nobel prize winning economist Robert Solow remarked: “You can see the computer age everywhere but in the productivity statistics.” At the time, computers had been around for 40 years. Real productivity gains did emerge in the 1990s after the arr",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/16/is-the-ai-job-apocalypse-finally-here-the-evidence-suggests-otherwise",
+      "image_url": "https://i.guim.co.uk/img/media/90b330e8a3a675d60169684e5857f5b61ae3ff3d/1500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=390ab44d1def51932cabdff561f54514",
+      "pub_date": "Sun, 15 Nov 2026 14:00:19 GMT",
+      "author": "John Quiggin",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Job losses",
+          "$": {
+            "domain": "https://www.theguardian.com/business/job-losses"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/business-australia"
+          }
+        },
+        {
+          "_": "Stock markets",
+          "$": {
+            "domain": "https://www.theguardian.com/business/stock-markets"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-15T14:36:52.378Z",
+      "created_at": "2026-11-15T14:36:52.378Z"
+    },
+    {
+      "id": 28850,
+      "source": "Interesting Engineering",
+      "title_en": "NASA’s Competition Model 2.0 cuts mission selection from 35 months to 19.5 months",
+      "description_en": "NASA is overhauling how it selects science missions, aiming to reduce proposal costs, streamline competition,...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/space/nasa-science-mission-selection-costs-proposal",
+      "image_url": null,
+      "pub_date": "Sun, 15 Nov 2026 14:02:00 +0000",
+      "author": "Munis Raza",
+      "categories": [
+        "Space"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-15T14:36:55.816Z",
+      "created_at": "2026-11-15T14:36:55.816Z"
+    },
+    {
+      "id": 28851,
+      "source": "Interesting Engineering",
+      "title_en": "‘Swiss army beak’ and ankle-powered swings: How endangered Hawaiian bird drills for food",
+      "description_en": "A little yellow Hawaiian bird has evolved a “Swiss army beak” and a body built...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/culture/swiss-army-beak-akiapolaau-hawaiian-bird",
+      "image_url": null,
+      "pub_date": "Sun, 15 Nov 2026 13:00:00 +0000",
+      "author": "Munis Raza",
+      "categories": [
+        "Culture"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-15T14:36:55.816Z",
+      "created_at": "2026-11-15T14:36:55.816Z"
+    },
+    {
+      "id": 28852,
+      "source": "Interesting Engineering",
+      "title_en": "US Patriot alternative? Ukraine’s FREYJA flies at Mach 6.5, reaches 50 miles",
+      "description_en": "Ukraine’s President Volodymyr Zelensky has announced that Ukraine’s domestically built FREYJA anti-ballistic missile interceptor and...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/us-patriot-alternative-ukraines-freyja",
+      "image_url": null,
+      "pub_date": "Sun, 15 Nov 2026 12:17:03 +0000",
+      "author": "Christopher McFadden",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-15T14:36:55.816Z",
+      "created_at": "2026-11-15T14:36:55.816Z"
+    },
+    {
+      "id": 28853,
+      "source": "Tom's Hardware",
+      "title_en": "Pentagon tests pack hunting with autonomous war robots",
+      "description_en": "The Pentagon has been testing packs of autonomous ground vehicles in simulated combat situations.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/drones/pentagon-tests-pack-hunting-with-autonomous-war-robots-darpa-experimented-with-four-drone-ground-vehicles-that-detected-tracked-and-engaged-simulated-threats",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/aLBJMibNLNdwySjZPXCJmB-1920-80.jpg",
+      "pub_date": "Sun, 15 Nov 2026 14:19:24 +0000",
+      "author": " Mark Tyson ",
+      "categories": [
+        "Drones",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-15T14:36:55.899Z",
+      "created_at": "2026-11-15T14:36:55.899Z"
+    },
+    {
+      "id": 28854,
+      "source": "Tom's Hardware",
+      "title_en": "Nvidia board director cashed out $1 billion in stock before Jensen Huang scandal",
+      "description_en": "Nvidia Board Director sold around 4.2 million shares beginning August 31 and ending September 18, with the sale making him somewhere around $947 million.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/nvidia-board-director-cashed-out-usd1-billion-in-stock-before-jensen-huang-scandal-mark-stevens-sold-4-2-million-shares-without-a-trading-plan",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/pkzE4EjeCU56CZy4WdNR93-1920-80.png",
+      "pub_date": "Sun, 15 Nov 2026 14:00:00 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-15T14:36:55.899Z",
+      "created_at": "2026-11-15T14:36:55.899Z"
+    },
+    {
+      "id": 28855,
+      "source": "Tom's Hardware",
+      "title_en": "Intel reclaims overall CPU market share for the first time since 2025",
+      "description_en": "AMD continues to gain server CPU market share amid skyrocketing shipments of data center processors as sales of client CPUs drop in the third quarter, says Mercury Research.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/cpus/intel-reclaims-overall-cpu-market-share-for-the-first-time-since-2025-massive-desktop-gains-offset-amds-record-server-and-mobile-growth",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/rJxxS7q3AYGHBSBZtSxtvS-1920-80.png",
+      "pub_date": "Sun, 15 Nov 2026 13:30:00 +0000",
+      "author": " Anton Shilov ",
+      "categories": [
+        "CPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-15T14:36:55.899Z",
+      "created_at": "2026-11-15T14:36:55.899Z"
+    },
+    {
+      "id": 28856,
+      "source": "Tom's Hardware",
+      "title_en": "Dev hacks Coway air purifier to cut it off from the cloud",
+      "description_en": "A developer reverse-engineered his Coway Airmega IconS air purifier to run it locally in Home Assistant, without Coway’s cloud.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/dev-hacks-coway-air-purifier-to-cut-it-off-from-the-cloud-now-runs-locally-in-home-assistant-fan-downloads-the-certificate-over-plain-http-letting-a-home-server-stand-in-for-coways",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/mXh5WymAzxYYSPaqoUPyu7-1920-80.jpg",
+      "pub_date": "Sun, 15 Nov 2026 12:30:00 +0000",
+      "author": " Shane Downing ",
+      "categories": [
+        "Cybersecurity",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-15T14:36:55.899Z",
+      "created_at": "2026-11-15T14:36:55.899Z"
+    },
+    {
+      "id": 28857,
+      "source": "Tom's Hardware",
+      "title_en": "Elon Musk signs petition to reinstate Jensen Huang as Nvidia CEO",
+      "description_en": "An online petition with over 91,000 signatures is calling for the reinstatement of Nvidia's disgraced former CEO.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/elon-musk-signs-petition-to-reinstate-jensen-huang-as-nvidia-ceo-over-130-000-sign-online-petition-but-not-all-nvidians-support-jensens-return",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/bdFUC46Kd6JVWXBBXwJACc-1920-80.png",
+      "pub_date": "Sun, 15 Nov 2026 12:00:00 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-15T14:36:55.899Z",
+      "created_at": "2026-11-15T14:36:55.899Z"
+    },
+    {
+      "id": 28858,
+      "source": "CNBC Tech",
+      "title_en": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot",
+      "description_en": "Anthropic's IPO has outsized importance in the tech industry, which is heavily invested in the AI lab and is desperate for some positive momentum.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html",
+      "image_url": null,
+      "pub_date": "Sun, 15 Nov 2026 12:00:01 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-15T14:36:55.905Z",
+      "created_at": "2026-11-15T14:36:55.905Z"
+    },
+    {
+      "id": 28859,
+      "source": "Backdoor (TG)",
+      "title_en": "NVIDIA не устраивала дефицит чипов — техно-СМИ и каналы подхватили и раздули только одну точку зрения, которая не отражает действительность в полной мере. Без обвинений куртки и спекуляций на увольнен",
+      "description_en": "NVIDIA не устраивала дефицит чипов — техно-СМИ и каналы подхватили и раздули только одну точку зрения, которая не отражает действительность в полной мере. Без обвинений куртки и спекуляций на увольнении Хуанга проверили все первоисточники, в том числе отчет NVIDIA, и разъясняем:• Схема ясна: NVIDIA финансировала небольшие предприятия, чтобы те покупали ее чипы. Но причины были иные. И было ли принуждение?• 12 ноября The Wall Street Journal выпустил статью о конфликте Хуанга и Колетт Кресс. После",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/32979",
+      "image_url": "https://cdn4.telesco.pe/file/HyRdBJkyqQSoyfCr4mrd18dW9TpxFS1uK9jDhjskTZiQk9bolqtUaY-HB5nPmHJgbFCqfl2LXzRk0d0Y4Cvx8t4dODmqrtC9BV1go9ykY94x8aCKqOJfpO5xi8Gr0CrcQfYl51DEbGN0d89Tlo5f5V8cqnW320gFDhc6cJJIkoZreEybfCqbTAqevJPRVoRx9_Uy2EzL_PXh-nz8ih2joEcw9vtq2pd8DFOTnc2s6YC-5csnlbt745tlVse85HLXwj6g5MqqdLKNmmQC8Cg-VmG4ZtW0PoSTsTyVfNMDYag92ri2ldlkcX4-yRcHIgo3nq17Wv2CtcITu96dxsMhVg.jpg",
+      "pub_date": "2026-11-15T11:54:46+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-15T14:36:56.321Z",
+      "created_at": "2026-11-15T14:36:56.321Z"
+    },
+    {
+      "id": 28860,
+      "source": "AI Post (TG)",
+      "title_en": "🗣 The researcher who quit Anthropic in public now says he might go back\"I'm not sure I made the right decision in leaving,\" Jacob Coxon said at Stanford on November 9. \"Who knows? Maybe I'll go back.",
+      "description_en": "🗣 The researcher who quit Anthropic in public now says he might go back\"I'm not sure I made the right decision in leaving,\" Jacob Coxon said at Stanford on November 9. \"Who knows? Maybe I'll go back. It's not completely out of the question.\"In September he resigned from Anthropic with a viral post warning that AI labs were moving too fast. At Stanford he said what pushed him:I saw exact projections for the capabilities of models in the next six months to one year that made me think, you know, w",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8803",
+      "image_url": null,
+      "pub_date": "2026-11-15T13:28:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-15T14:36:56.837Z",
+      "created_at": "2026-11-15T14:36:56.837Z"
+    },
+    {
+      "id": 28861,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🧠 Raschka's new explainer covers how LLMs know word order at allSebastian Raschka published a walkthrough of positional embeddings, from GPT-2's learned absolute vectors to RoPE, which MiniMax-M3 app",
+      "description_en": "🧠 Raschka's new explainer covers how LLMs know word order at allSebastian Raschka published a walkthrough of positional embeddings, from GPT-2's learned absolute vectors to RoPE, which MiniMax-M3 applies inside every attention block, with visuals, a little math and a small PyTorch implementation. Section 6 maps which choices 2026 open-weight models use, including some that skip explicit positional encoding entirely.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/1026",
+      "image_url": null,
+      "pub_date": "2026-11-15T14:08:29+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-15T14:36:57.025Z",
+      "created_at": "2026-11-15T14:36:57.025Z"
     }
   ]
 }
