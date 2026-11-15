@@ -624785,6 +624785,111 @@
       "priority": "hot",
       "fetchedAt": "2026-11-15T03:35:38.808Z",
       "created_at": "2026-11-15T03:35:38.808Z"
+    },
+    {
+      "id": 28827,
+      "source": "The Guardian AI",
+      "title_en": "‘Jensen Huang lost his mind’: how AI’s smartest man fell for the world’s oldest trick",
+      "description_en": "Jensen Huang’s affair with a suspected spy is Silicon Valley’s worst nightmare come true\nThe resignation this week of Nvidia’s founder and CEO Jensen Huang is one of the most astonishing corporate scandals in memory, featuring allegations of international espionage and extramarital affairs involving one of the world’s most powerful men. As investigations mount into what went wrong at the $4tn chip company, the saga may also become a milestone in the decades-long history of spies infiltrating the",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/nov/14/jensen-huang-affair-nvidia-nightmare",
+      "image_url": "https://i.guim.co.uk/img/media/c688291392ebfaa491e16553c6a42ec3ff3c5b77/0_541_2400_1919/master/2400.jpg?width=140&quality=85&auto=format&fit=max&s=d86f59594943d3e382cf380ea2fd4e71",
+      "pub_date": "Sun, 15 Nov 2026 06:00:06 GMT",
+      "author": "Nick Robins-Early",
+      "categories": [
+        {
+          "_": "Jensen Huang",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/jensen-huang"
+          }
+        },
+        {
+          "_": "Nvidia",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/nvidia"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Silicon Valley",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/silicon-valley"
+          }
+        },
+        {
+          "_": "Donald Trump",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/donaldtrump"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-15T06:57:23.321Z",
+      "created_at": "2026-11-15T06:57:23.321Z"
+    },
+    {
+      "id": 28828,
+      "source": "XOR Journal (TG)",
+      "title_en": "Ночное-полезное: чистим забитый диск C: за пару кликов — нашел бесплатную утилиту Roomy специально для уборки Windows  😊Программа находит временные файлы, кэш приложений, остатки обновлений Windows и",
+      "description_en": "Ночное-полезное: чистим забитый диск C: за пару кликов — нашел бесплатную утилиту Roomy специально для уборки Windows  😊Программа находит временные файлы, кэш приложений, остатки обновлений Windows и другие ненужные данные. Показывает, что занимает место, объясняет, что можно без проблем удалить, а затем помогает избавиться от лишнего.Все это бесплатно, а исходники открыты на GitHub.Выносим цифровой мусор.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10512",
+      "image_url": null,
+      "pub_date": "2026-11-15T06:07:02+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-15T06:57:27.392Z",
+      "created_at": "2026-11-15T06:57:27.392Z"
+    },
+    {
+      "id": 28829,
+      "source": "AI Post (TG)",
+      "title_en": "🗣 China's leaders understand AI risk \"much better than the US government,\" Geoffrey Hinton saysThe Nobel-winning \"godfather of AI\" said on PBS's Firing Line, aired November 13, that last summer he we",
+      "description_en": "🗣 China's leaders understand AI risk \"much better than the US government,\" Geoffrey Hinton saysThe Nobel-winning \"godfather of AI\" said on PBS's Firing Line, aired November 13, that last summer he went to Shanghai and talked to a Politburo member, a protégé of Xi Jinping.\"I believe the Politburo understands this stuff much better than the US government. They are very concerned about these risks and they will collaborate with the US on trying to prevent superintelligence taking over.\"That won't ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8799",
+      "image_url": null,
+      "pub_date": "2026-11-15T05:41:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-15T06:57:27.841Z",
+      "created_at": "2026-11-15T06:57:27.841Z"
+    },
+    {
+      "id": 28830,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚗 Qwen drops an open 4B driving model, and it's just Qwen3.5-4B with two add-onsQwen's Qwen-Drive-1.0 leaves the VLM untouched and bolts on a BEV perception head (3D detection, occupancy, map segment",
+      "description_en": "🚗 Qwen drops an open 4B driving model, and it's just Qwen3.5-4B with two add-onsQwen's Qwen-Drive-1.0 leaves the VLM untouched and bolts on a BEV perception head (3D detection, occupancy, map segmentation) plus a flow-matching Planning Expert that outputs ego trajectories. The same model still answers free-form questions about driving scenes.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/1023",
+      "image_url": null,
+      "pub_date": "2026-11-15T05:05:29+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-15T06:57:28.048Z",
+      "created_at": "2026-11-15T06:57:28.048Z"
     }
   ]
 }
