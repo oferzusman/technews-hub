@@ -625529,6 +625529,86 @@
       "priority": "hot",
       "fetchedAt": "2026-11-15T14:36:57.025Z",
       "created_at": "2026-11-15T14:36:57.025Z"
+    },
+    {
+      "id": 28862,
+      "source": "The Decoder",
+      "title_en": "Anthropic's Claude Fable 5.2 doesn't generate images, it paints them",
+      "description_en": "Anthropic's Claude Fable 5.2 doesn't generate images the way other AI models do. Instead of computing pixels, the language model writes Python code that places hundreds of thousands of simulated brushstrokes on a virtual canvas, complete with bristle texture and paint application. A single photorealistic parking garage scene took roughly 700,000 strokes, according to Anthropic employee Jake Eaton.\nThe article Anthropic's Claude Fable 5.2 doesn't generate images, it paints them appeared first on ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them/",
+      "image_url": null,
+      "pub_date": "Sun, 15 Nov 2026 15:42:03 +0000",
+      "author": "Alan Truly",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Anthropic",
+        "Claude",
+        "Fable 5.2"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-15T15:48:23.381Z",
+      "created_at": "2026-11-15T15:48:23.381Z"
+    },
+    {
+      "id": 28863,
+      "source": "Tom's Hardware",
+      "title_en": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+      "description_en": "The 'maintenance safety system' relied on Microsoft Outlook to send warning messages to the operator.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/microsoft-365-outage-leads-to-chlorine-gas-poisoning-of-15-hotel-guests-email-warning-system-fails-40-first-responders-deployed-for-triage-four-hospitalized",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/LVU3kxMU42xw93Lbc2p2Wc-1920-80.jpg",
+      "pub_date": "Sun, 15 Nov 2026 15:41:13 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Data Centers",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-15T15:48:26.378Z",
+      "created_at": "2026-11-15T15:48:26.378Z"
+    },
+    {
+      "id": 28864,
+      "source": "Tom's Hardware",
+      "title_en": "Judge denies motion to dismiss DRAM price-fixing lawsuit against Micron, Samsung, and SK hynix, finds evidence of DRAM collusion plausible after 500% price surge",
+      "description_en": "The judge characterized the three companies as \"hawks flying in formation\" when it came to their business decisions.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/judge-denies-motion-to-dismiss-dram-price-fixing-lawsuit-against-micron-samsung-and-sk-hynix-says-chipmakers-acted-like-hawks-flying-in-formation-finds-evidence-of-dram-collusion-plausible-after-500-percent-price-surge",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/vnqdtRupVqWHAik43ZWctH-1920-80.jpg",
+      "pub_date": "Sun, 15 Nov 2026 15:09:50 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Big Tech",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-15T15:48:26.378Z",
+      "created_at": "2026-11-15T15:48:26.378Z"
+    },
+    {
+      "id": 28865,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 Anthropic's IPO prospectus reads like a sci-fi novel, and it's priced north of $1 trillionThe filing is a standard S-1 with Class A stock and dividend boilerplate, but it openly discusses existenti",
+      "description_en": "🚨 Anthropic's IPO prospectus reads like a sci-fi novel, and it's priced north of $1 trillionThe filing is a standard S-1 with Class A stock and dividend boilerplate, but it openly discusses existential risk in the pitch for chips, data centers and power. It also sells AI as a way to solve problems that have resisted generations of human effort.Investors get a risk factor section that doubles as a philosophy paper.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/1027",
+      "image_url": null,
+      "pub_date": "2026-11-15T15:25:42+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-15T15:48:28.044Z",
+      "created_at": "2026-11-15T15:48:28.044Z"
     }
   ]
 }
