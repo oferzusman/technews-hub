@@ -626488,6 +626488,272 @@
       "priority": "hot",
       "fetchedAt": "2026-11-16T02:03:46.099Z",
       "created_at": "2026-11-16T02:03:46.099Z"
+    },
+    {
+      "id": 28904,
+      "source": "New Atlas",
+      "title_en": "Eco-friendly ‘plastic’ survives dishwashers but breaks down in nature",
+      "description_en": "Of the myriad ongoing attempts to create a material that's as versatile as plastic but easily degradable in nature, this one from Shellworks feels like it's awfully close to that dream.\nContinue Reading\nCategory: Materials, Engineering\nTags: Eco-Friendly, Plastics, Bioplastic, Packaging",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/materials/eco-friendly-plastic-vivomer-shellworks/",
+      "image_url": null,
+      "pub_date": "Mon, 16 Nov 2026 04:52:10 GMT",
+      "author": "Abhimanyu Ghoshal",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-16T07:01:08.167Z",
+      "created_at": "2026-11-16T07:01:08.167Z"
+    },
+    {
+      "id": 28905,
+      "source": "The Guardian AI",
+      "title_en": "UK exposed to polycrisis of threats amid government ‘complacency’",
+      "description_en": "Lords report calls for urgent new approach to resilience planning in face of cyber-attacks, sabotage and climate crisis\nMinisters are complacent in the face of fast-changing and increasingly interconnected threats to the UK, and must act quickly to increase national resilience to possibly very major crises, a parliamentary report has found.\nWhile Labour recently launched a “Be Ready” campaign, advising households to have stocks of food and water, most of the public are unaware of the scale of po",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/society/2026/nov/16/uk-exposed-to-polycrisis-of-threats-amid-government-complacency",
+      "image_url": "https://i.guim.co.uk/img/media/3ba762c70e9c188fc6533e353ffe9c2e077e95c6/0_0_4183_3347/master/4183.jpg?width=140&quality=85&auto=format&fit=max&s=2e252d83e1e5acf197ba4a3668df8463",
+      "pub_date": "Mon, 16 Nov 2026 06:30:35 GMT",
+      "author": "Peter Walker Senior political correspondent",
+      "categories": [
+        {
+          "_": "Emergency planning",
+          "$": {
+            "domain": "https://www.theguardian.com/society/emergencyplanning"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "House of Commons",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/houseofcommons"
+          }
+        },
+        {
+          "_": "Cyberwar",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/cyberwar"
+          }
+        },
+        {
+          "_": "Climate crisis",
+          "$": {
+            "domain": "https://www.theguardian.com/environment/climate-crisis"
+          }
+        },
+        {
+          "_": "Extreme weather",
+          "$": {
+            "domain": "https://www.theguardian.com/world/extreme-weather"
+          }
+        },
+        {
+          "_": "Politics",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/politics"
+          }
+        },
+        {
+          "_": "Espionage",
+          "$": {
+            "domain": "https://www.theguardian.com/world/espionage"
+          }
+        },
+        {
+          "_": "Hacking",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/hacking"
+          }
+        },
+        {
+          "_": "House of Lords",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/lords"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Food security",
+          "$": {
+            "domain": "https://www.theguardian.com/global-development/food-security"
+          }
+        },
+        {
+          "_": "Drugs",
+          "$": {
+            "domain": "https://www.theguardian.com/science/drugs"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-16T07:01:08.417Z",
+      "created_at": "2026-11-16T07:01:08.417Z"
+    },
+    {
+      "id": 28906,
+      "source": "CNBC Tech",
+      "title_en": "Tech world's calls for Jensen Huang to return to Nvidia are growing",
+      "description_en": "Calls for Jensen Huang's return as Nvidia CEO are growing, with tech executives and major shareholders backing a potential comeback following his resignation.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/16/nvidia-jensen-huang-return-tech.html",
+      "image_url": null,
+      "pub_date": "Mon, 16 Nov 2026 03:35:09 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-16T07:01:09.834Z",
+      "created_at": "2026-11-16T07:01:09.834Z"
+    },
+    {
+      "id": 28907,
+      "source": "Backdoor (TG)",
+      "title_en": "Qwen4-Max вышла — китайцы выпустили свою самую мощную флагманскую нейронку с контекстным окном в миллион токенов.• Уничтожает Opus 5.5 и Kimi K3.1 Pro в кодинге. В бенче Agents' Last Exam модель зараб",
+      "description_en": "Qwen4-Max вышла — китайцы выпустили свою самую мощную флагманскую нейронку с контекстным окном в миллион токенов.• Уничтожает Opus 5.5 и Kimi K3.1 Pro в кодинге. В бенче Agents' Last Exam модель заработала 46,7% — лучший результат среди всех моделей мира.• Модель идеально подходит для геймдева, и легко подключается к Unity и Unreal Engine.• В разы дешевле даже топовых американских нейронок — $1,5 за миллион входных токенов и $4,5 за миллион выходных.• Нейронка юзает на 50% меньше токенов, а выпо",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/32998",
+      "image_url": "https://cdn4.telesco.pe/file/XXtvUa1EzbSnrAblqIqDB7OCOpIVtSO8X_CHSa-DET-pck-6KeWT10-SC5G75iLm1SV50CG3xiFa8iOVnoCkcCr9joNi75Z2TEi4WK2qon_TJeRxUq_7LsbOCOOphyJYFZFB_Uf47iObueqXFmTbmpEF5YEAvlLPo_OIJuXVEM5U_w4Mfnh_aYZRQ5tABlCj6uXhrjdupZPZMd2tm7qXk0TR1pyyh871rUCky6kWDU9bJeTII032btTQd1B4vKPKdPvfXTdjZkauDIbpDu1RCexlfJvs3j4zn3Ep7910fSCxPfwIyVUpIR9o7E39LZBem4qYLM59eB2IarxTef2y6g.jpg",
+      "pub_date": "2026-11-16T07:00:13+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-16T07:01:10.549Z",
+      "created_at": "2026-11-16T07:01:10.549Z"
+    },
+    {
+      "id": 28908,
+      "source": "XOR Journal (TG)",
+      "title_en": "⚡️ Alibaba выкатили Qwen4-Max — новую флагманскую модель, которая дешевле и лучше конкурентов.🟢 Qwen4-Max обходит GPT-6.1 Sol и Claude Opus 5.5 в DeepSWE, а в Agents’ Last Exam набирает 46,7% — лучши",
+      "description_en": "⚡️ Alibaba выкатили Qwen4-Max — новую флагманскую модель, которая дешевле и лучше конкурентов.🟢 Qwen4-Max обходит GPT-6.1 Sol и Claude Opus 5.5 в DeepSWE, а в Agents’ Last Exam набирает 46,7% — лучший результат среди представленных моделей. На других бенчах тоже показывает себя хорошо. 🟢 Разрабы сделали отдельный упор на геймдев: модель умеет создавать игры и 3D-сцены на Unreal Engine, Unity и Godot.🟢 И самое вкусное — цена: всего $1,5 за миллион входных и $4,5 за миллион выходных токенов. Ст",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10515",
+      "image_url": "https://cdn4.telesco.pe/file/QxAfujNs5hBiuXnDpMIJXaxeyJ2y1PV7BGEFM8CEJmNstOtrlt_89Tl09q_WSZuNl-UzJU0WneuvU2avwhmYGsnvsukY4zWQTdzVRo_8htV-pKXx-fyQCOTS3Uh0ojqlZX7i13jY5M7mabRIMin89Tm4Mn3BYwJY9lkyC0U5-ZIAhve1lJDr1AQdETzz7h5teQ4-OBksvycPqcCrbdi-7ZSrkde06rUdda9gru1Vc6b3ROAQoe3SOXTBiZqnrVLrv9G9bEpkQ6yGvL5IevFJ0nB0h2WRftZMbW_7q3Ey8c5g7tDXYGdKmG5bAzBVDnHIZ8ni9w7cxiaKj7yyKbFzeA.jpg",
+      "pub_date": "2026-11-16T06:31:16+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-16T07:01:10.652Z",
+      "created_at": "2026-11-16T07:01:10.652Z"
+    },
+    {
+      "id": 28909,
+      "source": "Habr (TG)",
+      "title_en": "Монтируем LLM как жёсткий диск: бесконечная файловая система на Python + FUSEВзломщик открыл config.php и нашёл там ключ платёжного шлюза. Вот только до его запроса такого файла не существовало. Его в",
+      "description_en": "Монтируем LLM как жёсткий диск: бесконечная файловая система на Python + FUSEВзломщик открыл config.php и нашёл там ключ платёжного шлюза. Вот только до его запроса такого файла не существовало. Его вместе с содержимым сочинила языковая модель.На Python и FUSE собрали файловую систему, которая придумывает каталоги при обращении к ним, а содержимое файлов — при чтении. find на таком диске провалился в сотню уровней вложенности, а grep застрял в документах о выдуманной Марии.Затем диск превратили ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/habr_com/70040",
+      "image_url": "https://cdn4.telesco.pe/file/Wf1nWqPXuAFIkwwi8xKW1oAlyfM9Eo2j4jyVazoxlGLMWk0jd6EWD_yHO5Ng-Y3Shr53qojlaW75tU2HWf607RshHp9ADx0kidxTGj9Lhtrv8kMnDSLlzyv4qbNs4bUEn-CMSbhUkDKK_frLF11GL6YtUtpLIhSHDi54pxTeb7lWQf529Ze1cxmRprLwXW_EGcVuCos3jOctzUFofUzt9e3_Iphum7qSrZAf7uSjRF54kWzxiviD8W_BzucYJSpFrXGvRhLdqhbfArI7fI9O43lPgGbszAv2Qh7CfK3bC_oHg84ozlcba0tNDZuERLCJkBvzXqyBybwGWs7npl5v6w.jpg",
+      "pub_date": "2026-11-16T06:03:11+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-16T07:01:11.062Z",
+      "created_at": "2026-11-16T07:01:11.062Z"
+    },
+    {
+      "id": 28910,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "💡 ИИ-очки от Apple могут выйти в 2027 годуОб этом пишет Bloomberg со ссылкой на источники внутри компании. Apple работает над умными очками уже около пяти лет, и «железо» по большей части готово.Что ",
+      "description_en": "💡 ИИ-очки от Apple могут выйти в 2027 годуОб этом пишет Bloomberg со ссылкой на источники внутри компании. Apple работает над умными очками уже около пяти лет, и «железо» по большей части готово.Что известно об очках от Apple:✅ Управлять ими будет ИИ-агент на основе Siri, который видит мир через встроенную камеру. Ассистент сможет рассказывать об объектах и зданиях вокруг, предлагать рецепты из ингредиентов в холодильнике, переводить вывески и разговоры в реальном времени, отвечать на вопросы и",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3839",
+      "image_url": "https://cdn4.telesco.pe/file/QRgvq033IkDRM2e_NyFioJ8s8usY_S-lBaDuWyg-rUYmNZeCEMuXjCf9PDeg4xVmlYiLEOdBAy9SIANoGu8-JmpqUK1LoJ2CiWV9lD3dZXLW7nP9j8wlOpl1c6_Lzm-o68DVWCTUbJWfPYCTWRpalgLpI-aRyA_t_JSWQ1GoRsjyvdgrgYQAk8jylirFtz39u4p0BUA1DBAxfz9vgKgSRa1dvwOEHrpc5qI_zKLjuyqsE9SodS9jwTZGN6-CFRS4zyCfqU6wNyyv9_vmTgZ0sjojXrdf-tP8ioM14vhjmn13yRwqIFuVBY9nZPS-nxVPS2LfvmOTHbddVXhENeBmsQ.jpg",
+      "pub_date": "2026-11-16T06:17:05+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-16T07:01:11.091Z",
+      "created_at": "2026-11-16T07:01:11.091Z"
+    },
+    {
+      "id": 28911,
+      "source": "AI Post (TG)",
+      "title_en": "💰 Gemini can now look through your bank transactions and catch subscription price hikesAsk “what subscriptions am I still paying for, and did any of them go up in price this year?” and Gemini finds t",
+      "description_en": "💰 Gemini can now look through your bank transactions and catch subscription price hikesAsk “what subscriptions am I still paying for, and did any of them go up in price this year?” and Gemini finds the recurring charges across your linked accounts and flags the ones that got more expensive.Google started rolling this out on November 13 to everyone using the Gemini app in the US, on Android, iOS and the web. You connect Google Wallet and can also link your bank and credit card accounts to it thr",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8808",
+      "image_url": "https://cdn4.telesco.pe/file/sLhlm-622D2D9IIbFUGnhZqWpdDzekCkqYAw3z5B9SV_V0XvdHO46ibBR9KJzIqLFbpFFiGLKtrH1AN-gRZc0crCcMeiNSVqv0HJuXzt6sdjJOBOWG28AEgtAwEuoWMyLeoV3mVAJ0C6pyXY2o1s4lconB47hFjQvBVQK09z2VTnXm0DoJuuz9DoBm7W2XQ3sspZweETXgf2CcgIzT4fruV05zsfCciJrajOn6xMrAZPoj6Uz1co4uxSwKt5jF8N-Y1GfQC5TxOVbD-Dm9sggnXzcQOFuYlTYhvsoQdCbmUQhQcPkJwG5iakGwkhZimpcd4KitaUTCz4WAjTRjuOPg.jpg",
+      "pub_date": "2026-11-16T04:13:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-16T07:01:11.313Z",
+      "created_at": "2026-11-16T07:01:11.313Z"
+    },
+    {
+      "id": 28912,
+      "source": "AI Post (TG)",
+      "title_en": "🗣 Hinton: Amodei took a hit for saying no to the military. Altman stepped in a day later\"Don't look at what people say, look at what people do,\" Geoffrey Hinton told PBS's Firing Line in an episode a",
+      "description_en": "🗣 Hinton: Amodei took a hit for saying no to the military. Altman stepped in a day later\"Don't look at what people say, look at what people do,\" Geoffrey Hinton told PBS's Firing Line in an episode aired November 13.In his telling, the US military wanted to be allowed to use Claude to spy on US citizens. Dario Amodei said no and \"took a big hit for that.\" Sam Altman first said OpenAI agreed with him, Hinton says, then said OpenAI would do it about a day after the military dropped Claude.\"So, Da",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8809",
+      "image_url": null,
+      "pub_date": "2026-11-16T06:28:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-16T07:01:11.314Z",
+      "created_at": "2026-11-16T07:01:11.314Z"
+    },
+    {
+      "id": 28913,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🇨🇳 Alibaba opens a preview of Qwen4-Max, its next flagship, with 1M tokens of contextAlibaba launched the preview as the top model in the Qwen4 family. It takes image and video input. Developers get",
+      "description_en": "🇨🇳 Alibaba opens a preview of Qwen4-Max, its next flagship, with 1M tokens of contextAlibaba launched the preview as the top model in the Qwen4 family. It takes image and video input. Developers get it through the Token Plan subscription, and it's also live in the Qwen app, Qoder, QwenWork and QwenStudio. Only the preview is out, with no open weights.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/1031",
+      "image_url": null,
+      "pub_date": "2026-11-16T02:30:51+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-16T07:01:11.609Z",
+      "created_at": "2026-11-16T07:01:11.609Z"
+    },
+    {
+      "id": 28914,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 Congress smells blood on AI chip exports, and both parties are inAfter the Huang spy scandal, Democrats and Republicans are backing tighter rules. Senate Banking Chair Tim Scott wants Huang and Lut",
+      "description_en": "🚨 Congress smells blood on AI chip exports, and both parties are inAfter the Huang spy scandal, Democrats and Republicans are backing tighter rules. Senate Banking Chair Tim Scott wants Huang and Lutnick to testify in public. The stalled Remote Access Security Act is getting a second look.Speaker Mike Johnson cites \"growing consensus\" on limiting chip sales to China. That bill still might not become law, and it's unclear whether it would cover rented compute abroad.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/1033",
+      "image_url": null,
+      "pub_date": "2026-11-16T05:31:29+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-16T07:01:11.609Z",
+      "created_at": "2026-11-16T07:01:11.609Z"
     }
   ]
 }
