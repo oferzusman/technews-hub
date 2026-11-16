@@ -626125,8 +626125,8 @@
       "source": "TechCrunch AI",
       "title_en": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
       "description_en": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "סטארטאפ הצ'יפים ההודי Bharat Semi גייס 24 מיליון דולר בסבב Seed תוך התמקדות בשוק חיישני ה-AI הגלובלי",
+      "description_he": "Bharat Semi הצליחה להשיג הזמנות עיצוב (design wins) לטכנולוגיית החיישנים המופעלת בAI שלה, כולל עם General Atomics. החברה ההודית משיקה את עצמה כשחקן חדש בשוק החיישנים המתקדמים שמיועדים לאפליקציות AI, ובכך מצטרפת לתחרות בשוק שנשלט כיום בעיקר על ידי ישראלים וחברות אמריקאיות. עם 24 מיליון דולר בכיסה, Bharat Semi יכולה כעת להתחיל להצליח בשוק הגלובלי שדורש חיישנים חכמים יותר ויותר.",
       "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
       "image_url": null,
       "pub_date": "Sun, 15 Nov 2026 23:30:00 +0000",
@@ -626137,7 +626137,7 @@
         "Info edge",
         "physical ai"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-11-16T00:10:13.562Z",
       "created_at": "2026-11-16T00:10:13.562Z"
@@ -626147,8 +626147,8 @@
       "source": "Ars Technica",
       "title_en": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
       "description_en": "This was the first total mission failure in United Launch Alliance's 20-year history.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "רקטת וולקן נכשלה בשיגור, מכת קשה לתחרויות של SpaceX",
+      "description_he": "זה היה הכשל הראשון בהיסטוריה של 20 השנים של United Launch Alliance. בתאונה זו נפלה אחת מחברות השיגור העיקריות שמנסות להתחרות עם ענקיות כמו SpaceX, והתקרית הזו עשויה לשנות את מפת תעופת החלל הקרובה.",
       "link": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790934-1152x648.jpg",
       "pub_date": "Sun, 15 Nov 2026 23:11:54 +0000",
@@ -626169,7 +626169,7 @@
         "vulcan centaur",
         "vulcan rocket"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-11-16T00:10:13.628Z",
       "created_at": "2026-11-16T00:10:13.628Z"
@@ -626179,8 +626179,8 @@
       "source": "OpenAI Blog",
       "title_en": "A step toward defining the Standard Model on a lattice",
       "description_en": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "צעד לעבר הגדרה של המודל הסטנדרטי על סריג",
+      "description_he": "מחקר חדש מציג הצעה למודל סטנדרטי שאפשר להגדיר בצורה מתמטית קשוחה באמצעות סריג חישובי, וGPT-6 Astra עזר לחוקרים להפוך את הרעיון לחזון מפורט וקוהרנטי. זו לא הצעה קטנה - אם זה יפעל, זה יכול לשנות את הדרך שבה אנחנו מבינים את הפיזיקה היסודית. מעניין שמודל AI כל כך חזק התברר כשימושי בפתרון בעיות תיאורטיות זה הוא.",
       "link": "https://openai.com/index/step-toward-defining-the-standard-model",
       "image_url": null,
       "pub_date": "Sun, 15 Nov 2026 22:00:01 GMT",
@@ -626188,7 +626188,7 @@
       "categories": [
         "Science"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-11-16T00:10:15.363Z",
       "created_at": "2026-11-16T00:10:15.363Z"
@@ -626198,8 +626198,8 @@
       "source": "OpenAI Blog",
       "title_en": "Our new blog for science",
       "description_en": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "הבלוג החדש שלנו למדע",
+      "description_he": "OpenAI פתחה בלוג חדש שמוקדש למדע, שם חוקרים משתפים ממצאים טריים, שיטות מעשיות וסיפורים ישירים מהשטח על איך הם משתמשים ב-AI כדי לקדם גילויים מדעיים. זה המקום שלך אם אתה רוצה להיות קרוב למה שקורה בחזית המדע والטכנולוגיה.",
       "link": "https://openai.com/index/our-new-blog-for-science",
       "image_url": null,
       "pub_date": "Sun, 15 Nov 2026 22:00:00 GMT",
@@ -626207,7 +626207,7 @@
       "categories": [
         "Science"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "batch",
       "fetchedAt": "2026-11-16T00:10:15.364Z",
       "created_at": "2026-11-16T00:10:15.364Z"
@@ -626217,14 +626217,14 @@
       "source": "New Atlas",
       "title_en": "Apollo CAST-1 review: Giving old speakers a new lease on life",
       "description_en": "I've spent much of my life around professional audio equipment, so while I've followed the rise of Sonos, smart speakers and whole-home consumer audio, I've never felt much need to get involved.\nContinue Reading\nCategory: Home Entertainment, Consumer Tech, Technology\nTags: Reviews, Speakers, DIY, Wi-Fi, Wireless",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "ביקורת Apollo CAST-1: החזרת חיים לרמקולים הישנים",
+      "description_he": "אפולו הביאה פתרון חכם שמעניק לרמקולים הישנים שלכם חיים חדשים - ובלי צורך להחליף את כל המערכת. הגאדג'ט החדש הזה מתחבר ל-Wi-Fi ומהפך רמקולים רגילים לחלק מהבית החכם שלכם, בדיוק כמו Sonos אבל בבחירה הרבה יותר זולה. אם אתם אוהבי אודיו שלא רוצים להשיל כסף על חדשנות, הזה יכול להיות בדיוק מה שחיפשתם.",
       "link": "https://newatlas.com/home-entertainment/apollo-cast-1-review-giving-old-speakers-a-new-lease-on-life/",
       "image_url": null,
       "pub_date": "Mon, 16 Nov 2026 00:03:00 GMT",
       "author": "Howard Armitage",
       "categories": [],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-11-16T00:10:15.687Z",
       "created_at": "2026-11-16T00:10:15.687Z"
@@ -626234,8 +626234,8 @@
       "source": "The Guardian AI",
       "title_en": "Reports of AI-related child sexual abuse material rise 8,400% in two years, data shows",
       "description_en": "Calls for governments to recognise sexual exploitation of children as preventable public health emergency\nReports of artificial intelligence being used to sexually exploit children have risen by more than 8,400% in two years, research has found.\nA report by the Edinburgh-based Childlight – Global Child Safety Institute says AI-related child abuse material, including deepfakes using “nudify apps”, had risen from about 4,700 in 2023 to more than 400,000 in 2025.\n Continue reading...",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "דוחות על ניצול ילדים באמצעות AI עלו ב-8,400% בשנתיים",
+      "description_he": "מחקר חדש של מכון בריטי חשף עלייה מטורפת בדוחות על התעללות בילדים דרך AI - מ-4,700 מקרים ב-2023 לכמעט 400,000 מקרים ב-2025. האירוע שמעורר דאגה עוסק בשימוש ב-deepfakes ו-\"nudify apps\" לצורכי ניצול, וגורמי בטיחות של ילדים קוראים לממשלות להכיר בזה כחירום בריאות ציבורית שניתן למנוע.",
       "link": "https://www.theguardian.com/technology/2026/nov/16/ai-related-child-sexual-abuse-material-rise-exploitation-deepfakes",
       "image_url": "https://i.guim.co.uk/img/media/290c54f9326fd6704518afe33633827e4920b4e8/255_0_1269_1015/master/1269.jpg?width=140&quality=85&auto=format&fit=max&s=f5ee8eea520d92549e7558481c7ad85a",
       "pub_date": "Mon, 16 Nov 2026 00:01:27 GMT",
@@ -626296,7 +626296,7 @@
           }
         }
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-11-16T00:10:15.869Z",
       "created_at": "2026-11-16T00:10:15.869Z"
@@ -626306,8 +626306,8 @@
       "source": "Interesting Engineering",
       "title_en": "China’s HQ-17A air-defense network offers mobile missile protection for troops near Taiwan Strait",
       "description_en": "China’s mobile HQ-17A air-defense system could play an important role in protecting amphibious forces and...",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "מערכת ההגנה האווירית HQ-17A הניידת של סין מציעה הגנת טילים ניידת לחיילים ליד המיצר לטייוואן",
+      "description_he": "סין משדרגת את ההגנה שלה בעזרת מערכת הטילים HQ-17A הניידת, שנועדה להגן על כוחות צבריים בקרבת המיצר לטייוואן. המערכת המהירה והגמישה הזו יכולה להדפיס מטילים אוויר-אויר בעת התנועה, מה שהופך אותה לנכס קריטי בתרחישי קרב בחזית הים.",
       "link": "https://interestingengineering.com/military/china-hq-17a-missile-protection-taiwan",
       "image_url": "https://www.youtube.com/embed/a32felfzvGE",
       "pub_date": "Sun, 15 Nov 2026 23:38:53 +0000",
@@ -626315,7 +626315,7 @@
       "categories": [
         "Military"
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-11-16T00:10:16.313Z",
       "created_at": "2026-11-16T00:10:16.313Z"
@@ -626325,14 +626325,14 @@
       "source": "AI Post (TG)",
       "title_en": "🤖 One prompt makes Claude argue as five advisors before it answers youIt isn't a new feature, whatever the viral \"BREAKING\" posts say. Paste this into a Claude Project's instructions (or any chat), a",
       "description_en": "🤖 One prompt makes Claude argue as five advisors before it answers youIt isn't a new feature, whatever the viral \"BREAKING\" posts say. Paste this into a Claude Project's instructions (or any chat), and every question gets five quick takes, the biggest disagreement and one verdict:For each request, play five advisors. The Strategist checks what best serves my goal. The Skeptic tests the weakest assumption. The Creative Advisor suggests an overlooked option. The Audience Advocate explains how the",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "🤖 הנה הטריק שמגביה את Claude לכל החדשים - חמישה מייעצים מעובדים לפני התשובה",
+      "description_he": "זה לא פיצ'ר חדש אבל הרבה מוויראליים מתעלמים מזה - אם תשימו prompt מסוגנן ב-Claude Projects או בכל צ'אט, כל שאלה תקבל חמישה טייק שונים, דיון חד עם דעות מנוגדות וסיכום סופי. הטיוק זה בעצם לבקש מ-Claude להתחזות לחמישה משפחות של מייעצים: אחד אסטרטג שמפקח על המטרה, ספקן שבודק הנחות ריוריות, יוצר שחושב בחוץ מהקופסה, עו\"ד של הקהל שחושב איך זה ישפיע על אחרים, והשופט הסופי שנותן את הגזר דין. זה עובד באופן בטוח מוקצר וחוסך הרבה זמן במקום שאתה מתווכחת עם עצמך בראש.",
       "link": "https://t.me/aipost/8806",
       "image_url": "https://cdn4.telesco.pe/file/BJKIcd3LMFS8OAKB76-PuITgyxPlpfDNIF-eLvdtBecsaWD_7MF3sD8cEmb9FryOYHCj-qzO9inJcLUWNHgu3YBJtwrAzVe5AzGk6d3TqKLZ6X01R-sM1DqL-BV0k-nKT_TQiWeaL5iOh7die8wUo7MhZofkFFyJqntabdxab0g0u2cHhbK6rnKtVqt7IIJW_gyf9QvxGRvoZoabX2Hwd7IlFBAFBNVcBDYinO43l9_9Yl3q9KN7dioe-i93600IHTUiS1e1X7XFwm3ZEMAyRor6khCPyFkkjnqBjf8jiXsln4cxbk3rG2JdNk4dVow7j0KHRVf43ouVA_lgbDyPJw.jpg",
       "pub_date": "2026-11-15T22:54:38+00:00",
       "author": null,
       "categories": [],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-11-16T00:10:19.544Z",
       "created_at": "2026-11-16T00:10:19.544Z"
@@ -626342,14 +626342,14 @@
       "source": "Prompt AI News (TG)",
       "title_en": "🚨 Jensen Huang is reportedly angling to get his Nvidia CEO job backThe FT reports that Huang has been talking with allies about a return. That's weeks after his ouster, with a spy scandal and a congr",
       "description_en": "🚨 Jensen Huang is reportedly angling to get his Nvidia CEO job backThe FT reports that Huang has been talking with allies about a return. That's weeks after his ouster, with a spy scandal and a congressional probe still hanging over the company.The sourcing is thin, and Nvidia hasn't confirmed anything.",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "🚨 ג'נסן הואנג מנסה להחזיר את עצמו לתפקיד מנכ\"ל Nvidia",
+      "description_he": "לפי דיווח של Financial Times, הואנג התחיל לשוחח עם בעלי ברית על חזרה לתפקיד, בשבועות לאחר הדחתו מתפקידו. בזמן שScandal של מודיעין וחקירה קונגרסית עדיין תולויים מעל ראש חברת הטיטן של AI, השמועות עדיין לא אושרו רשמית על ידי Nvidia עצמה.",
       "link": "https://t.me/prompt/1030",
       "image_url": null,
       "pub_date": "2026-11-15T23:37:29+00:00",
       "author": null,
       "categories": [],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-11-16T00:10:19.850Z",
       "created_at": "2026-11-16T00:10:19.850Z"
