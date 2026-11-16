@@ -626353,6 +626353,141 @@
       "priority": "hot",
       "fetchedAt": "2026-11-16T00:10:19.850Z",
       "created_at": "2026-11-16T00:10:19.850Z"
+    },
+    {
+      "id": 28900,
+      "source": "TechCrunch AI",
+      "title_en": "Apple launches new app to study how people use AI for health",
+      "description_en": "Apple's new app for a study will answer everyday medical questions",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+      "image_url": null,
+      "pub_date": "Mon, 16 Nov 2026 01:30:00 +0000",
+      "author": "Ivan Mehta",
+      "categories": [
+        "AI",
+        "Apps",
+        "Apple",
+        "Health",
+        "openevidence"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-16T02:03:40.953Z",
+      "created_at": "2026-11-16T02:03:40.953Z"
+    },
+    {
+      "id": 28901,
+      "source": "The Verge AI",
+      "title_en": "Apple’s new study looks to improve the effectiveness of AI health tools",
+      "description_en": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence, a clinical AI platform used by healthcare professionals that generates answers based on medical information from sources like The New England Journal of Medicine. Participants will use a new iOS app to ask medical questions and then ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+      "image_url": null,
+      "pub_date": "2026-11-16T01:26:56.000Z",
+      "author": "Andrew Liszewski",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-16T02:03:41.071Z",
+      "created_at": "2026-11-16T02:03:41.072Z"
+    },
+    {
+      "id": 28902,
+      "source": "The Guardian AI",
+      "title_en": "Elon Musk joins 158,000 others calling for Nvidia to bring back Jensen Huang in open letter",
+      "description_en": "Silicon Valley figures back CEO ousted after revelations of affair with suspected Chinese spy, as US treasury secretary urges Nvidia to carry out ‘dramatic shake-up’\nElon Musk and a host of other tech executives are among more than 158,000 signatories of an open letter calling for Jensen Huang’s reinstatement as Nvidia chief, days after he resigned from the multi-trillion dollar chip company.\nThe letter demands that the company’s board members “bring Jensen back while an independent investigatio",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo",
+      "image_url": "https://i.guim.co.uk/img/media/e480adfe7860e9e4439f965fe15e55a5e4ff13f0/555_0_5960_4770/master/5960.jpg?width=140&quality=85&auto=format&fit=max&s=50878ed33290d246ee0c626a144dabdb",
+      "pub_date": "Mon, 16 Nov 2026 01:01:08 GMT",
+      "author": "Guardian staff and agencies",
+      "categories": [
+        {
+          "_": "Nvidia",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/nvidia"
+          }
+        },
+        {
+          "_": "Jensen Huang",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/jensen-huang"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Trump administration",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/trump-administration"
+          }
+        },
+        {
+          "_": "Elon Musk",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/elon-musk"
+          }
+        },
+        {
+          "_": "Silicon Valley",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/silicon-valley"
+          }
+        },
+        {
+          "_": "China",
+          "$": {
+            "domain": "https://www.theguardian.com/world/china"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-16T02:03:43.240Z",
+      "created_at": "2026-11-16T02:03:43.240Z"
+    },
+    {
+      "id": 28903,
+      "source": "AI Post (TG)",
+      "title_en": "🗣 Brilliant but a jerk? Anthropic won't hire you, Dario Amodei saysAnthropic has been \"very disciplined about turning down people who are deeply technically talented\" but don't fit its culture, Amode",
+      "description_en": "🗣 Brilliant but a jerk? Anthropic won't hire you, Dario Amodei saysAnthropic has been \"very disciplined about turning down people who are deeply technically talented\" but don't fit its culture, Amodei told JPMorgan CEO Jamie Dimon on November 13, ahead of the company's IPO.\"We don't want people who are jerks. We don't want people who try to steal the show and don't work well with others. We don't want people who aren't oriented towards the public benefit.\"He says he spends 40% to 50% of his tim",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8807",
+      "image_url": null,
+      "pub_date": "2026-11-16T01:31:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-16T02:03:46.099Z",
+      "created_at": "2026-11-16T02:03:46.099Z"
     }
   ]
 }
