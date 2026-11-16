@@ -1,9 +1,9 @@
 {
-  "total": 28988,
+  "total": 28994,
   "translated": 28964,
-  "untranslated": 24,
-  "today": 98,
-  "week": 893,
+  "untranslated": 30,
+  "today": 104,
+  "week": 899,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -19,7 +19,7 @@
     },
     {
       "name": "TechCrunch AI",
-      "total": 1944,
+      "total": 1947,
       "translated": 1944,
       "lastDate": "Wed, 30 Sep 2026 23:43:07 +0000"
     },
@@ -37,7 +37,7 @@
     },
     {
       "name": "The Decoder",
-      "total": 1586,
+      "total": 1587,
       "translated": 1586,
       "lastDate": "Wed, 30 Sep 2026 22:06:30 +0000"
     },
@@ -127,21 +127,21 @@
     },
     {
       "name": "Wylsacom Red (TG)",
-      "total": 329,
+      "total": 330,
       "translated": 329,
-      "lastDate": "2026-11-16T13:15:01+00:00"
+      "lastDate": "2026-11-16T16:59:01+00:00"
+    },
+    {
+      "name": "Hugging Face Blog",
+      "total": 320,
+      "translated": 319,
+      "lastDate": "Wed, 30 Sep 2026 00:00:00 GMT"
     },
     {
       "name": "The Register",
       "total": 320,
       "translated": 320,
       "lastDate": "Wed, 30 Sep 2026 18:03:07 +0200"
-    },
-    {
-      "name": "Hugging Face Blog",
-      "total": 319,
-      "translated": 319,
-      "lastDate": "Wed, 30 Sep 2026 00:00:00 GMT"
     },
     {
       "name": "Futurism",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-11-16T17:02:19.960Z"
+  "generatedAt": "2026-11-16T17:17:50.998Z"
 }
