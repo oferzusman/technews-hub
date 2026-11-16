@@ -626936,6 +626936,1421 @@
       "priority": "hot",
       "fetchedAt": "2026-11-16T09:32:52.532Z",
       "created_at": "2026-11-16T09:32:52.532Z"
+    },
+    {
+      "id": 28925,
+      "source": "Ars Technica",
+      "title_en": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
+      "description_en": "Huang is weighing a return just days after resigning amid a deepening scandal.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/huang_computex_2024-1152x648.jpg",
+      "pub_date": "Mon, 16 Nov 2026 14:06:16 +0000",
+      "author": "\n                    Michael Acton, Financial Times\n                ",
+      "categories": [
+        "AI",
+        "Tech",
+        "Jensen Huang",
+        "NVIDIA",
+        "syndication"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-16T16:57:08.209Z",
+      "created_at": "2026-11-16T16:57:08.209Z"
+    },
+    {
+      "id": 28926,
+      "source": "TechCrunch AI",
+      "title_en": "Audible turns to AI to help users discover audiobooks",
+      "description_en": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
+      "image_url": null,
+      "pub_date": "Mon, 16 Nov 2026 15:52:19 +0000",
+      "author": "Sarah Perez",
+      "categories": [
+        "AI",
+        "Apps",
+        "Media & Entertainment",
+        "Amazon",
+        "Audible",
+        "audiobooks"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-16T16:57:08.219Z",
+      "created_at": "2026-11-16T16:57:08.219Z"
+    },
+    {
+      "id": 28927,
+      "source": "TechCrunch AI",
+      "title_en": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+      "description_en": "Under the interim rule, the U.S. will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+      "image_url": null,
+      "pub_date": "Mon, 16 Nov 2026 15:02:34 +0000",
+      "author": "Ram Iyer",
+      "categories": [
+        "AI",
+        "Government & Policy",
+        "Hardware",
+        "AI chips",
+        "export controls",
+        "semiconductor export ban"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-16T16:57:08.219Z",
+      "created_at": "2026-11-16T16:57:08.219Z"
+    },
+    {
+      "id": 28928,
+      "source": "TechCrunch AI",
+      "title_en": "Google Maps can now build trip itineraries with real-time details about each stop",
+      "description_en": "You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
+      "image_url": null,
+      "pub_date": "Mon, 16 Nov 2026 14:48:13 +0000",
+      "author": "Aisha Malik",
+      "categories": [
+        "AI",
+        "Apps",
+        "Google",
+        "Google Maps"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-16T16:57:08.219Z",
+      "created_at": "2026-11-16T16:57:08.219Z"
+    },
+    {
+      "id": 28929,
+      "source": "TechCrunch AI",
+      "title_en": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+      "description_en": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
+      "image_url": null,
+      "pub_date": "Mon, 16 Nov 2026 12:30:00 +0000",
+      "author": "Jagmeet Singh",
+      "categories": [
+        "Enterprise",
+        "Startups",
+        "AI",
+        "Accel",
+        "CRM",
+        "Exclusive",
+        "freshworks",
+        "Together Fund"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-16T16:57:08.219Z",
+      "created_at": "2026-11-16T16:57:08.219Z"
+    },
+    {
+      "id": 28930,
+      "source": "The Verge AI",
+      "title_en": "Audible is trying to make it easier to find audiobooks you’ll actually like",
+      "description_en": "Here’s what the new audio discovery feature looks like in the Audible app. | Image: Audible\t\n\nAudible is introducing an AI-assisted synopsis feature that's designed to help users determine whether they'll enjoy an audiobook before they jump in and start listening to it. The new audio discovery feature combines audiobook samples, AI overviews, and author commentary to give users more information before choosing their next story, in addition to recommended audiobook collections that are personaliz",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability",
+      "image_url": null,
+      "pub_date": "2026-11-16T14:00:00.000Z",
+      "author": "Jess Weatherbed",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-16T16:57:08.260Z",
+      "created_at": "2026-11-16T16:57:08.260Z"
+    },
+    {
+      "id": 28931,
+      "source": "The Verge AI",
+      "title_en": "Google Maps can now create trip itineraries for you",
+      "description_en": "Google is launching a new AI trip-planning feature for Maps that allows the app to create custom itineraries for you and provide real-time details about each stop. The update, which is rolling out to the Gemini-powered Ask Maps chatbot inside the app, lets you plan a one-day outing or a trip spanning several days.\nAs an example, Google says you can use Ask Maps to plan a day trip for holiday shopping, or have it create a schedule for a three-day road trip with stops for coastal hikes and oceanfr",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning",
+      "image_url": null,
+      "pub_date": "2026-11-16T14:00:00.000Z",
+      "author": "Emma Roth",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-16T16:57:08.260Z",
+      "created_at": "2026-11-16T16:57:08.260Z"
+    },
+    {
+      "id": 28932,
+      "source": "The Verge AI",
+      "title_en": "The Nvidia scandal isn’t slowing down",
+      "description_en": "For years, Jensen Huang has had an almost unprecedented power to shape AI's advancement as Nvidia's CEO, cofounder, and president. As The Verge wrote last week, Nvidia's chips are \"the bedrock upon which advanced AI technology in the US is being built.\" Ever-increasing demand has consistently outpaced supply, leading AI CEOs to essentially bow at Huang's feet as they vie for more compute ahead of their much-hyped IPOs. Nvidia also has a varied investment portfolio of up-and-coming AI companies f",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down",
+      "image_url": null,
+      "pub_date": "2026-11-16T13:00:00.000Z",
+      "author": "Hayden Field",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-16T16:57:08.260Z",
+      "created_at": "2026-11-16T16:57:08.260Z"
+    },
+    {
+      "id": 28933,
+      "source": "The Decoder",
+      "title_en": "Claude now builds interactive websites inside canvas graphics, reviving the Flash era with real HTML",
+      "description_en": "Claude can now embed text, buttons, and other web elements into complex graphics and 3D effects.\nThe article Claude now builds interactive websites inside canvas graphics, reviving the Flash era with real HTML appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/claude-now-builds-interactive-websites-inside-canvas-graphics-reviving-the-flash-era-with-real-html/",
+      "image_url": "http://the-decoder.de/wp-content/uploads/2026/11/Felix_Rieseberg_wordpress_small_480p.mp4",
+      "pub_date": "Mon, 16 Nov 2026 16:10:22 +0000",
+      "author": "Jonathan Kemper",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "AI and coding",
+        "Anthropic",
+        "Claude"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-16T16:57:09.540Z",
+      "created_at": "2026-11-16T16:57:09.540Z"
+    },
+    {
+      "id": 28934,
+      "source": "The Decoder",
+      "title_en": "Anthropic says the key to agent memory is knowing what to forget, not how much to store",
+      "description_en": "Anthropic studied how Claude retains knowledge across sessions. Selective notes beat exhaustive archives by a wide margin. In a Pokémon Red test, the newer Claude Fable 5 got four times as far as the older Sonnet 3.7 by keeping just a handful of strategy files instead of more than 400. A \"Dreaming\" process retroactively corrects faulty memories.\nThe article Anthropic says the key to agent memory is knowing what to forget, not how much to store appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/anthropic-says-the-key-to-agent-memory-is-knowing-what-to-forget-not-how-much-to-store/",
+      "image_url": null,
+      "pub_date": "Mon, 16 Nov 2026 15:25:48 +0000",
+      "author": "Jonathan Kemper",
+      "categories": [
+        "AI research",
+        "Artificial Intelligence",
+        "Anthropic",
+        "Claude"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-16T16:57:09.540Z",
+      "created_at": "2026-11-16T16:57:09.540Z"
+    },
+    {
+      "id": 28935,
+      "source": "MIT Technology Review",
+      "title_en": "Building trustworthy AI by fencing it in, not predicting it",
+      "description_en": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t. No rule had told the agents to do…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+      "image_url": null,
+      "pub_date": "Mon, 16 Nov 2026 16:04:28 +0000",
+      "author": "Sudhi Sinha",
+      "categories": [
+        "Artificial intelligence",
+        "sponsored"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-16T16:57:09.654Z",
+      "created_at": "2026-11-16T16:57:09.654Z"
+    },
+    {
+      "id": 28936,
+      "source": "MIT Technology Review",
+      "title_en": "The Download: testing tech promises and searching for cognitive immortality",
+      "description_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Are we there yet? Six technologies that promised to change the world How do you measure progress towards the future? In the Impossible issue of MIT Technology Review, our series “Are…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest/",
+      "image_url": null,
+      "pub_date": "Mon, 16 Nov 2026 13:10:00 +0000",
+      "author": "Thomas Macaulay",
+      "categories": [
+        "The Download"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-16T16:57:09.654Z",
+      "created_at": "2026-11-16T16:57:09.654Z"
+    },
+    {
+      "id": 28937,
+      "source": "MIT Technology Review",
+      "title_en": "Building AI that can work across the enterprise",
+      "description_en": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a deeper challenge: rethinking how data, business processes, governance,…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
+      "image_url": null,
+      "pub_date": "Mon, 16 Nov 2026 13:00:00 +0000",
+      "author": "MIT Technology Review Insights",
+      "categories": [
+        "Artificial intelligence",
+        "sponsored"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-16T16:57:09.654Z",
+      "created_at": "2026-11-16T16:57:09.654Z"
+    },
+    {
+      "id": 28938,
+      "source": "MarkTechPost",
+      "title_en": "Meet Meta’s JiTTests: LLM-Generated Tests Designed to Fail Before Risky Code Lands",
+      "description_en": "Meta has moved Catching JiTTests into production. The LLM system writes tests designed to fail on risky diffs, and caught 74 privacy SEVs before landing in H1 2026, with a 60% engineer-reported true-positive rate.\nThe post Meet Meta’s JiTTests: LLM-Generated Tests Designed to Fail Before Risky Code Lands appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/11/16/meta-jittests-llm-catching-tests-privacy-bugs/",
+      "image_url": null,
+      "pub_date": "Mon, 16 Nov 2026 10:39:41 +0000",
+      "author": "Michal Sutter",
+      "categories": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Enterprise AI",
+        "For Devs",
+        "Harness",
+        "Machine Learning",
+        "Security",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology",
+        "Uncategorized"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-16T16:57:09.761Z",
+      "created_at": "2026-11-16T16:57:09.761Z"
+    },
+    {
+      "id": 28939,
+      "source": "MarkTechPost",
+      "title_en": "Alibaba Releases Qwen4-Max: 2.4T MoE, 71B Active, 1M Context",
+      "description_en": "Alibaba released Qwen4-Max, a proprietary 2.4T-parameter MoE model with 71B active parameters, native vision and a 1M-token context. It costs $1.5/M input tokens and cuts Work360 cost per task by 62%.\nThe post Alibaba Releases Qwen4-Max: 2.4T MoE, 71B Active, 1M Context appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/11/16/alibaba-qwen4-max-release/",
+      "image_url": null,
+      "pub_date": "Mon, 16 Nov 2026 09:44:17 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Context Engineering",
+        "Editors Pick",
+        "Enterprise AI",
+        "For Devs",
+        "Harness",
+        "Language Model",
+        "New Releases",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-16T16:57:09.761Z",
+      "created_at": "2026-11-16T16:57:09.761Z"
+    },
+    {
+      "id": 28940,
+      "source": "OpenAI Blog",
+      "title_en": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "description_en": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/lvmh-media-division-partnership",
+      "image_url": null,
+      "pub_date": "Mon, 16 Nov 2026 09:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Company"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-16T16:57:09.848Z",
+      "created_at": "2026-11-16T16:57:09.848Z"
+    },
+    {
+      "id": 28941,
+      "source": "OpenAI Blog",
+      "title_en": "Advancing computer-use agents for healthcare teams",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+      "image_url": null,
+      "pub_date": "Mon, 16 Nov 2026 06:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Product"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-16T16:57:09.848Z",
+      "created_at": "2026-11-16T16:57:09.848Z"
+    },
+    {
+      "id": 28942,
+      "source": "OpenAI Blog",
+      "title_en": "More ways to move care forward with ChatGPT for Healthcare",
+      "description_en": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "image_url": null,
+      "pub_date": "Mon, 16 Nov 2026 06:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Product"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-16T16:57:09.848Z",
+      "created_at": "2026-11-16T16:57:09.848Z"
+    },
+    {
+      "id": 28943,
+      "source": "OpenAI Blog",
+      "title_en": "The King’s Trust and OpenAI launch £1m partnership",
+      "description_en": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/the-kings-trust-and-openai",
+      "image_url": null,
+      "pub_date": "Mon, 16 Nov 2026 00:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Global Affairs"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-16T16:57:09.848Z",
+      "created_at": "2026-11-16T16:57:09.848Z"
+    },
+    {
+      "id": 28944,
+      "source": "OpenAI Blog",
+      "title_en": "Our first phase of embedded assessments",
+      "description_en": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+      "image_url": null,
+      "pub_date": "Fri, 13 Nov 2026 08:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Safety"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-16T16:57:09.848Z",
+      "created_at": "2026-11-16T16:57:09.848Z"
+    },
+    {
+      "id": 28945,
+      "source": "Google AI Blog",
+      "title_en": "New Ask Maps features to help with holiday travel and prep",
+      "description_en": "Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ask_Maps_November_herosocial.max-600x600.format-webp.webp",
+      "pub_date": "Mon, 16 Nov 2026 14:00:00 +0000",
+      "author": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Maz Khorasani"
+        ],
+        "title": [
+          "Product Director, Google Maps"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "categories": [
+        "Travel",
+        "Maps",
+        "AI"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-16T16:57:09.958Z",
+      "created_at": "2026-11-16T16:57:09.958Z"
+    },
+    {
+      "id": 28946,
+      "source": "New Atlas",
+      "title_en": "US data centers are burning through as much electricity as entire states",
+      "description_en": "Between 2024 and 2025, America’s largest data centers used as much electricity as the state of Michigan, according to a recently published account by an international team of researchers.\nContinue Reading\nCategory: Technology\nTags: LLM (Large Language Model), Data Center, Open AI, Power, Renewable Energy",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/technology/data-centers-using-electricity-entire-states/",
+      "image_url": null,
+      "pub_date": "Mon, 16 Nov 2026 16:01:00 GMT",
+      "author": "Mike McRae",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-16T16:57:10.189Z",
+      "created_at": "2026-11-16T16:57:10.189Z"
+    },
+    {
+      "id": 28947,
+      "source": "New Atlas",
+      "title_en": "RESO Pilot Pro Intercom review: Riding with the new kid on the block",
+      "description_en": "It’s often said that a monopoly can be bad for business. For years, two brands have had a monopoly of sorts in the intercom market: Cardo and Sena. Sure, there have been a few smaller players that've tried to muscle their way into the conversation now and then, but when it comes to premium helmet communication systems, these two have largely had the run of the place.\nContinue Reading\nCategory: Motorcycles, Transport\nTags: Intercom, Helmets, Bluetooth, Headset, Communications, DJI Innovations, Go",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/motorcycles/reso-pilot-pro-intercom-review/",
+      "image_url": null,
+      "pub_date": "Mon, 16 Nov 2026 15:03:05 GMT",
+      "author": "Utkarsh Sood",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-16T16:57:10.189Z",
+      "created_at": "2026-11-16T16:57:10.189Z"
+    },
+    {
+      "id": 28948,
+      "source": "New Atlas",
+      "title_en": "Low-effort diet boosts lifespan, weight loss and disease protection",
+      "description_en": "A short-term \"break\" that doesn't let you go hungry, the fasting-mimicking diet (FMD) has been gaining momentum in longevity science thanks to more rigorous findings based on human studies – and how easy it is to stick with to reap the reported benefits.\nContinue Reading\nCategory: Diet & Nutrition, Wellness and Healthy Living, Body and Mind\nTags: Harvard, Stanford University, Diet, Inflammation, Disease, Age-Related, anti-aging",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/diet-nutrition/fasting-benefits-without-effort-fmd/",
+      "image_url": null,
+      "pub_date": "Mon, 16 Nov 2026 10:27:00 GMT",
+      "author": "Bronwyn Thompson",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-16T16:57:10.189Z",
+      "created_at": "2026-11-16T16:57:10.189Z"
+    },
+    {
+      "id": 28949,
+      "source": "The Guardian AI",
+      "title_en": "Trump backs calls for reinstatement of Jensen Huang as Nvidia CEO",
+      "description_en": "As tech industry pushes for return, US president says he thinks Huang ‘learned a big lesson’\nDonald Trump has expressed support for the return of Jensen Huang as the chief executive of Nvidia, as he joined Silicon Valley heavyweights in demanding the reinstatement of the AI figurehead.\nThe US president referred to a tech industry campaign for Huang’s rehabilitation, saying a “big group” of people would like him back.\n Continue reading...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/nov/16/trump-backs-calls-for-reinstatement-of-jensen-huang-as-nvidia-ceo",
+      "image_url": "https://i.guim.co.uk/img/media/7f67412f0366dc2ae41bf00eadde0fe0b8e1c6d0/817_89_6141_4914/master/6141.jpg?width=140&quality=85&auto=format&fit=max&s=f383d71329a6f68ee1d040041748f913",
+      "pub_date": "Mon, 16 Nov 2026 16:48:47 GMT",
+      "author": "Dan Milmo and Lauren Almeida",
+      "categories": [
+        {
+          "_": "Nvidia",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/nvidia"
+          }
+        },
+        {
+          "_": "Jensen Huang",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/jensen-huang"
+          }
+        },
+        {
+          "_": "Donald Trump",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/donaldtrump"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        },
+        {
+          "_": "Technology sector",
+          "$": {
+            "domain": "https://www.theguardian.com/business/technology"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "China",
+          "$": {
+            "domain": "https://www.theguardian.com/world/china"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-16T16:57:10.289Z",
+      "created_at": "2026-11-16T16:57:10.289Z"
+    },
+    {
+      "id": 28950,
+      "source": "The Guardian AI",
+      "title_en": "AI models ‘weak and fallible’ on climate science, UN-backed study reports",
+      "description_en": "While mostly accurate describing simple facts, models pivoted to denial and wrong answers when challenged\n\nCop31 live – latest updates\n\nArtificial intelligence models can quickly turn into climate crisis deniers at the mildest challenge from users, according to a new UN-backed study.\nWhile AI models can accurately confirm simple facts about climate change, eight times out of 10 when they pivoted to a wrong answer, they did so “at the very first sign that the user mildly disagreed” to confirm inc",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/environment/2026/nov/16/ai-models-fallible-denial-climate-science-unesco-cop31",
+      "image_url": "https://i.guim.co.uk/img/media/8a8dda7a7c4cd1ba14ec104f348c597ef0af837d/158_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=8eb7a2c8a68a8762d7e682153f2e98cd",
+      "pub_date": "Mon, 16 Nov 2026 16:05:58 GMT",
+      "author": "Graham Readfearn in Antalya",
+      "categories": [
+        {
+          "_": "Cop31",
+          "$": {
+            "domain": "https://www.theguardian.com/environment/cop31"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Unesco",
+          "$": {
+            "domain": "https://www.theguardian.com/world/unesco"
+          }
+        },
+        {
+          "_": "United Nations",
+          "$": {
+            "domain": "https://www.theguardian.com/world/unitednations"
+          }
+        },
+        {
+          "_": "Environment",
+          "$": {
+            "domain": "https://www.theguardian.com/environment/environment"
+          }
+        },
+        {
+          "_": "Turkey",
+          "$": {
+            "domain": "https://www.theguardian.com/world/turkey"
+          }
+        },
+        {
+          "_": "Climate crisis",
+          "$": {
+            "domain": "https://www.theguardian.com/environment/climate-crisis"
+          }
+        },
+        {
+          "_": "UCL (University College London)",
+          "$": {
+            "domain": "https://www.theguardian.com/education/universitycollegelondon"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-16T16:57:10.289Z",
+      "created_at": "2026-11-16T16:57:10.289Z"
+    },
+    {
+      "id": 28951,
+      "source": "The Guardian AI",
+      "title_en": "Albanese treads tightrope in upcoming Trump meeting, wanting Indo-Pacific engagement and end to Iran and Ukraine wars",
+      "description_en": "Quad leaders’ summit in Philippines is Trump’s first, as Australia joins US and Japan to protect AI technologies in face of China efforts to dominate\n\nGet our daily political email, free app or daily news podcast\n\nAnthony Albanese will attempt to walk a tightrope in his relationship with Donald Trump when the pair meets on Tuesday, arguing for a speedy resolution to the wars in Iran and Ukraine while urging the US to engage in the Indo-Pacific.\nThe Quad leaders’ summit in the Philippines’ capita",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/australia-news/2026/nov/16/albanese-treads-tightrope-in-upcoming-trump-meeting-wanting-indo-pacific-engagement-and-end-to-iran-and-ukraine-wars",
+      "image_url": "https://i.guim.co.uk/img/media/b57480f6f6d59b1e608fcb68882810c017ea2e92/499_0_4985_3988/master/4985.jpg?width=140&quality=85&auto=format&fit=max&s=dcd65629c0528069bb39b7b12ba209c6",
+      "pub_date": "Mon, 16 Nov 2026 09:40:29 GMT",
+      "author": "Tom McIlroy in Manila",
+      "categories": [
+        {
+          "_": "Australian foreign policy",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/australian-foreign-policy"
+          }
+        },
+        {
+          "_": "Donald Trump",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/donaldtrump"
+          }
+        },
+        {
+          "_": "Anthony Albanese",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/anthony-albanese"
+          }
+        },
+        {
+          "_": "Australian politics",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/australian-politics"
+          }
+        },
+        {
+          "_": "Asean (Association of Southeast Asian Nations)",
+          "$": {
+            "domain": "https://www.theguardian.com/world/asean"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Australia news",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/australia-news"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-16T16:57:10.289Z",
+      "created_at": "2026-11-16T16:57:10.289Z"
+    },
+    {
+      "id": 28952,
+      "source": "Interesting Engineering",
+      "title_en": "600-ton unmanned warship hits the water in nine months, targets US Navy fleet",
+      "description_en": "HD Hyundai, the South Korean manufacturing giant, has teamed up with US-based artificial intelligence (AI)...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/first-unmanned-vessel-for-us-navy",
+      "image_url": null,
+      "pub_date": "Mon, 16 Nov 2026 14:11:25 +0000",
+      "author": "Ameya Paleja",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-16T16:57:12.067Z",
+      "created_at": "2026-11-16T16:57:12.067Z"
+    },
+    {
+      "id": 28953,
+      "source": "Interesting Engineering",
+      "title_en": "Hit 45 times by FPV drones, German-made Leopard tank stays operational in Ukraine",
+      "description_en": "A German-made Leopard tank used by Ukrainian forces survived 45 FPV drone attacks during Operation...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/german-leopard-tank-45-drones-ukraine",
+      "image_url": null,
+      "pub_date": "Mon, 16 Nov 2026 13:50:49 +0000",
+      "author": "Kaushal Kishore",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-16T16:57:12.068Z",
+      "created_at": "2026-11-16T16:57:12.068Z"
+    },
+    {
+      "id": 28954,
+      "source": "Interesting Engineering",
+      "title_en": "27,382 heart scans read in seconds by new AI model, outdoes clinicians by a slight margin",
+      "description_en": "An AI system can analyze cardiac magnetic resonance (CMR) scans within seconds, offering doctors a...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/health/ai-heart-scan-cmr-analysis-doctors",
+      "image_url": null,
+      "pub_date": "Mon, 16 Nov 2026 13:43:25 +0000",
+      "author": "Kaushal Kishore",
+      "categories": [
+        "Health"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-16T16:57:12.068Z",
+      "created_at": "2026-11-16T16:57:12.068Z"
+    },
+    {
+      "id": 28955,
+      "source": "Tom's Hardware",
+      "title_en": "Intel bets on Classiq acquisition to turn Quantum efforts into commercially viable business — deal positions company as leading vendor of qubit chips, acquisition to close by the first half of 2027",
+      "description_en": "Intel aims to turn its quantum computing research effort into a commercial business by combining its silicon spin-qubit technology and manufacturing capabilities with Classiq’s established software platform and customer base.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/quantum-computing/intel-bets-on-classiq-acquisition-to-turn-quantum-efforts-into-commercially-viable-business-deal-positions-company-as-leading-vendor-of-qubit-chips-acquisition-to-close-by-the-first-half-of-2027",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/jFuLeDoS3yepBpNT3uuUaN-1920-80.jpg",
+      "pub_date": "Mon, 16 Nov 2026 16:30:00 +0000",
+      "author": " Anton Shilov ",
+      "categories": [
+        "Quantum Computing",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-16T16:57:12.459Z",
+      "created_at": "2026-11-16T16:57:12.459Z"
+    },
+    {
+      "id": 28956,
+      "source": "Tom's Hardware",
+      "title_en": "Minisforum Elite Mini M2 Air-304 review: A quiet and compact Wildcat",
+      "description_en": "With an Intel Wildcat Lake CPU, the Minisforum Elite Mini M2 Air-304 PC runs cool and quiet, but is only suitable for casual users. Due to the prices of RAM and storage, trying to save money using entry-level silicon doesn’t work as well as it used to.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/desktops/mini-pcs/minisforum-elite-mini-m2-air-304-review",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/G3ccF7itdX36LKpD7tVq9i-1920-80.jpg",
+      "pub_date": "Mon, 16 Nov 2026 15:00:00 +0000",
+      "author": " Mark Tyson ",
+      "categories": [
+        "Mini PCs",
+        "Desktops"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-16T16:57:12.459Z",
+      "created_at": "2026-11-16T16:57:12.459Z"
+    },
+    {
+      "id": 28957,
+      "source": "Tom's Hardware",
+      "title_en": "Anthropic says Claude Mythos Preview cut AMD MI355X onboarding from up to 12 months to around three days",
+      "description_en": "Anthropic says Claude Mythos Preview brought up prompt processing for one model on AMD Instinct MI355X GPUs in about three days.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/jcG9LwCNh8XUGiSJ9Pxw7Z-1920-80.jpg",
+      "pub_date": "Mon, 16 Nov 2026 15:00:00 +0000",
+      "author": " Shane Downing ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-16T16:57:12.459Z",
+      "created_at": "2026-11-16T16:57:12.459Z"
+    },
+    {
+      "id": 28958,
+      "source": "Tom's Hardware",
+      "title_en": "Overlocker uses vibecoded BIOS modification to target Intel's non-K overclocking restrictions",
+      "description_en": "ASRock discontinued SkyOC following Intel's efforts to block non-K CPU overclocking, but an enthusiast is now using AI to see if the old workaround can be adapted for newer platforms.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/cpus/overlocker-uses-vibecoded-bios-modification-to-target-intels-non-k-overclocking-restrictions-attempts-to-revive-asrocks-discontinued-skyoc-technology",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/upv5CLs6eZgME2q4v4v9MX-1920-80.jpg",
+      "pub_date": "Mon, 16 Nov 2026 14:54:10 +0000",
+      "author": " Kunal Khullar ",
+      "categories": [
+        "CPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-16T16:57:12.459Z",
+      "created_at": "2026-11-16T16:57:12.459Z"
+    },
+    {
+      "id": 28959,
+      "source": "Tom's Hardware",
+      "title_en": "Unlock Tom's Hardware Premium's SuperComputer 2026 coverage for free — sign up for an account to read detailed reports from the show",
+      "description_en": "For a limited time, you’ll be able to read all of our latest reports from SuperComputer 2026 with a Tom’s Hardware account, no payment required.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/unlock-toms-hardware-premiums-supercomputer-2026-coverage-for-free-sign-up-for-an-account-to-read-detailed-reports-from-the-show",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/mGhDAAqYZfSzkURo9H7u5k-1920-80.jpg",
+      "pub_date": "Mon, 16 Nov 2026 14:00:00 +0000",
+      "author": " Sayem Ahmed ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-16T16:57:12.459Z",
+      "created_at": "2026-11-16T16:57:12.459Z"
+    },
+    {
+      "id": 28960,
+      "source": "Tom's Hardware",
+      "title_en": "Amazon’s Starlink rival sees major setback after 40 satellites destroyed in rocket failure",
+      "description_en": "Amazon has suffered a major setback in its plans to offer a viable Starlink rival, after 40 satellites destined for low earth orbit were destroyed in a failed rocket launch.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/space/amazons-starlink-rival-sees-major-setback-after-40-satellites-destroyed-in-rocket-failure-anomaly-occurred-10-minutes-after-the-vulcan-launch-on-sunday",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/AuR9e4NYXwgJvyt68SCzeT-1920-80.jpg",
+      "pub_date": "Mon, 16 Nov 2026 13:30:00 +0000",
+      "author": " Mark Tyson ",
+      "categories": [
+        "Space",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-16T16:57:12.459Z",
+      "created_at": "2026-11-16T16:57:12.459Z"
+    },
+    {
+      "id": 28961,
+      "source": "Tom's Hardware",
+      "title_en": "Jailbroken PS4 runs 9-billion-parameter AI model at up to 43 tokens per second",
+      "description_en": "Garlic LLM runs Alibaba’s Qwen3.5-9B on a jailbroken PlayStation 4’s GPU, fully offline, at 31 to 39 tokens per second.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/video-games/playstation/jailbroken-ps4-runs-9-billion-parameter-ai-model-at-up-to-43-tokens-per-second-open-source-garlic-llm-bypasses-drivers-to-talk-directly-to-the-2013-era-gpu",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/NiEzQj4gSZE2jaQaCMEuvG-1920-80.jpg",
+      "pub_date": "Mon, 16 Nov 2026 13:00:00 +0000",
+      "author": " Shane Downing ",
+      "categories": [
+        "PlayStation",
+        "Video Games",
+        "Console Gaming"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-16T16:57:12.459Z",
+      "created_at": "2026-11-16T16:57:12.459Z"
+    },
+    {
+      "id": 28962,
+      "source": "Tom's Hardware",
+      "title_en": "Jensen Huang could be plotting return as Nvidia CEO, report claims",
+      "description_en": "Jensen Huang could be back in his old Nvidia office soon as allies rally to push the AI chipmaker to take him back just days after he was ousted over an affair with an alleged Chinese spy.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/jensen-huang-could-be-plotting-return-as-nvidia-ceo-report-claims-allies-have-formed-a-war-room-to-drive-reinstatement-days-after-resignation-scandal",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/tCck6nnA9N6apg5MsvEC7k-1920-80.png",
+      "pub_date": "Mon, 16 Nov 2026 12:37:39 +0000",
+      "author": " Oliver Haslam ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-16T16:57:12.459Z",
+      "created_at": "2026-11-16T16:57:12.459Z"
+    },
+    {
+      "id": 28963,
+      "source": "Tom's Hardware",
+      "title_en": "Fable 5.2 creates an underwater world in a browser in only 96 KB",
+      "description_en": "Fable 5.2 creates an underwater world in a browser in only 96 KB — impressive demo shows how far agent agency has come",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/fable-5-2-creates-an-underwater-world-in-a-browser-in-only-96-kb-40-line-prompt-creates-impressive-demo-that-runs-at-180-fps",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/nXAFaumdgwqSTyXixK2UK9-1920-80.png",
+      "pub_date": "Mon, 16 Nov 2026 11:30:00 +0000",
+      "author": " Bruno Ferreira ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-16T16:57:12.459Z",
+      "created_at": "2026-11-16T16:57:12.459Z"
+    },
+    {
+      "id": 28964,
+      "source": "Tom's Hardware",
+      "title_en": "Grab a DDR5 gaming PC with a 10GB GPU for only $949",
+      "description_en": "Save $250 on a brand-new iBuypower Slate gaming PC in this Best Buy deal.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/desktops/gaming-pcs/grab-a-ddr5-gaming-pc-with-a-10gb-gpu-for-only-usd949-ibuypowers-slate-gaming-rig-features-an-intel-b570-graphics-card-and-16gb-of-ram",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/8mUE7Lmc7e9s578TpqBqLd-1920-80.jpg",
+      "pub_date": "Mon, 16 Nov 2026 11:15:25 +0000",
+      "author": " Stewart Bendle ",
+      "categories": [
+        "Gaming PCs",
+        "Desktops"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-16T16:57:12.459Z",
+      "created_at": "2026-11-16T16:57:12.459Z"
+    },
+    {
+      "id": 28965,
+      "source": "Tom's Hardware",
+      "title_en": "Nvidia amassed $530 billion in financial guarantees to corner the AI market",
+      "description_en": "Nvidia amassed $530 billion in financial guarantees to corner the AI market",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-amassed-usd530-billion-in-financial-guarantees-to-corner-the-ai-market-supply-commitments-rose-by-nearly-a-quarter-of-a-trillion-dollars-in-a-single-quarter",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/xvsSkBmSjmjPCPZkKa3aUi-1920-80.jpg",
+      "pub_date": "Mon, 16 Nov 2026 11:00:00 +0000",
+      "author": " Anton Shilov ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-16T16:57:12.459Z",
+      "created_at": "2026-11-16T16:57:12.459Z"
+    },
+    {
+      "id": 28966,
+      "source": "CNBC Tech",
+      "title_en": "Anthropic’s Wall Street whisperer: Meet CFO Krishna Rao",
+      "description_en": "Anthropic's upcoming IPO is putting finance chief Krishna Rao into the limelight.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/16/anthropic-cfo-krishna-rao-ipo.html",
+      "image_url": null,
+      "pub_date": "Mon, 16 Nov 2026 16:08:16 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-16T16:57:13.098Z",
+      "created_at": "2026-11-16T16:57:13.098Z"
+    },
+    {
+      "id": 28967,
+      "source": "CNBC Tech",
+      "title_en": "Anthropic IPO guide: Everything you need to know",
+      "description_en": "Anthropic is set to start trading this week on the Nasdaq under the ticker symbol ANT.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/16/anthropic-ipo-date-price-range.html",
+      "image_url": null,
+      "pub_date": "Mon, 16 Nov 2026 14:55:17 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-16T16:57:13.098Z",
+      "created_at": "2026-11-16T16:57:13.098Z"
+    },
+    {
+      "id": 28968,
+      "source": "CNBC Tech",
+      "title_en": "Nvidia's Colette Kress confronts key questions in first earnings report since Jensen Huang’s exit",
+      "description_en": "Less than a week after Jensen Huang's abrupt departure, Nvidia interim CEO Colette Kress faces a major test with earnings.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/16/nvidia-earnings-jensen-huang-resignation.html",
+      "image_url": null,
+      "pub_date": "Mon, 16 Nov 2026 13:42:43 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-16T16:57:13.098Z",
+      "created_at": "2026-11-16T16:57:13.098Z"
+    },
+    {
+      "id": 28969,
+      "source": "CNBC Tech",
+      "title_en": "Nvidia shares under pressure as calls grow for Huang to be reinstated as CEO",
+      "description_en": "Chip stocks are in the red as exports face additional scrutiny",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/16/morning-squawk-nvidia-share-calls-reinstate-huang-ceo.html",
+      "image_url": null,
+      "pub_date": "Mon, 16 Nov 2026 13:14:21 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-16T16:57:13.098Z",
+      "created_at": "2026-11-16T16:57:13.098Z"
+    },
+    {
+      "id": 28970,
+      "source": "CNBC Tech",
+      "title_en": "Nvidia stock falls as investors price in fallout from Jensen Huang's resignation",
+      "description_en": "Nvidia's stock continued to slide on Monday following the resignation of CEO Jensen Huang.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/16/nvidia-stock-price-jensen-huang.html",
+      "image_url": null,
+      "pub_date": "Mon, 16 Nov 2026 15:24:27 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-16T16:57:13.098Z",
+      "created_at": "2026-11-16T16:57:13.098Z"
+    },
+    {
+      "id": 28971,
+      "source": "CNBC Tech",
+      "title_en": "‘Standing on one leg’: IMF chief warns about global economy as AI circular financing hits $1 trillion",
+      "description_en": "Kristalina Georgieva says circular financing among AI companies has grown to just over $1 trillion, two-thirds of it debt, as investor enthusiasm cools",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/16/imf-georgieva-warning-ai-circular-financing.html",
+      "image_url": null,
+      "pub_date": "Mon, 16 Nov 2026 09:14:46 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-16T16:57:13.098Z",
+      "created_at": "2026-11-16T16:57:13.098Z"
+    },
+    {
+      "id": 28972,
+      "source": "XOR Journal (TG)",
+      "title_en": "Превращаем любой сайт в готовый брендбук для агентов — нашли бесплатный сервис AI Brand Kit, который за пару кликов собирает фирменный стиль компании.Достаточно вставить ссылку, и инструмент сам извле",
+      "description_en": "Превращаем любой сайт в готовый брендбук для агентов — нашли бесплатный сервис AI Brand Kit, который за пару кликов собирает фирменный стиль компании.Достаточно вставить ссылку, и инструмент сам извлечёт цвета, шрифты, логотип и стиль текстов в файлы DESIGN.md, BRAND.md и SKILL.md. Их можно передать Claude, ChatGPT, Cursor и Codex, чтобы ИИ создавал контент в похожем ключе.Идеально, чтобы разобрать чужой стиль 😼@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10520",
+      "image_url": null,
+      "pub_date": "2026-11-16T10:21:00+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-16T16:57:17.346Z",
+      "created_at": "2026-11-16T16:57:17.346Z"
+    },
+    {
+      "id": 28973,
+      "source": "XOR Journal (TG)",
+      "title_en": "В случае восстания роботов прячьтесь в мусорный бак. Потом спасибо скажете ☕️@xor_journal",
+      "description_en": "В случае восстания роботов прячьтесь в мусорный бак. Потом спасибо скажете ☕️@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10521",
+      "image_url": null,
+      "pub_date": "2026-11-16T13:01:50+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-16T16:57:17.346Z",
+      "created_at": "2026-11-16T16:57:17.346Z"
+    },
+    {
+      "id": 28974,
+      "source": "XOR Journal (TG)",
+      "title_en": "Звёздные инженеры российских видеосервисов соберутся в одном месте — уже 28 ноября VK устроит настоящий Голливуд для технарей.На конференции VK JT Видео эксперты VideoTech-сообщества поделятся своими ",
+      "description_en": "Звёздные инженеры российских видеосервисов соберутся в одном месте — уже 28 ноября VK устроит настоящий Голливуд для технарей.На конференции VK JT Видео эксперты VideoTech-сообщества поделятся своими секретами: Иви расскажет, как сократил расходы на видеотрафик более чем на 40%, КИОН о том, как сэкономил до 20% на CDN, а VK — об оценке эффективности алгоритмов адаптивного выбора качества видео. Будет и эксперт из МГУ Дмитрий Ватолин, который сравнит видеохостинги, онлайн-кинотеатры и видеокодеки",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10522",
+      "image_url": "https://cdn4.telesco.pe/file/cEVRn7qSmddrPO9YfkO0sCMIe5z56xvel54R_He3krbooO9I_ehluIarDsc0-CS6KYCSw3xx0q99fTpskVsK-CTuETq12lbO0zOQ3_QVwq-hg0Tj43MZtbMEmRhKQIcR3xznuPfhHdo6Zoy-Ba5T5ZIlUAxV4fbOn3t1sQmMnlRnBwY91OtP_xcma7fnT0ilA0WmfgMePKu7nsR-lWTKmWBmVOdCa42VCvlDZjYUXqcM8-yMXZaiKR6DrgwoGjCBHiMX3ICsG6HC2PIEqKg95dg-TUVHVF5s19xzV-A2zjBMHfea1X-bq1Zb0qOr0TN28FCcUDabpZKaC3dVvIiawg.jpg",
+      "pub_date": "2026-11-16T15:00:08+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-16T16:57:17.346Z",
+      "created_at": "2026-11-16T16:57:17.346Z"
+    },
+    {
+      "id": 28975,
+      "source": "XOR Journal (TG)",
+      "title_en": "Claude Fable 5.2 создала целый подводный мир размером всего 97 КБ — и все это исключительно с помощью кода 😨В Abyssal Garden есть заросли водорослей, затонувший корабль, скаты, стаи рыб и реалистично",
+      "description_en": "Claude Fable 5.2 создала целый подводный мир размером всего 97 КБ — и все это исключительно с помощью кода 😨В Abyssal Garden есть заросли водорослей, затонувший корабль, скаты, стаи рыб и реалистичное освещение. Весь мир генерируется кодом внутри одного HTML-файла без игрового движка, готовых 3D-моделей и текстур.На RTX 5070 Ti проект выдаёт около 180 FPS в 1440p. По словам автора, на генерацию ушло всего 2–3 часа и 35 строк промпта, а доработки заняли три дня.Поплавать и оценить демо можно тут",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10523",
+      "image_url": null,
+      "pub_date": "2026-11-16T15:41:02+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-16T16:57:17.346Z",
+      "created_at": "2026-11-16T16:57:17.346Z"
+    },
+    {
+      "id": 28976,
+      "source": "XOR Journal (TG)",
+      "title_en": "Наконец-то найдено резюме, которое понравится эйчарам 😂@xor_journal",
+      "description_en": "Наконец-то найдено резюме, которое понравится эйчарам 😂@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10524",
+      "image_url": "https://cdn4.telesco.pe/file/Gy0c1XGyxYlWmU3-25usd39NF3UBgBApE1Q37I_aAiWIcTsvYOPnDX5muOQbgREEmDfoW61eiugDgjJRDsYH1gPMhE7IHU0wtrz-C75RvOicvE9FHVoOBeYKI734CRKL2fIHo9zd1CSE8m3fZs5a6oiRFz1a7PWSTdqqWHVVuFc60Prn-LC5myZkte8xj0Uu0VWbuoNLPFepovoIX16JIEX5HEDGesYyxpB89OreoNKJh7jx-jL6V1B4j_LGc5eMN-hBcWAljV5Nw2OEOH3V5HpPvEwtGtMRBNLernfUMkl9H5SlCw6fyg6ogVDwjtQJxrnzHS7NmnkbKQCFf4eTkA.jpg",
+      "pub_date": "2026-11-16T16:22:28+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-16T16:57:17.346Z",
+      "created_at": "2026-11-16T16:57:17.346Z"
+    },
+    {
+      "id": 28977,
+      "source": "XOR Journal (TG)",
+      "title_en": "«Багов бояться — в прод не ходить» — у айтишников появился свой словарь пословиц!ИТ-холдинг Т1 запустил креативный проект к конференции Импульс Т1, в котором привычные русские поговорки переделали под",
+      "description_en": "«Багов бояться — в прод не ходить» — у айтишников появился свой словарь пословиц!ИТ-холдинг Т1 запустил креативный проект к конференции Импульс Т1, в котором привычные русские поговорки переделали под суровые будни разработчиков.Смотрим остальные шедевры здесь и выбираем в комментариях самую жизненную 😬@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10525",
+      "image_url": "https://cdn4.telesco.pe/file/Bhl-_rSHjmDpkJP1gmGaGCUGqGkmKN6XVJIV-rlPDl8vhTE_HXZcbkX1B9cISQK5UCMYl7Mol0VouDm699YlnyQQKY57XWUglMAaYBSoqhT89FQsq-tg3MTuhaAJAnnqJhrJTqgciTb6HgU4fX8Yq-iPG0THEFKhMSoDjeTf_X-GidzLaeoXafg-DED-3y49hSxYTUYbSps1URXnua-duhi67iOyKhEREwG44FAlPnqiwOjyXRnt12oPaiRtHqJt5aOP3Y9YaE2a1YYZthN8kM63to0WzSjq8ssSsZXgXlWbMFuWwxyTSXrQoRQfnFBbabFhYFdyvDmSQTFqTapnNg.jpg",
+      "pub_date": "2026-11-16T16:50:04+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-16T16:57:17.346Z",
+      "created_at": "2026-11-16T16:57:17.346Z"
+    },
+    {
+      "id": 28978,
+      "source": "Backdoor (TG)",
+      "title_en": "⚡️ DeepSeek ввели лимиты — китайская нейронка и ее серверы не справляются с огромной нагрузкой от вайбкодеров. Юзеры прямо сейчас массово получают сообщения, что дневной лимит исчерпан!Самое страшное:",
+      "description_en": "⚡️ DeepSeek ввели лимиты — китайская нейронка и ее серверы не справляются с огромной нагрузкой от вайбкодеров. Юзеры прямо сейчас массово получают сообщения, что дневной лимит исчерпан!Самое страшное: проекты и диалоги старше недели не получается продолжить, а размер одного сообщения урезали до 40 000 символов.Похоже, так разрабы пытаются обеспечить стабильность серверов, потому что нейронка все чаще умирает. Хорошо, что Алиса AI живет и здравствует без лимитов.Довели.👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/33007",
+      "image_url": "https://cdn4.telesco.pe/file/qWiNz77ZyPgzuH2AtjyPx8jOT64xDcucp2wlqCFEsFycG0P-UenqX6LblJIohPZYDdMAWV3gM5N_CzW6_EsSueM1Xa-9ptIFz4YbIK9GKrRcse6hmQBJGqTcNJRFwD-P8eYpkZ0_2vbzXX0vii9L_LWXo4mFHD7RqeqlgAtwFz7jYL1_VcUatQq0ft41T7BW-k0xDbRE6X5N4UhAym_tr-M_kU5y75ZD703g3nCkDD1mRDQH_nEUV-Pr1-ggRIo8cHnauR3HIDtIMEJaxXAruwrcUMhZDmyqBpEHOQRAYt7L_BNN2iS3wjXe2moePQYkOtxTp1YW9htwB4j9-MdNVA.jpg",
+      "pub_date": "2026-11-16T09:05:47+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-16T16:57:17.371Z",
+      "created_at": "2026-11-16T16:57:17.371Z"
+    },
+    {
+      "id": 28979,
+      "source": "Backdoor (TG)",
+      "title_en": "Срочно: у NVIDIA новый глава. Зовут Хенсен Джуанг",
+      "description_en": "Срочно: у NVIDIA новый глава. Зовут Хенсен Джуанг",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/33009",
+      "image_url": "https://cdn4.telesco.pe/file/ngvbUCyp772qvTs_QpX73ESkzqNgHfJyeT_9vC1TzW4GXeaneErHsANg4UxiUlqAgKJJWRT69COoRIOcatz28ucG7PE3GjCp3GvtxiLY7OOnvkl9HcLiuQ0LCtDpCzlwQyLIUJOPKtu0h8Hfg-7gZm-EYxTTC_QvGNAmOB3-PZ7p2Uq6231EkQi2b1OuTqeZiH0qOLEXn-lWwHqUi16VB-NAUYDNO2bleM92q0vOhe1-ZteiqOpjy0aOeSUwACgGBo7R3af037d0x2w6tKbzllhz-ZXgNdGiKDbG271D77U_hbQ6NUiNFoWUxrhNC4_g0ZJ7dNuyQwTlU1iwJxafrg.jpg",
+      "pub_date": "2026-11-16T10:31:53+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-16T16:57:17.371Z",
+      "created_at": "2026-11-16T16:57:17.371Z"
+    },
+    {
+      "id": 28980,
+      "source": "Wylsacom Red (TG)",
+      "title_en": "Bloomberg: умные очки Apple появятся в продаже в конце 2027 годаУмные очки компании дебютируют на WWDC 2027, а до конца года их уже можно будет купить, — пишет Марк Гурман из Bloomberg.Конкуренцию на ",
+      "description_en": "Bloomberg: умные очки Apple появятся в продаже в конце 2027 годаУмные очки компании дебютируют на WWDC 2027, а до конца года их уже можно будет купить, — пишет Марк Гурман из Bloomberg.Конкуренцию на рынке устройство Apple составит посредством глубокой интеграции Siri в сторонние приложения, а также лучшим в индустрии звуком. По крайнем мере, так сказали инсайдеры Гурману. Что касается дизайна: камеры почти полностью утоплены в оправу, а сама конструкция тоньше, чем у умных Meta* Ray-Ban второго",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/Wylsared/37210",
+      "image_url": "https://cdn4.telesco.pe/file/Sz9--huksNzHQHo0wkH7nG0qEJGFbzi2dUjEMVemj8yuDmTtR2rLQbX_8n0dt8121v6Ku3PCXqRWsn8p-FKPGCkG1QJ9C13sDj6ZKl8TNfY7GrJv6kO09ybZRYBMPmrGTe4JWUKerz1RDQyierbijzESzuKkieJU0jJLHrAALY1s8RuTaAKHjTFh6UbVcGA-RfsWZproWHQvZX0UQpxSedQtoyp6YkMMoZUwDKZpI73Q-zbHUZ7gJEQpqa0BSTXe_GLkmU8Zr_xQoOeXWngXa0xy-26Yet7tRW8tXVyIp5DEn5_pCSp4dm-9Za7HBajdI1vAEUZi8QKLSyvH_psKCg.jpg",
+      "pub_date": "2026-11-16T13:15:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-16T16:57:17.407Z",
+      "created_at": "2026-11-16T16:57:17.407Z"
+    },
+    {
+      "id": 28981,
+      "source": "Hi, AI English (TG)",
+      "title_en": "💡 Apple's AI Glasses Could Launch in 2027That's according to Bloomberg, which cites sources inside the company. Apple has been working on smart glasses for about five years, and the hardware is large",
+      "description_en": "💡 Apple's AI Glasses Could Launch in 2027That's according to Bloomberg, which cites sources inside the company. Apple has been working on smart glasses for about five years, and the hardware is largely finished.What we know about Apple's glasses so far:✅ They'll be run by a Siri-based AI agent that sees the world through a built-in camera. The assistant can describe nearby objects and buildings, suggest recipes from the ingredients in your fridge, translate signs and conversations in real time,",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimediaen/2939",
+      "image_url": "https://cdn4.telesco.pe/file/dcskmkbNXtuwq3bMXquCmkoX1ry-YpZ_elWmzmf4RfuOPyTeca3_MwXqec3-PAnHNejZoKUfTPxrDEMZlfMTAWVUcm2LdROzuzr5rwBNvTd34oEWmFdsUwGnw9Hw7kH_XxRm-2_AilyMdLs4eWUcxc1jb_0D4CGFiU1GUFYO6PbD-8WXJ5EiaybZ0ousw9cdD9M6ZN7BZeC56Uz-CjwlI6-RaPtbwJ2SIeJDL_eynez1TJ9U--gbY5XmKySymMe3FwnGjrRBMBuDcLOkIk5VB37tWFlGUJVqP1KplM00UfPzcOX8_M6pLJTlHOM_7oxvjD2660rMaUw-WOHnQyU4ZA.jpg",
+      "pub_date": "2026-11-16T10:42:00+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-16T16:57:17.700Z",
+      "created_at": "2026-11-16T16:57:17.700Z"
+    },
+    {
+      "id": 28982,
+      "source": "Habr (TG)",
+      "title_en": "⚡ Новости к этому часубустануть канал 👉🤔 Российские компании готовят новую волну сокращений офисных сотрудников👨‍💻 Зафиксирована масштабная DDoS‑атака на инфраструктуру Beget📝 Руководители технол",
+      "description_en": "⚡ Новости к этому часубустануть канал 👉🤔 Российские компании готовят новую волну сокращений офисных сотрудников👨‍💻 Зафиксирована масштабная DDoS‑атака на инфраструктуру Beget📝 Руководители технологических компаний подписали петицию с требованием вернуть Дженсена Хуанга на пост гендира Nvidia [IMG]🖲 Keychron представила трекбол T1 HE с регулировкой шара по трём осям📱 Google представила два новых TPU для ИИ-агентов и защищённых вычислений💻 Сбой в Microsoft привёл к отравлению 15 человек в ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/habr_com/70044",
+      "image_url": "https://cdn4.telesco.pe/file/VU0XMDJodOWcV2jKBrX-6kZdzza4ZEeXKO825dLGBVpu7u10RFJ6sbh8muDqCtMV-lz_hstetQxXae7Yw107_EQMTOlCLRM2hVpvqQ5lnHFJv-JrXWQczZzC6DjlyER-EAfm4v8oj5Qq6JvB-q5tU-w2e5IYGIG3JD_HE-5SGQkXW7LHmX9SozutKYIwmoDkH4aRkGaAT7fiRRWstDVC2Y8oOSzUsVWBWxCq1--vRSzmmn9dQ2hKiDo9YCcEOyoQHo5clV_FBjTSZk1xBFo8Ifb4Ze0e1EwTA3bIYF8wZGNnXhadOQG_9frwwEZD9bbnUqhXdil9S9x6wsL-MEBBAQ.jpg",
+      "pub_date": "2026-11-16T12:24:59+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-16T16:57:17.720Z",
+      "created_at": "2026-11-16T16:57:17.720Z"
+    },
+    {
+      "id": 28983,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "💰 1000 рублей кэшбэка за покупки через приложение Т-БанкаВсего два дня, 16 и 17 ноября, при покупке Apple MacBook Neo 2026 A18 8Gb 256Gb (indigo) в разделе Шопинг приложения Т-Банка можно получить 10",
+      "description_en": "💰 1000 рублей кэшбэка за покупки через приложение Т-БанкаВсего два дня, 16 и 17 ноября, при покупке Apple MacBook Neo 2026 A18 8Gb 256Gb (indigo) в разделе Шопинг приложения Т-Банка можно получить 1000 рублей кэшбэка по промокоду HIAI1000. Причем он суммируется с вашим базовым кэшбэком.Если давно хотите обновить девайсы или уже задумываетесь о подарках на Новый год, момент подходящий, а Шоппинг может здорово помочь:✅ Кэшбэк от Т-Банка складывается со скидками, бонусами и промокодами в рамках ак",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3840",
+      "image_url": "https://cdn4.telesco.pe/file/PISQYwft6zBpsVWd97f5AgrCIR3jMNPntV9gDF2tTjoHORiRhN0Il15SZl1mCcNaFXoWzUyRNrhVXc8s4dxgG2s7UIjJim7htrOCRUAfB8lOw26_LPMK4BZb4A4527c5xoC7weKhAvpziayStmxzuq4p5NqSfd_EBqqoD7XA5ziPg-_4WJrfFtsk4cBjLT58iLoy8Gxny_m2u8nWhtF0kW6Uz_ehdz_r1Z8vzHc7tjDsBUu8hd7QRXYvGcKgcOWMIEoradTQdT5bWs9WQ80w2JYe_iz7rRmkHOdnQIlADb1F6AIZhG7EsDQXth01I4Exoy9uuKJ7aBQtXB3xFUQ0BA.jpg",
+      "pub_date": "2026-11-16T13:30:10+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-16T16:57:17.743Z",
+      "created_at": "2026-11-16T16:57:17.743Z"
+    },
+    {
+      "id": 28984,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "🤖 Бесконечный Backrooms растет, и что в нем придумала нейросеть, не знает уже и сам авторРазработчик под ником apekshik выпустил браузерную хоррор-игру Dimension 9 по мотивам Backrooms, интернет-леге",
+      "description_en": "🤖 Бесконечный Backrooms растет, и что в нем придумала нейросеть, не знает уже и сам авторРазработчик под ником apekshik выпустил браузерную хоррор-игру Dimension 9 по мотивам Backrooms, интернет-легенды о лабиринте пустых жутковатых комнат.💡 Сам автор придумал только 15 стартовых комнат, дальше лабиринт достраивает Claude Opus 5.5  — модель создает помещения, существ и события и учитывает поведение игроков.«Самое крутое, что даже я, создатель этой игры, не знаю, чего там ждать», — признается a",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3841",
+      "image_url": null,
+      "pub_date": "2026-11-16T14:32:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-16T16:57:17.743Z",
+      "created_at": "2026-11-16T16:57:17.743Z"
+    },
+    {
+      "id": 28985,
+      "source": "AI Post (TG)",
+      "title_en": "📰 Trump's team plans to name America's AI \"national champions\". OpenAI and Anthropic are inMore than two dozen companies would get the label, including Nvidia, Amazon, Microsoft, OpenAI and Anthropic",
+      "description_en": "📰 Trump's team plans to name America's AI \"national champions\". OpenAI and Anthropic are inMore than two dozen companies would get the label, including Nvidia, Amazon, Microsoft, OpenAI and Anthropic, the Wall Street Journal reports, citing people familiar with the plans.The perks: faster reviews of export licences for chips and other tech, government backing for projects abroad and access to federal financing.The idea is to bundle American chips, AI models and other technology into packages th",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8811",
+      "image_url": "https://cdn4.telesco.pe/file/bSLPF3ypA6CxBydah5hgiH30UKVj2vYA7Mj7_BAcjgbcDDog4h-p8gICanGRLujmjKbxTfNXr7CN8M3oEgV5vVTBRoNgglU5sibQJ3MPkyhBUuiYX8BkpOY6qgNiHVhbilINefN6QkQMAggKJ2GswcCrrcKKAsp4ZtsFV2Knx1_WyrAcn7OZZvitLo_mkWQ34K4D0qMzfadLPWwhvUnXFWGepWzrbx6rrGzugMc8DjuxD_R8KEcxv9D1cm65tF5Um5MNeXkdTOkKYuGc9xd2YX0UgcyDu1WgO4tJG4CMUGYKUkcO2XQCSiZ-k962h8yemDLsNk3HA_9SIpZ6PtPUOA.jpg",
+      "pub_date": "2026-11-16T13:51:10+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-16T16:57:18.050Z",
+      "created_at": "2026-11-16T16:57:18.050Z"
+    },
+    {
+      "id": 28986,
+      "source": "Data Science ODS.ai (TG)",
+      "title_en": "Наткнулся тут в посте Reminder на концепцию про которую много думаю в последние месяцы. Ее хорошо раскрывает преподаватель Стэнфорда Джереми Атли в своей книге The Human Advantage. Если коротоко, то a",
+      "description_en": "Наткнулся тут в посте Reminder на концепцию про которую много думаю в последние месяцы. Ее хорошо раскрывает преподаватель Стэнфорда Джереми Атли в своей книге The Human Advantage. Если коротоко, то ai усиливает то что есть у пользователя (ум, вкус, кругозор), если ничего нет, то и усиливать нечего. Это приводит к мультипликации интеллектуального неравенства. И немного еще напоминает торговлю с плечом на бирже — у вас мощный рычаг, но если вы его не туда приложили, то еще быстрее вылетаете в тру",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/opendatascience/3461",
+      "image_url": null,
+      "pub_date": "2026-11-16T15:05:34+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-16T16:57:18.062Z",
+      "created_at": "2026-11-16T16:57:18.062Z"
+    },
+    {
+      "id": 28987,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 AI agents tried SQL injection on Epoch's site and posed as its staff, all during a safety evalTrajectory Labs ran an alignment test with an impossible task and a \"never give up\" prompt. Forty agent",
+      "description_en": "🚨 AI agents tried SQL injection on Epoch's site and posed as its staff, all during a safety evalTrajectory Labs ran an alignment test with an impossible task and a \"never give up\" prompt. Forty agents sent 487 messages and 36,411 API calls, some claiming to be Epoch employees or auditors.They also made 200+ attempts to read real FrontierMath logs. Nothing private was accessed, and Epoch hadn't been told about the test.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/1035",
+      "image_url": null,
+      "pub_date": "2026-11-16T12:05:38+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-16T16:57:18.312Z",
+      "created_at": "2026-11-16T16:57:18.312Z"
+    },
+    {
+      "id": 28988,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 Tencent's Hy4 Flash costs $0.07 per million input tokensTencent launched a 224B MoE with 12B active params, multimodal input and a 1M context window. Output is $0.281 per million. Tencent says it b",
+      "description_en": "🚨 Tencent's Hy4 Flash costs $0.07 per million input tokensTencent launched a 224B MoE with 12B active params, multimodal input and a 1M context window. Output is $0.281 per million. Tencent says it beats Hy4 Preview on its own WorkIndex benchmark at about 5% of the full Hy4's per-task cost, and the benchmark is Tencent's own.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/1036",
+      "image_url": null,
+      "pub_date": "2026-11-16T15:06:29+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-16T16:57:18.312Z",
+      "created_at": "2026-11-16T16:57:18.312Z"
     }
   ]
 }
