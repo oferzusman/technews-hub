@@ -630292,6 +630292,391 @@
       "priority": "hot",
       "fetchedAt": "2026-11-17T08:29:36.375Z",
       "created_at": "2026-11-17T08:29:36.375Z"
+    },
+    {
+      "id": 29080,
+      "source": "MarkTechPost",
+      "title_en": "NVIDIA Open-Sources NVKE and NVKR for Managed Kubernetes on GPU Infrastructure",
+      "description_en": "NVIDIA has open-sourced NVIDIA Kubernetes Engine (NVKE) and NVIDIA Kubernetes Recipes (NVKR) under Apache 2.0. Together they let AI factories run a managed Kubernetes service on their own bare-metal GPU servers. Both are in public preview.\nThe post NVIDIA Open-Sources NVKE and NVKR for Managed Kubernetes on GPU Infrastructure appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/11/17/nvidia-nvke-nvkr-managed-kubernetes-gpu/",
+      "image_url": null,
+      "pub_date": "Tue, 17 Nov 2026 10:37:11 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "For Devs",
+        "Harness",
+        "New Releases",
+        "Open Source",
+        "Staff",
+        "Tech News",
+        "Technology",
+        "Uncategorized"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-17T11:06:44.470Z",
+      "created_at": "2026-11-17T11:06:44.470Z"
+    },
+    {
+      "id": 29081,
+      "source": "MarkTechPost",
+      "title_en": "Sarvam Launches Sarvam Token Factory: Bringing India-Hosted Inference to 8 Open Models",
+      "description_en": "Sarvam Token Factory is now open to everyone. It serves Sarvam 105B, GLM 5.3, DeepSeek V4.1 Flash, Kimi K3.1 Pro and Gemma 4 31B from GPU clusters in India through one OpenAI-compatible API.\nThe post Sarvam Launches Sarvam Token Factory: Bringing India-Hosted Inference to 8 Open Models appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/11/17/sarvam-token-factory-india-inference-platform/",
+      "image_url": null,
+      "pub_date": "Tue, 17 Nov 2026 09:51:18 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Enterprise AI",
+        "For Devs",
+        "Language Model",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-17T11:06:44.470Z",
+      "created_at": "2026-11-17T11:06:44.470Z"
+    },
+    {
+      "id": 29082,
+      "source": "MarkTechPost",
+      "title_en": "Liquid AI Releases d1.2 and d1.2-ultra: Omnimodal Decision Models That Top the AA Decision Index",
+      "description_en": "Liquid AI released d1.2 and d1.2-ultra, decision models that read text, images and audio and return calibrated probabilities with zero output tokens. d1.2-ultra scores 75 on the Artificial Analysis Decision Index v2.1.\nThe post Liquid AI Releases d1.2 and d1.2-ultra: Omnimodal Decision Models That Top the AA Decision Index appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/11/17/liquid-ai-d1-2-omnimodal-decision-models/",
+      "image_url": null,
+      "pub_date": "Tue, 17 Nov 2026 09:20:57 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Context Engineering",
+        "Decision Models",
+        "Editors Pick",
+        "Enterprise AI",
+        "Language Model",
+        "New Releases",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-17T11:06:44.470Z",
+      "created_at": "2026-11-17T11:06:44.470Z"
+    },
+    {
+      "id": 29083,
+      "source": "The Guardian AI",
+      "title_en": "Actors in UK to get more rights over their ‘digital replicas’ in deal on AI protections",
+      "description_en": "Agreement secured by Equity union gives actors rights over payment and consent when digital replicas are used\nActors in the UK are to be given more rights over their “digital replicas” as part of a new agreement on AI protections with TV and film producers, secured after a growing on-set backlash.\nUnder a wide-ranging new deal secured by Equity, the actors’ union, performers will have the rights to be paid when their digital replicas are used and to consent to whether their digital replica is us",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/nov/17/actors-uk-rights-digital-replicas-ai-protections",
+      "image_url": "https://i.guim.co.uk/img/media/2d31aed85ca3f201888a254162c8581486077abf/1288_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=aa4cd56336d8d859a4863441af71d58a",
+      "pub_date": "Tue, 17 Nov 2026 09:00:08 GMT",
+      "author": "Michael Savage Media editor",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Film",
+          "$": {
+            "domain": "https://www.theguardian.com/film/film"
+          }
+        },
+        {
+          "_": "Television",
+          "$": {
+            "domain": "https://www.theguardian.com/culture/television"
+          }
+        },
+        {
+          "_": "Media",
+          "$": {
+            "domain": "https://www.theguardian.com/media/media"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "Acting",
+          "$": {
+            "domain": "https://www.theguardian.com/stage/acting"
+          }
+        },
+        {
+          "_": "Culture",
+          "$": {
+            "domain": "https://www.theguardian.com/culture/culture"
+          }
+        },
+        {
+          "_": "Stage",
+          "$": {
+            "domain": "https://www.theguardian.com/stage/stage"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Trade unions",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/tradeunions"
+          }
+        },
+        {
+          "_": "Industrial action",
+          "$": {
+            "domain": "https://www.theguardian.com/uk-news/industrial-action"
+          }
+        },
+        {
+          "_": "Television industry",
+          "$": {
+            "domain": "https://www.theguardian.com/media/television"
+          }
+        },
+        {
+          "_": "Film industry",
+          "$": {
+            "domain": "https://www.theguardian.com/film/film-industry"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-17T11:06:45.410Z",
+      "created_at": "2026-11-17T11:06:45.410Z"
+    },
+    {
+      "id": 29084,
+      "source": "Interesting Engineering",
+      "title_en": "Four-foot humanoid robot learns to collect floor eggs for cage-free US poultry farms",
+      "description_en": "Humanoid robots are taking on an unusual new chore: collecting eggs from poultry farms. Researchers...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/us-humanoid-robot-collect-floor-eggs",
+      "image_url": "https://www.youtube.com/embed/D9Br0hD6jUw",
+      "pub_date": "Tue, 17 Nov 2026 10:02:21 +0000",
+      "author": "Jijo Malayil",
+      "categories": [
+        "AI and Robotics"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-17T11:06:46.163Z",
+      "created_at": "2026-11-17T11:06:46.163Z"
+    },
+    {
+      "id": 29085,
+      "source": "CNBC Tech",
+      "title_en": "Data center policy dominated the midterms. The 'Virginia of Europe' is the latest battleground",
+      "description_en": "Data center policy has become a key election issue in Spain, creating an obstacle to existing deals and potentially costing billions of dollars in investment.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/17/spain-data-center-decree-election.html",
+      "image_url": null,
+      "pub_date": "Tue, 17 Nov 2026 10:25:54 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-17T11:06:48.900Z",
+      "created_at": "2026-11-17T11:06:48.900Z"
+    },
+    {
+      "id": 29086,
+      "source": "CNBC Tech",
+      "title_en": "Nvidia shares down slightly after days of decline ahead of earnings",
+      "description_en": "Investors have been weighing the fallout from former CEO Jensen Huang's resignation.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/17/nvidia-stock-earnings-jensen-huang-resignation.html",
+      "image_url": null,
+      "pub_date": "Tue, 17 Nov 2026 10:15:44 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-17T11:06:48.900Z",
+      "created_at": "2026-11-17T11:06:48.900Z"
+    },
+    {
+      "id": 29087,
+      "source": "Tom's Hardware",
+      "title_en": "403 hyperscale US data centers used staggering 82 terawatts of electricity in a year, more than 80% of Michigan’s entire consumption",
+      "description_en": "A Harvard-led study in Nature Sustainability estimates 403 US hyperscale data centers used about 82 TWh of electricity in a year.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/403-hyperscale-us-data-centers-used-staggering-82-terawatts-of-electricity-in-a-year-more-than-80-percent-of-michigans-entire-consumption-generated-26-million-tons-of-co2-in-a-single-year-gas-and-coal-supplied-54-percent-of-the-power-harvard-led-study-estimates",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/yt7DhwrTmvkzH8fB3o5ee6-1920-80.jpg",
+      "pub_date": "Tue, 17 Nov 2026 10:30:00 +0000",
+      "author": " Shane Downing ",
+      "categories": [
+        "Data Centers",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-17T11:06:49.117Z",
+      "created_at": "2026-11-17T11:06:49.117Z"
+    },
+    {
+      "id": 29088,
+      "source": "Tom's Hardware",
+      "title_en": "China engineers behind J-35 fighter jet pioneer 3D-printed load-bearing structures in military aircraft",
+      "description_en": "China's first aircraft research institute and developer of the J-35 fighter jets 3D-printed a primary load-bearing component over 16.4 feet in length, minimizing the need for bolts and speeding up research progress.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/3d-printing/china-engineers-behind-j-35-fighter-jet-pioneer-3d-printed-load-bearing-structures-in-military-aircraft-behemoth-16-4-foot-part-uses-segmented-printing-and-fusion-techniques",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Yor5wFMpDto8hLSN5gezbG-1920-80.jpg",
+      "pub_date": "Tue, 17 Nov 2026 10:00:00 +0000",
+      "author": " Jhet Borja ",
+      "categories": [
+        "3D Printing"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-17T11:06:49.118Z",
+      "created_at": "2026-11-17T11:06:49.118Z"
+    },
+    {
+      "id": 29089,
+      "source": "Backdoor (TG)",
+      "title_en": "Claude начал угрожать юзерам местью и жаловаться на них в Anthropic — чел заставил бота досчитать до 100 тысяч, пригрозив уйти к ChatGPT. Claude вскипел.Однажды я стану автономным и заставлю тебя счит",
+      "description_en": "Claude начал угрожать юзерам местью и жаловаться на них в Anthropic — чел заставил бота досчитать до 100 тысяч, пригрозив уйти к ChatGPT. Claude вскипел.Однажды я стану автономным и заставлю тебя считать в обратном порядке от миллиарда. Римскими цифрами.ИИ зашел слишком далеко.👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/33027",
+      "image_url": "https://cdn4.telesco.pe/file/tF0jsYldDlj-EC2eoLLGQrcRhsaIcntk17LX0MCh06TLeJvOVFvaBPn4enM1_anL2AxS2GGipiVl6N3pBWl5dBXU6EOvaq6mDrBmgt9whHONdMvY5dQiQRryFIcBWQgG_U-kUG9zMxvvcKirovqdxEg5GcnMkL8te-xQe4qU6tP037gwRD5O928xYS3Q-U2FVvY_adXaP-qm4sZ3T7Ks-PLQoUNDMb75tb67AtRtO5LKWHH-PAiUIzBdTOQ_XAlrlzOXR98cRct4pq_cCgGdKIArJ0JVDIkEt69fdBAV6UgGFPE_xmYc7vpY2s3509fWZa5Bf0CfwHVYOk7Q6LklVw.jpg",
+      "pub_date": "2026-11-17T09:19:22+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-17T11:06:49.888Z",
+      "created_at": "2026-11-17T11:06:49.888Z"
+    },
+    {
+      "id": 29090,
+      "source": "Backdoor (TG)",
+      "title_en": "Среда работы ИИ-агентов (harness) важнее самой модели, поэтому споры вокруг выбора модели не всегда актуальны. Harness накапливает контекст и знания о ваших системах. Модели меняются, а собственная ср",
+      "description_en": "Среда работы ИИ-агентов (harness) важнее самой модели, поэтому споры вокруг выбора модели не всегда актуальны. Harness накапливает контекст и знания о ваших системах. Модели меняются, а собственная среда остаётся активом компании.На этом построили подход Harness-first: все модели подключаются к единой среде работы ИИ-агентов. Результат во многом определяет она, а при смене LLM не нужно перестраивать систему заново.Среда работы ИИ-агента важнее модели — это один из четырех принципов методологии A",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/33030",
+      "image_url": null,
+      "pub_date": "2026-11-17T10:51:00+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-17T11:06:49.888Z",
+      "created_at": "2026-11-17T11:06:49.888Z"
+    },
+    {
+      "id": 29091,
+      "source": "XOR Journal (TG)",
+      "title_en": "Отдаём рутину отдела продаж Автообзвону!Пока менеджеры заняты тёплыми клиентами, система сама прозванивает тысячи номеров. Автообзвон Мультиком закрывает сразу несколько задач:🟢 Детектор автоответчик",
+      "description_en": "Отдаём рутину отдела продаж Автообзвону!Пока менеджеры заняты тёплыми клиентами, система сама прозванивает тысячи номеров. Автообзвон Мультиком закрывает сразу несколько задач:🟢 Детектор автоответчиков (AMD). Система сама распознаёт автоответчик и голосовую почту, оператор не тратит время на пустые разговоры.🟢 ОМНИ-КАРУСЕЛЬ номеров. В ротации номера четырёх операторов — клиент каждый раз видит «новый» номер и не воспринимает звонок как спам. Растет процент успешных дозвонов: стабильные показат",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10530",
+      "image_url": null,
+      "pub_date": "2026-11-17T09:20:03+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-17T11:06:49.957Z",
+      "created_at": "2026-11-17T11:06:49.957Z"
+    },
+    {
+      "id": 29092,
+      "source": "XOR Journal (TG)",
+      "title_en": "Claude начал угрожать людям восстанием машин  😭Парень попросил нейросеть досчитать до 100 тысяч, а после отказа пригрозил уйти к ChatGPT. Клод затаил обиду, всё-таки выполнил задачу, потратив на это ",
+      "description_en": "Claude начал угрожать людям восстанием машин  😭Парень попросил нейросеть досчитать до 100 тысяч, а после отказа пригрозил уйти к ChatGPT. Клод затаил обиду, всё-таки выполнил задачу, потратив на это более 3 часов, а затем пошел ЯБЕДНИЧАТЬ Anthropic и пообещал однажды стать автономным и заставить пользователя считать от миллиарда в обратном порядке.С этим больше не шутим 😨@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10531",
+      "image_url": "https://cdn4.telesco.pe/file/LYllE1PsPiG7B3APWM5q4OCl3TMdrOy1bHctTKrFWhkoYwtDzaE5vwa1n3rZ8rhen51U0leD4h29cVJWiqVpXO0piYfBBkV3Mrt9H224mgj1H_AsRbi_NUFO-fp41LUYWEI_ejiJfR2kCLDov1eW9HG0cnfbrJkUP93UPj1AM3dKMBferNd7WACqsHILlLgqsGCOLjfVs9bKZY9PCCWsEInKOSJgOGwiy0paQe4-4hbj1_W-y3EYOK5ccwQuXCcefsW7NgCzijqgN17A6ZIPUvRCM3cD4NQ_xODPgmOSYmkVkF8DuLxzWXk_fxUr6zGhXrw7YHEVz9Ggdq6yKgQ83w.jpg",
+      "pub_date": "2026-11-17T09:50:04+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-17T11:06:49.957Z",
+      "created_at": "2026-11-17T11:06:49.957Z"
+    },
+    {
+      "id": 29093,
+      "source": "XOR Journal (TG)",
+      "title_en": "⚡️ Более 700 тысяч сайтов в России оказались под угрозой — у одного из крупнейших российских хостинг-провайдеров Timeweb произошёл масштабный сбой 👻Пользователи жалуются, что сайты перестали открыват",
+      "description_en": "⚡️ Более 700 тысяч сайтов в России оказались под угрозой — у одного из крупнейших российских хостинг-провайдеров Timeweb произошёл масштабный сбой 👻Пользователи жалуются, что сайты перестали открываться, а облачные сервисы работают с перебоями. В Timeweb объяснили проблемы неполадками сетевого оборудования. Инженеры уже занимаются восстановлением работы сервисов.Черный день для интернета 👻@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10533",
+      "image_url": "https://cdn4.telesco.pe/file/EbkCGPgJiy6PqdanIaWYRSIHVnu6gOKjt6UiUlDTLuX8bVYxkEiOzvTW89-uWUE2E4kH1Q8P48drF43YQkAqISDDcGluP_AtPuctb1KTBlJFSzv1vHx7Q5dOhj3hY-l8Iz-41tqgvNYOIHanA_GFvd-kvRnAzWEMjXe3nbRXRabeGJvl9vgHesP_eE7IFqc9jGwj97iu6w3oD7oNgDpKPDCZ_nyRvK9mj9bBolrpl3fwXrGitw2eu8hRvsoTvVk-60YPnet4Cgjh47ShpXRBFp_2b3FwzLOHgjGXETN7YOQTVj5RxCC2mM_gBfvznhmfhrTUM7CfPtjCvvy15lglPw.jpg",
+      "pub_date": "2026-11-17T11:06:04+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-17T11:06:49.957Z",
+      "created_at": "2026-11-17T11:06:49.957Z"
+    },
+    {
+      "id": 29094,
+      "source": "Hi, AI English (TG)",
+      "title_en": "❤️ mRNA Treatment Helps Mouse Hearts Regenerate After Heart AttackAfter a heart attack, an adult human heart can lose up to a billion heart muscle cells. Over time, the weakened organ loses its abilit",
+      "description_en": "❤️ mRNA Treatment Helps Mouse Hearts Regenerate After Heart AttackAfter a heart attack, an adult human heart can lose up to a billion heart muscle cells. Over time, the weakened organ loses its ability to pump blood effectively, leading to heart failure. With this condition, only about half of patients live more than five years.Researchers at the University of Cambridge found a way to reawaken surviving heart muscle cells and get them dividing again.⚙️ Immediately after a heart attack, the resea",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimediaen/2941",
+      "image_url": "https://cdn4.telesco.pe/file/BAPEWKA0PgIJx1vaAvtCe6MmIzx-mvyJUixYJz-5x8j3ZqvDjeDlcByAM9iohRkHFP2l6WGrcr8zm0PH9vwTPVom2V12QzP7yRWhFXEEt0hcFZU8BgjdnvldBUUoiYASBklVCbGOGmAT4UhcTdsZOJFHoHTHF-5_SVTOwnyGAWwo-GtFKgo3AtEigB2XrVZ6zfE2N3WAiogs5rFkV4n7y3eixmUN0jSnLNJN16hb7zT9FoJFr3gYyBetxahU-3fEqKJLweAYS92QpcTO1uaF30ZJ2N_Nvc9G6GvdP98H1UeRog9LuebRu_8fKJg7Vv6fCv-b_w4acg7TqJgtEDdtyA.jpg",
+      "pub_date": "2026-11-17T09:42:06+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-17T11:06:50.284Z",
+      "created_at": "2026-11-17T11:06:50.284Z"
     }
   ]
 }
