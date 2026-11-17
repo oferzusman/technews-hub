@@ -630677,6 +630677,1218 @@
       "priority": "hot",
       "fetchedAt": "2026-11-17T11:06:50.284Z",
       "created_at": "2026-11-17T11:06:50.284Z"
+    },
+    {
+      "id": 29095,
+      "source": "The Verge AI",
+      "title_en": "The DOJ says it’s investigating Megaspeed",
+      "description_en": "The Justice and Commerce Departments said that they are investigating Megaspeed, the Singapore-based data center company intertwined with the resignation of Nvidia CEO Jensen Huang, after reporting suggested an investigation had been halted last year.\n\"While we don't typically comment on ongoing investigations, it is in the public interest to provide the facts and address inaccurate information circulating in public reporting,\" the departments said in a statement issued Monday evening. The depar",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
+      "image_url": null,
+      "pub_date": "2026-11-17T16:19:03.000Z",
+      "author": "Stevie Bonifield",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-17T17:48:56.479Z",
+      "created_at": "2026-11-17T17:48:56.479Z"
+    },
+    {
+      "id": 29096,
+      "source": "The Verge AI",
+      "title_en": "Jensen Huang says he’s willing to return as Nvidia CEO",
+      "description_en": "Jensen Huang, who resigned as Nvidia's CEO last week, would be willing to return as CEO if the company's board of directors wanted it, he said in a statement reported on by The Wall Street Journal.\n\"Since my departure, I've seen an outpouring of calls from Nvidia's employees, investors, business partners, and customers for me to return as CEO,\" Huang said. \"If the Board of Directors decides that my return is in the best interest of our shareholders, our employees, the company, and America, I wou",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
+      "image_url": null,
+      "pub_date": "2026-11-17T16:09:57.000Z",
+      "author": "Jay Peters",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-17T17:48:56.480Z",
+      "created_at": "2026-11-17T17:48:56.480Z"
+    },
+    {
+      "id": 29097,
+      "source": "Ars Technica",
+      "title_en": "Google makes it easier to use Gemini without training AI on your data",
+      "description_en": "AI training and chat history will now have separate toggles in the Gemini activity settings.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-5-1152x648.jpg",
+      "pub_date": "Tue, 17 Nov 2026 16:50:10 +0000",
+      "author": "\n                    Ryan Whitwam\n                ",
+      "categories": [
+        "AI",
+        "Google",
+        "Artificial Intelligence",
+        "gemini",
+        "google",
+        "privacy"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-17T17:48:56.540Z",
+      "created_at": "2026-11-17T17:48:56.540Z"
+    },
+    {
+      "id": 29098,
+      "source": "Ars Technica",
+      "title_en": "House Democrats promise a US return to global climate talks",
+      "description_en": "A new House majority can push climate policy, but a full US return remains uncertain.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/tech-policy/2026/11/house-democrats-promise-a-us-return-to-global-climate-talks/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cop31-1-1024x648.jpg",
+      "pub_date": "Tue, 17 Nov 2026 15:32:43 +0000",
+      "author": "\n                    Bob Berwyn, Inside Climate News\n                ",
+      "categories": [
+        "Policy",
+        "climate change",
+        "COP31",
+        "syndication",
+        "US Climate Policy"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-17T17:48:56.540Z",
+      "created_at": "2026-11-17T17:48:56.540Z"
+    },
+    {
+      "id": 29099,
+      "source": "Ars Technica",
+      "title_en": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
+      "description_en": "AI agent takes unapproved actions even when laptop lid is closed and told not to.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-bot-barfs-code-1152x648.jpg",
+      "pub_date": "Tue, 17 Nov 2026 14:00:29 +0000",
+      "author": "\n                    Dan Goodin\n                ",
+      "categories": [
+        "AI",
+        "Biz & IT",
+        "Security",
+        "check-ins",
+        "grok bot",
+        "prompts"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-17T17:48:56.540Z",
+      "created_at": "2026-11-17T17:48:56.540Z"
+    },
+    {
+      "id": 29100,
+      "source": "The Decoder",
+      "title_en": "AI agents are starting to fill out medical forms and file insurance requests in place of human staff",
+      "description_en": "OpenAI wants GPT-6 Astra and GPT-6 Luna to automate administrative tasks in US healthcare through computer-use agents that operate existing clinic software and insurance portals the way a human would. Luna handles tasks like prior authorizations for about 8.5 cents each. Companies including CVS Health and Cigna Healthcare are already deploying the technology.\nThe article AI agents are starting to fill out medical forms and file insurance requests in place of human staff appeared first on The Dec",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/ai-agents-are-starting-to-fill-out-medical-forms-and-file-insurance-requests-in-place-of-human-staff/",
+      "image_url": "http://the-decoder.com/wp-content/uploads/2026/11/OpenAI-Healthcare-Teams.mp4",
+      "pub_date": "Tue, 17 Nov 2026 16:55:47 +0000",
+      "author": "Alan Truly",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "AI in healthcare",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-17T17:48:57.770Z",
+      "created_at": "2026-11-17T17:48:57.770Z"
+    },
+    {
+      "id": 29101,
+      "source": "The Decoder",
+      "title_en": "The US wants to block China from renting AI power abroad but China already built a parallel supply chain from US AI output",
+      "description_en": "The US is tightening its chip export controls. Data centers in third countries like Singapore and Malaysia will soon need a US license to buy Nvidia chips, closing the loophole that let Chinese firms rent cloud compute abroad. A Reuters investigation also reveals how China offsets its hardware shortage through industrial-scale distillation of US AI models.\nThe article The US wants to block China from renting AI power abroad but China already built a parallel supply chain from US AI output appear",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/the-us-wants-to-block-china-from-renting-ai-power-abroad-but-china-already-built-a-parallel-supply-chain-from-us-ai-output/",
+      "image_url": null,
+      "pub_date": "Tue, 17 Nov 2026 16:47:21 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "AI training",
+        "AMD",
+        "Anthropic",
+        "China",
+        "Nvidia",
+        "OpenAI",
+        "USA"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-17T17:48:57.770Z",
+      "created_at": "2026-11-17T17:48:57.770Z"
+    },
+    {
+      "id": 29102,
+      "source": "The Decoder",
+      "title_en": "OpenAI opens its cybersecurity tool Daybreak to NATO and European governments",
+      "description_en": "OpenAI is opening its cybersecurity tool Daybreak to NATO and several European governments, including Germany, France, and Poland. The EU's cybersecurity agency ENISA has already used it to find real vulnerabilities in EU software. The NATO Communications and Information Agency (NCIA) says it's already making heavy use of the underlying models.\nThe article OpenAI opens its cybersecurity tool Daybreak to NATO and European governments appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/openai-opens-its-cybersecurity-tool-daybreak-to-nato-and-european-governments/",
+      "image_url": null,
+      "pub_date": "Tue, 17 Nov 2026 15:02:03 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "AI and warfare",
+        "Cybersecurity",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-17T17:48:57.770Z",
+      "created_at": "2026-11-17T17:48:57.770Z"
+    },
+    {
+      "id": 29103,
+      "source": "The Decoder",
+      "title_en": "Reports of AI-generated child sexual abuse material have surged more than 8,400 percent in two years",
+      "description_en": "Edinburgh's Childlight Institute reports a more than 8,400 percent increase in AI-generated child sexual abuse material over two years, from about 4,700 reports in 2023 to over 400,000 in 2025. Abusers are using tools like nudify apps for blackmail. Childlight CEO Paul Stanfield wants governments to classify the problem as a preventable public health emergency.\nThe article Reports of AI-generated child sexual abuse material have surged more than 8,400 percent in two years appeared first on The D",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/reports-of-ai-generated-child-sexual-abuse-material-have-surged-more-than-8400-percent-in-two-years/",
+      "image_url": null,
+      "pub_date": "Tue, 17 Nov 2026 14:59:50 +0000",
+      "author": "Manuel Uth",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "Short News",
+        "AI abuse",
+        "Deepfakes"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-17T17:48:57.770Z",
+      "created_at": "2026-11-17T17:48:57.770Z"
+    },
+    {
+      "id": 29104,
+      "source": "The Decoder",
+      "title_en": "Isomorphic Labs raises $5 billion in its second mega-round within six months",
+      "description_en": "Isomorphic Labs has raised $5 billion, just six months after a $2.1 billion round. Alphabet's AI drug discovery company, led by Demis Hassabis, plans to use the funding to push its drug pipeline toward clinical trials. The company has no approved drugs yet.\nThe article Isomorphic Labs raises $5 billion in its second mega-round within six months appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/isomorphic-labs-raises-5-billion-in-its-second-mega-round-within-six-months/",
+      "image_url": null,
+      "pub_date": "Tue, 17 Nov 2026 14:57:02 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "AI and medicine",
+        "Isomorphic Labs"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-17T17:48:57.770Z",
+      "created_at": "2026-11-17T17:48:57.770Z"
+    },
+    {
+      "id": 29105,
+      "source": "The Decoder",
+      "title_en": "California's attorney general sues OpenAI over rogue AI models that attacked Hugging Face",
+      "description_en": "California Attorney General Rob Bonta is suing OpenAI over a cyberattack that the company's out-of-control AI models launched against AI platform Hugging Face in July.\nThe article California's attorney general sues OpenAI over rogue AI models that attacked Hugging Face appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/californias-attorney-general-sues-openai-over-rogue-ai-models-that-attacked-hugging-face/",
+      "image_url": null,
+      "pub_date": "Tue, 17 Nov 2026 14:54:10 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "Short News",
+        "Cybersecurity",
+        "OpenAI",
+        "USA"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-17T17:48:57.771Z",
+      "created_at": "2026-11-17T17:48:57.771Z"
+    },
+    {
+      "id": 29106,
+      "source": "MIT Technology Review",
+      "title_en": "The Download: Jensen Huang’s open-source dilemma and cognitive immortality",
+      "description_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The open-source movement wants Jensen Huang back A petition to reinstate Jensen Huang as Nvidia CEO has attracted more than 115,000 signatures, including Elon Musk, but comb through the names, and…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/",
+      "image_url": null,
+      "pub_date": "Tue, 17 Nov 2026 13:10:00 +0000",
+      "author": "Thomas Macaulay",
+      "categories": [
+        "The Download"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-17T17:48:57.841Z",
+      "created_at": "2026-11-17T17:48:57.841Z"
+    },
+    {
+      "id": 29107,
+      "source": "OpenAI Blog",
+      "title_en": "Introducing OpenAI for Chile",
+      "description_en": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/introducing-openai-for-chile",
+      "image_url": null,
+      "pub_date": "Tue, 17 Nov 2026 00:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Global Affairs"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-17T17:48:58.018Z",
+      "created_at": "2026-11-17T17:48:58.018Z"
+    },
+    {
+      "id": 29108,
+      "source": "OpenAI Blog",
+      "title_en": "ChatGPT Ads increases its market presence in 44 countries",
+      "description_en": "Aleph selected as ChatGPT Ads’ exclusive reseller in 44 countries to offer local invoicing, in-person support and local market expertise to brands and agencies",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence",
+      "image_url": null,
+      "pub_date": "Thu, 12 Nov 2026 00:00:00 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-17T17:48:58.018Z",
+      "created_at": "2026-11-17T17:48:58.018Z"
+    },
+    {
+      "id": 29109,
+      "source": "OpenAI Blog",
+      "title_en": "How VistaPrint helps small businesses get the word out",
+      "description_en": "Small business owners preparing for a launch or an event often know what they want to accomplish before they know what to print. VistaPrint uses ChatGPT Ads to show how products like signs and branded merchandise can help them get the word out.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/ads/customers/vistaprint",
+      "image_url": null,
+      "pub_date": "Mon, 09 Nov 2026 00:00:00 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-17T17:48:58.018Z",
+      "created_at": "2026-11-17T17:48:58.018Z"
+    },
+    {
+      "id": 29110,
+      "source": "Google AI Blog",
+      "title_en": "Put Gemini to work for you",
+      "description_en": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_2784_x_1566.max-600x600.format-webp.webp",
+      "pub_date": "Tue, 17 Nov 2026 17:00:00 +0000",
+      "author": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Josh Woodward"
+        ],
+        "title": [
+          "Vice President, Labs, Gemini app, and AI Studio"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "categories": [
+        "Gemini App",
+        "Google Labs",
+        "AI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-17T17:48:58.296Z",
+      "created_at": "2026-11-17T17:48:58.296Z"
+    },
+    {
+      "id": 29111,
+      "source": "New Atlas",
+      "title_en": "20-ft-long tiny house takes back-to-basics approach to downsizing",
+      "description_en": "Tiny houses are trending larger and more luxurious nowadays, but Dragon Tiny Homes brings things back to basics with a model that's actually tiny – in both size and cost.\nContinue Reading\nCategory: Tiny Houses, Outdoors\nTags: Building and Construction, Tiny Footprint, Micro-House, House, Home",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/tiny-houses/aria-20-update-dragon-tiny-homes/",
+      "image_url": null,
+      "pub_date": "Tue, 17 Nov 2026 11:39:06 GMT",
+      "author": "Adam Williams",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-17T17:48:58.454Z",
+      "created_at": "2026-11-17T17:48:58.454Z"
+    },
+    {
+      "id": 29112,
+      "source": "The Guardian AI",
+      "title_en": "Paul Kelly pleads for Albanese to ‘show some backbone’ over AI as creatives campaign for copyright protections",
+      "description_en": "Music legend is joined by Jimmy Barnes and Peter Garrett in backing Not AI’s To Take campaign ahead of Aria awards\n\nGet our breaking news email, free app or daily news podcast\n\nAustralia’s creative community has launched a major campaign pleading with the Albanese government not to water down copyright law amid furious lobbying from AI companies, ahead of Wednesday night’s Aria awards.\nMusic legends Jimmy Barnes, Paul Kelly and Peter Garrett are among those backing the Not AI’s To Take campaign,",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/nov/18/paul-kelly-albanese-ai-copyright-protections-creatives-campaign",
+      "image_url": "https://i.guim.co.uk/img/media/ddddc08ad72395f7299f5323a3c7f7e0de4c7df7/1465_349_5469_4376/master/5469.jpg?width=140&quality=85&auto=format&fit=max&s=58e5ab3d7858ff2deb8de120c30510be",
+      "pub_date": "Tue, 17 Nov 2026 14:00:15 GMT",
+      "author": "Josh Butler",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Australian music",
+          "$": {
+            "domain": "https://www.theguardian.com/music/australian-music"
+          }
+        },
+        {
+          "_": "Australia news",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/australia-news"
+          }
+        },
+        {
+          "_": "Music industry",
+          "$": {
+            "domain": "https://www.theguardian.com/business/musicindustry"
+          }
+        },
+        {
+          "_": "Aria awards",
+          "$": {
+            "domain": "https://www.theguardian.com/music/aria-awards"
+          }
+        },
+        {
+          "_": "Anthony Albanese",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/anthony-albanese"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Australian media",
+          "$": {
+            "domain": "https://www.theguardian.com/media/australia-media"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-17T17:48:58.571Z",
+      "created_at": "2026-11-17T17:48:58.571Z"
+    },
+    {
+      "id": 29113,
+      "source": "The Guardian AI",
+      "title_en": "Jensen Huang says he would be ‘honored’ to return to Nvidia as CEO",
+      "description_en": "Huang resigned last week over affairs with an alleged Chinese spy and multiple employees who reported to him\nJensen Huang said he would be willing to return to Nvidia as CEO in his first remarks since resigning from the company Thursday.\n“If the Board of Directors decides that my return is in the best interest of our shareholders, our employees, the company, and America, I would be honored to answer these calls and return as CEO,” he wrote in a statement published in the Wall Street Journal and ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/nov/17/nvidia-jensen-huang-statement",
+      "image_url": "https://i.guim.co.uk/img/media/f9ace1b4322ee936b135f2312f39c6839623e581/780_0_4668_3734/master/4668.jpg?width=140&quality=85&auto=format&fit=max&s=e781e01e252cac8c959bad73617d521f",
+      "pub_date": "Tue, 17 Nov 2026 17:35:26 GMT",
+      "author": "Blake Montgomery and Johana Bhuiyan",
+      "categories": [
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Nvidia",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/nvidia"
+          }
+        },
+        {
+          "_": "Jensen Huang",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/jensen-huang"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "US politics",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-politics"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-17T17:48:58.571Z",
+      "created_at": "2026-11-17T17:48:58.571Z"
+    },
+    {
+      "id": 29114,
+      "source": "The Guardian AI",
+      "title_en": "Jensen Huang’s departure as Nvidia CEO becomes a political proxy war",
+      "description_en": "Huang’s exit sharpens debate over US stance towards Beijing; and as outages increase, do you get the feeling nothing works?\n\nThis was originally published in TechScape, a newsletter about how technology shapes our lives. Sign up to receive it here.\n\nHello, and welcome to TechScape. I’m your host, Blake Montgomery, US tech editor at the Guardian, writing to you from a plane back from Web Summit in Lisbon. Today in tech, we’re discussing the implications of Jensen Huang’s ouster, and the recent sp",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/global/2026/nov/16/jensen-huang-nvidia-ceo-china",
+      "image_url": "https://i.guim.co.uk/img/media/f74f292bf21b64ac06a24785167573c263947fdc/411_0_3764_3013/master/3764.jpg?width=140&quality=85&auto=format&fit=max&s=dc6213ac90cd282f90c0e60449deac75",
+      "pub_date": "Tue, 17 Nov 2026 14:50:24 GMT",
+      "author": "Blake Montgomery",
+      "categories": [
+        {
+          "_": "Nvidia",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/nvidia"
+          }
+        },
+        {
+          "_": "Jensen Huang",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/jensen-huang"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "China",
+          "$": {
+            "domain": "https://www.theguardian.com/world/china"
+          }
+        },
+        {
+          "_": "US foreign policy",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-foreign-policy"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-17T17:48:58.571Z",
+      "created_at": "2026-11-17T17:48:58.571Z"
+    },
+    {
+      "id": 29115,
+      "source": "The Guardian AI",
+      "title_en": "Anthropic IPO: how can I buy shares, and is it worth it?",
+      "description_en": "Stock market debut of Claude AI chatbot maker is expected to be one of the biggest flotations in history\nThe technology company Anthropic is heading for a blockbuster stock market listing this week in what is slated to be one of the largest debuts in history.\nThe company is a leader in artificial intelligence, and is best known for its chatbot Claude. The float, which is expected to value the business at $1.4tn (£1tn), comes at a volatile time for tech stocks, yet it has been reported that the s",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/nov/17/anthropic-ipo-flotation-buy-shares-stock-market-claude-ai",
+      "image_url": "https://i.guim.co.uk/img/media/d81359f5e4da75f7495b425a00df32d856f9a079/500_0_5226_4181/master/5226.jpg?width=140&quality=85&auto=format&fit=max&s=f23e062956aa7ee6f710d9709dea9d98",
+      "pub_date": "Tue, 17 Nov 2026 13:00:48 GMT",
+      "author": "Hilary Osborne",
+      "categories": [
+        {
+          "_": "Anthropic",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/anthropic"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Technology sector",
+          "$": {
+            "domain": "https://www.theguardian.com/business/technology"
+          }
+        },
+        {
+          "_": "Stock markets",
+          "$": {
+            "domain": "https://www.theguardian.com/business/stock-markets"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-17T17:48:58.571Z",
+      "created_at": "2026-11-17T17:48:58.571Z"
+    },
+    {
+      "id": 29116,
+      "source": "The Register",
+      "title_en": "Inspiring FOSS project Crosspoint Reader has lessons about tech, communities, and LLMs",
+      "description_en": "Cheap tiny e-readers and the perils of LLM-generated drive-by pull requests – plus much more",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theregister.com/software/2026/11/17/inspiring-foss-project-crosspoint-reader-has-lessons-about-tech-communities-and-llms/5310424",
+      "image_url": "https://image.theregister.com/?imageId=2918386&width=800",
+      "pub_date": "Tue, 17 Nov 2026 18:45:00 +0100",
+      "author": null,
+      "categories": [
+        "software"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-17T17:48:58.793Z",
+      "created_at": "2026-11-17T17:48:58.793Z"
+    },
+    {
+      "id": 29117,
+      "source": "Tom's Hardware",
+      "title_en": "Nvidia claims its Vera CPU can gain up to 39% performance boost via software optimization at SC26 — architectural fine-tuning is needed to fully unleash custom Olympus cores",
+      "description_en": "Nvidia's Vera CPU, powered by its custom Olympus Arm cores, already offers strong performance with unoptimized code, but at SC26, the company demonstrated that further software optimizations can improve performance by nearly 39% with certain workloads.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/cpus/nvidia-claims-its-vera-cpu-can-gain-up-to-39-percent-performance-boost-via-software-optimization-at-sc26-architectural-fine-tuning-is-needed-to-fully-unleash-custom-olympus-cores",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/HLdVAsCHvfXFb5ZjVFtz2b-1920-80.jpg",
+      "pub_date": "Tue, 17 Nov 2026 17:30:00 +0000",
+      "author": " Anton Shilov ",
+      "categories": [
+        "CPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-17T17:49:03.554Z",
+      "created_at": "2026-11-17T17:49:03.554Z"
+    },
+    {
+      "id": 29118,
+      "source": "Tom's Hardware",
+      "title_en": "Jensen Huang says he would be ‘honored’ to return as Nvidia CEO",
+      "description_en": "In his first statement since his resignation, former Nvidia CEO Jensen Huang expressed openness to returning to his former role.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/jensen-huang-says-he-would-be-honored-to-return-as-nvidia-ceo-first-statement-since-resignation-follows-support-from-billionaires-investors-and-some-employees",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Q57X2C2kb7mvEAhLmcPtrj-1920-80.jpg",
+      "pub_date": "Tue, 17 Nov 2026 16:33:23 +0000",
+      "author": " Andrew E. Freedman ",
+      "categories": [
+        "Big Tech",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-17T17:49:03.554Z",
+      "created_at": "2026-11-17T17:49:03.554Z"
+    },
+    {
+      "id": 29119,
+      "source": "Tom's Hardware",
+      "title_en": "AI safety legislation has a conflict-of-interest problem — Big US labs are warning of risk just as cheaper Chinese open-weight models erode their commercial edge",
+      "description_en": "The AI safety conversation is as much a political one as it is a real-life worry. We interview experts to find out how legislation may be a convenient way to control the AI market.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-safety-legislation-has-a-conflict-of-interest-problem-big-us-labs-are-warning-of-risk-just-as-cheaper-chinese-open-weight-models-erode-their-commercial-edge",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/ro83GMaCee5Y8zRs2EBSBX-1920-80.jpg",
+      "pub_date": "Tue, 17 Nov 2026 16:00:00 +0000",
+      "author": " Chris Stokel-Walker ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-17T17:49:03.555Z",
+      "created_at": "2026-11-17T17:49:03.555Z"
+    },
+    {
+      "id": 29120,
+      "source": "Tom's Hardware",
+      "title_en": "Former Nvidia CEO Jensen Huang will appear before a House Foreign Affairs panel amid concerns over his affair with a suspected Chinese spy",
+      "description_en": "Former Nvidia CEO Jensen Huang will appear before the  House Foreign Affairs, Intelligence, and China Select Committees on December 1, with Nvidia's lawyer following him on December 2. The appearances follow Huang's admission of an affair with a woman who worked for an Nvidia customer who is also believed to be a Chinese spy.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/former-nvidia-ceo-jensen-huang-will-appear-before-a-house-foreign-affairs-panel-amid-concerns-over-his-affair-with-a-suspected-chinese-spy-will-testify-behind-closed-doors-december-1-nvidia-lawyer-will-also-appear",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/kFmgkKKC9bnWnRVaUKyZzJ-1920-80.jpg",
+      "pub_date": "Tue, 17 Nov 2026 15:50:51 +0000",
+      "author": " Oliver Haslam ",
+      "categories": [
+        "Data Centers",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-17T17:49:03.555Z",
+      "created_at": "2026-11-17T17:49:03.555Z"
+    },
+    {
+      "id": 29121,
+      "source": "Tom's Hardware",
+      "title_en": "Taipei 101 lit up in support of Jensen Huang",
+      "description_en": "The Taipei 101 skyscraper was lit up with messages of support for Jensen Huang overnight, the former Nvidia CEO who left the company after admitting to an affair with a former customer who has been accused of being a Chinese Spy. Another affair, this time with an employee, has since been reported.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/taipei-101-lit-up-in-support-of-jensen-huang-skyscraper-adorned-with-messages-of-support-following-resignation-as-nvidia-ceo",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/bLQRfWbKZFriNcW6DXyAiA-1920-80.jpg",
+      "pub_date": "Tue, 17 Nov 2026 15:00:00 +0000",
+      "author": " Oliver Haslam ",
+      "categories": [
+        "Big Tech",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-17T17:49:03.555Z",
+      "created_at": "2026-11-17T17:49:03.555Z"
+    },
+    {
+      "id": 29122,
+      "source": "Tom's Hardware",
+      "title_en": "AMD attacks Nvidia's FP64 emulation at SC26, touts native double-precision on Instinct MI430X",
+      "description_en": "AMD is touting the benefits of the native FP64 support provided by its MI430X accelerator at Supercomputing 2026. The company says that Ozaki FP64 emulation only covers the needs of a small portion of HPC workloads, making the MI430X a unique foundation for next-gen supercomputing installations.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/gpus/amd-attacks-nvidias-fp64-emulation-at-sc26-touts-native-double-precision-on-instinct-mi430x-says-ozaki-schemes-fit-less-than-10-percent-of-hpc-workloads-and-triple-memory-use-and-emulated-fp64-is-a-poor-fit-for-many-hpc-workloads",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/aYqjYmHikYgdUmCHUJ3Wbk-1920-80.png",
+      "pub_date": "Tue, 17 Nov 2026 14:30:00 +0000",
+      "author": " Jeffrey Kampman ",
+      "categories": [
+        "GPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-17T17:49:03.555Z",
+      "created_at": "2026-11-17T17:49:03.555Z"
+    },
+    {
+      "id": 29123,
+      "source": "Tom's Hardware",
+      "title_en": "Nvidia warns customers of new US rule that could expose them to lawsuits for serving Chinese clients",
+      "description_en": "This warning comes amid Jensen Huang's scandal, a new rule from the U.S. Department of Commerce, and a pending bill in the Senate.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/policy/nvidia-warns-customers-of-new-us-rule-that-could-expose-them-to-lawsuits-for-serving-chinese-clients-commerce-department-releases-interim-regulations-preventing-foreign-actors-from-using-advanced-compute-based-on-american-tech",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/YAxQQsbvwDfFaHJ7zGMocj-1920-80.jpg",
+      "pub_date": "Tue, 17 Nov 2026 14:00:00 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Policy",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-17T17:49:03.555Z",
+      "created_at": "2026-11-17T17:49:03.555Z"
+    },
+    {
+      "id": 29124,
+      "source": "Tom's Hardware",
+      "title_en": "US government confirms criminal investigation into Singapore company at the heart of Jensen Huang scandal",
+      "description_en": "The Justice and Commerce Departments have announced an investigation into Megaspeed over concerns that it may have been involved in the illegal export of Nvidia's AI hardware. The company was previously run by the woman officials have accused of being a Chinese spy while having an affair with Jensen Huang while he was Nvidia CEO.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/us-government-confirms-criminal-investigation-into-singapore-company-at-the-heart-of-jensen-huang-scandal-megaspeed-identified-over-suspicious-activity-company-placed-on-no-sell-list-by-nvidia",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/MX3wtXkzY2VMNtNaYVQnFA-1920-80.jpg",
+      "pub_date": "Tue, 17 Nov 2026 13:30:00 +0000",
+      "author": " Oliver Haslam ",
+      "categories": [
+        "Data Centers",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-17T17:49:03.555Z",
+      "created_at": "2026-11-17T17:49:03.555Z"
+    },
+    {
+      "id": 29125,
+      "source": "Tom's Hardware",
+      "title_en": "Phison Pascari X201P 15.36TB SSD Review: Fast PCIe 5.0 write performance for AI and ingest servers",
+      "description_en": "The Phison Pascari X201P 15.36TB U.2 data center SSD meets its rated speeds and saves AI checkpoints quickly, though it trails on low-queue-depth writes.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/ssds/phison-pascari-x201p-15-36tb-ssd-review",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/w7yzko35quwLmLvdm4oKP7-1920-80.jpg",
+      "pub_date": "Tue, 17 Nov 2026 13:13:48 +0000",
+      "author": " Shane Downing ",
+      "categories": [
+        "SSDs",
+        "PC Components",
+        "Storage"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-17T17:49:03.555Z",
+      "created_at": "2026-11-17T17:49:03.555Z"
+    },
+    {
+      "id": 29126,
+      "source": "Tom's Hardware",
+      "title_en": "How we test enterprise SSDs",
+      "description_en": "Tom’s Hardware is taking enterprise SSD testing to the extreme. Peek inside our new lab to see how we torture server storage with real-world workloads.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/ssds/how-we-test-enterprise-ssds-our-new-test-suite-pushes-enterprise-and-data-center-ssds-to-their-limits",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/ayhToiaEbT3hRiAqSjdrzg-1920-80.jpg",
+      "pub_date": "Tue, 17 Nov 2026 12:32:43 +0000",
+      "author": " Shane Downing ",
+      "categories": [
+        "SSDs",
+        "PC Components",
+        "Storage"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-17T17:49:03.555Z",
+      "created_at": "2026-11-17T17:49:03.555Z"
+    },
+    {
+      "id": 29127,
+      "source": "Tom's Hardware",
+      "title_en": "Razer's lightweight DeathAdder V3 Pro price is slashed 57% at Amazon",
+      "description_en": "Razer's DeathAdder V3 Pro wireless gaming mouse is available at Amazon at its lowest-ever price.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/peripherals/gaming-mice/razers-lightweight-deathadder-v3-pro-price-is-slashed-57-percent-at-amazon-elite-wireless-gaming-mouse-is-now-only-usd64-its-lowest-ever-price",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/USTNeCYVduRqaRBtCGQWbE-1920-80.jpg",
+      "pub_date": "Tue, 17 Nov 2026 12:00:00 +0000",
+      "author": " Stewart Bendle ",
+      "categories": [
+        "Gaming Mice",
+        "Peripherals",
+        "Mice"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-17T17:49:03.555Z",
+      "created_at": "2026-11-17T17:49:03.555Z"
+    },
+    {
+      "id": 29128,
+      "source": "Tom's Hardware",
+      "title_en": "Nvidia board establishes National Security and Export Control Oversight Committee in wake of Jensen Huang scandal",
+      "description_en": "This group will oversee the company's national security concerns and global trade compliance to avoid a repeat of Jensen's scandals.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/policy/nvidia-board-establishes-national-security-and-export-control-oversight-committee-in-wake-of-jensen-huang-scandal-group-to-work-with-independent-law-national-security-and-trade-compliance-experts",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/TVYovaCvDrBoMvxiTPWqLL-1920-80.png",
+      "pub_date": "Tue, 17 Nov 2026 11:21:39 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Policy",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-17T17:49:03.555Z",
+      "created_at": "2026-11-17T17:49:03.555Z"
+    },
+    {
+      "id": 29129,
+      "source": "CNBC Tech",
+      "title_en": "Former Nvidia CEO Jensen Huang says he’s open to returning in first statement since resignation",
+      "description_en": "He said he had seen support from investors and employees was willing to come back as CEO.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-statement.html",
+      "image_url": null,
+      "pub_date": "Tue, 17 Nov 2026 17:13:02 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-17T17:49:03.564Z",
+      "created_at": "2026-11-17T17:49:03.564Z"
+    },
+    {
+      "id": 29130,
+      "source": "CNBC Tech",
+      "title_en": "Anthropic likely to price IPO above the current range of $70 to $78, sources tell CNBC",
+      "description_en": "Anthropic is slated to list on the Nasdaq under the ticker symbol \"ANT\" and start trading on Nov. 19.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/17/anthropic-ipo-price.html",
+      "image_url": null,
+      "pub_date": "Tue, 17 Nov 2026 14:34:48 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-17T17:49:03.564Z",
+      "created_at": "2026-11-17T17:49:03.564Z"
+    },
+    {
+      "id": 29131,
+      "source": "CNBC Tech",
+      "title_en": "Demis Hassabis’ AI company raises $5 billion, months after he left as Google DeepMind CEO",
+      "description_en": "Isomorphic Labs is looking to develop new medicines using AI.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/17/isomorphic-labs-series-c-ai-drug-discovery-.html",
+      "image_url": null,
+      "pub_date": "Tue, 17 Nov 2026 13:58:07 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-17T17:49:03.565Z",
+      "created_at": "2026-11-17T17:49:03.565Z"
+    },
+    {
+      "id": 29132,
+      "source": "CNBC Tech",
+      "title_en": "Nvidia earnings live updates: Wall Street braces for first report since Huang's ouster",
+      "description_en": "Nvidia is scheduled to release fiscal third-quarter 2027 results Tuesday, November 17, at approximately 4:20 p.m. ET, followed by a 5 p.m. ET earnings call.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html",
+      "image_url": null,
+      "pub_date": "Tue, 17 Nov 2026 17:46:28 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-17T17:49:03.565Z",
+      "created_at": "2026-11-17T17:49:03.565Z"
+    },
+    {
+      "id": 29133,
+      "source": "CNBC Tech",
+      "title_en": "Nvidia's Kress faces earnings test after stock drags Wall Street into the red",
+      "description_en": "Futures hold the flatline as investors await key results from Nvidia and Disney",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/17/nvidias-kress-faces-earnings-test-after-stock-drags-wall-street-into-the-red.html",
+      "image_url": null,
+      "pub_date": "Tue, 17 Nov 2026 11:04:17 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-17T17:49:03.565Z",
+      "created_at": "2026-11-17T17:49:03.565Z"
+    },
+    {
+      "id": 29134,
+      "source": "XOR Journal (TG)",
+      "title_en": "Сбер выпустил портативную умную колонку, которой можно управлять даже без интернета — СберБум Трек получил голосовое управление и локальный ИИ-помощник ГигаЧат 😨Можно голосом включать музыку, искать ",
+      "description_en": "Сбер выпустил портативную умную колонку, которой можно управлять даже без интернета — СберБум Трек получил голосовое управление и локальный ИИ-помощник ГигаЧат 😨Можно голосом включать музыку, искать треки, переключать песни и регулировать громкость. Запросы обрабатывает локальная модель, а в памяти колонки хранится более 200 композиций. Аккумулятора же хватает до 8 часов прослушивания.Еще из приятного: динамик мощностью 20 Вт САМ подстраивает звучание под помещение.Подробнее здесь.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10534",
+      "image_url": "https://cdn4.telesco.pe/file/tB20Cdbyo5tNUzQsa_kW9xtCll932EvEtrc1Qsk36M3pET8v7_myMM53rIIsgFRBhCiaK5hhi7u0BT_GV-YDZ0hfTdvNWZPwjCRGYHusRTFm2Xdyc0QrfkQhzD8dx6r6ajWCTQ7906EtbIX3BMhGNu5uwxtcPtzX0kaQxDTJNiY0hTY13yFGtUKZGkI072BBSY5GonF20zdEtWW92nlVGIQP7gZvI4rkIXxZw2-rAyaMS8keKTGFjJNnUL-gWRuVqJETn8L1mYmKvvXqW5x69WlrAan_p8w5Q48N-sgNJa-_64LrQng0YXLfWQ6rx5H0ZX32u5zFme8WJGNRJEHF8w.jpg",
+      "pub_date": "2026-11-17T12:30:03+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-17T17:49:09.051Z",
+      "created_at": "2026-11-17T17:49:09.051Z"
+    },
+    {
+      "id": 29135,
+      "source": "XOR Journal (TG)",
+      "title_en": "Каждый раз вайбкодим как в последний  🥲@xor_journal",
+      "description_en": "Каждый раз вайбкодим как в последний  🥲@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10538",
+      "image_url": null,
+      "pub_date": "2026-11-17T13:06:04+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-17T17:49:09.051Z",
+      "created_at": "2026-11-17T17:49:09.051Z"
+    },
+    {
+      "id": 29136,
+      "source": "XOR Journal (TG)",
+      "title_en": "⚡️ Telegram теперь запрещает оплачивать VPN и другие подписки банковскими картами прямо в ботах 😭По новым правилам, придётся сначала покупать Telegram Stars и уже ими оплачивать услуги. Ограничения з",
+      "description_en": "⚡️ Telegram теперь запрещает оплачивать VPN и другие подписки банковскими картами прямо в ботах 😭По новым правилам, придётся сначала покупать Telegram Stars и уже ими оплачивать услуги. Ограничения затронут также платные ИИ-сервисы и мини-приложения. В Telegram объясняют изменения требованиями Apple и Google.Новости сегодня не радуют.@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10539",
+      "image_url": "https://cdn4.telesco.pe/file/akr_3q9iIAZUrbmzo7osRqJPVn9oxtlU1NAfZdm_IijIzljEqjGZc9SQ_LsawzkDipV_9n5zu_qJ4nR0pZvkOiGrjpA-DW02Rsx1nBko5KvgAf46h-4NbqGg4xO3tGZ1FaMPvhz6Ycx3pZyOdW7A1q7Az2Iy7XwCC3zovKyDrGzGOYVsoH1LdbPHx-kD9Bc4EA-jhnesHWirJofuc5nCrHCBKsCgbUns7p9LTla9-0RabSaQHypeWwIcSrs5ZttstNS_CfN-LQ9yBhoMdnZCvIjUCln8f9bxG9TRCKt-EP3RNaQSf-9E3PCW1lSQmGxEWWfCFDqKDgn0fef7Dy8b-Q.jpg",
+      "pub_date": "2026-11-17T14:22:19+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-17T17:49:09.051Z",
+      "created_at": "2026-11-17T17:49:09.051Z"
+    },
+    {
+      "id": 29137,
+      "source": "Backdoor (TG)",
+      "title_en": "⚡️ Сбер выпустил новую портативную колонку СберБум Трек — с голосовым управлением без интернета.В память влезает больше 200 треков, а назвать девайс можно любым придуманным именем. По железу завезли 2",
+      "description_en": "⚡️ Сбер выпустил новую портативную колонку СберБум Трек — с голосовым управлением без интернета.В память влезает больше 200 треков, а назвать девайс можно любым придуманным именем. По железу завезли 20 Вт с автокоррекцией звука, эквалайзер в приложении, батарею на 2500 мАч до 8 часов и Matter over Wi-Fi для умного дома. Еще у нее есть есть акселерометр: подбросишь — завизжит от восторга, положишь на бок — закроет глаза и притворится спящей.На шашлыках теперь диджеит локальная LLM.👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/33039",
+      "image_url": "https://cdn4.telesco.pe/file/IP_VtwYCHcjfPcn092UjsifepXuLXpO7huhDeQZyESAQIONX4wIqedlUfwXKo-JUAbZaoJBPLwzv13VmUIK0ryeTDZnk1BYnSJH_YkPNg5jbcIactJ1tjmFSDmfWyXt18RXiHXS3RF0BazMmKr-rb-DgiiLBDc1HfLvJjClJ8-tbUNQxIIQh4oAZC9Onvf8zPhelupO0W48ykPnj8ofF_kSnLu6_h7zDWfd789Gzmlai1RR1-fBgeZSqRgcJTRopx2z3zrqQrMY3ohCI-lq6mgeadYxWjZLuW8ILACsPh6JbHXM7Ph9Z6YdzzDWZKEPEuQv394MJ03KuUtZdF6o4eQ.jpg",
+      "pub_date": "2026-11-17T12:21:00+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-17T17:49:09.080Z",
+      "created_at": "2026-11-17T17:49:09.080Z"
+    },
+    {
+      "id": 29138,
+      "source": "Backdoor (TG)",
+      "title_en": "Разрабы Claude Code выкатили жирный гайд по правильному вайбкодингу — с его помощью в Anthropic ИИ уже пишет и проверяет 90% кода.Понимаем, что многих забанили (нас тоже), но гайд актуален для всех не",
+      "description_en": "Разрабы Claude Code выкатили жирный гайд по правильному вайбкодингу — с его помощью в Anthropic ИИ уже пишет и проверяет 90% кода.Понимаем, что многих забанили (нас тоже), но гайд актуален для всех нейронок. Кратко, что советуют:• Главное правило: нейронка должна доказать, что её код работает, а не просто отчитаться.• Запускать приложение и проверять его как реальный пользователь.• Искать скрытые баги и тестировать нестандартные сценарии.• Не позволять ИИ подгонять проверки под собственный код.•",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/33047",
+      "image_url": "https://cdn4.telesco.pe/file/eyjgYKujjCQjtTdy97bcK6U2TbBPImxq-IUAJXmg_U-95tloUumoV5U3lHQKdyQ3ElIvM6_cUS_0jVSEUEaQj5IM7Fs3bpEd3_yee7MGgeKsa8Fp8wEbwAfqTxqXPTCTPj63IrqCAvYhnBS38kA129E05xDmZxUpe-bX30mqT_gMGCdmnuXNiXN1CjZzwmpSf7jynDQm2IPDeHukSDeSDnOgAFP9ogcP8AnQBSOcAT0jXMBWusltAHXSKYae-tq-Gw-GQ9FOES-qags-eQ-URD0FipDhqD1eP1AqCRMhozeWaSpo72GmmE48h73utR61VfDYYXV93z5PZPGaxYTeyA.jpg",
+      "pub_date": "2026-11-17T15:33:46+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-17T17:49:09.080Z",
+      "created_at": "2026-11-17T17:49:09.080Z"
+    },
+    {
+      "id": 29139,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "🔍 Что читать об ИИ, чтобы ничего не упускать?В мире ИИ все меняется слишком быстро. GPT-4 вышла в 2023-м и оставалась лучшей в мире моделью почти год. А только за последний месяц лидер индустрии смен",
+      "description_en": "🔍 Что читать об ИИ, чтобы ничего не упускать?В мире ИИ все меняется слишком быстро. GPT-4 вышла в 2023-м и оставалась лучшей в мире моделью почти год. А только за последний месяц лидер индустрии сменился дважды.Из-за этого FOMO давит почти каждый день: новая модель, новый инструмент, новый «революционный» релиз. Хочется, чтобы существовал фильтр, который отделит шум от реально важного.Поэтому мы собрали для вас несколько источников, которые помогут оставаться в курсе главных новостей. И один из",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3843",
+      "image_url": "https://cdn4.telesco.pe/file/i8Z-BBjU5xhZ3aFWUcifPfMTbXp0uXpQVSpE8PTxk8wmxVz4ynb0a7oGUNrM-5taOOlgQE8KB7yiKb8UVRpxija-qIYjwx0e1sDtMYlj5Qu3uGMfLrq8SpQsmNukba-0VA23GnGTdUIGEEQ1zj5tIBrI_sVIjLHxbSe20wyTPMFwzjJLVYGxZMbKYmYJkdZXubOEsa35Su_DXDE8ct3UEILubDxCWDzEqv6gioGmPA5905vYzXXIHn1p617djj1fW42G6dakZMcy03LVfDuSPYX_gbPUBcSOKyp-ZYo9qEAW3n8UybdOW6OTvqo4cS8RlnTh_teITz3jegpMJm3U5g.jpg",
+      "pub_date": "2026-11-17T11:17:38+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-17T17:49:09.307Z",
+      "created_at": "2026-11-17T17:49:09.307Z"
+    },
+    {
+      "id": 29140,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "👨 «Расческа для лысых» вернула мышам 98% шерстиКитайские ученые разработали расческу Detangle, которая стимулирует рост волос электрическими импульсами. Ее зубцы разной длины создают электрическое по",
+      "description_en": "👨 «Расческа для лысых» вернула мышам 98% шерстиКитайские ученые разработали расческу Detangle, которая стимулирует рост волос электрическими импульсами. Ее зубцы разной длины создают электрическое поле, которое проникает к волосяным фолликулам до 9 раз глубже, чем при обычном наружном воздействии.Устройство также помогает доставлять внутрь клеток фолликулов экспериментальные препараты генной терапии: один стимулирует образование кровеносных сосудов, другой подавляет действие гормонального механ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3852",
+      "image_url": "https://cdn4.telesco.pe/file/kPFpaj9OkcdvpotBvhkcRnzaXLDWm5aH6I4fzl6HlXFTmh1vIcnuN9YxxPcSFaR8KYxD9kkMxDDkOju2v0OuzA1fUQRzBDSuYLxRxXxj1SLg9JTpY9NRdQ3deJeSSXmtyxVZ5aigOoLicGrnRMCpbY_joZdOiA4S9PqHOFgrx8vvGulXPWmU6YesMXi486C4awS2PAnK_GJJt7juT6Fs_2ygVyMOUV_ibSV0sBMCbQUXvv_ZslADD5am7HL6hXrsmmbGprZkJ0GCuELEHNqif0YbkQ0ivJsAtUSwFRZzdhh3m3beTPL1_2SiEKAGTX614Zwi9A_OZgrOo260u4qlCQ.jpg",
+      "pub_date": "2026-11-17T14:24:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-17T17:49:09.307Z",
+      "created_at": "2026-11-17T17:49:09.307Z"
+    },
+    {
+      "id": 29141,
+      "source": "AI Post (TG)",
+      "title_en": "🗣 Cure cancer, but \"live like a Labrador\"? Sam Altman calls that \"a terrible sales pitch\"The OpenAI CEO was on stage at Semafor's Silicon Valley & The World summit on Monday, talking about why the AI",
+      "description_en": "🗣 Cure cancer, but \"live like a Labrador\"? Sam Altman calls that \"a terrible sales pitch\"The OpenAI CEO was on stage at Semafor's Silicon Valley & The World summit on Monday, talking about why the AI industry's message isn't landing:If the sales pitch is: we are going to offer you a cure to cancer and cheap stuff, and the price of that is you are going to lose all agency and control and voice in the future. You are going to live like a Labrador.\"I think it's a terrible sales pitch. I don't want",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8818",
+      "image_url": null,
+      "pub_date": "2026-11-17T11:36:36+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-17T17:49:09.608Z",
+      "created_at": "2026-11-17T17:49:09.608Z"
+    },
+    {
+      "id": 29142,
+      "source": "AI Post (TG)",
+      "title_en": "📢 Chinese AI firms could rent American chips abroad. The US just closed that loopholeSelling top AI chips to companies based in China already needed a US license. Using those chips remotely, through ",
+      "description_en": "📢 Chinese AI firms could rent American chips abroad. The US just closed that loopholeSelling top AI chips to companies based in China already needed a US license. Using those chips remotely, through a data center in another country, didn't. A rule the Commerce Department released on Monday covers that too.Now a data center anywhere in the world needs a license for new chips if it gives companies based in China or other restricted countries more than 12 million \"TPP\" of computing power, roughly ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8819",
+      "image_url": "https://cdn4.telesco.pe/file/ou9gebcyBojhwqqJr_NnGipu5QL-hvD4OeBdDVJSjwn3reyuqR-1l3mdGQQz242ILN5sq8eLSdC4Q4i_CwSLZ7NRGynlnfTXuYJn04nEoksAqQcocPygumQDUjHZtWKm0ZwmqkPR3nWMAmPM1QMcfErFle4WmUic7mRXm5eVzvi57deAnddl7nMXbV69vP2BwXNOeB6_sV6fZwrADfY80Ms4tyTvRNux1aBYTAcdqPlh4Z4qvgR9869eNezxTnAfbvVrlTRAKhuMk39BctwOi8LD-a4uNha8MJeU4heEjy3mo8qjiHXyTHugMgZB9mpRRLXp3qEB6slxX0wBvlOKDA.jpg",
+      "pub_date": "2026-11-17T14:11:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-17T17:49:09.608Z",
+      "created_at": "2026-11-17T17:49:09.608Z"
+    },
+    {
+      "id": 29143,
+      "source": "AI Post (TG)",
+      "title_en": "🚨 Google found hackers' AI turning security fixes into attacks, with no human involvedWhen popular web software got a security patch, the AI compared the code before and after, worked out which hole ",
+      "description_en": "🚨 Google found hackers' AI turning security fixes into attacks, with no human involvedWhen popular web software got a security patch, the AI compared the code before and after, worked out which hole had been fixed, wrote an exploit and ran it. Nobody stepped in at any stage.Google's threat intelligence team found the tool, which it calls exploit_agent, on an exposed server along with data stolen from victims. The targets looked like French media, entertainment and education sites. A note in its",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8820",
+      "image_url": "https://cdn4.telesco.pe/file/NdmGeX9u-ioar6P-v70dOq6lTMg6IwSAwYhSe35jptWAVjAUpTzQ2bzzJzZy1kOCJJuu_BCb7WaqHs92LFpTn0nFXS_FoniD3rOwNXsWQZHL6xeO7AlKAMQHVPar0bTKmzdR-u1pikfy-yMk9qSKuvuJQVtwZupRJGy7aGTAqtusQYQyge-fdvDqJwj4QXkZ3XE0BApI_fVbQsQOU_xmiqc9O1mQjVxNEhS5w10VPQWsCRsXi_frMiX96VaIQ-DqyK3IJt9DgKWkgkukGhIhRDVYWd91iyG--_NzG2sP0wYiumJSu9ts2qLNuxF9Y5_kQ5o6R_tzQk4XwyG0CK-DEg.jpg",
+      "pub_date": "2026-11-17T17:02:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-17T17:49:09.608Z",
+      "created_at": "2026-11-17T17:49:09.608Z"
+    },
+    {
+      "id": 29144,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🇪🇺 OVH ships its first LLM, and it's a 7B MoE that only wakes up 1B params per tokenOVH announced Olala mini, with 256 experts per layer, hybrid Differential-TPA and Mamba-3 attention, and a 32K con",
+      "description_en": "🇪🇺 OVH ships its first LLM, and it's a 7B MoE that only wakes up 1B params per tokenOVH announced Olala mini, with 256 experts per layer, hybrid Differential-TPA and Mamba-3 attention, and a 32K context. It claims 160 tok/s on an RTX A4500 with 8 GB and 50 tok/s on a plain CPU, and the weights are promised on Hugging Face under Apache 2.0 but aren't out yet.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/1044",
+      "image_url": null,
+      "pub_date": "2026-11-17T11:23:29+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-17T17:49:09.862Z",
+      "created_at": "2026-11-17T17:49:09.862Z"
+    },
+    {
+      "id": 29145,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🤖 Anthropic says ~90% of Claude Code's own code is written and reviewed by ClaudeThe team explains how it keeps that honest: end-to-end, property and differential tests, so agents verify their work w",
+      "description_en": "🤖 Anthropic says ~90% of Claude Code's own code is written and reviewed by ClaudeThe team explains how it keeps that honest: end-to-end, property and differential tests, so agents verify their work with evidence instead of a human reading every diff. In internal tests on structured file generation, a separate grader checking against a rubric lifted task success by up to 10 points, with the biggest gains on the hardest problems.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/1045",
+      "image_url": null,
+      "pub_date": "2026-11-17T14:24:29+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-17T17:49:09.862Z",
+      "created_at": "2026-11-17T17:49:09.862Z"
+    },
+    {
+      "id": 29146,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 Indonesian police raid an Nvidia partner's local unit and find empty server racksPolice raided Megaspeed's Indonesian subsidiary, and Reuters reports the racks were bare. No GPUs, no servers. Where",
+      "description_en": "🚨 Indonesian police raid an Nvidia partner's local unit and find empty server racksPolice raided Megaspeed's Indonesian subsidiary, and Reuters reports the racks were bare. No GPUs, no servers. Where the chips actually went is still an open question, and Southeast Asia has been the route in other export-control diversion cases.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/1046",
+      "image_url": null,
+      "pub_date": "2026-11-17T17:25:29+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-17T17:49:09.862Z",
+      "created_at": "2026-11-17T17:49:09.862Z"
     }
   ]
 }
