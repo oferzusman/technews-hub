@@ -629765,6 +629765,40 @@
       "priority": "hot",
       "fetchedAt": "2026-11-17T00:40:06.377Z",
       "created_at": "2026-11-17T00:40:06.377Z"
+    },
+    {
+      "id": 29057,
+      "source": "AI Post (TG)",
+      "title_en": "🧐 Scientists say ChatGPT nearly doubles their productivity. Some let it pick what to studyOpenAI surveyed 251 researchers from its free program for scientists. On average, they estimated that the sam",
+      "description_en": "🧐 Scientists say ChatGPT nearly doubles their productivity. Some let it pick what to studyOpenAI surveyed 251 researchers from its free program for scientists. On average, they estimated that the same work, at the same quality, would have taken 1.9 times as long without AI.The study also tracked 580,186 research messages from 1,819 scientists between August 20 and September 22. 68% used ChatGPT to develop research ideas. In about 23% of their idea messages, they asked it to suggest the research",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8815",
+      "image_url": null,
+      "pub_date": "2026-11-17T02:08:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-17T02:40:54.859Z",
+      "created_at": "2026-11-17T02:40:54.859Z"
+    },
+    {
+      "id": 29058,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🤖 Anthropic says Claude Mythos ported its stack to AMD GPUs in about 3 days, down from 6 to 12 monthsAnthropic told IPO investors, per Tom's Hardware, that Mythos wrote almost 100% of the kernels for",
+      "description_en": "🤖 Anthropic says Claude Mythos ported its stack to AMD GPUs in about 3 days, down from 6 to 12 monthsAnthropic told IPO investors, per Tom's Hardware, that Mythos wrote almost 100% of the kernels for prompt processing on MI355X GPUs with basically no human help. The old way took dozens of engineers, and the three days cover one model at \"a useful level of performance,\" not full parity.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/1041",
+      "image_url": null,
+      "pub_date": "2026-11-17T02:20:58+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-17T02:40:55.067Z",
+      "created_at": "2026-11-17T02:40:55.067Z"
     }
   ]
 }
