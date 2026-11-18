@@ -635103,6 +635103,520 @@
       "priority": "batch",
       "fetchedAt": "2026-11-18T16:30:28.290Z",
       "created_at": "2026-11-18T16:30:28.290Z"
+    },
+    {
+      "id": 29300,
+      "source": "Ars Technica",
+      "title_en": "Vulcan failure caused by inadequate fuel supply to engines, ULA says",
+      "description_en": "\"ULA is a valued partner, and we look forward to Vulcan's return to flight.\"",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/space/2026/11/vulcan-failure-caused-by-inadequate-fuel-supply-to-engines-ula-says/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790934-1152x648.jpg",
+      "pub_date": "Wed, 18 Nov 2026 16:58:32 +0000",
+      "author": "\n                    Eric Berger\n                ",
+      "categories": [
+        "Space",
+        "blue origin",
+        "space",
+        "united launch alliance",
+        "vulcan"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-18T17:48:17.390Z",
+      "created_at": "2026-11-18T17:48:17.390Z"
+    },
+    {
+      "id": 29301,
+      "source": "The Decoder",
+      "title_en": "Pangram flags 99 percent of an award-winning Peruvian novel as AI-generated, but the publisher stands by its author",
+      "description_en": "The AI detection tool Pangram flags 99 percent of a prize-winning Peruvian novel as AI-generated, but Mexican publisher Almadía is standing by the award after its own review. Pangram also classified over 80 percent of the author's personal texts as machine-written. French publisher Gallimard plans to start screening manuscripts with the tool.\nThe article Pangram flags 99 percent of an award-winning Peruvian novel as AI-generated, but the publisher stands by its author appeared first on The Decod",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/pangram-flags-99-percent-of-an-award-winning-peruvian-novel-as-ai-generated-but-the-publisher-stands-by-its-author/",
+      "image_url": null,
+      "pub_date": "Wed, 18 Nov 2026 16:09:08 +0000",
+      "author": "Manuel Uth",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "Short News",
+        "AI and art",
+        "Pangram"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-18T17:48:18.769Z",
+      "created_at": "2026-11-18T17:48:18.769Z"
+    },
+    {
+      "id": 29302,
+      "source": "The Decoder",
+      "title_en": "Anthropic, OpenAI, and Google models readily marked medics, journalists, and surrendering soldiers as kamikaze drone targets",
+      "description_en": "A Vals AI investigation shows that leading AI models from Anthropic, OpenAI and Google have almost no safeguards against use in autonomous weapons systems. In tests, the models readily flagged civilians as military targets, and a simple video game framing in the prompt was enough to override even belated refusals. The providers have promised fixes.\nThe article Anthropic, OpenAI, and Google models readily marked medics, journalists, and surrendering soldiers as kamikaze drone targets appeared fir",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/anthropic-openai-and-google-models-readily-marked-medics-journalists-and-surrendering-soldiers-as-kamikaze-drone-targets/",
+      "image_url": null,
+      "pub_date": "Wed, 18 Nov 2026 15:47:49 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "AI and warfare",
+        "Anthropic",
+        "Drones",
+        "Google",
+        "OpenAI",
+        "SpaceXAI",
+        "Vals AI"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-18T17:48:18.770Z",
+      "created_at": "2026-11-18T17:48:18.770Z"
+    },
+    {
+      "id": 29303,
+      "source": "The Decoder",
+      "title_en": "Mistral plays catch-up with Vibe Desktop as rivals already command full operating systems",
+      "description_en": "Mistral's AI agent Vibe now has its own desktop app.\nThe article Mistral plays catch-up with Vibe Desktop as rivals already command full operating systems appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/mistral-plays-catch-up-with-vibe-desktop-as-rivals-already-command-full-operating-systems/",
+      "image_url": "http://the-decoder.de/wp-content/uploads/2026/11/Mistral-Vibe-Desktop.mp4",
+      "pub_date": "Wed, 18 Nov 2026 14:40:52 +0000",
+      "author": "Jonathan Kemper",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Mistral"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-18T17:48:18.770Z",
+      "created_at": "2026-11-18T17:48:18.770Z"
+    },
+    {
+      "id": 29304,
+      "source": "The Decoder",
+      "title_en": "OpenAI opens its AI systems to four independent on-site auditors for the first time",
+      "description_en": "OpenAI is giving four independent audit organizations, including Apollo Research and METR, direct access to unreleased models, source code, and training data for the first time. The embedded reviews are designed to uncover hidden misbehavior and safety gaps. OpenAI can redact or delay reports, so how independent this oversight actually turns out to be remains an open question.\nThe article OpenAI opens its AI systems to four independent on-site auditors for the first time appeared first on The De",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/openai-opens-its-ai-systems-to-four-independent-on-site-auditors-for-the-first-time/",
+      "image_url": null,
+      "pub_date": "Wed, 18 Nov 2026 14:36:42 +0000",
+      "author": "Manuel Uth",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "AI and safety",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-18T17:48:18.770Z",
+      "created_at": "2026-11-18T17:48:18.770Z"
+    },
+    {
+      "id": 29305,
+      "source": "The Decoder",
+      "title_en": "Hugging Face now routes model requests through OpenRouter for the best price or speed",
+      "description_en": "Hugging Face now routes language model requests through OpenRouter, which automatically selects the cheapest or fastest provider. Bring-your-own API keys for language models are going away. According to OpenRouter, the new routing cut capacity errors by 46 percent. Both partners face multibillion-dollar acquisitions.\nThe article Hugging Face now routes model requests through OpenRouter for the best price or speed appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/hugging-face-now-routes-model-requests-through-openrouter-for-the-best-price-or-speed/",
+      "image_url": null,
+      "pub_date": "Wed, 18 Nov 2026 14:33:44 +0000",
+      "author": "Jonathan Kemper",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Hugging Face",
+        "OpenRouter"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-18T17:48:18.770Z",
+      "created_at": "2026-11-18T17:48:18.770Z"
+    },
+    {
+      "id": 29306,
+      "source": "The Decoder",
+      "title_en": "More than half the electricity feeding America's largest data centers comes from gas and coal",
+      "description_en": "A Harvard study published in Nature Sustainability found that 403 US hyperscale data centers produced roughly 25.7 million metric tons of CO2 between May 2024 and April 2025, more than all of Denmark. Over half of their electricity came from fossil fuels. With 2,000 additional facilities planned, the researchers warn of a major climate setback.\nThe article More than half the electricity feeding America's largest data centers comes from gas and coal appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/more-than-half-the-electricity-feeding-americas-largest-data-centers-comes-from-gas-and-coal/",
+      "image_url": null,
+      "pub_date": "Wed, 18 Nov 2026 14:25:04 +0000",
+      "author": "Manuel Uth",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "AI training",
+        "Datacenter",
+        "Energy",
+        "USA"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-18T17:48:18.770Z",
+      "created_at": "2026-11-18T17:48:18.770Z"
+    },
+    {
+      "id": 29307,
+      "source": "The Decoder",
+      "title_en": "KPMG's \"Project Exponential\" put AI agents alongside a real audit team and found the bots dug deeper on individual questions",
+      "description_en": "KPMG deployed more than 100 AI agents alongside the regular audit of a UK-listed company. The agents asked \"better questions\" than the audit team in some cases, according to UK head of audit Cath Burnet. The UK's accounting regulator, the FRC, sees a risk in the approach because AI agents analyze far more data than traditional sampling methods, potentially surfacing findings that could serve as a sales pitch for lucrative consulting work and undermine auditor independence.\nThe article KPMG's \"Pr",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/kpmgs-project-exponential-put-ai-agents-alongside-a-real-audit-team-and-found-the-bots-dug-deeper-on-individual-questions/",
+      "image_url": null,
+      "pub_date": "Wed, 18 Nov 2026 13:55:49 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "AI business",
+        "Finance"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-18T17:48:18.770Z",
+      "created_at": "2026-11-18T17:48:18.770Z"
+    },
+    {
+      "id": 29308,
+      "source": "The Decoder",
+      "title_en": "SEC probes Nvidia over undisclosed chip sales tied to China",
+      "description_en": "The U.S. Securities and Exchange Commission (SEC) has launched a civil investigation into Nvidia.\nThe article SEC probes Nvidia over undisclosed chip sales tied to China appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/sec-probes-nvidia-over-undisclosed-chip-sales-tied-to-china/",
+      "image_url": null,
+      "pub_date": "Wed, 18 Nov 2026 13:28:49 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Nvidia",
+        "USA"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-18T17:48:18.770Z",
+      "created_at": "2026-11-18T17:48:18.770Z"
+    },
+    {
+      "id": 29309,
+      "source": "The Decoder",
+      "title_en": "Suno's new Visuals feature pairs AI-generated music with AI-generated video",
+      "description_en": "AI music generator Suno can now create images and video clips to go with its songs, thanks to a new feature called Visuals.\nThe article Suno's new Visuals feature pairs AI-generated music with AI-generated video appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/sunos-new-visuals-feature-pairs-ai-generated-music-with-ai-generated-video/",
+      "image_url": null,
+      "pub_date": "Wed, 18 Nov 2026 10:22:45 +0000",
+      "author": "Jonathan Kemper",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "AI and music",
+        "Suno"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-18T17:48:18.770Z",
+      "created_at": "2026-11-18T17:48:18.770Z"
+    },
+    {
+      "id": 29310,
+      "source": "Hugging Face Blog",
+      "title_en": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://huggingface.co/blog/moe-expert-streaming",
+      "image_url": null,
+      "pub_date": "Wed, 18 Nov 2026 00:00:00 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-18T17:48:19.016Z",
+      "created_at": "2026-11-18T17:48:19.016Z"
+    },
+    {
+      "id": 29311,
+      "source": "OpenAI Blog",
+      "title_en": "Advancing chip design with OpenAI models",
+      "description_en": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "image_url": null,
+      "pub_date": "Wed, 18 Nov 2026 00:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Research"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-18T17:48:19.142Z",
+      "created_at": "2026-11-18T17:48:19.142Z"
+    },
+    {
+      "id": 29312,
+      "source": "Google AI Blog",
+      "title_en": "The Gemini app is now available on lower-memory Android devices.",
+      "description_en": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_app_Android_social_share.max-600x600.format-webp.webp",
+      "pub_date": "Wed, 18 Nov 2026 17:00:00 +0000",
+      "author": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Angus Logan"
+        ],
+        "title": [
+          "Builder, Gemini App"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "categories": [
+        "Gemini App",
+        "Android",
+        "AI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-18T17:48:19.270Z",
+      "created_at": "2026-11-18T17:48:19.270Z"
+    },
+    {
+      "id": 29313,
+      "source": "The Guardian AI",
+      "title_en": "Why Palantir’s health tech is not the right fit for the NHS | Letter",
+      "description_en": "The US firm’s health data system is based on an insurance model of healthcare, not the patient-centred universal service we have in Britain, says Prof Caroline Mitchell\nThe news that NHS England may have overstated the benefits of Palantir for improving efficiency will surprise few frontline clinicians (NHS England deletes ‘misleading’ claim 137 trusts benefiting from Palantir AI tools, 12 November)\nToo often, global digital policy assumes that software designed for the fragmented, insurance-bas",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/nov/18/why-palantirs-health-tech-is-not-the-right-fit-for-the-nhs",
+      "image_url": "https://i.guim.co.uk/img/media/6aec9d2445171f7f84d66512d28da330a407d5d1/504_0_5040_4032/master/5040.jpg?width=140&quality=85&auto=format&fit=max&s=531dc40d0930f0a34a6f4e81189dd1f9",
+      "pub_date": "Wed, 18 Nov 2026 17:24:21 GMT",
+      "author": "Guardian Staff",
+      "categories": [
+        {
+          "_": "Palantir",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/palantir"
+          }
+        },
+        {
+          "_": "NHS",
+          "$": {
+            "domain": "https://www.theguardian.com/society/nhs"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Health",
+          "$": {
+            "domain": "https://www.theguardian.com/society/health"
+          }
+        },
+        {
+          "_": "Health policy",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/health"
+          }
+        },
+        {
+          "_": "Software",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/software"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "US healthcare",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/healthcare"
+          }
+        },
+        {
+          "_": "Public services policy",
+          "$": {
+            "domain": "https://www.theguardian.com/society/policy"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Politics",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/politics"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-18T17:48:19.613Z",
+      "created_at": "2026-11-18T17:48:19.613Z"
+    },
+    {
+      "id": 29314,
+      "source": "Interesting Engineering",
+      "title_en": "8 months to 3 weeks: US firm’s tool unlocks 10x more simulations for aircraft design",
+      "description_en": "U.S.-based aviation and logistics startup Poseidon Aerospace is using artificial intelligence (AI) to test and...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/innovation/8-months-3-weeks-us-aerospace-company",
+      "image_url": null,
+      "pub_date": "Wed, 18 Nov 2026 17:39:44 +0000",
+      "author": "Muskan Bhatia",
+      "categories": [
+        "Innovation"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-18T17:48:20.442Z",
+      "created_at": "2026-11-18T17:48:20.442Z"
+    },
+    {
+      "id": 29315,
+      "source": "Interesting Engineering",
+      "title_en": "US Air Force to turn Cold War B-1B bombers into a hypersonic missile carrier with Boeing",
+      "description_en": "Boeing’s Load Adaptable Modular (LAM) external weapons pylon for the U.S. Air Force’s B-1B Lancer...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/us-turn-bombers-into-hypersonic-missile-carrier",
+      "image_url": null,
+      "pub_date": "Wed, 18 Nov 2026 17:13:22 +0000",
+      "author": "Kaif Shaikh",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-18T17:48:20.442Z",
+      "created_at": "2026-11-18T17:48:20.442Z"
+    },
+    {
+      "id": 29316,
+      "source": "Interesting Engineering",
+      "title_en": "6-kN moon engine aces 50%-100% throttle test for Europe’s first lunar lander, Argonaut",
+      "description_en": "Spacecraft propulsion specialist Nammo UK has completed a prototype hot-fire test campaign for RELIANCE, the...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/space/lunar-engine-passes-hot-fire-test",
+      "image_url": null,
+      "pub_date": "Wed, 18 Nov 2026 16:55:58 +0000",
+      "author": "Kaif Shaikh",
+      "categories": [
+        "Space"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-18T17:48:20.442Z",
+      "created_at": "2026-11-18T17:48:20.442Z"
+    },
+    {
+      "id": 29317,
+      "source": "Backdoor (TG)",
+      "title_en": "Портируем любые игры и приложения на Rust — вышла тулза Rust Anything, которая помогает переписывать всё что угодно с любого языка. Работает в связке с Claude Code, Codex и другими ИИ-агентами. Нейрон",
+      "description_en": "Портируем любые игры и приложения на Rust — вышла тулза Rust Anything, которая помогает переписывать всё что угодно с любого языка. Работает в связке с Claude Code, Codex и другими ИИ-агентами. Нейронка переписывает код по частям, а тулза проверяет, чтобы ничего не сломалось.В чём профит, кто не в курсе: на Rust сейчас все пишут мегабыстрые программы, которые потребляют меньше памяти и ресурсов компьютера (например, Minecraft). В отдельных тестах авторы заявляют об ускорении до 2️⃣0️⃣ раз. Нам н",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/33109",
+      "image_url": null,
+      "pub_date": "2026-11-18T17:01:35+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-18T17:48:21.797Z",
+      "created_at": "2026-11-18T17:48:21.797Z"
+    },
+    {
+      "id": 29318,
+      "source": "XOR Journal (TG)",
+      "title_en": "Объясняем что угодно с помощью человечков — разраб создал скилл stick-scene, который превращает материал в забавные анимации.Просто рассказываете агенту, что хотите визуализировать, а он сам придумыва",
+      "description_en": "Объясняем что угодно с помощью человечков — разраб создал скилл stick-scene, который превращает материал в забавные анимации.Просто рассказываете агенту, что хотите визуализировать, а он сам придумывает сцену, пишет код и добавляет анимацию со стикманом. Идеально для объяснений сложных технических концепций.Забираем  😎@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10556",
+      "image_url": null,
+      "pub_date": "2026-11-18T16:35:56+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-18T17:48:21.876Z",
+      "created_at": "2026-11-18T17:48:21.876Z"
+    },
+    {
+      "id": 29319,
+      "source": "AI Post (TG)",
+      "title_en": "🤯 Google's new AI turned a spreadsheet into animated pixel artGoogle DeepMind's Gemini 4 Hydrogen model used a Google Sheets file as its canvas. Working in Antigravity, Google's AI coding tool, it sh",
+      "description_en": "🤯 Google's new AI turned a spreadsheet into animated pixel artGoogle DeepMind's Gemini 4 Hydrogen model used a Google Sheets file as its canvas. Working in Antigravity, Google's AI coding tool, it shrank thousands of cells into tiny pixels and made them play out animated scenes.A train pulls into a seaside station, a cyclist rides past a little church, autumn leaves drift down. The file names say the motion is \"100% formulas\".That's the same grid most people use for budgets and to-do lists.@aip",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8828",
+      "image_url": null,
+      "pub_date": "2026-11-18T17:11:02+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-18T17:48:22.708Z",
+      "created_at": "2026-11-18T17:48:22.708Z"
+    },
+    {
+      "id": 29320,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 Nvidia stops shipping H200s to China, even with Washington's approvalInterim CEO Colette Kress said on the earnings call that Nvidia is no longer shipping licensed Hopper data center chips there. S",
+      "description_en": "🚨 Nvidia stops shipping H200s to China, even with Washington's approvalInterim CEO Colette Kress said on the earnings call that Nvidia is no longer shipping licensed Hopper data center chips there. She gave no reason. Jensen Huang spent months lobbying for that license.Reuters says about 600,000 H200s are stuck in Hong Kong because Beijing won't approve large imports.Nvidia won the approval fight and then lost the customer.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/1058",
+      "image_url": null,
+      "pub_date": "2026-11-18T17:01:29+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-18T17:48:22.960Z",
+      "created_at": "2026-11-18T17:48:22.960Z"
     }
   ]
 }
