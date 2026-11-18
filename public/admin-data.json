@@ -1,9 +1,9 @@
 {
-  "total": 29235,
-  "translated": 29226,
+  "total": 29237,
+  "translated": 29228,
   "untranslated": 9,
-  "today": 55,
-  "week": 820,
+  "today": 57,
+  "week": 822,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -97,15 +97,15 @@
     },
     {
       "name": "OpenAI Blog",
-      "total": 726,
-      "translated": 726,
+      "total": 727,
+      "translated": 727,
       "lastDate": "Wed, 30 Sep 2026 10:30:00 GMT"
     },
     {
       "name": "Hi, AI Russian (TG)",
-      "total": 549,
-      "translated": 547,
-      "lastDate": "2026-11-18T06:14:23+00:00"
+      "total": 550,
+      "translated": 548,
+      "lastDate": "2026-11-18T09:22:36+00:00"
     },
     {
       "name": "MIT Technology Review",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-11-18T09:27:07.678Z"
+  "generatedAt": "2026-11-18T09:27:58.979Z"
 }
