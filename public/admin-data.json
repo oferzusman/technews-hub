@@ -1,9 +1,9 @@
 {
-  "total": 29299,
+  "total": 29320,
   "translated": 29278,
-  "untranslated": 21,
-  "today": 119,
-  "week": 884,
+  "untranslated": 42,
+  "today": 140,
+  "week": 905,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -13,7 +13,7 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 2579,
+      "total": 2582,
       "translated": 2579,
       "lastDate": "Wed, 30 Sep 2026 23:56:36 +0000"
     },
@@ -31,13 +31,13 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 1746,
+      "total": 1747,
       "translated": 1744,
-      "lastDate": "2026-11-18T14:23:27+00:00"
+      "lastDate": "2026-11-18T17:11:02+00:00"
     },
     {
       "name": "The Decoder",
-      "total": 1597,
+      "total": 1606,
       "translated": 1597,
       "lastDate": "Wed, 30 Sep 2026 22:06:30 +0000"
     },
@@ -49,7 +49,7 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 1458,
+      "total": 1459,
       "translated": 1457,
       "lastDate": "Wed, 30 Sep 2026 19:12:28 GMT"
     },
@@ -61,15 +61,15 @@
     },
     {
       "name": "Ars Technica",
-      "total": 1257,
+      "total": 1258,
       "translated": 1257,
       "lastDate": "Wed, 30 Sep 2026 20:44:48 +0000"
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 1157,
+      "total": 1158,
       "translated": 1153,
-      "lastDate": "2026-11-18T15:35:02+00:00"
+      "lastDate": "2026-11-18T16:35:56+00:00"
     },
     {
       "name": "The Verge AI",
@@ -85,19 +85,19 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 920,
+      "total": 921,
       "translated": 920,
-      "lastDate": "2026-11-18T14:00:29+00:00"
+      "lastDate": "2026-11-18T17:01:29+00:00"
     },
     {
       "name": "Backdoor (TG)",
-      "total": 768,
+      "total": 769,
       "translated": 766,
-      "lastDate": "2026-11-18T15:36:39+00:00"
+      "lastDate": "2026-11-18T17:01:35+00:00"
     },
     {
       "name": "OpenAI Blog",
-      "total": 727,
+      "total": 728,
       "translated": 727,
       "lastDate": "Wed, 30 Sep 2026 10:30:00 GMT"
     },
@@ -133,7 +133,7 @@
     },
     {
       "name": "Hugging Face Blog",
-      "total": 322,
+      "total": 323,
       "translated": 321,
       "lastDate": "Wed, 30 Sep 2026 00:00:00 GMT"
     },
@@ -169,7 +169,7 @@
     },
     {
       "name": "Google AI Blog",
-      "total": 115,
+      "total": 116,
       "translated": 115,
       "lastDate": "Wed, 25 Mar 2026 16:00:00 +0000"
     },
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-11-18T16:35:17.394Z"
+  "generatedAt": "2026-11-18T17:50:18.352Z"
 }
