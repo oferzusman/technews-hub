@@ -1,9 +1,9 @@
 {
-  "total": 29225,
-  "translated": 29216,
+  "total": 29235,
+  "translated": 29226,
   "untranslated": 9,
-  "today": 45,
-  "week": 810,
+  "today": 55,
+  "week": 820,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -25,8 +25,8 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 1885,
-      "translated": 1885,
+      "total": 1886,
+      "translated": 1886,
       "lastDate": "Wed, 30 Sep 2026 23:50:01 GMT"
     },
     {
@@ -43,14 +43,14 @@
     },
     {
       "name": "Product Hunt",
-      "total": 1515,
-      "translated": 1515,
-      "lastDate": "2026-11-17T03:18:14.000Z"
+      "total": 1520,
+      "translated": 1520,
+      "lastDate": "2026-11-17T22:02:24.000Z"
     },
     {
       "name": "The Guardian AI",
-      "total": 1454,
-      "translated": 1454,
+      "total": 1455,
+      "translated": 1455,
       "lastDate": "Wed, 30 Sep 2026 19:12:28 GMT"
     },
     {
@@ -85,9 +85,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 917,
-      "translated": 917,
-      "lastDate": "2026-11-18T04:57:29+00:00"
+      "total": 918,
+      "translated": 918,
+      "lastDate": "2026-11-18T07:58:29+00:00"
     },
     {
       "name": "Backdoor (TG)",
@@ -121,15 +121,15 @@
     },
     {
       "name": "Hi, AI English (TG)",
-      "total": 387,
-      "translated": 387,
-      "lastDate": "2026-11-17T18:40:00+00:00"
+      "total": 388,
+      "translated": 388,
+      "lastDate": "2026-11-18T07:58:02+00:00"
     },
     {
       "name": "Wylsacom Red (TG)",
-      "total": 330,
-      "translated": 330,
-      "lastDate": "2026-11-16T16:59:01+00:00"
+      "total": 331,
+      "translated": 331,
+      "lastDate": "2026-11-18T08:36:06+00:00"
     },
     {
       "name": "The Register",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-11-18T07:17:26.383Z"
+  "generatedAt": "2026-11-18T08:55:18.537Z"
 }
