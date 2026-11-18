@@ -633837,6 +633837,42 @@
       "priority": "hot",
       "fetchedAt": "2026-11-18T08:53:21.659Z",
       "created_at": "2026-11-18T08:53:21.659Z"
+    },
+    {
+      "id": 29236,
+      "source": "OpenAI Blog",
+      "title_en": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "description_en": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+      "title_he": "פיגרו ו-OpenAI שותפים: כתבויות פיגרו יגיעו ל-ChatGPT",
+      "description_he": "קבוצת פיגרו הצרפתית חתמה על הסכם עם OpenAI שיביא את כתבויות העיתון ישירות ל-ChatGPT, עם סיכומים וקטעים מהמאמרים המקוריים וקישורים חזרה לאתר העיתון. זה עוד דוגמה לאופן שבו חברות תקשורת בעולם מנסות להסתגל לעידן ה-AI ולחלוק את התוכן שלהן עם הפלטפורמות החדשות הללו. מעניין לראות שגם בישראל בעיקרון אמורות להיות דיוני דומים סביב זכויות כתבויות וצדק כלכלי עבור מדיה.",
+      "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "image_url": null,
+      "pub_date": "Wed, 18 Nov 2026 00:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Company"
+      ],
+      "translated": true,
+      "priority": "batch",
+      "fetchedAt": "2026-11-18T09:26:05.983Z",
+      "created_at": "2026-11-18T09:26:05.983Z"
+    },
+    {
+      "id": 29237,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "🤖 ИИ полтора месяца управлял компанией и выпустил 38 моделейИсследователи запустили экспериментальную компанию Horizon Labs и передали управление агенту на базе Claude Opus 5.5. Он начал с подпиской ",
+      "description_en": "🤖 ИИ полтора месяца управлял компанией и выпустил 38 моделейИсследователи запустили экспериментальную компанию Horizon Labs и передали управление агенту на базе Claude Opus 5.5. Он начал с подпиской Team Premium, пустым аккаунтом на Hugging Face, доступом к видеокартам и задачей создавать нейросети, которые будут использовать другие разработчики.✏️ Агент сам генерировал идеи, искал данные, обучал модели и публиковал их. В основном он выкладывал небольшие специализированные нейросети — для класс",
+      "title_he": "🤖 AI ניהל חברה למשך חודש וחצי ויצר 38 מודלים",
+      "description_he": "חוקרים הפעילו חברה ניסיונית בשם Horizon Labs והעבירו את ההנהלה לאג'נט AI מבוסס Claude Opus 5.5. בחודש וחצי של עבודה עצמאית, ה-AI יצר עשרות מודלים מתמחים ללא הוראות אנושיות - הוא הגיע לבד לרעיונות, אימן נתונים ופרסם את התוצאות ל-Hugging Face. זה כמו שחרר AI מלא לכביש ואמרו לו 'בונה סטארטאפ של מודלים'! | מקור: Hi, AI Russian (TG)",
+      "link": "https://t.me/hiaimedia/3855",
+      "image_url": "https://cdn4.telesco.pe/file/uF_1Pv-5Yj6ZPreJcykq8DvKxz7K_AYEvTzGcsq8Kq03pRAmjg1vieE5fAc2QQfcBLlk10sX06-RLpqZFw2guIvJQ0AFU2b7osnV_KqsP7cVMFAWB3kQ18_wKeq7oGepVv3iOWlQ1C3VBAqP4aJTujPrBK_Q8iEija19QEeoDVRvjXrdA74LDWIZ4oDljjFS28PaXm6QJJEjIzrauUzSVTZHqSgLozIvxcarCQivnjoFWlPirr3-sUOWSO8Xj77dbCi1HzY49rfz0YllQqEjxyw7tetD34y4y7oxOmCZkhL6Xj1cLcgJ4kCLUvkCBWkqXr-QeHM8M2gt_2XRbJypSg.jpg",
+      "pub_date": "2026-11-18T09:22:36+00:00",
+      "author": null,
+      "categories": [],
+      "translated": true,
+      "priority": "hot",
+      "fetchedAt": "2026-11-18T09:26:10.104Z",
+      "created_at": "2026-11-18T09:26:10.104Z"
     }
   ]
 }
