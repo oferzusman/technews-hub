@@ -633279,6 +633279,40 @@
       "priority": "hot",
       "fetchedAt": "2026-11-18T01:08:55.400Z",
       "created_at": "2026-11-18T01:08:55.400Z"
+    },
+    {
+      "id": 29209,
+      "source": "CNBC Tech",
+      "title_en": "OpenAI bugging case defendant Alfozan set for trial in January",
+      "description_en": "Abdulrahman Alfozan has been held without bail since his arrest in October, after prosecutors said he planted a listening device in an OpenAI conference room.",
+      "title_he": "תביעה נגד עבדالרחמן אלפוזאן בגלל התקנת מיקרופון בחדר הישיבות של OpenAI - משפט בינואר",
+      "description_he": "אלפוזאן מואשם בהנחת מכשיר האזנה בחדר ישיבות של OpenAI ומעוצר ללא עמידה לדין מאוקטובר. המשפט צפוי להתחיל בינואר, ובעדכון חדש זה עוד מזימה מחרידה בעולם ה-AI: מישהו ניסה בכל פשוטות להאזין לשיחות חסויות של אחת החברות הגדולות בתחום. הממשלה מטענת שזו הייתה דרך להשיג מידע חסוי על פיתוח ה-AI של החברה.",
+      "link": "https://www.cnbc.com/2026/11/17/openai-spy-alfozan-trial-saudi.html",
+      "image_url": null,
+      "pub_date": "Wed, 18 Nov 2026 01:31:37 GMT",
+      "author": null,
+      "categories": [],
+      "translated": true,
+      "priority": "hot",
+      "fetchedAt": "2026-11-18T01:56:03.315Z",
+      "created_at": "2026-11-18T01:56:03.315Z"
+    },
+    {
+      "id": 29210,
+      "source": "CNBC Tech",
+      "title_en": "Nvidia's Colette Kress tells Cramer: Employees and customers are not going anywhere",
+      "description_en": "Interim CEO Colette Kress said exclusively on \"Mad Money\" that the chipmaker's customers and employees remain committed to the company.",
+      "title_he": "קולט קרס מנווידיה לקראמר: העובדים והלקוחות לא הולכים לשום מקום",
+      "description_he": "מנהלת ניווידיה הזמנית, קולט קרס, הצהירה בראיון בעברית לחברת CNBC שהלקוחות והעובדים של יצרנית השבבים נשארים מחויבים לחברה. בעקבות שינויים בהנהלה, קרס ניסתה להרגיע שוק ולהבהיר שהביסוד של ניווידיה כחברת גיגנט טק נותר יציב, וגם הלקוחות שלהם (כולל חברות ענק בתחום ה-AI) ממשיכים לסמוך עליה.",
+      "link": "https://www.cnbc.com/2026/11/17/nvidias-colette-kress-tells-cramer-customers-and-employees-are-not-going-anywhere.html",
+      "image_url": null,
+      "pub_date": "Wed, 18 Nov 2026 01:02:38 GMT",
+      "author": null,
+      "categories": [],
+      "translated": true,
+      "priority": "hot",
+      "fetchedAt": "2026-11-18T01:56:03.315Z",
+      "created_at": "2026-11-18T01:56:03.315Z"
     }
   ]
 }
