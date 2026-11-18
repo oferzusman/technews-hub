@@ -636466,6 +636466,167 @@
       "priority": "hot",
       "fetchedAt": "2026-11-18T23:02:55.183Z",
       "created_at": "2026-11-18T23:02:55.183Z"
+    },
+    {
+      "id": 29361,
+      "source": "Ars Technica",
+      "title_en": "Ukraine blew up Putin’s bridge using relay drones to bypass Starlink limits",
+      "description_en": "Ukraine's strike used homegrown tech while adapting battlefield lessons from its adversary.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Kerch-Strait-Bridge-smoke-generators-1152x648.jpg",
+      "pub_date": "Wed, 18 Nov 2026 23:10:39 +0000",
+      "author": "\n                    Jeremy Hsu\n                ",
+      "categories": [
+        "Tech",
+        "cruise missiles",
+        "Drone strikes",
+        "drones",
+        "military drones",
+        "missiles",
+        "Russia invasion of Ukraine",
+        "Russia war on Ukraine",
+        "Russian invasion of Ukraine",
+        "Russian war on Ukraine",
+        "spacex starlink",
+        "spacex starshield",
+        "starlink",
+        "starshield",
+        "Ukraine",
+        "ukraine starlink",
+        "Ukraine war"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-18T23:55:07.199Z",
+      "created_at": "2026-11-18T23:55:07.199Z"
+    },
+    {
+      "id": 29362,
+      "source": "The Verge AI",
+      "title_en": "The nation’s largest school districts consider ditching Google Search",
+      "description_en": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting next year, schools will not have the option to disable Gemini-powered features without also disabling Search. Chris Phillips, Google's vice president of education, told the Times that, \"Search and AI are deeply integrated,\" and that schools that turn off Google's AI features \"will not ha",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+      "image_url": null,
+      "pub_date": "2026-11-18T23:18:35.000Z",
+      "author": "Terrence O’Brien",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-18T23:55:07.400Z",
+      "created_at": "2026-11-18T23:55:07.400Z"
+    },
+    {
+      "id": 29363,
+      "source": "OpenAI Blog",
+      "title_en": "Research acceleration: The jagged frontier",
+      "description_en": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "image_url": null,
+      "pub_date": "Wed, 18 Nov 2026 08:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Research"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-18T23:55:08.757Z",
+      "created_at": "2026-11-18T23:55:08.757Z"
+    },
+    {
+      "id": 29364,
+      "source": "The Guardian AI",
+      "title_en": "Four Maryland high school students sue after AI mistakes Doritos bag for gun",
+      "description_en": "Football players say they are ‘traumatized’ after being handcuffed and detained by police while waiting for rides home\nFour current and former students at a Maryland high school have filed a lawsuit a year after armed police detained them, prompted by an AI alert that mistook a bag of Doritos for a gun, in an incident that left them “fearing for their lives”.\nThe plaintiffs sued Omnilert, the company behind the AI gun-detection system, Baltimore county police, the board of education, individual ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/us-news/2026/nov/18/maryland-baltimore-county-doritos-gun-ai-lawsuit",
+      "image_url": "https://i.guim.co.uk/img/media/55b30b78210b9de9b6079a003a575537c1f083f7/340_0_2178_1744/master/2178.jpg?width=140&quality=85&auto=format&fit=max&s=c85dcd749957628eb5be59c86fc53c0b",
+      "pub_date": "Wed, 18 Nov 2026 23:53:51 GMT",
+      "author": "Sanya Mansoor",
+      "categories": [
+        {
+          "_": "Maryland",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/maryland"
+          }
+        },
+        {
+          "_": "Children",
+          "$": {
+            "domain": "https://www.theguardian.com/society/children"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Law (US)",
+          "$": {
+            "domain": "https://www.theguardian.com/law/law-us"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "US justice system",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-justice-system"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-18T23:55:09.021Z",
+      "created_at": "2026-11-18T23:55:09.021Z"
+    },
+    {
+      "id": 29365,
+      "source": "Interesting Engineering",
+      "title_en": "Gemini 4 Neon targets complex coding, research with 3x faster task completion",
+      "description_en": "Google has launched Gemini 4 Neon, a new model designed to handle complex software engineering,...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/google-gemini-4-neon-faster-coding-research",
+      "image_url": null,
+      "pub_date": "Wed, 18 Nov 2026 23:15:17 +0000",
+      "author": "Neetika Walter",
+      "categories": [
+        "AI and Robotics"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-18T23:55:12.085Z",
+      "created_at": "2026-11-18T23:55:12.085Z"
+    },
+    {
+      "id": 29366,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 Anthropic reportedly prices its IPO at $83 a share, a $1.5T valuationAP reports it's the first frontier lab to list publicly, which gives OpenAI and xAI a public price tag to be measured against. A",
+      "description_en": "🚨 Anthropic reportedly prices its IPO at $83 a share, a $1.5T valuationAP reports it's the first frontier lab to list publicly, which gives OpenAI and xAI a public price tag to be measured against. Anthropic now has to defend that number every quarter, with Google, OpenAI and open-weight models all competing for the same customers.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/1063",
+      "image_url": null,
+      "pub_date": "2026-11-18T23:25:44+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-18T23:55:14.303Z",
+      "created_at": "2026-11-18T23:55:14.303Z"
     }
   ]
 }
