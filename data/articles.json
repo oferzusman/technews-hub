@@ -635617,6 +635617,107 @@
       "priority": "hot",
       "fetchedAt": "2026-11-18T17:48:22.960Z",
       "created_at": "2026-11-18T17:48:22.960Z"
+    },
+    {
+      "id": 29321,
+      "source": "The Verge AI",
+      "title_en": "Disney’s new Star Wars animatronics interact with guests using AI",
+      "description_en": "As advanced and lifelike as the animatronic characters at Disney parks have become, they typically either stick to predefined movements and routines, or there's an out of sight puppeteer helping make their behavior appear more spontaneous. That could soon change as Walt Disney Imagineering R&D has revealed three new Audio-Animatronic prototypes that rely on Amazon's AWS cloud and AI capabilities to respond in unique ways to guest interactions in real-time.\nThe three animatronics, named Vilo Vele",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai",
+      "image_url": null,
+      "pub_date": "2026-11-18T17:50:57.000Z",
+      "author": "Andrew Liszewski",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-18T18:16:01.924Z",
+      "created_at": "2026-11-18T18:16:01.924Z"
+    },
+    {
+      "id": 29322,
+      "source": "Ars Technica",
+      "title_en": "Will Wright's next simulation will use AI to mine content from your memories",
+      "description_en": "With MyMems, Wright says he wants to \"turn the simulation inward.\"",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Moonlit-walk-1152x648.png",
+      "pub_date": "Wed, 18 Nov 2026 18:10:33 +0000",
+      "author": "\n                    Kyle Orland\n                ",
+      "categories": [
+        "Gaming",
+        "mymems",
+        "Sims",
+        "simulation",
+        "Will Wright"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-18T18:16:02.002Z",
+      "created_at": "2026-11-18T18:16:02.002Z"
+    },
+    {
+      "id": 29323,
+      "source": "The Decoder",
+      "title_en": "OpenAI says its models delivered a year's worth of chip optimization on top of AMD's own engineering",
+      "description_en": "Working with AMD, OpenAI achieved up to 14 percent PPA improvement on AMD's flagship GPU IP in less than five months. According to OpenAI, that's roughly a year's worth of progress, and AMD has already folded the changes into a design sent to production. Anthropic is also applying AI to chip work to optimize cost and performance per dollar.\nThe article OpenAI says its models delivered a year's worth of chip optimization on top of AMD's own engineering appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/openai-says-its-models-delivered-a-years-worth-of-chip-optimization-on-top-of-amds-own-engineering/",
+      "image_url": null,
+      "pub_date": "Wed, 18 Nov 2026 18:00:33 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI research",
+        "Artificial Intelligence",
+        "Short News",
+        "AMD",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-18T18:16:03.489Z",
+      "created_at": "2026-11-18T18:16:03.489Z"
+    },
+    {
+      "id": 29324,
+      "source": "OpenAI Blog",
+      "title_en": "Inside the Codex sandbox",
+      "description_en": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/inside-the-codex-sandbox",
+      "image_url": null,
+      "pub_date": "Wed, 18 Nov 2026 08:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Engineering"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-18T18:16:03.774Z",
+      "created_at": "2026-11-18T18:16:03.774Z"
+    },
+    {
+      "id": 29325,
+      "source": "OpenAI Blog",
+      "title_en": "The Silent Consensus",
+      "description_en": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/the-silent-consensus",
+      "image_url": null,
+      "pub_date": "Wed, 18 Nov 2026 00:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Intelligence Age"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-18T18:16:03.775Z",
+      "created_at": "2026-11-18T18:16:03.775Z"
     }
   ]
 }
