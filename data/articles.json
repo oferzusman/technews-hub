@@ -638028,6 +638028,714 @@
       "priority": "hot",
       "fetchedAt": "2026-11-19T12:55:34.729Z",
       "created_at": "2026-11-19T12:55:34.729Z"
+    },
+    {
+      "id": 29423,
+      "source": "Ars Technica",
+      "title_en": "Mouse fight club might explain why we like to watch violent things",
+      "description_en": "Watching fights wasn't as good as practical experience, but it got the mice halfway there.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/science/2026/11/watching-mouse-fight-club-teaches-the-critters-how-to-fight/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/mouse1-1152x648.jpg",
+      "pub_date": "Thu, 19 Nov 2026 14:04:38 +0000",
+      "author": "\n                    Jennifer Ouellette\n                ",
+      "categories": [
+        "Science",
+        "animal behavior",
+        "Biology",
+        "mirror neurons",
+        "Neuroscience"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T15:57:49.363Z",
+      "created_at": "2026-11-19T15:57:49.363Z"
+    },
+    {
+      "id": 29424,
+      "source": "The Verge AI",
+      "title_en": "ChatGPT can transcribe as you speak now with Live Dictation",
+      "description_en": "ChatGPT can receive  audio prompts from your microphone faster now with a Live Dictation feature that transcribes as you speak, rather than waiting until you finish recording. It's rolling out now globally on all ChatGPT plans on the web, desktop app, and iOS and Android apps. While using dictation in ChatGPT, you can tap or click the audio waveform to show the live text transcript the AI is generating, then edit it in the prompt box when you're done.\n\n\nDictation in ChatGPT is getting faster and",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
+      "image_url": null,
+      "pub_date": "2026-11-19T15:16:45.000Z",
+      "author": "Stevie Bonifield",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T15:57:49.389Z",
+      "created_at": "2026-11-19T15:57:49.389Z"
+    },
+    {
+      "id": 29425,
+      "source": "The Verge AI",
+      "title_en": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
+      "description_en": "Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public AI lab debuts to come. But it's not simply a financial milestone.\nAnthropic was founded on the idea that it prioritized safety more than other labs; its founders had left executive research positions at OpenAI. As the AI race has accelerated, though, its executives have emphasized that Anthropic can o",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
+      "image_url": null,
+      "pub_date": "2026-11-19T14:25:37.000Z",
+      "author": "Hayden Field",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T15:57:49.390Z",
+      "created_at": "2026-11-19T15:57:49.390Z"
+    },
+    {
+      "id": 29426,
+      "source": "The Verge AI",
+      "title_en": "I let Apple’s always-listening AI summarize my life for two weeks",
+      "description_en": "Siri Recap can be turned on or off manually from the wrist.\t\n\nWas it worth it?\nI've been asking myself this quite a bit over the last month or so while testing both the Amazon Bee Frontier and Siri Recap on the Apple Watch Ultra 4. Both enable a wearable to ambiently listen to your conversations and, using AI, summarize them for you. Why? So you can remember better and, hopefully, stay more present.\nThe main difference is that Amazon's Bee takes a maximalist (and frankly reality-bending) approac",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
+      "image_url": null,
+      "pub_date": "2026-11-19T13:00:00.000Z",
+      "author": "Victoria Song",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-19T15:57:49.390Z",
+      "created_at": "2026-11-19T15:57:49.390Z"
+    },
+    {
+      "id": 29427,
+      "source": "The Decoder",
+      "title_en": "Anthropic's $81.3 billion IPO shatters SpaceX's record as rising rates and political headwinds shake the sector",
+      "description_en": "Anthropic launches the largest IPO in history, dethroning SpaceX as the previous record holder. Early investor Dustin Moskovitz is publicly distancing himself, warning that his early funding may have been an act \"that ended the world.\"\nThe article Anthropic's $81.3 billion IPO shatters SpaceX's record as rising rates and political headwinds shake the sector appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/anthropics-81-3-billion-ipo-shatters-spacexs-record-as-rising-rates-and-political-headwinds-shake-the-sector/",
+      "image_url": null,
+      "pub_date": "Thu, 19 Nov 2026 14:02:22 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "Anthropic",
+        "IPO"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T15:57:50.527Z",
+      "created_at": "2026-11-19T15:57:50.527Z"
+    },
+    {
+      "id": 29428,
+      "source": "The Decoder",
+      "title_en": "OpenAI's own researchers now say they value their AI tools more than nearly half their colleagues",
+      "description_en": "OpenAI's internal use of coding agents is growing fast, with theoretical token costs now exceeding researchers' base salaries. Even though teams are reluctant to work without these tools, the models still produce a lot of \"AI slop\" beyond routine tasks.\nThe article OpenAI's own researchers now say they value their AI tools more than nearly half their colleagues appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/openais-own-researchers-now-say-they-value-their-ai-tools-more-than-nearly-half-their-colleagues/",
+      "image_url": null,
+      "pub_date": "Thu, 19 Nov 2026 13:08:35 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-19T15:57:50.527Z",
+      "created_at": "2026-11-19T15:57:50.527Z"
+    },
+    {
+      "id": 29429,
+      "source": "MIT Technology Review",
+      "title_en": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
+      "description_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A human liver has been kept alive outside the body for seven weeks, setting a record Researchers in Australia claim they’ve kept a human liver alive on life support outside the…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
+      "image_url": null,
+      "pub_date": "Thu, 19 Nov 2026 13:10:00 +0000",
+      "author": "Thomas Macaulay",
+      "categories": [
+        "The Download"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-19T15:57:50.568Z",
+      "created_at": "2026-11-19T15:57:50.568Z"
+    },
+    {
+      "id": 29430,
+      "source": "The Guardian AI",
+      "title_en": "Anthropic to begin public trading at $1.5tn valuation after largest-ever IPO",
+      "description_en": "AI startup and Claude chatbot maker expected to become one of the most valuable publicly traded businesses\n\nOutages, spies, and trillion-dollar IPOs: is this our AI future? – Stateside with Kai and Carter\n\nAnthropic debuted on the US stock market on Thursday after raising the largest amount of investment in history for an initial public offering. Anthropic’s chief executive, Dario Amodei, rang the Nasdaq opening bell.\n“Today puts the company in a stronger financial position, and in doing so, onl",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo",
+      "image_url": "https://i.guim.co.uk/img/media/6998f4e0d8ab24e4c35516c1ab618511a39fcd71/545_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=1d230408bbae396686d8049961356159",
+      "pub_date": "Thu, 19 Nov 2026 15:30:36 GMT",
+      "author": "Johana Bhuiyan",
+      "categories": [
+        {
+          "_": "Anthropic",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/anthropic"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        },
+        {
+          "_": "Stock markets",
+          "$": {
+            "domain": "https://www.theguardian.com/business/stock-markets"
+          }
+        },
+        {
+          "_": "Dario Amodei",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/dario-amodei"
+          }
+        },
+        {
+          "_": "IPOs",
+          "$": {
+            "domain": "https://www.theguardian.com/business/ipos"
+          }
+        },
+        {
+          "_": "Chatbots",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/chatbots"
+          }
+        },
+        {
+          "_": "Technology sector",
+          "$": {
+            "domain": "https://www.theguardian.com/business/technology"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T15:57:51.192Z",
+      "created_at": "2026-11-19T15:57:51.192Z"
+    },
+    {
+      "id": 29431,
+      "source": "The Guardian AI",
+      "title_en": "A random encounter with James McAvoy triggers delusional fantasy in Parasocial Activity",
+      "description_en": "Òran Mór, Glasgow\nIn Briony Martha’s compelling play, a woman generates an alternative ending to her impromptu meeting with the Scottish superstar\nKnowing what to believe is getting harder. Technology has blurred the line between truth and lies. Certain facts, though, we can demonstrate. We know, for example, that James McAvoy appeared in Cyrano de Bergerac at the Theatre Royal in Glasgow in the mask-wearing spring of 2022. We can also take playwright Briony Martha at her word when she says she ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/stage/2026/nov/19/parasocial-activity-review-a-james-mcavoy-obsession-oran-mor-glasgow",
+      "image_url": "https://i.guim.co.uk/img/media/ac4bc4aebf61af3e909de88cdbac6c359612f513/532_172_1086_869/master/1086.jpg?width=140&quality=85&auto=format&fit=max&s=bd4338b40001d6dacfc3b0a8584bf1ab",
+      "pub_date": "Thu, 19 Nov 2026 15:01:41 GMT",
+      "author": "Mark Fisher",
+      "categories": [
+        {
+          "_": "Stage",
+          "$": {
+            "domain": "https://www.theguardian.com/stage/stage"
+          }
+        },
+        {
+          "_": "Theatre",
+          "$": {
+            "domain": "https://www.theguardian.com/stage/theatre"
+          }
+        },
+        {
+          "_": "James McAvoy",
+          "$": {
+            "domain": "https://www.theguardian.com/film/jamesmcavoy"
+          }
+        },
+        {
+          "_": "Culture",
+          "$": {
+            "domain": "https://www.theguardian.com/culture/culture"
+          }
+        },
+        {
+          "_": "Film",
+          "$": {
+            "domain": "https://www.theguardian.com/film/film"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Edinburgh festival 2026",
+          "$": {
+            "domain": "https://www.theguardian.com/stage/edinburgh-festival-2026"
+          }
+        },
+        {
+          "_": "Comedy",
+          "$": {
+            "domain": "https://www.theguardian.com/stage/comedy"
+          }
+        },
+        {
+          "_": "Comedy",
+          "$": {
+            "domain": "https://www.theguardian.com/culture/comedy"
+          }
+        },
+        {
+          "_": "Edinburgh festival",
+          "$": {
+            "domain": "https://www.theguardian.com/culture/edinburghfestival"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T15:57:51.192Z",
+      "created_at": "2026-11-19T15:57:51.192Z"
+    },
+    {
+      "id": 29432,
+      "source": "The Guardian AI",
+      "title_en": "Australian music industry rejects ‘divide and conquer’ proposal to give musicians exemption from AI scraping",
+      "description_en": "Reported proposal to give musicians special treatment is ‘unworkable’, Aria CEO says, vowing to stand with other creatives\n\nGet our daily political email, free app or daily news podcast\n\nThe music industry will not accept an AI carveout deal that leaves other creative sectors behind, rejecting a reported proposal to give musicians special treatment while allowing big tech to train on other copyrighted material – described by David Pocock as a “divide and conquer strategy”.\nThe trade union repres",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/australia-news/2026/nov/20/australian-music-industry-rejects-proposal-to-give-musicians-exemption-ai-scraping",
+      "image_url": "https://i.guim.co.uk/img/media/a97bdc0f91639c96d197dd5d8f13df1d8ae98f29/0_671_3022_2418/master/3022.jpg?width=140&quality=85&auto=format&fit=max&s=477e9e74301ca35bc7164268ef50968e",
+      "pub_date": "Thu, 19 Nov 2026 14:00:52 GMT",
+      "author": "Josh Butler",
+      "categories": [
+        {
+          "_": "Australian politics",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/australian-politics"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Australia news",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/australia-news"
+          }
+        },
+        {
+          "_": "Anthony Albanese",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/anthony-albanese"
+          }
+        },
+        {
+          "_": "Australian music",
+          "$": {
+            "domain": "https://www.theguardian.com/music/australian-music"
+          }
+        },
+        {
+          "_": "Music industry",
+          "$": {
+            "domain": "https://www.theguardian.com/business/musicindustry"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T15:57:51.192Z",
+      "created_at": "2026-11-19T15:57:51.192Z"
+    },
+    {
+      "id": 29433,
+      "source": "The Guardian AI",
+      "title_en": "‘Communities are really angry’: how Australia’s datacentre opposition has gone from marginal to mainstream in five months",
+      "description_en": "A network of grassroots campaigners around the country are sharing information to help push back against the datacentre boom\n\nGet our breaking news email, free app or daily news podcast\n\nWhen Heather Champion raised a council motion in March opposing a massive new gas plant to power a large datacentre in the Southern Highlands of New South Wales, it failed to pass.\nFive months later, when the local councillor for Wingecaribee raised a new motion calling for the federal government to implement a ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/australia-news/2026/nov/20/communities-are-really-angry-how-datacentre-opposition-has-gone-from-marginal-to-mainstream-in-five-months",
+      "image_url": "https://i.guim.co.uk/img/media/e90e77dce409ae1737f7a957cdd23366571c08e6/735_307_6367_5096/master/6367.jpg?width=140&quality=85&auto=format&fit=max&s=7f3d300ffbcae89efe55693ab1f6daa6",
+      "pub_date": "Thu, 19 Nov 2026 14:00:50 GMT",
+      "author": "Josh Taylor Technology reporter",
+      "categories": [
+        {
+          "_": "Datacentres - Australia",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/datacentres"
+          }
+        },
+        {
+          "_": "Australia news",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/australia-news"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T15:57:51.192Z",
+      "created_at": "2026-11-19T15:57:51.192Z"
+    },
+    {
+      "id": 29434,
+      "source": "Interesting Engineering",
+      "title_en": "US Marines to get Leidos’ air-defense radars that can hide from enemy sensors",
+      "description_en": "Defense contractor Leidos has secured a $40.8 million contract from the U.S. Marine Corps to...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/leidos-radars-us-marines",
+      "image_url": null,
+      "pub_date": "Thu, 19 Nov 2026 14:50:29 +0000",
+      "author": "Kaif Shaikh",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T15:57:53.478Z",
+      "created_at": "2026-11-19T15:57:53.478Z"
+    },
+    {
+      "id": 29435,
+      "source": "Interesting Engineering",
+      "title_en": "Crewed patrol boat turned into autonomous gunboat in BAE Systems’ live-fire naval trial",
+      "description_en": "In rough seas and extreme heat, human focus eventually frays. Algorithms do not. During a...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/patrol-boat-turned-into-autonomous-gunboat",
+      "image_url": null,
+      "pub_date": "Thu, 19 Nov 2026 14:43:14 +0000",
+      "author": "Mrigakshi Dixit",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T15:57:53.478Z",
+      "created_at": "2026-11-19T15:57:53.478Z"
+    },
+    {
+      "id": 29436,
+      "source": "Interesting Engineering",
+      "title_en": "Two Kepler satellites run US startup’s software in push toward orbital data centers",
+      "description_en": "Sophia Space, a Pasadena, California, startup, said it has deployed its Sophia Orbital Operating System...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/space/sophia-space-orbit-system-kepler-satellites",
+      "image_url": null,
+      "pub_date": "Thu, 19 Nov 2026 14:38:44 +0000",
+      "author": "Daniel Kamberski",
+      "categories": [
+        "Space"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T15:57:53.478Z",
+      "created_at": "2026-11-19T15:57:53.478Z"
+    },
+    {
+      "id": 29437,
+      "source": "Interesting Engineering",
+      "title_en": "Scientists rethink food packaging with thin coating and 95% single-polymer base",
+      "description_en": "Fraunhofer Institute for Silicate Research ISC and seven partners have developed recyclable barrier films for...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/innovation/recyclable-food-packaging-fraunhofer-isc-coating",
+      "image_url": null,
+      "pub_date": "Thu, 19 Nov 2026 14:35:15 +0000",
+      "author": "Daniel Kamberski",
+      "categories": [
+        "Innovation"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T15:57:53.478Z",
+      "created_at": "2026-11-19T15:57:53.478Z"
+    },
+    {
+      "id": 29438,
+      "source": "Interesting Engineering",
+      "title_en": "Chinese startups collect human movements to train robots for real-world jobs",
+      "description_en": "Artificial intelligence (AI) engineers in China are training robots with data captured by human workers...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/china-robot-training-data-shenzhen-headcams",
+      "image_url": null,
+      "pub_date": "Thu, 19 Nov 2026 14:32:43 +0000",
+      "author": "Daniel Kamberski",
+      "categories": [
+        "AI and Robotics"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T15:57:53.478Z",
+      "created_at": "2026-11-19T15:57:53.478Z"
+    },
+    {
+      "id": 29439,
+      "source": "Tom's Hardware",
+      "title_en": "Supermicro sued by shareholders over claims Nvidia executive’s wife knew about illicit China sales",
+      "description_en": "A civil lawsuit claimed that there was \"no way Cenly Chen lacked knowledge about the company's illicit sales.\"",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/supermicro-sued-by-shareholders-over-claims-nvidia-executives-wife-must-have-known-about-illicit-china-sales-former-chief-growth-officer-cenly-chen-is-married-to-outgoing-nvidia-vp-jay-puri",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Rs4SbA8spx4NMQeGPyN2G8-1920-80.jpg",
+      "pub_date": "Thu, 19 Nov 2026 14:00:00 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Big Tech",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T15:57:53.743Z",
+      "created_at": "2026-11-19T15:57:53.743Z"
+    },
+    {
+      "id": 29440,
+      "source": "Backdoor (TG)",
+      "title_en": "Российские ИИ могут проиграть зарубежным из-за нехватки данных — исследователи ИТМО. Российским разработчикам сложнее собирать и покупать обучающие материалы, а русскоязычных данных не хватает.Вкратце",
+      "description_en": "Российские ИИ могут проиграть зарубежным из-за нехватки данных — исследователи ИТМО. Российским разработчикам сложнее собирать и покупать обучающие материалы, а русскоязычных данных не хватает.Вкратце про ситуацию сейчас:• Нейросетям нужны не только ру-источники, но вся и мировая база знаний. Как и зарубежным ИИ.• Если вместо расширения доступа к знаниям появятся новые ограничения, отечественные LLM окажутся в ещё более сложных условиях.• В итоге, вопрос не только в том, насколько хорошо мы умее",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/33164",
+      "image_url": null,
+      "pub_date": "2026-11-19T13:01:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-19T15:57:58.929Z",
+      "created_at": "2026-11-19T15:57:58.929Z"
+    },
+    {
+      "id": 29441,
+      "source": "Backdoor (TG)",
+      "title_en": "Claude вышел на биржу — торги Anthropic только что начались под тикером ANT, и это историческое событие по нескольким причинам:• Крупнейшее IPO в истории человечества— рекорд SpaceX побит.• Это первый",
+      "description_en": "Claude вышел на биржу — торги Anthropic только что начались под тикером ANT, и это историческое событие по нескольким причинам:• Крупнейшее IPO в истории человечества— рекорд SpaceX побит.• Это первый выход ИИ-гиганта на рынок США — от результатов Anthropic во много будет зависеть вся ИИ-революция.• Инвесторы буквально дрались за акции — Anthropic повысила цену размещения до $83 за штуку, первоначальный диапазон был $70–78.• Начинается русская рулетка — заработки Anthropic растут, но это всё ещё",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/33169",
+      "image_url": "https://cdn4.telesco.pe/file/XI7KPT0nRLTIQH34NjJj5cD9y0712KdR7Kiqby4VcJbf1GzgAcDbmLemqhZwJse6VRMr6jXRiWWlYzHEaWTPlTR4dI9aAP_S-2u_-SYBE4BmwUE-pH-yS-ifsjQNHmfhgIBDMA1yFFL37UUzijeAEBEN-zXa3HBsr8vQRte1MCCHD3Ht3axW3ptDK2pgfyTA7EMj08sh0ifWkgPRijWS9fhnAqgKxodz9k9Pwv7h8ZMnhbug6wuXjHqV-jAFwq_qA1FX0X_ockJWKJI-2GdQALd41HpD7tTl5XkBuclX0_xhgWR1ogm5JZHNg4Bd-uGfpo4vH02mi2KWu5dj-IJkiA.jpg",
+      "pub_date": "2026-11-19T14:43:34+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T15:57:58.929Z",
+      "created_at": "2026-11-19T15:57:58.929Z"
+    },
+    {
+      "id": 29442,
+      "source": "Wylsacom Red (TG)",
+      "title_en": "⚡️Купить GTA VI можно прямо в Telegram. По лучшей цене, с российской карты, в два кликаА ещё с помощью Topsy можно оплатить Claude, ChatGPT, пополнить Apple ID, Steam и любой другой иностранный сервис",
+      "description_en": "⚡️Купить GTA VI можно прямо в Telegram. По лучшей цене, с российской карты, в два кликаА ещё с помощью Topsy можно оплатить Claude, ChatGPT, пополнить Apple ID, Steam и любой другой иностранный сервис.Всё, что тебе нужно, теперь в одном месте: @topsy_app",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/Wylsared/37265",
+      "image_url": null,
+      "pub_date": "2026-11-19T14:29:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T15:57:58.987Z",
+      "created_at": "2026-11-19T15:57:58.987Z"
+    },
+    {
+      "id": 29443,
+      "source": "XOR Journal (TG)",
+      "title_en": "Проверим на проде 😂@xor_journal",
+      "description_en": "Проверим на проде 😂@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10561",
+      "image_url": null,
+      "pub_date": "2026-11-19T13:51:31+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-19T15:57:59.020Z",
+      "created_at": "2026-11-19T15:57:59.020Z"
+    },
+    {
+      "id": 29444,
+      "source": "XOR Journal (TG)",
+      "title_en": "⚡️ ОФИЦИАЛЬНО: Акции Anthropic теперь на Nasdaq — торги бумагами создателей Claude стартовали под тикером ANT. Стоят в начале 83 доллара за штуку. Посмотрим, куда пойдет дальше.Лопнет или нет, вот в ч",
+      "description_en": "⚡️ ОФИЦИАЛЬНО: Акции Anthropic теперь на Nasdaq — торги бумагами создателей Claude стартовали под тикером ANT. Стоят в начале 83 доллара за штуку. Посмотрим, куда пойдет дальше.Лопнет или нет, вот в чем вопрос 🤔@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10562",
+      "image_url": null,
+      "pub_date": "2026-11-19T14:40:47+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T15:57:59.020Z",
+      "created_at": "2026-11-19T15:57:59.020Z"
+    },
+    {
+      "id": 29445,
+      "source": "XOR Journal (TG)",
+      "title_en": "В Москве рекомендательные алгоритмы сошли с ума — BUBBLE Comics и AI VK выпустили комикс о мире будущего, где технологии вышли из-под контроля 👻Роботы подсовывают людям странную еду, машины гоняются ",
+      "description_en": "В Москве рекомендательные алгоритмы сошли с ума — BUBBLE Comics и AI VK выпустили комикс о мире будущего, где технологии вышли из-под контроля 👻Роботы подсовывают людям странную еду, машины гоняются с самолётами, а алгоритмы советуют самые абсурдные занятия. Разбираться с этим хаосом придётся обычному инженеру из НИИ «Рексис».Самое интересное, что в основу комикса легли реальные технологии.  Чтение на вечер найдено 🪑@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10563",
+      "image_url": "https://cdn4.telesco.pe/file/OYjwPampfur6ginTTEfcVutIWl8Kmy4VmGeBi3BacbQehEnlqx5cXxjb2rJNA_C13ZWyNIZYvOwsTdDatGZoQeGNzdkOgwMtFR3Bvt5H_opuOyFOkretdS65R-LVLufrLM4f8gqfkbFhL9bQRNF3-ywC7T0voShtlY7PM6c4wU2H6Heis1ydJdoLUN9mWlYyjss90hzZMI6ltjadlPSRkfDVBmdCbJj8Xvk4W35ONKZTnDjkTUxDrdfapQIGtQ913uv_7b2tqN6pWrlWV5YKnVHa_B36DsUAiiIa_X1pAEFSjaYF3LtU79Io_foQJeC6JTvF8ACtCzh_EOnynLwlIw.jpg",
+      "pub_date": "2026-11-19T15:25:05+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T15:57:59.020Z",
+      "created_at": "2026-11-19T15:57:59.020Z"
+    },
+    {
+      "id": 29446,
+      "source": "XOR Journal (TG)",
+      "title_en": "Ор: в Китае система пожаротушения с ИИ ошибочно определила вывеску ресторана, как огонь и щедро залила его водой.Нейросети оставят нас без работы, говорили они 😂",
+      "description_en": "Ор: в Китае система пожаротушения с ИИ ошибочно определила вывеску ресторана, как огонь и щедро залила его водой.Нейросети оставят нас без работы, говорили они 😂",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10564",
+      "image_url": null,
+      "pub_date": "2026-11-19T15:56:46+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T15:57:59.020Z",
+      "created_at": "2026-11-19T15:57:59.020Z"
+    },
+    {
+      "id": 29447,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "🤖 Искусственные мышцы позволили роботам играть на пианино и двигать глазамиИнженеры из Пенсильванского университета изобрели искусственные мышцы CoilLCE для роботов. Они вдохновлялись маленькими мышц",
+      "description_en": "🤖 Искусственные мышцы позволили роботам играть на пианино и двигать глазамиИнженеры из Пенсильванского университета изобрели искусственные мышцы CoilLCE для роботов. Они вдохновлялись маленькими мышцами в человеческих пальцах и глазах, которые отвечают за точные движения.🔍 Мышцы собраны из мягкого полимера (жидкокристаллического эластомера, LCE), который сокращается при нагреве, графена и тонкой медной катушки. Катушка выполняет сразу две функции. Она греет материал и по изменению своего сопро",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3860",
+      "image_url": null,
+      "pub_date": "2026-11-19T14:17:00+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T15:57:59.238Z",
+      "created_at": "2026-11-19T15:57:59.238Z"
+    },
+    {
+      "id": 29448,
+      "source": "Hi, AI English (TG)",
+      "title_en": "🤖 Artificial Muscles Let Robots Play Piano and Move Their EyesEngineers at the University of Pennsylvania have developed artificial muscles called CoilLCE for robots. They were inspired by the small ",
+      "description_en": "🤖 Artificial Muscles Let Robots Play Piano and Move Their EyesEngineers at the University of Pennsylvania have developed artificial muscles called CoilLCE for robots. They were inspired by the small muscles in human fingers and eyes that are responsible for precise movements.🔍 The muscles are made from a soft polymer (liquid crystal elastomer, LCE) that contracts when heated, graphene, and a thin copper coil. The coil does two jobs at once. It heats the material and, by measuring changes in it",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimediaen/2949",
+      "image_url": null,
+      "pub_date": "2026-11-19T14:29:23+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T15:57:59.286Z",
+      "created_at": "2026-11-19T15:57:59.286Z"
+    },
+    {
+      "id": 29449,
+      "source": "AI Post (TG)",
+      "title_en": "📊 Google's new Gemini beats Claude and OpenAI on 16 of 19 tests, by Google's countGemini 4 Neon is already in the Gemini app for Google AI Pro and Ultra subscribers. In Google's own table it beats Cl",
+      "description_en": "📊 Google's new Gemini beats Claude and OpenAI on 16 of 19 tests, by Google's countGemini 4 Neon is already in the Gemini app for Google AI Pro and Ultra subscribers. In Google's own table it beats Claude Opus 5.5 and GPT-6.2 Sol on 16 of 19 tests, though one rival has no score on three of them. It loses two coding tests to Claude and a chart-reading test to OpenAI.Independent testers at Artificial Analysis rank it third overall, behind GPT-6.2 Astra and Claude Fable 5.2, both larger and slower.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8835",
+      "image_url": "https://cdn4.telesco.pe/file/Xg7utZYinLJgNyCPR6Q4VnT6o4R4yNXIMHoboviQBjhlQggrc7zzh05gY3GT3LhbTzVP5L-vpaGVK-P5_oCEmVpi2d7n-No3s16T6J9lfZKhXG16jU4kOygpekHx3e8BqnrcwAgxyKrBdRSkq0wRYRHnQW3kF-5OU6871zShzqBMUXEr-s897QXFJvH4A_esAKN-hnE65D4jiQuDGfbulLP1vVhU6EDQqthqXr1R4oRmfafvjf4ppy2mt-SBPKIcxvRC2UR688dqh4kkslzANmMi-dXgt2VSaJK5xKP2e5fBmF6CYbs5r40ykdRn8Wq3Eya3dLclXlir3WPe9L_fDA.jpg",
+      "pub_date": "2026-11-19T13:22:50+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-19T15:57:59.471Z",
+      "created_at": "2026-11-19T15:57:59.471Z"
+    },
+    {
+      "id": 29450,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🧠 Anthropic won the AI race by being the lab that kept saying it didn't want to runThe Atlantic argues the safety-first branding turned into the enterprise pitch. Buyers wanted the model that wouldn'",
+      "description_en": "🧠 Anthropic won the AI race by being the lab that kept saying it didn't want to runThe Atlantic argues the safety-first branding turned into the enterprise pitch. Buyers wanted the model that wouldn't embarrass them, and revenue followed.Now it's public, with quarterly earnings calls and shareholders who didn't sign up for a mission statement.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/1068",
+      "image_url": null,
+      "pub_date": "2026-11-19T14:30:29+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T15:57:59.659Z",
+      "created_at": "2026-11-19T15:57:59.659Z"
     }
   ]
 }
