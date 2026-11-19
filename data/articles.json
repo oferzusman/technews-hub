@@ -636543,8 +636543,8 @@
       "source": "The Guardian AI",
       "title_en": "Four Maryland high school students sue after AI mistakes Doritos bag for gun",
       "description_en": "Football players say they are ‘traumatized’ after being handcuffed and detained by police while waiting for rides home\nFour current and former students at a Maryland high school have filed a lawsuit a year after armed police detained them, prompted by an AI alert that mistook a bag of Doritos for a gun, in an incident that left them “fearing for their lives”.\nThe plaintiffs sued Omnilert, the company behind the AI gun-detection system, Baltimore county police, the board of education, individual ",
-      "title_he": null,
-      "description_he": null,
+      "title_he": "ארבעה תלמידים בתיכון בmevrylend תבעו אחרי שAI החליט שתיק טורטס היה אקדח",
+      "description_he": "כמה שזה נשמע מופרך, זה בדיוק מה שקרה: מערכת AI לזיהוי אקדחים בבית הספר בmevrylend התבלבלה בין תיק של Doritos לנשק אמיתי, וזה הביא להעצרה טראומטית של ארבעה כדורגלנים על ידי המשטרה המזוינת. התלמידים, שחוו חוויה מפחידה וטוענים שהם עדיין נפגעים מהתקרית, החליטו לתבוע את חברת Omnilert שבנתה את המערכת הפשוטה הזו, יחד עם המשטרה וההנהלה החינוכית. זו עוד הוכחה למה שצריך להיות ממש זהיר עם הוצאת גרסאות של AI לשימוש בעולם האמיתי בלי בדיקות כמו שצריך.",
       "link": "https://www.theguardian.com/us-news/2026/nov/18/maryland-baltimore-county-doritos-gun-ai-lawsuit",
       "image_url": "https://i.guim.co.uk/img/media/55b30b78210b9de9b6079a003a575537c1f083f7/340_0_2178_1744/master/2178.jpg?width=140&quality=85&auto=format&fit=max&s=c85dcd749957628eb5be59c86fc53c0b",
       "pub_date": "Wed, 18 Nov 2026 23:53:51 GMT",
@@ -636587,7 +636587,7 @@
           }
         }
       ],
-      "translated": false,
+      "translated": true,
       "priority": "hot",
       "fetchedAt": "2026-11-18T23:55:09.021Z",
       "created_at": "2026-11-18T23:55:09.021Z"
@@ -636627,40 +636627,6 @@
       "priority": "hot",
       "fetchedAt": "2026-11-18T23:55:14.303Z",
       "created_at": "2026-11-18T23:55:14.303Z"
-    },
-    {
-      "id": 29367,
-      "source": "OpenAI Blog",
-      "title_en": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-      "description_en": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
-      "title_he": null,
-      "description_he": null,
-      "link": "https://openai.com/business/customer-stories/sumitomo-life",
-      "image_url": null,
-      "pub_date": "Wed, 18 Nov 2026 08:00:00 GMT",
-      "author": null,
-      "categories": [],
-      "translated": false,
-      "priority": "batch",
-      "fetchedAt": "2026-11-19T00:34:35.285Z",
-      "created_at": "2026-11-19T00:34:35.285Z"
-    },
-    {
-      "id": 29368,
-      "source": "CNBC Tech",
-      "title_en": "Jim Cramer says Nvidia has a new problem — and it has nothing to do with earnings",
-      "description_en": "CNBC's Jim Cramer warned that Anthropic's highly anticipated IPO presents another headwind for Nvidia.",
-      "title_he": null,
-      "description_he": null,
-      "link": "https://www.cnbc.com/2026/11/18/nvidia-cramer-anthropic-ipo-ceo.html",
-      "image_url": null,
-      "pub_date": "Wed, 18 Nov 2026 23:46:32 GMT",
-      "author": null,
-      "categories": [],
-      "translated": false,
-      "priority": "hot",
-      "fetchedAt": "2026-11-19T00:34:37.455Z",
-      "created_at": "2026-11-19T00:34:37.455Z"
     }
   ]
 }
