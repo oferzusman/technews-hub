@@ -637174,6 +637174,860 @@
       "priority": "hot",
       "fetchedAt": "2026-11-19T07:54:39.010Z",
       "created_at": "2026-11-19T07:54:39.010Z"
+    },
+    {
+      "id": 29388,
+      "source": "The Verge AI",
+      "title_en": "Canva adds an AI ‘off’ button",
+      "description_en": "Canva will now allow you to turn off its generative AI features. With this change, you can disable the graphic design platform's array of AI tools, such as its AI photo-extending Magic Expand feature, as well as turn off the ability to generate images with its Canva chatbot.\nThis toggle doesn't turn off every AI-powered feature on Canva, however. That includes Canva's background remover and its Magic Grab tool, which lets you select an object in an image and move it somewhere else. \"Both remain ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
+      "image_url": null,
+      "pub_date": "2026-11-19T12:30:00.000Z",
+      "author": "Emma Roth",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T12:55:24.667Z",
+      "created_at": "2026-11-19T12:55:24.667Z"
+    },
+    {
+      "id": 29389,
+      "source": "Ars Technica",
+      "title_en": "How to tell a cyberattack from a plain old outage",
+      "description_en": "When everything goes down, don’t assume it’s a cyberattack.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2201630098-1152x648.jpg",
+      "pub_date": "Thu, 19 Nov 2026 11:13:01 +0000",
+      "author": "\n                    Andy Greenberg, wired.com\n                ",
+      "categories": [
+        "Biz & IT",
+        "Security",
+        "hacking",
+        "outages"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T12:55:24.739Z",
+      "created_at": "2026-11-19T12:55:24.739Z"
+    },
+    {
+      "id": 29390,
+      "source": "The Decoder",
+      "title_en": "Google's latest AI model is faster, cheaper and smarter than its flagship predecessor from just weeks ago",
+      "description_en": "Google DeepMind has released Gemini 4 Neon, its fourth model in seven weeks, which is nearly 2x faster than its sibling Carbon, outperforms it on most benchmarks and comes in at a significantly lower price.\nThe article Google's latest AI model is faster, cheaper and smarter than its flagship predecessor from just weeks ago appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/googles-latest-ai-model-is-faster-cheaper-and-smarter-than-its-flagship-predecessor-from-just-weeks-ago/",
+      "image_url": null,
+      "pub_date": "Thu, 19 Nov 2026 11:18:18 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Gemini",
+        "Gemini 4",
+        "Gemini 4 Neon",
+        "Google",
+        "Google Deepmind"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T12:55:26.295Z",
+      "created_at": "2026-11-19T12:55:26.295Z"
+    },
+    {
+      "id": 29391,
+      "source": "The Decoder",
+      "title_en": "OCR models now digitize a million pages for under $130 as costs drop fivefold in 18 months",
+      "description_en": "Pulling text out of scanned books and records has gotten a lot cheaper with freely available AI models.\nThe article OCR models now digitize a million pages for under $130 as costs drop fivefold in 18 months appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/ocr-models-now-digitize-a-million-pages-for-under-130-as-costs-drop-fivefold-in-18-months/",
+      "image_url": null,
+      "pub_date": "Thu, 19 Nov 2026 09:28:01 +0000",
+      "author": "Jonathan Kemper",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "OCR"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-19T12:55:26.295Z",
+      "created_at": "2026-11-19T12:55:26.295Z"
+    },
+    {
+      "id": 29392,
+      "source": "MIT Technology Review",
+      "title_en": "A human liver has been kept alive outside the body for a record seven weeks",
+      "description_en": "Researchers in Australia claim they’ve kept a human liver alive, on life support, outside the body for seven weeks, opening up speculative new possibilities in biomedical engineering. The feat, whose details are pending publication, was carried out in Sydney after a team led by surgeon and inventor Carlo Pulitano connected a donated liver to a…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
+      "image_url": null,
+      "pub_date": "Thu, 19 Nov 2026 12:00:00 +0000",
+      "author": "Antonio Regalado",
+      "categories": [
+        "Biotechnology and health",
+        "App",
+        "Summary"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T12:55:26.414Z",
+      "created_at": "2026-11-19T12:55:26.414Z"
+    },
+    {
+      "id": 29393,
+      "source": "MIT Technology Review",
+      "title_en": "What a billion-dollar deal says about the US battery market",
+      "description_en": "After a tough few years littered with some high-profile failures, there’s some positive news for next-generation batteries in the US. Sila just signed an agreement with Panasonic Energy, a global battery manufacturer, to supply silicon-carbon anode material, a possible key to smaller, lighter batteries. It’s a deal that Sila says could be worth more than…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
+      "image_url": null,
+      "pub_date": "Thu, 19 Nov 2026 11:00:00 +0000",
+      "author": "Casey Crownhart",
+      "categories": [
+        "Climate change and energy",
+        "App",
+        "Summary",
+        "The Spark"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T12:55:26.414Z",
+      "created_at": "2026-11-19T12:55:26.414Z"
+    },
+    {
+      "id": 29394,
+      "source": "MarkTechPost",
+      "title_en": "Not If, But How: Responding to Security Incidents in the Age of AI Attackers",
+      "description_en": "AI-powered attackers are driving more frequent attacks on AI infrastructure. This guide reviews 6 months of incidents, sets out a 4-pillar incident response playbook, and shows it in practice through Fireworks AI and Klue.\nThe post Not If, But How: Responding to Security Incidents in the Age of AI Attackers appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/11/19/ai-security-incident-response-playbook-2026/",
+      "image_url": null,
+      "pub_date": "Thu, 19 Nov 2026 10:45:57 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "AI Agents",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Enterprise AI",
+        "For Devs",
+        "Harness",
+        "New Releases",
+        "Promote",
+        "Security",
+        "Software Engineering",
+        "Sponsored",
+        "Staff",
+        "Tech News",
+        "Technology",
+        "Uncategorized"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-19T12:55:26.513Z",
+      "created_at": "2026-11-19T12:55:26.513Z"
+    },
+    {
+      "id": 29395,
+      "source": "The Guardian AI",
+      "title_en": "Anthropic to float on the stock market today as it raises $81bn in record IPO – business live",
+      "description_en": "Rolling coverage of Anthropic’s IPO, and the latest economic and financial news\nAnthropic needs to grow into its $1.5tn valuation, argues Kathleen Brooks, research director at XTB:\nAnthropic’s triumphant IPO and its trillion dollar plus valuation is more typical of a mature company that has a history of strong fundamentals. Anthropic could not be more different. It has generated strong revenue growth, but only in the short term, added to this, it is still unprofitable.\nAnthropic is another major",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
+      "image_url": "https://i.guim.co.uk/img/media/528c5e0e23b611527cf28de1432433186338dd96/424_0_4240_3392/master/4240.jpg?width=140&quality=85&auto=format&fit=max&s=2e98bfa657e5b7b733044f3950fd723d",
+      "pub_date": "Thu, 19 Nov 2026 12:53:54 GMT",
+      "author": "Graeme Wearden",
+      "categories": [
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        },
+        {
+          "_": "Economics",
+          "$": {
+            "domain": "https://www.theguardian.com/business/economics"
+          }
+        },
+        {
+          "_": "Anthropic",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/anthropic"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Stock markets",
+          "$": {
+            "domain": "https://www.theguardian.com/business/stock-markets"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T12:55:27.234Z",
+      "created_at": "2026-11-19T12:55:27.234Z"
+    },
+    {
+      "id": 29396,
+      "source": "The Guardian AI",
+      "title_en": "AI demand will push up interest rates around the world, IMF head warns",
+      "description_en": "Kristalina Georgieva says countries needed to be ready for tech rollout, adding: ‘You snooze, you lose’\n\nBusiness live – latest updates\n\nBooming demand for artificial intelligence will force the world’s most powerful central banks to raise interest rates, the head of the International Monetary Fund (IMF) has warned.\nKristalina Georgieva, the managing director of the Washington-based fund, said demand for AI hardware and related technology products was pushing up consumer prices around the world.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec",
+      "image_url": "https://i.guim.co.uk/img/media/b2a56a8e00524c2b12815efdbcc9e91b0732fdc0/456_0_3410_2728/master/3410.jpg?width=140&quality=85&auto=format&fit=max&s=920ffff20187c6090b440fd5098e1f09",
+      "pub_date": "Thu, 19 Nov 2026 12:51:16 GMT",
+      "author": "Richard Partington Senior economics correspondent",
+      "categories": [
+        {
+          "_": "Global economy",
+          "$": {
+            "domain": "https://www.theguardian.com/business/global-economy"
+          }
+        },
+        {
+          "_": "Economics",
+          "$": {
+            "domain": "https://www.theguardian.com/business/economics"
+          }
+        },
+        {
+          "_": "Apec summit",
+          "$": {
+            "domain": "https://www.theguardian.com/world/apec-summit"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "International Monetary Fund (IMF)",
+          "$": {
+            "domain": "https://www.theguardian.com/business/imf"
+          }
+        },
+        {
+          "_": "Interest rates",
+          "$": {
+            "domain": "https://www.theguardian.com/business/interest-rates"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        },
+        {
+          "_": "Kristalina Georgieva",
+          "$": {
+            "domain": "https://www.theguardian.com/business/kristalina-georgieva"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T12:55:27.234Z",
+      "created_at": "2026-11-19T12:55:27.234Z"
+    },
+    {
+      "id": 29397,
+      "source": "The Guardian AI",
+      "title_en": "Outages, spies, and trillion-dollar IPOs: is this our AI future? – Stateside with Kai and Carter",
+      "description_en": "It has been a wild few weeks in the world of tech. First, Jensen Huang’s extramarital affairs, including with an alleged Chinese spy, forced an unimaginable leadership change at Nvidia – arguably the most consequential company in AI development. Then, chaos erupted as a rolling set of IT outages disrupted flights, banking, tech companies and the federal government. And now, Anthropic is blowing minds with a trillion-dollar IPO – one of the largest in stock market history. The Atlantic’s tech wri",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/us-news/video/2026/nov/19/our-ai-future-stateside",
+      "image_url": "https://i.guim.co.uk/img/media/ccbfb20cc448f83eb6c97aa4bd0d48b9bf0ada9b/0_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=50d96cc8cb925210c559b488c0b3c29a",
+      "pub_date": "Thu, 19 Nov 2026 11:00:26 GMT",
+      "author": "Hosted by Kai Wright , produced by Suzanne Gaber and Tiara Chiaramonte , engineered by Ivan Kuraev , executive producer Rachel Humphreys",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Anthropic",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/anthropic"
+          }
+        },
+        {
+          "_": "Nvidia",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/nvidia"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T12:55:27.234Z",
+      "created_at": "2026-11-19T12:55:27.234Z"
+    },
+    {
+      "id": 29398,
+      "source": "The Guardian AI",
+      "title_en": "Trump says the tech outages are ‘fine’. Who believes him? | Margaret Sullivan",
+      "description_en": "In normal times, we’d expect serious answers from our leaders on a topic of this magnitude. Not under this administration\nAs outages and disruptions have piled up over recent days, Americans have been searching for answers.\nIn less than a week, Microsoft went down, the FAA grounded all flights, banking systems were roiled, and the National Security Agency’s internal network failed.\n Continue reading...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/19/trump-tech-outages",
+      "image_url": "https://i.guim.co.uk/img/media/03be24ddeedb8c9f815f7e311ca93b64dfee5c24/190_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=40c6dd9c4aab4ccf6c8daa7f343aa18a",
+      "pub_date": "Thu, 19 Nov 2026 11:00:24 GMT",
+      "author": "Margaret Sullivan",
+      "categories": [
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Donald Trump",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/donaldtrump"
+          }
+        },
+        {
+          "_": "Trump administration",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/trump-administration"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T12:55:27.234Z",
+      "created_at": "2026-11-19T12:55:27.234Z"
+    },
+    {
+      "id": 29399,
+      "source": "The Guardian AI",
+      "title_en": "When tech workers have to quit their jobs to raise the alarm, it’s time to worry | Isabelle Ferreras",
+      "description_en": "We can’t make AI safe for humanity if tech bosses are allowed to run their companies like autocracies\nOver the past two years, a troubling pattern has emerged across the world’s leading AI laboratories. Time and again, a safety researcher or engineer walks out of the door with a public warning that commercial pressures are overriding safety guardrails. Last month, the person who oversaw safety reports for OpenAI’s product releases said he was quitting the ChatGPT creator because the company’s cu",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/19/tech-workers-quit-jobs-raise-alarm-worry-ai-humanity-autocracies",
+      "image_url": "https://i.guim.co.uk/img/media/e7526f68fda36b80039b3f5dbc8c98e38d05eec2/493_0_4913_3933/master/4913.jpg?width=140&quality=85&auto=format&fit=max&s=26cd6c8e66bdbf57e49c6803683f409b",
+      "pub_date": "Thu, 19 Nov 2026 08:59:17 GMT",
+      "author": "Isabelle Ferreras",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Europe",
+          "$": {
+            "domain": "https://www.theguardian.com/world/europe-news"
+          }
+        },
+        {
+          "_": "European Union",
+          "$": {
+            "domain": "https://www.theguardian.com/world/eu"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Employment law",
+          "$": {
+            "domain": "https://www.theguardian.com/law/employment-law"
+          }
+        },
+        {
+          "_": "Work & careers",
+          "$": {
+            "domain": "https://www.theguardian.com/money/work-and-careers"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-19T12:55:27.234Z",
+      "created_at": "2026-11-19T12:55:27.234Z"
+    },
+    {
+      "id": 29400,
+      "source": "Interesting Engineering",
+      "title_en": "US deploys supercomputer with 2,688 NVIDIA chips to accelerate scientific discovery",
+      "description_en": "Argonne National Laboratory’s Argonne Leadership Computing Facility (ALCF) is expanding its inference service, led by...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/innovation/argonne-powers-up-supercomputer",
+      "image_url": null,
+      "pub_date": "Thu, 19 Nov 2026 11:34:23 +0000",
+      "author": "Mrigakshi Dixit",
+      "categories": [
+        "Innovation"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T12:55:27.930Z",
+      "created_at": "2026-11-19T12:55:27.930Z"
+    },
+    {
+      "id": 29401,
+      "source": "Interesting Engineering",
+      "title_en": "US Army certifies first Patriot battery on IBCS in South Korea, freeing its radars",
+      "description_en": "Delta Battery, 6th Battalion, 52nd Air Defense Artillery Regiment, became the first operational U.S. Army...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/patriot-battery-ibcs-certification-south-korea",
+      "image_url": null,
+      "pub_date": "Thu, 19 Nov 2026 11:28:05 +0000",
+      "author": "Munis Raza",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T12:55:27.930Z",
+      "created_at": "2026-11-19T12:55:27.930Z"
+    },
+    {
+      "id": 29402,
+      "source": "Interesting Engineering",
+      "title_en": "US: 300kW laser takes down mock cruise missile without tracking aids for the first time",
+      "description_en": "Lockheed Martin’s 300-kilowatt Valkyrie laser has destroyed a target standing in for a cruise missile...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/laser-destroys-mock-cruise-missile",
+      "image_url": null,
+      "pub_date": "Thu, 19 Nov 2026 11:02:47 +0000",
+      "author": "Atharva Gosavi",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T12:55:27.930Z",
+      "created_at": "2026-11-19T12:55:27.930Z"
+    },
+    {
+      "id": 29403,
+      "source": "Interesting Engineering",
+      "title_en": "151 humanoid robots set Guinness World Record with synchronized dance performance",
+      "description_en": "China has set a new Guinness World Record after 151 humanoid robots performed a synchronized...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/guinness-record-151-humanoid-robots-dance",
+      "image_url": "https://www.youtube.com/embed/s4FamEpfiAE",
+      "pub_date": "Thu, 19 Nov 2026 09:28:58 +0000",
+      "author": "Jijo Malayil",
+      "categories": [
+        "AI and Robotics"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-19T12:55:27.930Z",
+      "created_at": "2026-11-19T12:55:27.930Z"
+    },
+    {
+      "id": 29404,
+      "source": "CNBC Tech",
+      "title_en": "Anthropic lifts Nasdaq futures and tech stocks ahead of its record-breaking IPO",
+      "description_en": "Shares price above the expected range, raising over $81 billion",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/19/anthropic-lifts-nasdaq-futures-and-tech-stocks-ahead-of-its-record-breaking-ipo.html",
+      "image_url": null,
+      "pub_date": "Thu, 19 Nov 2026 12:30:29 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T12:55:28.357Z",
+      "created_at": "2026-11-19T12:55:28.357Z"
+    },
+    {
+      "id": 29405,
+      "source": "CNBC Tech",
+      "title_en": "Anthropic IPO live updates: Dario and Daniela Amodei to join CNBC in exclusive interview",
+      "description_en": "Anthropic IPO live updates: Follow ANT stock's Nasdaq debut, opening share price, valuation and investor reaction to the Claude AI maker.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
+      "image_url": null,
+      "pub_date": "Thu, 19 Nov 2026 12:01:26 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T12:55:28.357Z",
+      "created_at": "2026-11-19T12:55:28.357Z"
+    },
+    {
+      "id": 29406,
+      "source": "CNBC Tech",
+      "title_en": "Data center electricity use could double by 2030, IEA says",
+      "description_en": "Global electricity use by data centers could double by 2030 as the AI boom adds pressure to power grids across the world, according to the IEA.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/19/data-center-electricity-demand-iea.html",
+      "image_url": null,
+      "pub_date": "Thu, 19 Nov 2026 11:34:24 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T12:55:28.357Z",
+      "created_at": "2026-11-19T12:55:28.357Z"
+    },
+    {
+      "id": 29407,
+      "source": "Tom's Hardware",
+      "title_en": "Pakistan undersea cable fault causes internet failure near Strait of Hormuz",
+      "description_en": "Pakistan's telecommunications authority has confirmed that an undersea network cable fault is behind internet connectivity issues in the country, adding that Transworld Associates is looking into what caused the issue and when it expects it to be fixed. Traffic has been rerouted in the interim.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/networking/pakistan-undersea-cable-fault-causes-internet-failure-near-strait-of-hormuz-fault-detected-offshore-weeks-after-iran-threatened-infrastructure-in-the-region",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/PcZjwetE46JiY4feLoHyr3-1920-80.jpg",
+      "pub_date": "Thu, 19 Nov 2026 12:30:00 +0000",
+      "author": " Oliver Haslam ",
+      "categories": [
+        "Networking"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T12:55:28.414Z",
+      "created_at": "2026-11-19T12:55:28.414Z"
+    },
+    {
+      "id": 29408,
+      "source": "Tom's Hardware",
+      "title_en": "Ukraine deploys homemade 'flying modems' in daring drone attack to destroy Crimean Bridge, ditching Elon Musk's Starlink",
+      "description_en": "Ukrainian forces ditched Elon Musk's Starlink and used a network of \"flying modems\" to build a relay network that allowed them to maintain a live feed of an attack on the Crimean Bridge, even as Russia tried to block the signal.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/networking/ukraine-deploys-homemade-flying-modems-in-daring-drone-attack-to-destroy-crimean-bridge-ditching-elon-musks-starlink-airborne-relay-stations-allow-pilots-to-dodge-russian-air-defences-to-deliver-1-200kg-payload",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/W4bNjvtdxZJqKsG4ybdwT7-1920-80.jpg",
+      "pub_date": "Thu, 19 Nov 2026 11:11:29 +0000",
+      "author": " Oliver Haslam ",
+      "categories": [
+        "Networking"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T12:55:28.414Z",
+      "created_at": "2026-11-19T12:55:28.414Z"
+    },
+    {
+      "id": 29409,
+      "source": "Tom's Hardware",
+      "title_en": "Three 'e-waste' Nvidia V100s hit 100 tokens per second on Qwen 3.6 35B in a $1,042 homelab rig",
+      "description_en": "A homelab builder runs Qwen 3.6 35B on three used Nvidia Tesla V100 GPUs at about 100 tokens per second, in a $1,042 build.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/three-e-waste-nvidia-v100s-hit-100-tokens-per-second-on-qwen-3-6-35b-in-a-usd1-042-homelab-rig-decommissioned-gpus-outpace-a-usd5-399-m5-max-mac-studio-at-long-contexts",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Mmy36NYLic3BaS5bAHCZZ7-1920-80.jpg",
+      "pub_date": "Thu, 19 Nov 2026 11:00:00 +0000",
+      "author": " Shane Downing ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T12:55:28.414Z",
+      "created_at": "2026-11-19T12:55:28.414Z"
+    },
+    {
+      "id": 29410,
+      "source": "Product Hunt",
+      "title_en": "Stripo Email Widgets",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/stripo-email",
+      "image_url": null,
+      "pub_date": "2026-11-11T08:31:59.000Z",
+      "author": "Dmitry Kudrenko",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-19T12:55:33.239Z",
+      "created_at": "2026-11-19T12:55:33.239Z"
+    },
+    {
+      "id": 29411,
+      "source": "Product Hunt",
+      "title_en": "Ableten Hybrid AI Travel Planner",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/ableten-source-library",
+      "image_url": null,
+      "pub_date": "2026-08-19T06:21:46.000Z",
+      "author": "Chris Messina",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-19T12:55:33.239Z",
+      "created_at": "2026-11-19T12:55:33.239Z"
+    },
+    {
+      "id": 29412,
+      "source": "Product Hunt",
+      "title_en": "Room AI",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/room-ai-2",
+      "image_url": null,
+      "pub_date": "2026-11-18T15:37:31.000Z",
+      "author": "Marc Köhlbrugge",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-19T12:55:33.239Z",
+      "created_at": "2026-11-19T12:55:33.239Z"
+    },
+    {
+      "id": 29413,
+      "source": "Backdoor (TG)",
+      "title_en": "⚡️ Anthropic провела IPO — оно стало крупнейшим в истории! Разрабы Claude привлекли $81,3 млрд при оценке в $1,5 трлн. Компания разместилась по $83 за акцию — выше прогнозов аналитиков.Параллельно с э",
+      "description_en": "⚡️ Anthropic провела IPO — оно стало крупнейшим в истории! Разрабы Claude привлекли $81,3 млрд при оценке в $1,5 трлн. Компания разместилась по $83 за акцию — выше прогнозов аналитиков.Параллельно с этим Anthropic привлекла еще $26 млрд в рамках частного размещения — в нем участвовали Google, AMD, Microsoft и Nvidia. Общая сумма инвестиций составила $107,3 млрд, это выше предыдущего рекордсмена, SpaceX, больше чем на $30 млрд.Теперь банить не будут?👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/33149",
+      "image_url": "https://cdn4.telesco.pe/file/ao2Q_g0zti26oNKjc7AZytUplfVg0qSnKyC7qqAnyW8Yg5Jk3Ppciyv-rXrhmDSw6glwLVaRSO0eeEpsoxkI3TIyX3dUA93M5iEo_Ah__M94MzdrlLnShReNFjw4NjEAbs9SwDLL_72_pFzKIy5zz6tPQoQmu8Ghr2LHckMqq_cyxejEJxTFD01SWnfbltA2is0maoqduCqQccyI1WjyUur52GuKjADpV0ulOmWndOGptUOsOdc0EFwMioccXghF8aED4uh_YAqMGWrxl4KjRaTbses06h70zqEEa6TbayU4QQhQEOrepVW0ZR7banRuziAG8rh0GLK0QObraEO0Vg.jpg",
+      "pub_date": "2026-11-19T08:18:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-19T12:55:33.720Z",
+      "created_at": "2026-11-19T12:55:33.720Z"
+    },
+    {
+      "id": 29414,
+      "source": "XOR Journal (TG)",
+      "title_en": "Anthropic провела крупнейшее IPO в истории — создатели Claude привлекли рекордные $81,3 млрд и достигли оценки в $1,5 ТРИЛЛИОНА долларов 😳Компания разместила 980 млн акций по $83 за штуку — выше перв",
+      "description_en": "Anthropic провела крупнейшее IPO в истории — создатели Claude привлекли рекордные $81,3 млрд и достигли оценки в $1,5 ТРИЛЛИОНА долларов 😳Компания разместила 980 млн акций по $83 за штуку — выше первоначального диапазона в $70–78. Торги акциями Anthropic стартуют сегодня на Nasdaq под тикером ANT в 17:30 по МСК.Что за день.@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10560",
+      "image_url": "https://cdn4.telesco.pe/file/FQFmJ19UUDfQdOYj8nbE2FoDAVDHJMwC3jbaknfRKJ0OS4DmbtPFuUsE4MavXql5Zl8Men24_5GLHNdtcFT7V5yLfy005hY9AR2aaAmQ2FRXiit1gwQKWg8Vk40aunvVna5o8BPv4NR5jtz4fGde6yRmeMFWdT8mMVjpTk6vTCxmC32czc44B1rA1aIzfBxaTi66HOmCpiSYgqRT_8MQgcfWsTQjsJhJCGv8JrWEACADC3lMXdGorkf4BiXZaBqNgEv9Zsd9j7WbDbdKY94xnmQ48lFH_YQknyabYmxxxjVa9QrnAmqp0iDKGfZa_SWPISrvCQhzJPVU4iSPluJ57Q.jpg",
+      "pub_date": "2026-11-19T08:35:16+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-19T12:55:33.771Z",
+      "created_at": "2026-11-19T12:55:33.771Z"
+    },
+    {
+      "id": 29415,
+      "source": "Wylsacom Red (TG)",
+      "title_en": "Утро начинается не с кофе, а с новых слухов об iPhoneПортал AppleTrack сделал рендер юбилейного iPhone на основе существующих утечек. Устройство должно получить титановую раму в стиле iPhone Air, пока",
+      "description_en": "Утро начинается не с кофе, а с новых слухов об iPhoneПортал AppleTrack сделал рендер юбилейного iPhone на основе существующих утечек. Устройство должно получить титановую раму в стиле iPhone Air, покатый экран и два размера.Защитники экрана-водопада на Samsung, ваш выход.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/Wylsared/37257",
+      "image_url": null,
+      "pub_date": "2026-11-19T08:52:23+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-19T12:55:33.821Z",
+      "created_at": "2026-11-19T12:55:33.821Z"
+    },
+    {
+      "id": 29416,
+      "source": "Wylsacom Red (TG)",
+      "title_en": "Anthropic преодолела мировой рекорд при выходе на фондовую биржуРазработчик Claude провёл IPO, в ходе которого привлёк $107,3 млрд. Из них $26 млрд составили средства Google, Microsoft, AMD и NVIDIA. ",
+      "description_en": "Anthropic преодолела мировой рекорд при выходе на фондовую биржуРазработчик Claude провёл IPO, в ходе которого привлёк $107,3 млрд. Из них $26 млрд составили средства Google, Microsoft, AMD и NVIDIA. Акции компании сейчас стоят $83 за штуку, хотя ожидалось, что $78 станет максимумом для бумаг.Предыдущий рекорд поставила SpaceX: компания в ходе первичного размещения на бирже привлекла $75 млрд. Помимо этого, Anthropic стала первой в истории публичной ИИ-лабораторией.Автор: Матвей Филькин",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/Wylsared/37259",
+      "image_url": "https://cdn4.telesco.pe/file/m8VRUJj5iu68M9IAFGCBxwWlEuOXMXRJQFYE9cBguu2d-5DeNo3rFQQ_0OnzWNdCmITPz0A6OavdXV_e3rh-3AtahQ2p9NxssLq7EdrmQdq9VNe_psOd9HxxLGZXHMHtVeBrhkWkxZZXaBAfAduIJmHri8x9AFEsO2iATmAz0vShc29SgyKDSqa6r3w99aK9om7PWlLNihyUaSQ4qWc6gX1e4DyHbGrJlU2JENFvHYaPoxzoWZXCV7wLUBBEkH5oB_D2vdmYf5eYp3DBu4HygSOtOgVyHk6JJW1V66Av-_mi7HSsOrKtqZcFn3iLW5NK90lRJ0RXt3gOQZWQ0kJk9Q.jpg",
+      "pub_date": "2026-11-19T11:59:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T12:55:33.821Z",
+      "created_at": "2026-11-19T12:55:33.821Z"
+    },
+    {
+      "id": 29417,
+      "source": "Hi, AI English (TG)",
+      "title_en": "🌥 Anthropic Raises $81.3 Billion in the Largest IPO in HistoryAt its offering price, the Claude developer was valued at $1.5 trillion — roughly on par with Tesla.In total, Anthropic sold 980 million ",
+      "description_en": "🌥 Anthropic Raises $81.3 Billion in the Largest IPO in HistoryAt its offering price, the Claude developer was valued at $1.5 trillion — roughly on par with Tesla.In total, Anthropic sold 980 million shares at $83 apiece. On top of that, Google, Nvidia and five other companies will invest another $26 billion in Anthropic by buying shares directly.Notably, Anthropic's seven co-founders, including CEO Dario Amodei and his sister Daniela, the company's president, will retain 50.1% of the vote after",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimediaen/2948",
+      "image_url": "https://cdn4.telesco.pe/file/fTVp1sGhaw1ZkY9iZ1hOig9n75BCyepXNqbnGsw0h5j60SW4RRr4Q6nkg1O3iF58bYFgV1NewT3X9wkEPSaXozbuWKX1JmZBMesSo7Xtq_xpMifCZPqWKeNOFzXFDoMbpZaMUaZT_NoRptng7yYZhcHjAsKy_FDgAJ1fj1iH1yJvTjneKmhR9wqGQPtZV0spEJJ_YawrO3iTP6TG8vlFqMh53EnEoUd7xfqBupkDEBlmNssRl-kJF_WoZfKyQNtEMsub1krFAhni_iSLkrWX7V_ZEVJjs5W0H1mU7Wm8OGyVliQ2t4user3kFRswwuK6KMOl7ioK8UVxt4g5OaT3KQ.jpg",
+      "pub_date": "2026-11-19T09:04:24+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-19T12:55:34.090Z",
+      "created_at": "2026-11-19T12:55:34.090Z"
+    },
+    {
+      "id": 29418,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "🌥 Anthropic привлекла $81,3 млрд в ходе крупнейшего IPO в историиПо цене размещения разработчика Claude оценили в $1,5 трлн — примерно на уровне Tesla.Всего Anthropic разместила 980 млн акций по $83 ",
+      "description_en": "🌥 Anthropic привлекла $81,3 млрд в ходе крупнейшего IPO в историиПо цене размещения разработчика Claude оценили в $1,5 трлн — примерно на уровне Tesla.Всего Anthropic разместила 980 млн акций по $83 за штуку. Кроме того, Google, Nvidia и ещё пять компаний вложат в Anthropic еще $26 млрд, напрямую выкупив акции. Причем 50,1% голосов после выхода на биржу остается за семью сооснователями Anthropic, включая CEO Дарио Амодеи и его сестру Даниэлу, президента компании. 💰 Ранним инвесторам Anthropic ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3859",
+      "image_url": "https://cdn4.telesco.pe/file/BuuSCAhtHgAKzm7QZ3pjAKVBPVU34oV0Zd7D2LcwYBIgje9P0z6WqzK4fqqsroOyHjZT76WxgbPp4LwLsceS8v6vATUyygnsMIDqUS91j8eZoedgJm-TxSB6VM3JLlCVqy2q-mQWt7ld9nbFl21MQXX87jrp6mQnXARBF5mmy-hs-pGCos6vij2hvX6hmmZXvGYedqAVi8fX2oT1cmsuNxhpWKESSqQlTYjDZ7ipFwgxlFpeaZCwzKPD8-ZYImMsjPhWyVwgViRzcsJjUP8psrlxetS7YdJKUOohvmQStPqPCE-VSGGrax-_kopLAVF1mij2dPgmPCpKlM2iKjSfLQ.jpg",
+      "pub_date": "2026-11-19T09:03:30+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-19T12:55:34.119Z",
+      "created_at": "2026-11-19T12:55:34.119Z"
+    },
+    {
+      "id": 29419,
+      "source": "AI Post (TG)",
+      "title_en": "⚠️ Many in AI privately expect machines to end up running the world, an OpenAI executive saysDean Ball, OpenAI's head of strategic futures, calls it \"the silent consensus\": we hand AI the keys to our ",
+      "description_en": "⚠️ Many in AI privately expect machines to end up running the world, an OpenAI executive saysDean Ball, OpenAI's head of strategic futures, calls it \"the silent consensus\": we hand AI the keys to our companies and, more and more, our governments, until humans are like \"passengers in a car.\"AI doesn't have to rebel for this to happen, he writes in an essay OpenAI published today, adapted from a Harvard lecture and labelled as his own views. If people only slow a business down, its owners get a po",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8833",
+      "image_url": "https://cdn4.telesco.pe/file/Nte3I_te_MRUaMdW2ACnw7NLJ5k_cBdpRSqf5jbPYjIZZM-E_vqckREmMVebaS9QDlAzKuFuBlDKdrPzlklF4suAd9me3Y2EDYVqavHElZUrZ0mPbBGXM4u3xQ5nyviwqP0B7c1eNJzEBGaPOEZdWONs2eYWz2LLdyebMzWCsN70ozuUa49hOE2wtk-ycZ1EX0LgqjD7q6CyvEkEj7QK2-pLt7xCToiBMqbAK-lmfNrMxXkUWnY599Ig7tck-G8rAc71-pC9bkZMqSbO42KUI-rVVB0-B1QGIiyLI9Gd3UpxrKUSvY1YH1Nf6mUULt2biqvd_ulXAJcC-qJLy-l9lw.jpg",
+      "pub_date": "2026-11-19T09:31:55+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-19T12:55:34.433Z",
+      "created_at": "2026-11-19T12:55:34.433Z"
+    },
+    {
+      "id": 29420,
+      "source": "AI Post (TG)",
+      "title_en": "🤖 Anthropic is about to make Wall Street history.Anthropic has priced its IPO at $83 per share, with its Nasdaq debut scheduled for today.Investor demand has been far stronger than expected. The comp",
+      "description_en": "🤖 Anthropic is about to make Wall Street history.Anthropic has priced its IPO at $83 per share, with its Nasdaq debut scheduled for today.Investor demand has been far stronger than expected. The company initially targeted a price range of $70–78 per share, but strong interest allowed it to raise the price and expand the offering from 825 million to 980 million shares.The numbers are staggering. The public offering brought in $79.4 billion, while existing shareholders sold additional shares wort",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8834",
+      "image_url": null,
+      "pub_date": "2026-11-19T10:11:51+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-19T12:55:34.433Z",
+      "created_at": "2026-11-19T12:55:34.433Z"
+    },
+    {
+      "id": 29421,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 Anthropic's IPO raises a record $81.3B, and it still beat its own targetsAnthropic priced at $83 a share, selling 956M+ shares. That's about $79.4B for the company, plus 23M shares from existing ho",
+      "description_en": "🚨 Anthropic's IPO raises a record $81.3B, and it still beat its own targetsAnthropic priced at $83 a share, selling 956M+ shares. That's about $79.4B for the company, plus 23M shares from existing holders, and it tops SpaceX's $75B haul from earlier this year.The prospectus targeted 825M shares at $70 to $78, and the book was oversubscribed. Trading starts Thursday on Nasdaq as ANT.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/1066",
+      "image_url": null,
+      "pub_date": "2026-11-19T08:28:29+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-19T12:55:34.729Z",
+      "created_at": "2026-11-19T12:55:34.729Z"
+    },
+    {
+      "id": 29422,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 Palo Alto Networks pays $4.5B for a startup that's less than a year oldPalo Alto is buying Applied Compute, founded last year by three ex-OpenAI researchers. That's a security vendor buying AI tale",
+      "description_en": "🚨 Palo Alto Networks pays $4.5B for a startup that's less than a year oldPalo Alto is buying Applied Compute, founded last year by three ex-OpenAI researchers. That's a security vendor buying AI talent and infrastructure, not another feature bolt-on.Roughly $1.5B per founder, before anyone shipped a second product cycle.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/1067",
+      "image_url": null,
+      "pub_date": "2026-11-19T11:29:29+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T12:55:34.729Z",
+      "created_at": "2026-11-19T12:55:34.729Z"
     }
   ]
 }
