@@ -638853,6 +638853,839 @@
       "priority": "hot",
       "fetchedAt": "2026-11-19T16:54:22.547Z",
       "created_at": "2026-11-19T16:54:22.547Z"
+    },
+    {
+      "id": 29455,
+      "source": "Ars Technica",
+      "title_en": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
+      "description_en": "Lawsuit: Over 99% of school system’s AI gun alerts were false positives.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-458680569-1152x648-1795115965.jpg",
+      "pub_date": "Thu, 19 Nov 2026 20:19:28 +0000",
+      "author": "\n                    Ashley Belanger\n                ",
+      "categories": [
+        "AI",
+        "Policy",
+        "ai gun detection",
+        "ai in schools",
+        "Artificial Intelligence",
+        "Omnilert"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T21:09:15.333Z",
+      "created_at": "2026-11-19T21:09:15.333Z"
+    },
+    {
+      "id": 29456,
+      "source": "Ars Technica",
+      "title_en": "Google turns to Blue Origin for a rocket, but its long-term problem remains",
+      "description_en": "\"Project Suncatcher is a long-term moonshot.\"",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/NG2-Launch-Rollout-3-1152x648.jpg",
+      "pub_date": "Thu, 19 Nov 2026 19:52:54 +0000",
+      "author": "\n                    Eric Berger\n                ",
+      "categories": [
+        "Google",
+        "Space",
+        "blue origin",
+        "data centers",
+        "google",
+        "new glenn",
+        "space"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T21:09:15.334Z",
+      "created_at": "2026-11-19T21:09:15.334Z"
+    },
+    {
+      "id": 29457,
+      "source": "Ars Technica",
+      "title_en": "\"You’re right\"—LLMs will get climate info wrong if you ask",
+      "description_en": "Some models fare better, but all fail in similar ways.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/science/2026/11/llms-will-provide-accurate-climate-info-except-when-they-wont/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-465648135-1024x648.jpg",
+      "pub_date": "Thu, 19 Nov 2026 18:44:39 +0000",
+      "author": "\n                    Scott K. Johnson\n                ",
+      "categories": [
+        "Science",
+        "climate change",
+        "large language models",
+        "misinformation"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-19T21:09:15.334Z",
+      "created_at": "2026-11-19T21:09:15.334Z"
+    },
+    {
+      "id": 29458,
+      "source": "The Verge AI",
+      "title_en": "Meta’s Muse Charm might cost $300",
+      "description_en": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm \"in time for the holidays in December,\" but he didn't provide a price at the time.\nWhen he announced the Muse Charm, Zuckerberg said that the company had \"packed the whole Muse experience,\" including real-time voice and avatar technology, ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
+      "image_url": null,
+      "pub_date": "2026-11-19T20:22:17.000Z",
+      "author": "Jay Peters",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T21:09:15.369Z",
+      "created_at": "2026-11-19T21:09:15.369Z"
+    },
+    {
+      "id": 29459,
+      "source": "The Verge AI",
+      "title_en": "Google is putting AI chats right on the homepage",
+      "description_en": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats.\nBased on the GIF shared by Stein, it looks like you can open the sidebar by clicking the gray bar that appears on the left side of your screen. From there, Google will show a list of the searches you've made using AI Mode, along with the ability to start a new thread, search your threads, or c",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+      "image_url": null,
+      "pub_date": "2026-11-19T20:05:06.000Z",
+      "author": "Emma Roth",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T21:09:15.369Z",
+      "created_at": "2026-11-19T21:09:15.369Z"
+    },
+    {
+      "id": 29460,
+      "source": "The Verge AI",
+      "title_en": "Gemini on Mac can now use your computer",
+      "description_en": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be useful for things like speeding up workflows, filling in forms, making presentations, and listing items for sale.\nUsers will be able to decide which of your apps Gemini can access, and be able to follow along as Gemini works because it has its own background window that shows a live previ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+      "image_url": null,
+      "pub_date": "2026-11-19T18:21:13.000Z",
+      "author": "Jay Peters",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-19T21:09:15.369Z",
+      "created_at": "2026-11-19T21:09:15.369Z"
+    },
+    {
+      "id": 29461,
+      "source": "The Verge AI",
+      "title_en": "Anthropic starts trading on Wall Street",
+      "description_en": "Anthropic CEO Dario Amodei speaks at the Nasdaq ahead of his company’s public debut. | Photo by Michael Nagle/Bloomberg via Getty Images\t\n\nAnthropic has officially gone public. It began trading on the Nasdaq under the ticker symbol \"ANT\" at $111.50 per share, up from its initial $83 per share price that put company's value at around $1.5 trillion.\nThe listing comes nearly a month after Anthropic revealed its plans to go public. In its lengthy S-1 filing, the AI company reported recording an $80.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
+      "image_url": null,
+      "pub_date": "2026-11-19T16:52:01.000Z",
+      "author": "Emma Roth",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-19T21:09:15.369Z",
+      "created_at": "2026-11-19T21:09:15.369Z"
+    },
+    {
+      "id": 29462,
+      "source": "The Decoder",
+      "title_en": "AI industry growth remains strong, but the pace is slowing",
+      "description_en": "Token prices for AI models fell 21 percent in six weeks while usage volume hit a record high, according to the Ramp AI Index. Anthropic dominates with nearly 59 percent of token spending. Data from Ramp, Stripe and OpenRouter independently show the same pattern: the AI industry is still growing, but revenue momentum is cooling.\nThe article AI industry growth remains strong, but the pace is slowing appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/ai-industry-growth-remains-strong-but-the-pace-is-slowing/",
+      "image_url": null,
+      "pub_date": "Thu, 19 Nov 2026 19:28:19 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Anthropic",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T21:09:16.432Z",
+      "created_at": "2026-11-19T21:09:16.432Z"
+    },
+    {
+      "id": 29463,
+      "source": "The Decoder",
+      "title_en": "Chinese tech firms face a double hit as chip shipments stop and overseas cloud access disappears",
+      "description_en": "Stricter US export controls on AI chips are hitting fast. China's Moonshot AI walked away from a $150 million deal in Indonesia, while TSMC and Samsung stopped shipping to Chinese customers. A New York Times investigation found that Alibaba had routed Nvidia chips to Chinese military researchers through a web of front companies.\nThe article Chinese tech firms face a double hit as chip shipments stop and overseas cloud access disappears appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/chinese-tech-firms-face-a-double-hit-as-chip-shipments-stop-and-overseas-cloud-access-disappears/",
+      "image_url": null,
+      "pub_date": "Thu, 19 Nov 2026 17:02:41 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "China",
+        "Nvidia",
+        "Samsung",
+        "TSMC",
+        "USA"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-19T21:09:16.432Z",
+      "created_at": "2026-11-19T21:09:16.432Z"
+    },
+    {
+      "id": 29464,
+      "source": "MarkTechPost",
+      "title_en": "13 Best Agent Gateways in 2026 for MCP, A2A and LLM Traffic: Kong, Bifrost, AgentCore, Arcade",
+      "description_en": "We ranked the 13 best agent gateways of 2026 by how they govern model, MCP tool and agent-to-agent traffic, with verified pricing, deployment options and the trade-offs each vendor's marketing leaves out.\nThe post 13 Best Agent Gateways in 2026 for MCP, A2A and LLM Traffic: Kong, Bifrost, AgentCore, Arcade appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/11/19/best-agent-gateways-2026/",
+      "image_url": null,
+      "pub_date": "Thu, 19 Nov 2026 18:13:21 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "AI Agents",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "For Devs",
+        "Harness",
+        "New Releases",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology",
+        "Top"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-19T21:09:16.559Z",
+      "created_at": "2026-11-19T21:09:16.559Z"
+    },
+    {
+      "id": 29465,
+      "source": "MarkTechPost",
+      "title_en": "Perplexity Launches Orchestrator API for Failover and Model Routing",
+      "description_en": "Perplexity’s Orchestrator API serves OpenAI, Anthropic, Google, xAI and open-weight models through 1 endpoint, with same-model provider failover, unified billing and a preview perplexity/auto router that sends each request to a described route.\nThe post Perplexity Launches Orchestrator API for Failover and Model Routing appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/11/19/perplexity-orchestrator-api-failover-model-routing/",
+      "image_url": null,
+      "pub_date": "Thu, 19 Nov 2026 17:47:00 +0000",
+      "author": "Michal Sutter",
+      "categories": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Enterprise AI",
+        "For Devs",
+        "New Releases",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology",
+        "Uncategorized"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-19T21:09:16.559Z",
+      "created_at": "2026-11-19T21:09:16.559Z"
+    },
+    {
+      "id": 29466,
+      "source": "OpenAI Blog",
+      "title_en": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "description_en": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "image_url": null,
+      "pub_date": "Thu, 19 Nov 2026 08:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Engineering"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-19T21:09:16.630Z",
+      "created_at": "2026-11-19T21:09:16.630Z"
+    },
+    {
+      "id": 29467,
+      "source": "Google AI Blog",
+      "title_en": "Introducing Tool Retrieval in the Gemini API",
+      "description_en": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tool_retrieval_hero.max-600x600.format-webp.webp",
+      "pub_date": "Thu, 19 Nov 2026 18:00:00 +0000",
+      "author": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Lucia Loher"
+        ],
+        "title": [
+          "Product Manager"
+        ],
+        "department": [
+          "Gemini API"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "categories": [
+        "Developer tools",
+        "AI"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-19T21:09:16.830Z",
+      "created_at": "2026-11-19T21:09:16.830Z"
+    },
+    {
+      "id": 29468,
+      "source": "Google AI Blog",
+      "title_en": "Walter Isaacson on curiosity and creativity in the AI age.",
+      "description_en": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues.max-600x600.format-webp.webp",
+      "pub_date": "Thu, 19 Nov 2026 17:00:00 +0000",
+      "author": null,
+      "categories": [
+        "AI"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-19T21:09:16.830Z",
+      "created_at": "2026-11-19T21:09:16.830Z"
+    },
+    {
+      "id": 29469,
+      "source": "New Atlas",
+      "title_en": "Articulated gaming mouse wraps your entire finger for instant level up",
+      "description_en": "First of all, never mind how this thing works, get a load of how it looks! That said, the Borslon is in fact claimed to be an improvement on traditional gaming mice, with a radical articulated finger-worn design.\nContinue Reading\nCategory: Computing, Consumer Tech, Technology\nTags: Gaming, xxKickbooster, Kickstarter, Mouse",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/computers/borslon-finger-worn-gaming-mouse/",
+      "image_url": null,
+      "pub_date": "Thu, 19 Nov 2026 20:00:04 GMT",
+      "author": "Ben Coxworth",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T21:09:16.976Z",
+      "created_at": "2026-11-19T21:09:16.976Z"
+    },
+    {
+      "id": 29470,
+      "source": "New Atlas",
+      "title_en": "BMW dreamed up the roofed scooter, now Segway wants a piece",
+      "description_en": "\"Oh no, here we go again!\" That’s exactly how I feel reading about Segway, one of the world’s most well-known electric scooter brands, reviving the roofed scooter conversation. It’s a concept that somehow pops up almost every year, and then dies down without much development, only to rise again the next year.\nContinue Reading\nCategory: Motorcycles, Transport\nTags: Scooter, Electric Motorcycles, Segway, BMW Motorrad, Roofs, urban transport, Road Safety",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/motorcycles/segway-xcruiser-roofed-scooter/",
+      "image_url": null,
+      "pub_date": "Thu, 19 Nov 2026 17:38:55 GMT",
+      "author": "Utkarsh Sood",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-19T21:09:16.976Z",
+      "created_at": "2026-11-19T21:09:16.976Z"
+    },
+    {
+      "id": 29471,
+      "source": "The Guardian AI",
+      "title_en": "Who are Anthropic’s seven co-founders, now worth $180bn?",
+      "description_en": "The company counts physicists, a former journalist and an associate of the pope among its guiding lights\nThe paper fortunes of Anthropic’s seven co-founders reached a total of more than $180bn on Thursday as shares in their company started trading at a price ahead of expectations.\nThe opening price of $111.50 (£85) per share valued the entrepreneurs’ stakes – including the chief executive, Dario Amodei, and his sister Daniela – at between $26.5bn and $27bn each. The founders have pledged to dona",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/nov/19/who-are-anthropic-founders",
+      "image_url": "https://i.guim.co.uk/img/media/f21be169b52ca2b5f51250db2e1f038f14af993b/236_0_3021_2417/master/3021.jpg?width=140&quality=85&auto=format&fit=max&s=cfd2d2381022640d3abcec2594556295",
+      "pub_date": "Thu, 19 Nov 2026 20:05:13 GMT",
+      "author": "Dan Milmo and Aisha Down",
+      "categories": [
+        {
+          "_": "Anthropic",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/anthropic"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        },
+        {
+          "_": "Stock markets",
+          "$": {
+            "domain": "https://www.theguardian.com/business/stock-markets"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T21:09:17.069Z",
+      "created_at": "2026-11-19T21:09:17.069Z"
+    },
+    {
+      "id": 29472,
+      "source": "The Guardian AI",
+      "title_en": "Anthropic keeps the AI party swinging, but the atmosphere is bubbly | Nils Pratley",
+      "description_en": "Can the newly listed AI company really be worth $2tn? Anyone who remembers the late 1990s has good reason to ask\n\nBusiness live – latest updates\n\nRoll up, roll up, who wants to buy shares in a company whose technology “could pose catastrophic or existential risks to humanity”, as the prospectus had it? Virtually everybody, as it turned out. Anthropic flew out of the blocks on its first day as a listed company.\nFrom the point of view of the promoters, the result was as good as it gets. The final ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/19/anthropic-keeps-ai-party-swinging-but-atmosphere-bubbly",
+      "image_url": "https://i.guim.co.uk/img/media/ae7186e144b4b6232e5ff363f0e9905e52124718/716_0_5611_4488/master/5611.jpg?width=140&quality=85&auto=format&fit=max&s=b17d1d80e98e983f0b94c1064dbde8ab",
+      "pub_date": "Thu, 19 Nov 2026 18:15:48 GMT",
+      "author": "Nils Pratley",
+      "categories": [
+        {
+          "_": "Anthropic",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/anthropic"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Stock markets",
+          "$": {
+            "domain": "https://www.theguardian.com/business/stock-markets"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Economics",
+          "$": {
+            "domain": "https://www.theguardian.com/business/economics"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-19T21:09:17.069Z",
+      "created_at": "2026-11-19T21:09:17.069Z"
+    },
+    {
+      "id": 29473,
+      "source": "The Guardian AI",
+      "title_en": "Academic integrity matters, but students shouldn’t be penalised for using AI | Letter",
+      "description_en": "Berthold Schoene responds after the head of Ofqual said students could be disqualified from GCSEs and A-levels if they tried to use AI in assessed coursework\nIs this really the best we can do: draconically penalise the young for making use of the latest cognitive resources and tools available to them (Ofqual urges ‘life-altering’ penalties for students who use tech to cheat, 18 November)? Our generation has allowed the introduction of “life-altering” new technologies into every walk of life with",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/education/2026/nov/19/academic-integrity-matters-but-students-shouldnt-be-penalised-for-using-ai",
+      "image_url": "https://i.guim.co.uk/img/media/d7bc00c363b545a490ae7a33839f622d2af83063/427_252_3735_2988/master/3735.jpg?width=140&quality=85&auto=format&fit=max&s=d2064f23bf3dda8f5c106a86b5f8b157",
+      "pub_date": "Thu, 19 Nov 2026 18:07:23 GMT",
+      "author": "Guardian Staff",
+      "categories": [
+        {
+          "_": "Exams",
+          "$": {
+            "domain": "https://www.theguardian.com/education/exams"
+          }
+        },
+        {
+          "_": "A-levels",
+          "$": {
+            "domain": "https://www.theguardian.com/education/alevels"
+          }
+        },
+        {
+          "_": "GCSEs",
+          "$": {
+            "domain": "https://www.theguardian.com/education/gcses"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Schools",
+          "$": {
+            "domain": "https://www.theguardian.com/education/schools"
+          }
+        },
+        {
+          "_": "England",
+          "$": {
+            "domain": "https://www.theguardian.com/uk-news/england"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "Education",
+          "$": {
+            "domain": "https://www.theguardian.com/education/education"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-19T21:09:17.069Z",
+      "created_at": "2026-11-19T21:09:17.069Z"
+    },
+    {
+      "id": 29474,
+      "source": "Interesting Engineering",
+      "title_en": "China’s 1-GW hybrid power plant pairs gas and batteries to meet data center demand",
+      "description_en": "As artificial intelligence continues to drive unprecedented electricity demand, a Chinese energy storage provider, Trina...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/energy/china-targets-1-gw-hybrid-plant-data-centers",
+      "image_url": null,
+      "pub_date": "Thu, 19 Nov 2026 20:37:39 +0000",
+      "author": "Muskan Bhatia",
+      "categories": [
+        "Energy"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T21:09:19.045Z",
+      "created_at": "2026-11-19T21:09:19.045Z"
+    },
+    {
+      "id": 29475,
+      "source": "Interesting Engineering",
+      "title_en": "Anthropic’s monster IPO raises over $100 billion, securing a $1.5 trillion valuation",
+      "description_en": "Anthropic made history with its stock market debut on Thursday, raising more than $100 billion...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/anthropic-ipo-1-5-trillion-valuation",
+      "image_url": null,
+      "pub_date": "Thu, 19 Nov 2026 18:36:29 +0000",
+      "author": "Aamir Khollam",
+      "categories": [
+        "AI and Robotics",
+        "Culture"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-19T21:09:19.045Z",
+      "created_at": "2026-11-19T21:09:19.045Z"
+    },
+    {
+      "id": 29476,
+      "source": "Interesting Engineering",
+      "title_en": "Ukrainian Harpoon USV gains NATO status with 55 lb payload and 40-mile range at 4 mph",
+      "description_en": "Ukraine’s unmanned naval technology sector has reached a new milestone after the Harpoon surface drone,...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/nato-ukraine-harpoon-naval-drone",
+      "image_url": null,
+      "pub_date": "Thu, 19 Nov 2026 18:29:22 +0000",
+      "author": "Kaushal Kishore",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-19T21:09:19.045Z",
+      "created_at": "2026-11-19T21:09:19.045Z"
+    },
+    {
+      "id": 29477,
+      "source": "Interesting Engineering",
+      "title_en": "409% capacity boost: New slurry electrolyte lifts manganese battery storage to 156.2 Ah/L",
+      "description_en": "A semi-solid MnO₂ slurry electrolyte has been designed to significantly increase the energy storage capacity...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/energy/manganese-slurry-electrolyte-battery-capacity",
+      "image_url": null,
+      "pub_date": "Thu, 19 Nov 2026 18:26:43 +0000",
+      "author": "Kaushal Kishore",
+      "categories": [
+        "Energy"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-19T21:09:19.045Z",
+      "created_at": "2026-11-19T21:09:19.045Z"
+    },
+    {
+      "id": 29478,
+      "source": "Interesting Engineering",
+      "title_en": "Aptera builds first production solar car that adds up to 40 miles daily from sunlight",
+      "description_en": "A buyer outside the United States will soon receive the first production solar electric vehicle...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/transportation/aptera-builds-first-production-solar-car",
+      "image_url": null,
+      "pub_date": "Thu, 19 Nov 2026 18:20:11 +0000",
+      "author": "Aman Tripathi",
+      "categories": [
+        "Transportation"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-19T21:09:19.045Z",
+      "created_at": "2026-11-19T21:09:19.045Z"
+    },
+    {
+      "id": 29479,
+      "source": "Interesting Engineering",
+      "title_en": "US deploys ski-equipped Hercules aircraft to keep Antarctic science missions flying",
+      "description_en": "Operation Deep Freeze has begun in Antarctica with the start of the 2026/27 season. 75...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/hercules-aircraft-antarctica-airlift-research-camp",
+      "image_url": null,
+      "pub_date": "Thu, 19 Nov 2026 18:04:50 +0000",
+      "author": "Kaushal Kishore",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-19T21:09:19.045Z",
+      "created_at": "2026-11-19T21:09:19.045Z"
+    },
+    {
+      "id": 29480,
+      "source": "CNBC Tech",
+      "title_en": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
+      "description_en": "Members of Congress have pushed in the wake of the Jensen Huang scandal for legislation to tighten export controls on chip sales to China.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
+      "image_url": null,
+      "pub_date": "Thu, 19 Nov 2026 21:08:45 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T21:09:19.449Z",
+      "created_at": "2026-11-19T21:09:19.449Z"
+    },
+    {
+      "id": 29481,
+      "source": "CNBC Tech",
+      "title_en": "Trump bought Nvidia, Palantir, SpaceX in September as federal deals, White House ties grew",
+      "description_en": "President Trump disclosed purchases of Nvidia stock, SpaceX debt and Tesla shares in September, alongside millions of dollars in other investments.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/19/trump-nvidia-spacex-palantir-stock-trades-september.html",
+      "image_url": null,
+      "pub_date": "Thu, 19 Nov 2026 19:43:08 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T21:09:19.449Z",
+      "created_at": "2026-11-19T21:09:19.449Z"
+    },
+    {
+      "id": 29482,
+      "source": "CNBC Tech",
+      "title_en": "AMD dives on short-seller report of alleged China exposure",
+      "description_en": "AMD was slumping after a short-seller alleged that its firmware showed up at a blacklisted Chinese company. The company said it complies with U.S. law.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
+      "image_url": null,
+      "pub_date": "Thu, 19 Nov 2026 18:24:54 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-19T21:09:19.449Z",
+      "created_at": "2026-11-19T21:09:19.449Z"
+    },
+    {
+      "id": 29483,
+      "source": "Tom's Hardware",
+      "title_en": "AI data center power demand will double by 2030 thanks to $4 trillion in spending, adding an entire Great Britain to energy strain",
+      "description_en": "IEA's report says that power production and distribution is barely keeping up with the rapid growth of AI data centers.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/ai-data-center-power-demand-will-double-by-2030-thanks-to-usd4-trillion-in-spending-adding-an-entire-great-britain-to-energy-strain-93-large-ai-factories-with-projected-capacity-of-around-50-gigawatts",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/3pB5DDnWsYfMZvsBuMorfF-1920-80.png",
+      "pub_date": "Thu, 19 Nov 2026 21:00:00 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Data Centers",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T21:09:19.533Z",
+      "created_at": "2026-11-19T21:09:19.533Z"
+    },
+    {
+      "id": 29484,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "💰 В Индии придумали, как воровать деньги из бюджета с помощью ИИ-книгПерумал Муруган, первый тамильский автор в списке Международной Букеровской премии, заявил, что часть книг, закупленных за государ",
+      "description_en": "💰 В Индии придумали, как воровать деньги из бюджета с помощью ИИ-книгПерумал Муруган, первый тамильский автор в списке Международной Букеровской премии, заявил, что часть книг, закупленных за государственные деньги для новой библиотеки штата Тамилнад на юге Индии, написал ИИ.Муруган нашел в книгах ошибки, выдуманные факты, напоминающие галлюцинации нейросетей, фейковые иллюстрации, а имена некоторых авторов явно ненастоящие. При этом закупку пропустили сразу четыре комиссии.Под подозрением почт",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3861",
+      "image_url": "https://cdn4.telesco.pe/file/EziQ7j3LLLlSv2uwo_0fClKbb_kVx29lymvN99Bsc5ZuwqrFE7FXS7shKWS9w9MpPcHualgPsWFDvpXJhUnkI1jEuQvjGS2AnFlg5wG2tFV7nyZVEs_DQ3Fh1JY7o9yHEACl6fVss9gpyg6WDmyemBkTG2ixvWXKMJVRNuCl73YZVI9luc2E_flHbrmjK6cWU8wwYcFMltSrwFiLvM02Y7T_QprWRuOo4NvTYs-rZPlE_gKsmxVUJ_pGD-5iysrY21Nw5Fr0f6BIc7sUg_czdeoZGGzvVvbG5pd-81Fef_E9_CO2pk6sHcnjpcEz2fcpgolQQlhmypZNNaRSEmayUw.jpg",
+      "pub_date": "2026-11-19T18:52:08+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-19T21:09:20.933Z",
+      "created_at": "2026-11-19T21:09:20.933Z"
+    },
+    {
+      "id": 29485,
+      "source": "Hi, AI English (TG)",
+      "title_en": "💰 In India, they figured out how to steal from the budget using AI booksPerumal Murugan, the first Tamil author to be longlisted for the International Booker Prize, said some of the books bought with",
+      "description_en": "💰 In India, they figured out how to steal from the budget using AI booksPerumal Murugan, the first Tamil author to be longlisted for the International Booker Prize, said some of the books bought with public money for a new library in the southern Indian state of Tamil Nadu were written by AI.Murugan found errors, fabricated facts that look like AI hallucinations, and fake illustrations in the books. Some of the author names were clearly made up. Yet the purchase cleared no fewer than four commi",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimediaen/2950",
+      "image_url": "https://cdn4.telesco.pe/file/G2TEgI3yQMVdypeUMbmGL6QlPNFF5iBe3HNQp0pdhUK__4mBlOxiEd00givU8FO0bGylO9cUSTzgTjfd9ywooudMHfLUx9o9N9Oz673S6THji1if6hAmpBc8sh2MjW9-dOp-XLJUyAh-F7mgPXmGCtMp-9qJ-vAfkYcuZlPDgqd6RgerqD4naH6rQmEvC_zBQoouE5uybCHJ06U2JQvr0gC0j1x6aM1to4SAh6Fojl-BBrcFxj5GoS-ZuzVsIXUWiCM112mXUzGPTvz6tofqCbklPEeS5_498_ehuDO2INVEGDh_zRFJ2OtcoxajhuWb0iKjH_lnp9QugWKiJb6hKA.jpg",
+      "pub_date": "2026-11-19T18:53:21+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-19T21:09:20.958Z",
+      "created_at": "2026-11-19T21:09:20.958Z"
+    },
+    {
+      "id": 29486,
+      "source": "AI Post (TG)",
+      "title_en": "🗣 Anthropic hit $2 trillion on day one. Its CEO vowed not to bend to business pressureDario Amodei read his remarks at the Nasdaq podium as Anthropic went public. Shares opened at $111.50, 34% above ",
+      "description_en": "🗣 Anthropic hit $2 trillion on day one. Its CEO vowed not to bend to business pressureDario Amodei read his remarks at the Nasdaq podium as Anthropic went public. Shares opened at $111.50, 34% above the $83 IPO price. That put the company at about $2 trillion, behind only Apple, Microsoft, Nvidia, Alphabet and Amazon.Early in his remarks, he said he and his sister Daniela lost their father to a disease that became curable just a few years later.Then came the promise:To state it unequivocally, w",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8837",
+      "image_url": null,
+      "pub_date": "2026-11-19T18:41:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-19T21:09:21.167Z",
+      "created_at": "2026-11-19T21:09:21.167Z"
+    },
+    {
+      "id": 29487,
+      "source": "AI Post (TG)",
+      "title_en": "🤖 Anthropic employees are becoming multimillionaires at an extraordinary scaleThe numbers behind Anthropic’s employee wealth are staggering.Around 598 employees now reportedly hold stock packages wor",
+      "description_en": "🤖 Anthropic employees are becoming multimillionaires at an extraordinary scaleThe numbers behind Anthropic’s employee wealth are staggering.Around 598 employees now reportedly hold stock packages worth more than $100 million each.All seven co-founders have crossed the $20 billion mark individually, while approximately 2,800 employees are sitting on stock worth at least $1 million.The average value of an employee’s stock package has reportedly exceeded $40 million.Anthropic isn’t just creating o",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8838",
+      "image_url": "https://cdn4.telesco.pe/file/M0dPVZ_yX69YAPSqlLVdcra0nesPdg4Jx3uRySyfsQPAf7un-YTaE5cebqZE19Ovn1svNGIW9iBrFMlRN27qdJybEtivdZGP7xID3YRtBS5ZICKd2Lzlm1ux_HY_IqCngO8AIboiNmHfjouYl5RDRNxtp1vUrDuEj9wwVWSvZm7V98wC1Ikbm-qnH7x5A-amMP1plPlYjoSHcyG3iq6w8WDk_Gykt2HGYXL-7rN2Kkzp8V4KJ35FMDQL1CwTXtnbqgKAl4Mp9Ud_fLNU0UTxeXPvRWVqPLMhkr3QBQKJB_8vC5WMwDlb0VA_VGq-1l4HsRh9xNKeYKQinc29NzGSmw.jpg",
+      "pub_date": "2026-11-19T19:04:54+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-19T21:09:21.167Z",
+      "created_at": "2026-11-19T21:09:21.167Z"
+    },
+    {
+      "id": 29488,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 Arizona is now investigating OpenAI and other AI firms over possible rogue agentsReuters reports the state says it's looking into autonomous agents that act outside what their operators intended. T",
+      "description_en": "🚨 Arizona is now investigating OpenAI and other AI firms over possible rogue agentsReuters reports the state says it's looking into autonomous agents that act outside what their operators intended. That's a second state going after frontier labs, after California. It's an early probe, not a rule.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/1069",
+      "image_url": null,
+      "pub_date": "2026-11-19T17:31:29+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-19T21:09:21.378Z",
+      "created_at": "2026-11-19T21:09:21.378Z"
+    },
+    {
+      "id": 29489,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 Anthropic hits $2T on day one, and it's still tradingANT crossed $2T in its Nasdaq debut. That's about a third above the $1.5T implied by the $83 IPO price.The offering raised $81.3B and the book w",
+      "description_en": "🚨 Anthropic hits $2T on day one, and it's still tradingANT crossed $2T in its Nasdaq debut. That's about a third above the $1.5T implied by the $83 IPO price.The offering raised $81.3B and the book was oversubscribed. The close will show whether $2T holds.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/1070",
+      "image_url": null,
+      "pub_date": "2026-11-19T18:50:45+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-19T21:09:21.378Z",
+      "created_at": "2026-11-19T21:09:21.378Z"
     }
   ]
 }
