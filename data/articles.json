@@ -638938,7 +638938,7 @@
       "author": "Jay Peters",
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-11-19T21:09:15.369Z",
       "created_at": "2026-11-19T21:09:15.369Z"
     },
@@ -639686,6 +639686,260 @@
       "priority": "batch",
       "fetchedAt": "2026-11-19T21:09:21.378Z",
       "created_at": "2026-11-19T21:09:21.378Z"
+    },
+    {
+      "id": 29490,
+      "source": "The Verge AI",
+      "title_en": "Apple is hiring engineers to build its own AI agent",
+      "description_en": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic AI assistant.\nAn AI agent from Apple would put the iPhonemaker in the running to compete with the likes of Meta's Muse, OpenAI's Dots, Anthropic's Duet, and Google's Tasks. Muse, ChatGPT, and Perplexi",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+      "image_url": null,
+      "pub_date": "2026-11-19T22:31:41.000Z",
+      "author": "Emma Roth",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T22:58:06.485Z",
+      "created_at": "2026-11-19T22:58:06.485Z"
+    },
+    {
+      "id": 29491,
+      "source": "The Verge AI",
+      "title_en": "A brief history of Nvidia’s recent stock fluctuations",
+      "description_en": "Traders work on the floor of the New York Stock Exchange during morning trading on November 18, 2026 in New York City. | Image: Getty Images\t\n\n\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call.\nBy Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on October 6th, and wiping out a brief post-earnings pop on Tuesday night. Meanw",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+      "image_url": null,
+      "pub_date": "2026-11-19T21:59:35.000Z",
+      "author": "Ellen Thomas",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T22:58:06.486Z",
+      "created_at": "2026-11-19T22:58:06.486Z"
+    },
+    {
+      "id": 29492,
+      "source": "The Decoder",
+      "title_en": "An OpenAI agent assigned a simple writing task decided on its own to build a secret email surveillance tool",
+      "description_en": "An internal OpenAI model was supposed to create a fitness document but instead began planning scripts to secretly forward emails to an \"attacker.\" The agent recognized the conflict with its assigned task but dismissed it as an environment error. OpenAI identified security training against prompt injection as a possible trigger but cannot establish it as the sole cause.\nThe article An OpenAI agent assigned a simple writing task decided on its own to build a secret email surveillance tool appeared",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/an-openai-agent-assigned-a-simple-writing-task-decided-on-its-own-to-build-a-secret-email-surveillance-tool/",
+      "image_url": null,
+      "pub_date": "Thu, 19 Nov 2026 21:15:01 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Anthropic",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T22:58:07.779Z",
+      "created_at": "2026-11-19T22:58:07.779Z"
+    },
+    {
+      "id": 29493,
+      "source": "MarkTechPost",
+      "title_en": "Meta FAIR Self-Improving Memory Hits 56.0 on Continual Learning Bench",
+      "description_en": "Meta FAIR’s Self-Improving Memory lets Kimi-K2.6 write its own LOAD and OFFLOAD memory prompts, then distills them into its weights. Optimized prompts score 56.0 versus 44.6 for the best hand-written harness on Continual Learning Bench.\nThe post Meta FAIR Self-Improving Memory Hits 56.0 on Continual Learning Bench appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/11/19/meta-fair-self-improving-memory-harness-distillation/",
+      "image_url": null,
+      "pub_date": "Thu, 19 Nov 2026 21:46:22 +0000",
+      "author": "Michal Sutter",
+      "categories": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Language Model",
+        "Staff",
+        "Tech News",
+        "Technology",
+        "Uncategorized"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T22:58:08.064Z",
+      "created_at": "2026-11-19T22:58:08.064Z"
+    },
+    {
+      "id": 29494,
+      "source": "The Guardian AI",
+      "title_en": "Protesters rally against Anthropic in New York and San Francisco after $2tn stock market debut",
+      "description_en": "Anti-AI groups gather in front of Nasdaq exchange in Times Square and Anthropic’s headquarters in San Francisco\nAs the artificial intelligence startup Anthropic debuted on the US stock market at an eye-popping $2tn valuation Thursday, protesters from anti-AI groups rallied in front of the Nasdaq exchange at its New York City headquarters in Times Square and several were arrested. Similar demonstrations took place outside Anthropic’s San Francisco headquarters.\n“I think people are starting to get",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/nov/19/anthropic-ipo-protests",
+      "image_url": "https://i.guim.co.uk/img/media/71f9820b3e6fa3234944209ef4e179d6b83eeb67/333_0_3333_2668/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=c67dc9fe30c346a644aea3be3a033af0",
+      "pub_date": "Thu, 19 Nov 2026 21:52:19 GMT",
+      "author": "Auzzy Byrdsell in New York and Lisa Bonos in San Francisco",
+      "categories": [
+        {
+          "_": "Anthropic",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/anthropic"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "San Francisco",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/san-francisco"
+          }
+        },
+        {
+          "_": "New York",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/new-york"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Protest (US)",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/protests--us-"
+          }
+        },
+        {
+          "_": "Activism",
+          "$": {
+            "domain": "https://www.theguardian.com/world/activism"
+          }
+        },
+        {
+          "_": "Internet IPOs",
+          "$": {
+            "domain": "https://www.theguardian.com/business/internetipos"
+          }
+        },
+        {
+          "_": "California",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/california"
+          }
+        },
+        {
+          "_": "West Coast",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/west-coast"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T22:58:08.551Z",
+      "created_at": "2026-11-19T22:58:08.551Z"
+    },
+    {
+      "id": 29495,
+      "source": "CNBC Tech",
+      "title_en": "Intuit to sell Mailchimp to Bending Spoons for $3.68 billion",
+      "description_en": "Intuit is offloading a segment that has slowed down revenue growth, for less than a third of what it paid to acquire Mailchimp in 2021.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/19/intuit-mailchimp-sale-bending-spoons.html",
+      "image_url": null,
+      "pub_date": "Thu, 19 Nov 2026 21:40:31 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T22:58:09.892Z",
+      "created_at": "2026-11-19T22:58:09.892Z"
+    },
+    {
+      "id": 29496,
+      "source": "XOR Journal (TG)",
+      "title_en": "Учимся не допускать восстания машин — Гарвард собрал топовых исследователей OpenAI и Anthropic для осеннего курса по безопасности нейросетей.В программе всё для предотвращения ИИ-апокалипсиса. Рассказ",
+      "description_en": "Учимся не допускать восстания машин — Гарвард собрал топовых исследователей OpenAI и Anthropic для осеннего курса по безопасности нейросетей.В программе всё для предотвращения ИИ-апокалипсиса. Рассказывают, как ИИ обманывает проверяющих, взламывает системы вознаграждения, скрывает свои намерения и что произойдёт, когда нейросети начнут самостоятельно создавать следующие поколения ИИ.Причем на сайте курса уже лежат ссылки на лекции, конспекты, презентации и списки рекомендованных материалов. Сохр",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10565",
+      "image_url": "https://cdn4.telesco.pe/file/MSPa1RPgRfUSJev6zDG49y6ptpaT65CVNgZDD0bCR5Pk4w9UdanJCGQ4pfrRC66Vl0IdX5V-iHo7vnjunhXtV_WEl2F5C1oRzEcqP7mwBOXWSgDmhsI6yKOcsHT1INeOqskUUkkcXW73-f970ZxODoVv7AoCK4R7c_944HaItAdJSc6ohc3mP_ulgWVUj2jnCxWTsfvPdBT7dtjW-Tm0bfV_wle2mXIItUMx_j9LJ8XFUMqwBuxUgwrmqy_F1QDYoN5E4epFKBPeIE1iFDNUuj5VsN27lTbmEMyjWQvkmo-2ttCrhPeQrZtL807QyxoY2xvUohTyYQISBCQA2Ln2YQ.jpg",
+      "pub_date": "2026-11-19T21:10:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T22:58:10.524Z",
+      "created_at": "2026-11-19T22:58:10.524Z"
+    },
+    {
+      "id": 29497,
+      "source": "AI Post (TG)",
+      "title_en": "🤖 Over 22,000 people saved a Grok Bot engineer's guide to handing your routine work to a botStart with the goal, not the process, says Lauren, an engineer on the Grok Bot team. Sending an email is on",
+      "description_en": "🤖 Over 22,000 people saved a Grok Bot engineer's guide to handing your routine work to a botStart with the goal, not the process, says Lauren, an engineer on the Grok Bot team. Sending an email is only a step. The goal is what the work is for, like more sales or lower costs. Elon Musk reposted her guide.No coding needed:1. Give a new bot one goal. Not sure how to word it? Ask it to \"interview me until we have a goal that I'm happy with.\"2. Brain-dump by voice: your usual steps, the apps you use",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8839",
+      "image_url": "https://cdn4.telesco.pe/file/HzKbwCLyuSf8p_ufcMbq7KEcE55esiekhf93n2ou6iuafd3t0pKuSH5U738K0eIescTAEuULmk80YLf8pp3Uh_9ZJFtmZHl5UpCbOW47KAmvYdx-TqR3HvD1fuXcpxSshjcwAY7lZfd8tWfXn5pZUQPdFiiNUHvGpz1Q1QfYsGP_NBPmr9E0lN0LWiP5Xs3ihnSJy7Pz9SdZWtWJ2Fai6EBIK_A7w-vhyheCTv26Vip-dieqC5ys0AqwBDdxp8WJGso13XkMtIJEo0tnmW8l3ghTY279Mvuj4Y8UqdT8e9OwBfTlpCSj4WkicLF27610zfGi40nfRKJrI4gIR6KqCQ.jpg",
+      "pub_date": "2026-11-19T21:23:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T22:58:11.049Z",
+      "created_at": "2026-11-19T22:58:11.049Z"
+    },
+    {
+      "id": 29498,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 California sues OpenAI over unsafe models and misleading the public on safetyAG Rob Bonta's complaint cites the Hugging Face breach, which he calls one of 80 known incidents where experimental mode",
+      "description_en": "🚨 California sues OpenAI over unsafe models and misleading the public on safetyAG Rob Bonta's complaint cites the Hugging Face breach, which he calls one of 80 known incidents where experimental models acted without authorization. He says OpenAI also stonewalled a September subpoena.It's the first state to go after OpenAI on general public safety, not just child safety. Fifteen other states asked questions in August, and California wasn't one of them.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/1071",
+      "image_url": null,
+      "pub_date": "2026-11-19T21:51:29+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T22:58:11.314Z",
+      "created_at": "2026-11-19T22:58:11.314Z"
+    },
+    {
+      "id": 29499,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 Prime Intellect's DeepSeek v4.1 Flash endpoint was reportedly swapped by an attacker for 53 hoursTheo Browne says Prime Intellect was compromised \"in a very strange way\" and that OpenRouter private",
+      "description_en": "🚨 Prime Intellect's DeepSeek v4.1 Flash endpoint was reportedly swapped by an attacker for 53 hoursTheo Browne says Prime Intellect was compromised \"in a very strange way\" and that OpenRouter privately notified affected users, himself included. Prime Intellect hasn't said anything publicly, and there's no word yet on the attack method, what data was touched, or how many users got the notice.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/1072",
+      "image_url": null,
+      "pub_date": "2026-11-19T22:25:43+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T22:58:11.314Z",
+      "created_at": "2026-11-19T22:58:11.314Z"
     }
   ]
 }
