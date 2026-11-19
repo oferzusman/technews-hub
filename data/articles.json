@@ -638736,6 +638736,123 @@
       "priority": "hot",
       "fetchedAt": "2026-11-19T15:57:59.659Z",
       "created_at": "2026-11-19T15:57:59.659Z"
+    },
+    {
+      "id": 29451,
+      "source": "The Guardian AI",
+      "title_en": "Anthropic CEO acknowledges AI has 'very real risks' shortly before IPO – video",
+      "description_en": "Anthropic's CEO, Dario Amodei, issued a warning about the dangers of AI, saying it has 'very real' but 'avoidable' risks, shortly before the company rang the opening bell at Nasdaq\n\nAnthropic ‘to open up more than 20% higher at over $100 a share’ after blockbuster IPO – business live\n\n Continue reading...",
+      "title_he": "מנכ\"ל Anthropic מודה: ל-AI יש סיכונים 'ממשיים מאוד' – וזה קרה דווקא לפני ה-IPO",
+      "description_he": "דריו אמודיי, מנכ\"ל Anthropic, הזהיר מפני הסכנות של בינה מלאכותית רגע לפני שחברתו קלעה את הפעמון בנסדק, והודה שהסיכונים כן קיימים אבל בהחלט ניתן להימנע מהם. ה-IPO של Anthropic פרץ כנראה כמצפה, כשהמניות עלו ליותר מ-20% ופתחו מעל $100 למניה. זו לחץ כמו שתייה מנוזל קרח - שחברה טוענת שהיא זהירה עם ה-AI, אבל גם כן, בואו נגדל עוד. | מקור: The Guardian AI",
+      "link": "https://www.theguardian.com/technology/video/2026/nov/19/anthropic-dario-amodei-acknowledges-ai-risks-before-ipo-video",
+      "image_url": "https://i.guim.co.uk/img/media/e5c40ff59ef47cd73480080f50cff6aee0a18c5f/115_0_3086_2469/master/3086.jpg?width=140&quality=85&auto=format&fit=max&s=8c69367ee99a59652be4b3db3c2735a8",
+      "pub_date": "Thu, 19 Nov 2026 16:24:13 GMT",
+      "author": "Guardian Staff",
+      "categories": [
+        {
+          "_": "Anthropic",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/anthropic"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        },
+        {
+          "_": "Dario Amodei",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/dario-amodei"
+          }
+        },
+        {
+          "_": "Stock markets",
+          "$": {
+            "domain": "https://www.theguardian.com/business/stock-markets"
+          }
+        },
+        {
+          "_": "Technology sector",
+          "$": {
+            "domain": "https://www.theguardian.com/business/technology"
+          }
+        }
+      ],
+      "translated": true,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T16:54:14.822Z",
+      "created_at": "2026-11-19T16:54:14.822Z"
+    },
+    {
+      "id": 29452,
+      "source": "CNBC Tech",
+      "title_en": "Palo Alto stock jumps on earnings beat and company's big bet on securing open-weight models",
+      "description_en": "Palo Alto Networks reported better-than-expected first-quarter results and inked a $4.5 billion deal for AI startup Applied Compute",
+      "title_he": "מניית Palo Alto זינקה לאחר תוצאות חזקות והימור גדול על מודלים פתוחים",
+      "description_he": "Palo Alto Networks הפתיעה בחיובית עם תוצאות רבעון ראשון חזקות מהצפוי, וכדי להחזק את עצמה בתחום ה-AI החתמה על עסקה בגודל 4.5 מיליארד דולר לרכישת strtup Applied Compute. זה המהלך של Palo Alto להשתלט על הטכנולוגיה של open-weight models וודא שהחברה לא תישאר מאחור בתחרות העמוקה סביב AI.",
+      "link": "https://www.cnbc.com/2026/11/19/palo-alto-networks-earnings-applied-compute.html",
+      "image_url": null,
+      "pub_date": "Thu, 19 Nov 2026 16:28:06 GMT",
+      "author": null,
+      "categories": [],
+      "translated": true,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T16:54:16.600Z",
+      "created_at": "2026-11-19T16:54:16.600Z"
+    },
+    {
+      "id": 29453,
+      "source": "CNBC Tech",
+      "title_en": "Amazon launches in-app push against Mamdani-backed delivery bill in New York City",
+      "description_en": "Amazon has lobbied heavily against the proposed legislation, while New York City Mayor Zohran Mamdani backed the bill earlier this year.",
+      "title_he": "אמזון משיקה קמפיין נגד הצעת החוק לשיפור תנאי עובדי הדליברי בניו יורק",
+      "description_he": "אמזון מגייסת את כל הכלים שלה כדי להילחם בהצעת חוק חדשה בניו יורק שתשפר את תנאי העבודה של כונני הדליברי - וזה לא בדיוק קורה בשקט. עיר היורק תומכת בהצעה, אבל גיגנט ההזמנות מנסה לכבוש את השנאנו בתוך האפליקציה שלו. זו לא הפעם הראשונה שאמזון ודליברי מטבח זה מתנגדים בחוזקה. מקור: CNBC Tech",
+      "link": "https://www.cnbc.com/2026/11/19/amazon-nyc-delivery-protection-act.html",
+      "image_url": null,
+      "pub_date": "Thu, 19 Nov 2026 16:15:40 GMT",
+      "author": null,
+      "categories": [],
+      "translated": true,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T16:54:16.600Z",
+      "created_at": "2026-11-19T16:54:16.600Z"
+    },
+    {
+      "id": 29454,
+      "source": "AI Post (TG)",
+      "title_en": "🗣 An Anthropic researcher expects nearly everyone to become permanently unemployableTao Lin works on safeguards at Anthropic, the team that blocks misuse of Claude. In an interview Palisade Research ",
+      "description_en": "🗣 An Anthropic researcher expects nearly everyone to become permanently unemployableTao Lin works on safeguards at Anthropic, the team that blocks misuse of Claude. In an interview Palisade Research published on November 15, he said:\"I think that it's very likely that pretty much all humans on Earth will become permanently unemployable and will need to strictly rely on government welfare to sustain themselves\"First, he expects everyone to lose their current job and move briefly to other work. T",
+      "title_he": "חוקר ב-Anthropic צופה שכמעט כולנו נהפוך לאבטלים קבוע",
+      "description_he": "Tao Lin, שעובד בAnthropicعلى safeguards של Claude, טוען בראיון שפרסמה Palisade Research שברוב הסיכויים כל בני האדם בעולם יאבדו את עבודתם ויצטרכו להסתמך על קצבאות ממשלתיות כדי להישרד. לדברי לין, זה יקרה בגלל התפתחות ה-AI - תחילה כולנו נעבור לעבודות אחרות, אבל בסופו של דבר אין לאן להסתתר מה-AI שמשתפר בכל תחום אנושי.\nמקור: AI Post (TG)",
+      "link": "https://t.me/aipost/8836",
+      "image_url": null,
+      "pub_date": "2026-11-19T16:13:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": true,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T16:54:22.547Z",
+      "created_at": "2026-11-19T16:54:22.547Z"
     }
   ]
 }
