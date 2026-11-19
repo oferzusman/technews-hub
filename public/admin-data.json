@@ -1,9 +1,9 @@
 {
-  "total": 29373,
-  "translated": 29364,
+  "total": 29380,
+  "translated": 29371,
   "untranslated": 9,
-  "today": 7,
-  "week": 777,
+  "today": 14,
+  "week": 784,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -31,9 +31,9 @@
     },
     {
       "name": "AI Post (TG)",
-      "total": 1750,
-      "translated": 1748,
-      "lastDate": "2026-11-19T01:22:01+00:00"
+      "total": 1751,
+      "translated": 1749,
+      "lastDate": "2026-11-19T04:07:01+00:00"
     },
     {
       "name": "The Decoder",
@@ -49,8 +49,8 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 1462,
-      "translated": 1462,
+      "total": 1464,
+      "translated": 1464,
       "lastDate": "Wed, 30 Sep 2026 19:12:28 GMT"
     },
     {
@@ -67,9 +67,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 1159,
-      "translated": 1157,
-      "lastDate": "2026-11-18T21:35:03+00:00"
+      "total": 1160,
+      "translated": 1158,
+      "lastDate": "2026-11-19T05:59:52+00:00"
     },
     {
       "name": "The Verge AI",
@@ -85,9 +85,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 926,
-      "translated": 926,
-      "lastDate": "2026-11-19T02:26:29+00:00"
+      "total": 927,
+      "translated": 927,
+      "lastDate": "2026-11-19T05:27:29+00:00"
     },
     {
       "name": "Backdoor (TG)",
@@ -127,9 +127,9 @@
     },
     {
       "name": "Wylsacom Red (TG)",
-      "total": 332,
-      "translated": 332,
-      "lastDate": "2026-11-18T15:29:01+00:00"
+      "total": 333,
+      "translated": 333,
+      "lastDate": "2026-11-19T05:59:01+00:00"
     },
     {
       "name": "Hugging Face Blog",
@@ -151,9 +151,9 @@
     },
     {
       "name": "Habr (TG)",
-      "total": 261,
-      "translated": 260,
-      "lastDate": "2026-11-18T10:39:25+00:00"
+      "total": 262,
+      "translated": 261,
+      "lastDate": "2026-11-19T06:03:02+00:00"
     },
     {
       "name": "AI News",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-11-19T04:07:46.650Z"
+  "generatedAt": "2026-11-19T06:07:00.824Z"
 }
