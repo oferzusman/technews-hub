@@ -636766,6 +636766,277 @@
       "priority": "hot",
       "fetchedAt": "2026-11-19T04:06:27.841Z",
       "created_at": "2026-11-19T04:06:27.841Z"
+    },
+    {
+      "id": 29374,
+      "source": "The Guardian AI",
+      "title_en": "Ram through datacentres no one wants and hope the AI bubble never bursts: that’s the UK’s growth plan | George Monbiot",
+      "description_en": "The government doesn’t know what they are going to be used for, but that’s beside the point. Their real purpose is to sustain the share price of big tech\nIt should have the status of an economic law: the sectors a government does most to promote in the name of growth are the sectors most likely to tank the economy. In the UK and the US, deregulation was meant to turn the financial sector into a never-ending growth machine. We have not yet fully recovered from the crash it helped cause in 2008. F",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/19/uk-growth-plan-datacentres-ai-bubble-big-tech",
+      "image_url": "https://i.guim.co.uk/img/media/7619fd79f40710c000b8d324d812ec60c73e5910/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=e05f011145aa9865de9da4fe263b138f",
+      "pub_date": "Thu, 19 Nov 2026 06:00:19 GMT",
+      "author": "George Monbiot",
+      "categories": [
+        {
+          "_": "Datacentres - UK",
+          "$": {
+            "domain": "https://www.theguardian.com/uk-news/datacentres"
+          }
+        },
+        {
+          "_": "Technology policy",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/technology-policy"
+          }
+        },
+        {
+          "_": "Infrastructure",
+          "$": {
+            "domain": "https://www.theguardian.com/business/infrastructure"
+          }
+        },
+        {
+          "_": "Planning policy",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/planning"
+          }
+        },
+        {
+          "_": "Economic growth (GDP)",
+          "$": {
+            "domain": "https://www.theguardian.com/business/economicgrowth"
+          }
+        },
+        {
+          "_": "Industrial policy",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/industrial-policy"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Politics",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/politics"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T06:04:56.404Z",
+      "created_at": "2026-11-19T06:04:56.404Z"
+    },
+    {
+      "id": 29375,
+      "source": "The Guardian AI",
+      "title_en": "Datacentres to create 70% more carbon emissions by 2030, IEA report warns",
+      "description_en": "Global energy watchdog forecasts huge rise as US and China turn to fossil fuels to power AI growth agendas  \nThe world’s datacentres will create 70% more carbon emissions within the next four years as the US and China turn to fossil fuels to power their AI growth agendas, according to the world’s energy watchdog.\nThe International Energy Agency (IEA) warned that datacentres will consume twice as much electricity by 2030 compared with today, with the global expansion of artificial intelligence ac",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/world/2026/nov/19/datacentres-to-create-70-more-carbon-emissions-by-2030-iea-report-warns",
+      "image_url": "https://i.guim.co.uk/img/media/2ea7dda4257fc43543719a2d375cd85a1ce8cdb4/0_0_7157_5728/master/7157.jpg?width=140&quality=85&auto=format&fit=max&s=bacf77eb19490db5a05856675b08baa4",
+      "pub_date": "Thu, 19 Nov 2026 05:00:18 GMT",
+      "author": "Jillian Ambrose Energy correspondent",
+      "categories": [
+        {
+          "_": "Datacentres",
+          "$": {
+            "domain": "https://www.theguardian.com/world/datacentres"
+          }
+        },
+        {
+          "_": "Renewable energy",
+          "$": {
+            "domain": "https://www.theguardian.com/environment/renewableenergy"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Datacenters – US",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/datacenters--us-"
+          }
+        },
+        {
+          "_": "Fossil fuels",
+          "$": {
+            "domain": "https://www.theguardian.com/environment/fossil-fuels"
+          }
+        },
+        {
+          "_": "Europe",
+          "$": {
+            "domain": "https://www.theguardian.com/world/europe-news"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Cloud computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/cloud-computing"
+          }
+        },
+        {
+          "_": "Energy",
+          "$": {
+            "domain": "https://www.theguardian.com/environment/energy"
+          }
+        },
+        {
+          "_": "Environment",
+          "$": {
+            "domain": "https://www.theguardian.com/environment/environment"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "China",
+          "$": {
+            "domain": "https://www.theguardian.com/world/china"
+          }
+        },
+        {
+          "_": "Technology sector",
+          "$": {
+            "domain": "https://www.theguardian.com/business/technology"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        },
+        {
+          "_": "Asia Pacific",
+          "$": {
+            "domain": "https://www.theguardian.com/world/asia-pacific"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T06:04:56.405Z",
+      "created_at": "2026-11-19T06:04:56.405Z"
+    },
+    {
+      "id": 29376,
+      "source": "XOR Journal (TG)",
+      "title_en": "Google ночью выпустила Gemini 4 Neon — новая нейросеть обошла Claude Opus 5.5 и GPT-6.2 Sol в большинстве тестов 😳Модель заточена под программирование, сложные рассуждения и работу ИИ-агентов. Причём",
+      "description_en": "Google ночью выпустила Gemini 4 Neon — новая нейросеть обошла Claude Opus 5.5 и GPT-6.2 Sol в большинстве тестов 😳Модель заточена под программирование, сложные рассуждения и работу ИИ-агентов. Причём по некоторым показателям она даже лучше старшей Gemini 4 Carbon и занимает первое место в индексе кодинг-агентов Artificial Analysis. Более того, Neon выполняет задачи на 32% дешевле Carbon при стандартном уровне рассуждений.Уже доступна в Gemini для подписчиков, через API и Google AI Studio. Цена ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10558",
+      "image_url": "https://cdn4.telesco.pe/file/vTRKGlqkAEB2LrzWvr9K1CfgvYKUFNsbEGweFvu9dUijr_Zk8Socp9QNwa9tRMUkIk933Zk_hwUxsn945y4hD45Xbkt0-5cGXibvgWsGyOkuXrUA4K-OEhwdNtGdvJo5o2XBL_xsdpfFAI_RhVJkv1ABUsrjeCTsyoQB8cDrRu2E0LQgpPMXAe9sozKqJ8MibQBerfRS7nG-_WFIkpTJEMuRy4HaHsGxRqgOJYUlad3BOIsXUVQ4xiTlnlavPw3AwgtCp2QoLo-C3CdB8HDNHIMlYhspV_fnMBdYr4epAbjTJ3mH51pnUeXyACCTmgi3QqTclokPWqgAkofG3BJe9w.jpg",
+      "pub_date": "2026-11-19T05:59:52+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T06:05:04.051Z",
+      "created_at": "2026-11-19T06:05:04.051Z"
+    },
+    {
+      "id": 29377,
+      "source": "Wylsacom Red (TG)",
+      "title_en": "Есть шанс, что SSD подешевеютПо информации Seoul Economic Daily, цены на NAND-чипы памяти снижаются. Эта память используется для постоянной памяти смартфонов, флешек, SSD вашего компьютера и в другой ",
+      "description_en": "Есть шанс, что SSD подешевеютПо информации Seoul Economic Daily, цены на NAND-чипы памяти снижаются. Эта память используется для постоянной памяти смартфонов, флешек, SSD вашего компьютера и в другой потребительской техники.Цены на NAND-пластины на 512 ГБ снизились на 32 % за квартал, а модули на 1 ТБ — на 19 %. Bank of America ожидает, что за первые три месяца 2027 года цены на NAND-память упадут ещё на 5–10 %.Причин несколько:• из-за роста цен на всё с памятью пользователи стали покупать меньш",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/Wylsared/37256",
+      "image_url": "https://cdn4.telesco.pe/file/TRTxjo12hQ96doo46gPSU6ey_nS46cjn0Z_AYCbeooLLPddsPq4Mec-83B99c5rx8_D5cCWAjdfAA8Zb-7GmUNCeFxCtRvqspAtmLRSTv2AK7otJ6ODC2RChb_n9koRIOrd6m8STHFH6tRkhgzE1LPOqfUJJZBciaDjXSrqzLVnEqP1ume_M-iT6M-5iUGglJmIsGQycDCN5r9G24PrhBIjEQm_YQddef-NiX0zz5uAW934kZn468Lox1WMwUA7RRRn4y-kA6wi08Be9MirVhNR1nNq8vsAeO0fQzkFeidgltmPrcwuBbREU4YduHi9mhe10BLhMLVfJ654ZdmlJ0Q.jpg",
+      "pub_date": "2026-11-19T05:59:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T06:05:04.126Z",
+      "created_at": "2026-11-19T06:05:04.126Z"
+    },
+    {
+      "id": 29378,
+      "source": "Habr (TG)",
+      "title_en": "Пирамида ИИ, устроенная Nvidia. Весь сектор валится из‑за измены Хуанга или…Пока одни считают любовниц Хуанга, другие откупают просадку NVDA. Но у этой истории есть ещё один сюжет — куда менее пикантн",
+      "description_en": "Пирамида ИИ, устроенная Nvidia. Весь сектор валится из‑за измены Хуанга или…Пока одни считают любовниц Хуанга, другие откупают просадку NVDA. Но у этой истории есть ещё один сюжет — куда менее пикантный и куда более дорогой. Контракты на годы вперёд, дата-центры в долг, чипы в залоге. И гигантская гонка за вычислительными мощностями, в которой крутятся очень серьёзные деньги.По версии автора, за ИИ-бумом сложилась финансовая конструкция, подозрительно похожая на пирамиду. Какую роль в ней играет",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/habr_com/70071",
+      "image_url": "https://cdn4.telesco.pe/file/rpFFDnK2SMvIhPL3M1KMThAdz55hGpqXoH5wEyIKAyq9j6bEwYZmn2r2P4ygFFvqKKf_kBZfULx7dTmpz-GtK-GKDifLktqOu1A5M7cYxXriaZgV8vT-dnKuaHPi4dRH8JitzjpPpudzZHLiTY9GBpJloW5EPHvrpyOAHVmehdcfDUhgfOC-Jf8DLvlJAe_WxMfbewV3RJlgRsb0LQK4gvu7t6umfezVZnCmPZNrfvbrR99P15kSSvh9KHMMg7oFK70w3RQ8XwLme9KCe8LnCLx4MVOoyGWGtZeJOeg0tEjcIris__P2OT_jjARg_S0SGRzoyl62H6mfoBky6d7sSQ.jpg",
+      "pub_date": "2026-11-19T06:03:02+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T06:05:04.450Z",
+      "created_at": "2026-11-19T06:05:04.450Z"
+    },
+    {
+      "id": 29379,
+      "source": "AI Post (TG)",
+      "title_en": "🗣 Jeff Bezos says an outsider would barely stand a chance running Nvidia\"If you don't bring Jensen back, I would not hire an outsider. Nvidia is too complicated,\" Bezos told Semafor's Liz Hoffman on ",
+      "description_en": "🗣 Jeff Bezos says an outsider would barely stand a chance running Nvidia\"If you don't bring Jensen back, I would not hire an outsider. Nvidia is too complicated,\" Bezos told Semafor's Liz Hoffman on Tuesday at its Silicon Valley & The World event.I think outside CEOs in complex companies have a vanishingly small chance of succeeding. And so I would always think that's a last resort.He wouldn't say whether Huang should return: he doesn't know enough about what happened in the board meetings. But",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8832",
+      "image_url": null,
+      "pub_date": "2026-11-19T04:07:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T06:05:04.953Z",
+      "created_at": "2026-11-19T06:05:04.953Z"
+    },
+    {
+      "id": 29380,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 California wants a state-ordered kill switch for AI systems it deems dangerousGov. Newsom's expert panel recommends letting officials force an emergency shutdown when labs like OpenAI or Anthropic ",
+      "description_en": "🚨 California wants a state-ordered kill switch for AI systems it deems dangerousGov. Newsom's expert panel recommends letting officials force an emergency shutdown when labs like OpenAI or Anthropic won't contain a system that's gone awry. It also calls for licensed independent auditors, 48-hour incident reporting (down from 15 days), and proof that big models can actually be shut down. Lawmakers return December 7, and it's still only a proposal.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/1065",
+      "image_url": null,
+      "pub_date": "2026-11-19T05:27:29+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-19T06:05:05.291Z",
+      "created_at": "2026-11-19T06:05:05.291Z"
     }
   ]
 }
