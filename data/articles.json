@@ -640257,6 +640257,180 @@
       "priority": "hot",
       "fetchedAt": "2026-11-20T02:17:25.733Z",
       "created_at": "2026-11-20T02:17:25.733Z"
+    },
+    {
+      "id": 29516,
+      "source": "New Atlas",
+      "title_en": "Alluring luxe camper proves old dogs (and RV brands) learn new tricks",
+      "description_en": "Known best for camper vans and small motorhomes, Pleasure-Way has been a North American RV market staple for 40 years. But until this year, it's never tried its hand at a camping trailer. That changes in a major way with the Everbound Luxury Travel Trailer, which might just be one of the nicest 20-foot+ travel trailers to debut this year. Clearly, the company's experience in the motorized end of the market translates nicely into towables.\nContinue Reading\nCategory: Camping Trailers, Adventure Ve",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/camping-trailers/pleasure-way-everbound-travel-trailer/",
+      "image_url": null,
+      "pub_date": "Fri, 20 Nov 2026 03:03:00 GMT",
+      "author": "C.C. Weiss",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-20T03:55:23.308Z",
+      "created_at": "2026-11-20T03:55:23.308Z"
+    },
+    {
+      "id": 29517,
+      "source": "The Guardian AI",
+      "title_en": "Anthropic’s historic stock market debut: key takeaways, and what comes next for the AI industry",
+      "description_en": "A record breaking IPO has raised billions for the AI frontier lab – but experts say the coming months could prove bumpy, as the industry faces a variety of challenges\n\nAnthropic closes first day of public trading at $1.3tn valuation after largest-ever IPO\n\nIn the end, Anthropic’s much-anticipated IPO more than lived up to the hype. The market’s embrace of one of the AI industry’s most talked about companies has resulted in the maker of the Claude chatbot becoming one of the world’s most valuable",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/nov/20/anthropic-ipo-historic-stock-market-debut-key-takeaways-what-next-for-ai",
+      "image_url": "https://i.guim.co.uk/img/media/61ed24035e251e6542b667ba9186f9479f108506/240_0_4204_3363/master/4204.jpg?width=140&quality=85&auto=format&fit=max&s=035500278e5a57ed65ddb04b90dc5540",
+      "pub_date": "Fri, 20 Nov 2026 03:33:45 GMT",
+      "author": "Jonathan Yerushalmy",
+      "categories": [
+        {
+          "_": "Anthropic",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/anthropic"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Stock markets",
+          "$": {
+            "domain": "https://www.theguardian.com/business/stock-markets"
+          }
+        },
+        {
+          "_": "Datacentres",
+          "$": {
+            "domain": "https://www.theguardian.com/world/datacentres"
+          }
+        },
+        {
+          "_": "Global economy",
+          "$": {
+            "domain": "https://www.theguardian.com/business/global-economy"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Economics",
+          "$": {
+            "domain": "https://www.theguardian.com/business/economics"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-20T03:55:23.456Z",
+      "created_at": "2026-11-20T03:55:23.456Z"
+    },
+    {
+      "id": 29518,
+      "source": "Interesting Engineering",
+      "title_en": "Major US banks face cyberattack after hackers claim theft of 16,000 customer details",
+      "description_en": "JPMorgan Chase is investigating a cyberattack involving its external service providers after hackers allegedly accessed...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/culture/major-us-banks-cybersecurity-vendor-breach",
+      "image_url": null,
+      "pub_date": "Fri, 20 Nov 2026 03:42:57 +0000",
+      "author": "Aamir Khollam",
+      "categories": [
+        "Culture"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-20T03:55:24.103Z",
+      "created_at": "2026-11-20T03:55:24.103Z"
+    },
+    {
+      "id": 29519,
+      "source": "Interesting Engineering",
+      "title_en": "Brain’s hidden speech code upends 150-year-old theory, offers hope for voice restoration",
+      "description_en": "Scientists at the University of California, San Francisco (UCSF) have identified a region of the...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/science/brain-region-generates-words-before-speech",
+      "image_url": null,
+      "pub_date": "Fri, 20 Nov 2026 03:14:09 +0000",
+      "author": "Neetika Walter",
+      "categories": [
+        "Science"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-20T03:55:24.103Z",
+      "created_at": "2026-11-20T03:55:24.103Z"
+    },
+    {
+      "id": 29520,
+      "source": "Interesting Engineering",
+      "title_en": "US firm to support development of high-performance propellants to boost missile, aircraft range",
+      "description_en": "A Salt Lake City-based company has received a contract from the Department of War to...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/us-firm-propellants-missile-aircraft-range",
+      "image_url": null,
+      "pub_date": "Fri, 20 Nov 2026 02:48:32 +0000",
+      "author": "Prabhat Ranjan Mishra",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-20T03:55:24.103Z",
+      "created_at": "2026-11-20T03:55:24.103Z"
+    },
+    {
+      "id": 29521,
+      "source": "CNBC Tech",
+      "title_en": "Senate passes BAAJA permitting reform bill backed by AI, energy sectors",
+      "description_en": "The permitting bill's Senate passage is a key step to it becoming law, but it would also need to clear the House before heading to President Trump's desk.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/20/baaja-bill-senate-passes-permitting-reform.html",
+      "image_url": null,
+      "pub_date": "Fri, 20 Nov 2026 03:30:45 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-20T03:55:24.467Z",
+      "created_at": "2026-11-20T03:55:24.467Z"
+    },
+    {
+      "id": 29522,
+      "source": "CNBC Tech",
+      "title_en": "Anthropic IPO 'exactly what the markets need,' but analysts warn of volatility",
+      "description_en": "The Anthropic IPO is \"what the markets need.\" However, analysts say its shares will be volatile in the coming weeks.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/20/anthropic-ipo-stocks-market.html",
+      "image_url": null,
+      "pub_date": "Fri, 20 Nov 2026 03:38:07 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-20T03:55:24.467Z",
+      "created_at": "2026-11-20T03:55:24.467Z"
     }
   ]
 }
