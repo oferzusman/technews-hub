@@ -642513,6 +642513,425 @@
       "priority": "batch",
       "fetchedAt": "2026-11-20T18:35:49.955Z",
       "created_at": "2026-11-20T18:35:49.955Z"
+    },
+    {
+      "id": 29618,
+      "source": "The Verge AI",
+      "title_en": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+      "description_en": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them.\n\"We're not going to allow our companies to build data centers outside of our country,\" Trump said at a press conference Friday following his summit with China President Xi Jinping and Russia President Vladimir Putin. \"They allowed that to happen with chips and everything else, and",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+      "image_url": null,
+      "pub_date": "2026-11-20T18:50:19.000Z",
+      "author": "Lauren Feiner",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-20T20:50:06.739Z",
+      "created_at": "2026-11-20T20:50:06.739Z"
+    },
+    {
+      "id": 29619,
+      "source": "Ars Technica",
+      "title_en": "NASA’s new Moon plan is taking shape, but some big questions remain",
+      "description_en": "\"We tend to have a lot of technical discussion and debate. That point will continue to be debated.\"",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/flight15_catch-1152x648.jpg",
+      "pub_date": "Fri, 20 Nov 2026 20:26:33 +0000",
+      "author": "\n                    Stephen Clark\n                ",
+      "categories": [
+        "Science",
+        "Space",
+        "artemis",
+        "artemis iii",
+        "artemis iv",
+        "blue moon",
+        "blue origin",
+        "human landing system",
+        "human spaceflight",
+        "moon",
+        "NASA",
+        "spacex",
+        "starship"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-20T20:50:06.800Z",
+      "created_at": "2026-11-20T20:50:06.800Z"
+    },
+    {
+      "id": 29620,
+      "source": "Ars Technica",
+      "title_en": "Prisons get OK to jam contraband phones. CTIA says nearby phones will be jammed too.",
+      "description_en": "CTIA said jamming test showed \"interference... up to two and a half miles away.\"",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/prison-barbed-wire-1152x648-1767732268.jpg",
+      "pub_date": "Fri, 20 Nov 2026 19:52:59 +0000",
+      "author": "\n                    Jon Brodkin\n                ",
+      "categories": [
+        "Policy",
+        "FCC",
+        "prison phone jamming"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-20T20:50:06.800Z",
+      "created_at": "2026-11-20T20:50:06.800Z"
+    },
+    {
+      "id": 29621,
+      "source": "The Decoder",
+      "title_en": "OpenAI makes it much harder for attackers to extract how its latest AI models think",
+      "description_en": "OpenAI has significantly strengthened safeguards against extracting internal reasoning from GPT-6.2 Astra and GPT-6.2 Sol. In adaptive red-teaming tests, the success rate for extracting protected reasoning fell from 54 percent to 0.2 percent. The company is also suspending thousands to tens of thousands of accounts each week over coordinated distillation campaigns.\nThe article OpenAI makes it much harder for attackers to extract how its latest AI models think appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/openai-makes-it-much-harder-for-attackers-to-extract-how-its-latest-ai-models-think/",
+      "image_url": null,
+      "pub_date": "Fri, 20 Nov 2026 20:31:50 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "AI and China",
+        "China",
+        "Distillation",
+        "OpenAI",
+        "USA; China"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-20T20:50:08.307Z",
+      "created_at": "2026-11-20T20:50:08.307Z"
+    },
+    {
+      "id": 29622,
+      "source": "The Decoder",
+      "title_en": "Signal blocks screenshots on iOS 27 and Android to stop AI agents from reading private chats",
+      "description_en": "Signal is blocking screenshots to stop AI agents like Apple's Siri AI, Google's Gemini Intelligence, and Meta's Muse from reading private chats. The app calls it an \"existential threat\" to privacy, but admits its protections remain incomplete, including on macOS. Apple, Google, and Microsoft should follow suit.\nThe article Signal blocks screenshots on iOS 27 and Android to stop AI agents from reading private chats appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/signal-blocks-screenshots-on-ios-27-and-android-to-stop-ai-agents-from-reading-private-chats/",
+      "image_url": null,
+      "pub_date": "Fri, 20 Nov 2026 19:50:27 +0000",
+      "author": "Manuel Uth",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "AI agents",
+        "Privacy",
+        "Signal"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-20T20:50:08.307Z",
+      "created_at": "2026-11-20T20:50:08.307Z"
+    },
+    {
+      "id": 29623,
+      "source": "The Decoder",
+      "title_en": "Google's Gemini can now run Mac apps and finish desktop chores in the background while you keep working",
+      "description_en": "Google is bringing \"Computer Use\" to Gemini for Mac, letting the AI operate desktop apps, local files, and websites in an isolated background window with a live preview while users keep working.\nThe article Google's Gemini can now run Mac apps and finish desktop chores in the background while you keep working appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/googles-gemini-can-now-run-mac-apps-and-finish-desktop-chores-in-the-background-while-you-keep-working/",
+      "image_url": "http://the-decoder.com/wp-content/uploads/2026/11/gemini_computer_use_mac_trailer.mp4",
+      "pub_date": "Fri, 20 Nov 2026 18:50:31 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Gemini",
+        "Google Gemini"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-20T20:50:08.307Z",
+      "created_at": "2026-11-20T20:50:08.307Z"
+    },
+    {
+      "id": 29624,
+      "source": "OpenAI Blog",
+      "title_en": "Combatting adversarial distillation",
+      "description_en": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/combatting-adversarial-distillation",
+      "image_url": null,
+      "pub_date": "Fri, 20 Nov 2026 10:00:00 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-20T20:50:08.558Z",
+      "created_at": "2026-11-20T20:50:08.558Z"
+    },
+    {
+      "id": 29625,
+      "source": "OpenAI Blog",
+      "title_en": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "description_en": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/business/customer-stories/hebbia",
+      "image_url": null,
+      "pub_date": "Fri, 20 Nov 2026 00:00:00 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-20T20:50:08.558Z",
+      "created_at": "2026-11-20T20:50:08.558Z"
+    },
+    {
+      "id": 29626,
+      "source": "OpenAI Blog",
+      "title_en": "Can AI help scientists identify promising drug candidates?",
+      "description_en": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/introducing-medchembench",
+      "image_url": null,
+      "pub_date": "Fri, 20 Nov 2026 00:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Research"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-20T20:50:08.558Z",
+      "created_at": "2026-11-20T20:50:08.558Z"
+    },
+    {
+      "id": 29627,
+      "source": "Hugging Face Blog",
+      "title_en": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://huggingface.co/blog/inkling2mini",
+      "image_url": null,
+      "pub_date": "Fri, 20 Nov 2026 00:00:00 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-20T20:50:08.617Z",
+      "created_at": "2026-11-20T20:50:08.617Z"
+    },
+    {
+      "id": 29628,
+      "source": "New Atlas",
+      "title_en": "BYD just killed the steering wheel as we know it",
+      "description_en": "The new Fang Cheng Bao Tai 9 is the first production car with a steering wheel that vanishes. It tucks away in just 10 seconds, giving the driver about 10 inches (25 cm) of extra room. So if you're stuck in a parking lot for an hour, you have space to stretch out and enjoy an episode of your favorite show or take a nap. Or eat your meal and then take the nap.\nContinue Reading\nCategory: Automotive, Transport\nTags: BYD, Electric, China, Electric Vehicles, Steering",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/automotive/byd-fang-cheng-bao-tai-9-folding-steering-wheel/",
+      "image_url": null,
+      "pub_date": "Fri, 20 Nov 2026 20:30:00 GMT",
+      "author": "Omar Kardoudi",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-20T20:50:08.832Z",
+      "created_at": "2026-11-20T20:50:08.832Z"
+    },
+    {
+      "id": 29629,
+      "source": "The Guardian AI",
+      "title_en": "Forget rogue robots, it’s tech billionaires and AI cricket that should really terrify us | Barney Ronay",
+      "description_en": "The encroachment of artificial intelligence smells like the death of sport. Can we find the will and collective backbone to resist?\nThere was an interesting development this week in the endless rolling mega-froth over tech billionaire Jensen Huang, a saga that may or may not have involved some kind of adulterous 63-year-old honey trap spy dynamic.\nThe latest suggestion being punted about is that, whatever his raw human frailties, Huang is in fact “irreplaceable” as the president of Nvidia. Only ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/sport/2026/nov/20/cricket-rogue-robots-tech-billionaires-artificial-intelligence",
+      "image_url": "https://i.guim.co.uk/img/media/4ca3d80c03e1e8d9c6bb7f35e1b62a5099768106/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=34dee3b73a14a965a0520d56ded8fb16",
+      "pub_date": "Fri, 20 Nov 2026 19:00:36 GMT",
+      "author": "Barney Ronay",
+      "categories": [
+        {
+          "_": "Sport",
+          "$": {
+            "domain": "https://www.theguardian.com/sport/sport"
+          }
+        },
+        {
+          "_": "Cricket",
+          "$": {
+            "domain": "https://www.theguardian.com/sport/cricket"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-20T20:50:09.120Z",
+      "created_at": "2026-11-20T20:50:09.120Z"
+    },
+    {
+      "id": 29630,
+      "source": "The Guardian AI",
+      "title_en": "Is Claude creator Anthropic really worth $1.3 trillion? - The Latest",
+      "description_en": "The AI firm and Claude chatbot maker Anthropic has made a historic stock market debut, with a peak valuation of $1.3tn on its first day of trading. It marks a remarkable ascent for a start-up launched in just 2021 by a group of ex-OpenAI staffers. Anthropic’s CEO, Dario Amodei, said the record-breaking IPO had ‘strengthened’ the company’s resolve to ‘do the right thing’. Despite the excitement, the Guardian’s head of business John Collingridge tells Lucy Hough that there are still challenges ahe",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/news/video/2026/nov/20/is-claude-creator-anthropic-really-worth-15-trillion-the-latest",
+      "image_url": "https://i.guim.co.uk/img/media/2839cb432ed7a9109cae590901c997504e803e00/952_678_2493_1994/master/2493.jpg?width=140&quality=85&auto=format&fit=max&s=c5ba4e724214eaa8cc007909583ea93a",
+      "pub_date": "Fri, 20 Nov 2026 18:53:50 GMT",
+      "author": "Presented by Lucy Hough with John Collingridge ; produced by Angus Neale ; senior producer Leonore Schick ; executive producer Zoe Hitch",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Anthropic",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/anthropic"
+          }
+        },
+        {
+          "_": "Dario Amodei",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/dario-amodei"
+          }
+        },
+        {
+          "_": "Stock markets",
+          "$": {
+            "domain": "https://www.theguardian.com/business/stock-markets"
+          }
+        },
+        {
+          "_": "IPOs",
+          "$": {
+            "domain": "https://www.theguardian.com/business/ipos"
+          }
+        },
+        {
+          "_": "Chatbots",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/chatbots"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-20T20:50:09.120Z",
+      "created_at": "2026-11-20T20:50:09.120Z"
+    },
+    {
+      "id": 29631,
+      "source": "Tom's Hardware",
+      "title_en": "Save $2,400 on a tricked-out Corsair RTX 5090 prebuilt in Black Friday run-up sale — sweet spec list also includes 9950X3D, 64GB RAM, and 4TB storage",
+      "description_en": "Prices for RTX 5090 prebuilt PCs have spiked above five figures almost everywhere, but you can still get this Corsair Millennium system for $8999.99, or $2400 off, ahead of the Black Friday rush.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/desktops/gaming-pcs/save-usd2-400-on-a-tricked-out-corsair-rtx-5090-prebuilt-in-black-friday-run-up-sale-sweet-spec-list-also-includes-9950x3d-64gb-ram-and-4tb-storage",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/6JyFA4XWM4oKDGDKs5qFeh-1920-80.jpg",
+      "pub_date": "Fri, 20 Nov 2026 20:09:47 +0000",
+      "author": " Jeffrey Kampman ",
+      "categories": [
+        "Gaming PCs",
+        "Desktops"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-20T20:50:12.613Z",
+      "created_at": "2026-11-20T20:50:12.613Z"
+    },
+    {
+      "id": 29632,
+      "source": "CNBC Tech",
+      "title_en": "Jensen Huang to testify publicly before Senate banking panel, Chairman Scott says",
+      "description_en": "Former Nvidia CEO Jensen Huang has faced a flurry of criticism on Capitol Hill in the wake of his involvement with a suspected Chinese spy.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/20/jensen-huang-nvidia-senate-testimony.html",
+      "image_url": null,
+      "pub_date": "Fri, 20 Nov 2026 19:42:53 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-20T20:50:12.713Z",
+      "created_at": "2026-11-20T20:50:12.713Z"
+    },
+    {
+      "id": 29633,
+      "source": "CNBC Tech",
+      "title_en": "Nvidia stock plunges 12%, rides longest weekly losing streak since 2008 financial crisis",
+      "description_en": "Once the most valuable company in the world, Nvidia now ranks third behind Apple and Microsoft.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html",
+      "image_url": null,
+      "pub_date": "Fri, 20 Nov 2026 19:54:31 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-20T20:50:12.713Z",
+      "created_at": "2026-11-20T20:50:12.713Z"
+    },
+    {
+      "id": 29634,
+      "source": "AI Post (TG)",
+      "title_en": "📉 SoftBank's founder says passing on Anthropic was a mistake. Now SoftBank has plunged 16%Masayoshi Son told an event this week that he regrets not backing Anthropic. SoftBank had already committed t",
+      "description_en": "📉 SoftBank's founder says passing on Anthropic was a mistake. Now SoftBank has plunged 16%Masayoshi Son told an event this week that he regrets not backing Anthropic. SoftBank had already committed to its rival OpenAI, where it has now put $64.6 billion.On Friday, the day after Anthropic's record IPO, SoftBank shares fell as much as 16% in Tokyo. If the loss holds, it will be the company's worst day in more than two years, CNBC reports. The stock is now about a third of its June high.Anthropic'",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8849",
+      "image_url": "https://cdn4.telesco.pe/file/odlEzmhWcJsSy_EoK4DmvTldB3DQFJEjWWgZegTfls6RIR7Mqy0Jp2sx6r7uhNNSdk5WtlH2dzlxp3JL1FdZE3sWWDe7VTANezMmyEiwMdTijwQXs_Cw4pR5DyST30Xa0iUZseymrV9rSbqxzq5N1wmOPcCkcuO4Sw3L8Y1UTwz2zTmTdzByydghwrb2h1uOTJPGl-1yPBRY-G9_gNqIRLErXW_nwswWtlbpzEcnQjr_6Dbzr8GJuO0NmjpOJvHzG75uS0BXClL1hfbzUIEh6-iajj6Z1bFbR3htwxc9OcY5KZ_KwmUhbwixzoMca_egmz4pvLbdun5uon9D9UjuOw.jpg",
+      "pub_date": "2026-11-20T20:01:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-20T20:50:18.933Z",
+      "created_at": "2026-11-20T20:50:18.933Z"
+    },
+    {
+      "id": 29635,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🧠 An open 27B model rewrites its own weights and gets 6.6 points better, no gradientsIn a new paper, the model reads its graded answers, diagnoses its failures and edits the weights directly, keeping",
+      "description_en": "🧠 An open 27B model rewrites its own weights and gets 6.6 points better, no gradientsIn a new paper, the model reads its graded answers, diagnoses its failures and edits the weights directly, keeping only edits that pass practice problems. Accuracy rose across eight straight sessions, and it also patched a damaged copy of itself back to over 80% on unseen image tasks, while smaller models in the family either made no edit or broke themselves.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/1080",
+      "image_url": null,
+      "pub_date": "2026-11-20T18:58:35+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-20T20:50:19.362Z",
+      "created_at": "2026-11-20T20:50:19.362Z"
     }
   ]
 }
