@@ -639940,6 +639940,323 @@
       "priority": "hot",
       "fetchedAt": "2026-11-19T22:58:11.314Z",
       "created_at": "2026-11-19T22:58:11.314Z"
+    },
+    {
+      "id": 29500,
+      "source": "OpenAI Blog",
+      "title_en": "Deploying Daybreak Red",
+      "description_en": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/business/learn/deploying-daybreak-red",
+      "image_url": null,
+      "pub_date": "Thu, 19 Nov 2026 00:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Guides"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-20T02:17:20.939Z",
+      "created_at": "2026-11-20T02:17:20.939Z"
+    },
+    {
+      "id": 29501,
+      "source": "OpenAI Blog",
+      "title_en": "See PR scans in action",
+      "description_en": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/business/learn/pr-scans-demo",
+      "image_url": null,
+      "pub_date": "Thu, 19 Nov 2026 00:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Demos"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-20T02:17:20.940Z",
+      "created_at": "2026-11-20T02:17:20.940Z"
+    },
+    {
+      "id": 29502,
+      "source": "OpenAI Blog",
+      "title_en": "Explore the Codex Security Plugin",
+      "description_en": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "image_url": null,
+      "pub_date": "Thu, 19 Nov 2026 00:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Demos"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-20T02:17:20.940Z",
+      "created_at": "2026-11-20T02:17:20.940Z"
+    },
+    {
+      "id": 29503,
+      "source": "OpenAI Blog",
+      "title_en": "Get started with Daybreak Blue",
+      "description_en": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+      "image_url": null,
+      "pub_date": "Thu, 19 Nov 2026 00:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Demos"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-20T02:17:20.940Z",
+      "created_at": "2026-11-20T02:17:20.940Z"
+    },
+    {
+      "id": 29504,
+      "source": "The Guardian AI",
+      "title_en": "Big tech is already building datacentres in Australia. Why is Labor so desperate to give them loopholes?",
+      "description_en": "If the government bends to AI companies, artists, creatives and journalists will be the sacrificial lamb – and Australia will become a global pariah\n\nGet our breaking news email, free app or daily news podcast\n\nRight now, the prime minister faces a choice. Does he stand with Jimmy Barnes and the Working Class Man or does he stand with Big AI?\nThis week, some of the biggest names in Australian music, publishing, journalism and art have thrown down the gauntlet to the government. From Paul Kelly t",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/commentisfree/2026/nov/20/big-tech-is-already-building-datacentres-in-australia-why-is-labor-desperate-to-give-them-loopholes",
+      "image_url": "https://i.guim.co.uk/img/media/0cdbb6369ce14b701428a723ba8bb7a215b0e3bd/0_0_1828_1463/master/1828.jpg?width=140&quality=85&auto=format&fit=max&s=ec31418de2ee6aa3a2433d6d06ad0d05",
+      "pub_date": "Fri, 20 Nov 2026 02:00:18 GMT",
+      "author": "Sarah Hanson-Young",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Anthony Albanese",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/anthony-albanese"
+          }
+        },
+        {
+          "_": "Intellectual property",
+          "$": {
+            "domain": "https://www.theguardian.com/law/intellectual-property"
+          }
+        },
+        {
+          "_": "Australia news",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/australia-news"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-20T02:17:21.371Z",
+      "created_at": "2026-11-20T02:17:21.371Z"
+    },
+    {
+      "id": 29505,
+      "source": "Interesting Engineering",
+      "title_en": "Apple plans autonomous agent to rival Meta and Anthropic in controlling apps and devices",
+      "description_en": "Apple is developing an autonomous assistant designed to carry out tasks on users’ behalf, marking...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/apple-develops-autonomous-agent-device-control-apps",
+      "image_url": null,
+      "pub_date": "Fri, 20 Nov 2026 01:57:02 +0000",
+      "author": "Neetika Walter",
+      "categories": [
+        "AI and Robotics"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-20T02:17:22.328Z",
+      "created_at": "2026-11-20T02:17:22.328Z"
+    },
+    {
+      "id": 29506,
+      "source": "Interesting Engineering",
+      "title_en": "1,200 mph F-35C jet makes first arrested landing on 100,000-ton US Navy aircraft carrier",
+      "description_en": "Lockheed Martin’s F-35C Lightning II has completed its first shipboard launch and recovery trials aboard...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/f-35c-first-arrested-landing-uss-john-f-kennedy",
+      "image_url": null,
+      "pub_date": "Thu, 19 Nov 2026 23:40:46 +0000",
+      "author": "Aamir Khollam",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-20T02:17:22.328Z",
+      "created_at": "2026-11-20T02:17:22.328Z"
+    },
+    {
+      "id": 29507,
+      "source": "Tom's Hardware",
+      "title_en": "Get an RTX 5070 for just $839.99, a rare savings in the GPU wasteland",
+      "description_en": "Get an RTX 5070 for just $839.99 — MSI GeForce RTX 5070 Ventus 2X OC  12 GB is currently on sale at Newegg",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/get-an-rtx-5070-for-just-usd839-99-a-rare-savings-in-the-gpu-wasteland-msi-geforce-rtx-5070-ventus-2x-oc-12-gb-is-currently-on-sale-at-newegg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/x5Wt639xFBjw8uibLD6PtX-1920-80.jpg",
+      "pub_date": "Fri, 20 Nov 2026 00:59:02 +0000",
+      "author": " Bruno Ferreira ",
+      "categories": [
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-20T02:17:22.534Z",
+      "created_at": "2026-11-20T02:17:22.534Z"
+    },
+    {
+      "id": 29508,
+      "source": "CNBC Tech",
+      "title_en": "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut",
+      "description_en": "SoftBank shares plunged over 16% on Friday as Japanese and South Korean technology stocks fell sharply.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html",
+      "image_url": null,
+      "pub_date": "Fri, 20 Nov 2026 02:14:50 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-20T02:17:22.564Z",
+      "created_at": "2026-11-20T02:17:22.564Z"
+    },
+    {
+      "id": 29509,
+      "source": "CNBC Tech",
+      "title_en": "Cramer: My favorite chartist sees two major signs of a rally brewing in Alphabet stock",
+      "description_en": "Jim Cramer said that veteran chartist Larry Williams sees bullish signals in Alphabet’s charts.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/19/alphabet-stock-larry-williams-rally-signals.html",
+      "image_url": null,
+      "pub_date": "Thu, 19 Nov 2026 23:38:35 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-20T02:17:22.564Z",
+      "created_at": "2026-11-20T02:17:22.564Z"
+    },
+    {
+      "id": 29510,
+      "source": "CNBC Tech",
+      "title_en": "Here's how big Anthropic’s record-setting IPO is: Visualization",
+      "description_en": "The AI company sold 930 million shares at $83 each, the biggest initial public offering on record.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/19/ant-stock-anthropic-record-setting-ipo.html",
+      "image_url": null,
+      "pub_date": "Thu, 19 Nov 2026 23:32:18 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-20T02:17:22.564Z",
+      "created_at": "2026-11-20T02:17:22.564Z"
+    },
+    {
+      "id": 29511,
+      "source": "CNBC Tech",
+      "title_en": "Cramer says Nvidia’s woes are trumping Anthropic excitement for the rest of the AI trade",
+      "description_en": "Jim Cramer warned that Nvidia's leadership crisis is overshadowing Anthropic's historic IPO.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/19/nvidia-anthropic-ipo-ai-trade.html",
+      "image_url": null,
+      "pub_date": "Thu, 19 Nov 2026 23:22:53 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-20T02:17:22.564Z",
+      "created_at": "2026-11-20T02:17:22.564Z"
+    },
+    {
+      "id": 29512,
+      "source": "Backdoor (TG)",
+      "title_en": "OpenCode релизнулся на смартфонах — теперь вашими сессиями и агентами можно управлять, откуда угодно.• Есть все фишки, как у Codex и Claude Code.• Можно следить за работой ИИ в реальном времени.• Выда",
+      "description_en": "OpenCode релизнулся на смартфонах — теперь вашими сессиями и агентами можно управлять, откуда угодно.• Есть все фишки, как у Codex и Claude Code.• Можно следить за работой ИИ в реальном времени.• Выдавать новые задачи, одобрять или отклонять действия агента.• Диктовать пояснения и даже отправлять картинки.• Если уходите от компа — продолжать сессии с телефона.Агент работает на ПК — вы подключаете удаленный доступ с помощью QR-кода. Забираем — тут.👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/33192",
+      "image_url": null,
+      "pub_date": "2026-11-19T23:10:46+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-20T02:17:24.575Z",
+      "created_at": "2026-11-20T02:17:24.575Z"
+    },
+    {
+      "id": 29513,
+      "source": "AI Post (TG)",
+      "title_en": "💻 OpenAI's tip for its new GPT-6.2: tell it how you'll judge the workDescribe the task as you'd brief a colleague who knows the project, then say what you'll look for when you review it. That is the ",
+      "description_en": "💻 OpenAI's tip for its new GPT-6.2: tell it how you'll judge the workDescribe the task as you'd brief a colleague who knows the project, then say what you'll look for when you review it. That is the core of OpenAI's guide to prompting GPT-6.2 in Codex. Its example: if an icon has to be recognizable in a 24-pixel toolbar, say so.The rest of the guide:• Match the effort setting to the job. Medium for a quick survey, High to trace one suspected cause across several systems, Extra High when several",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8840",
+      "image_url": "https://cdn4.telesco.pe/file/BYn3kPEiHzI533K-KY0XEQFJyo237_nx5u5jN2C13qGTQtAIq2vCCTPaxO6RDocqHmgyoS9JqzIOrsgrEgwwMAp3ZbnP6rubtoqLe1hnSnVlTHwitivz5waa1KkuXP49tpT2ebZlowiaBKtAyOzTL7z0aPoWrr7Hx_56kzIIB4y2hB_MxsaYlMPqBKWoWiu123cb-t5dMUw7R0Zk87GlSqYPidnhQH5oriDkBraDKSmkM-uYfbC5G3O25Ndg2kS8MW1AaRXOPkz9YSMr74XITMc4lwzazn6almQQ1HaWckcwdDd16WG47cyCRLdMju0xRtFil35KpGI-mD0HH4T40g.jpg",
+      "pub_date": "2026-11-19T23:53:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-20T02:17:25.467Z",
+      "created_at": "2026-11-20T02:17:25.467Z"
+    },
+    {
+      "id": 29514,
+      "source": "AI Post (TG)",
+      "title_en": "🗣 Silicon Valley is talking about handing control to AI. Sam Altman calls it \"a terrible idea\"Sam Altman said he and OpenAI president Greg Brockman now find themselves arguing against it, at the New ",
+      "description_en": "🗣 Silicon Valley is talking about handing control to AI. Sam Altman calls it \"a terrible idea\"Sam Altman said he and OpenAI president Greg Brockman now find themselves arguing against it, at the New York Times DealBook Summit on November 18:\"There's been this thing in Silicon Valley that seems almost ridiculous to have to fight against... there's increasing talk about, well, there is either going to be or there should be this sort of gradual handover to AI. And I — we both — agree that that's a",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8841",
+      "image_url": null,
+      "pub_date": "2026-11-20T02:16:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-20T02:17:25.467Z",
+      "created_at": "2026-11-20T02:17:25.467Z"
+    },
+    {
+      "id": 29515,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🎙️ OpenAI's GPT-Live-1.1 listens while it talksOpenAI released a full-duplex voice model in the API. Against GPT-Live-1, it transcribes more accurately and keeps the same accent and voice across lang",
+      "description_en": "🎙️ OpenAI's GPT-Live-1.1 listens while it talksOpenAI released a full-duplex voice model in the API. Against GPT-Live-1, it transcribes more accurately and keeps the same accent and voice across languages.Billing is by session duration, with a lower standby rate on WebRTC while inference is paused. Backend reasoning and tool calls are billed separately.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/1073",
+      "image_url": null,
+      "pub_date": "2026-11-20T01:26:29+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-20T02:17:25.733Z",
+      "created_at": "2026-11-20T02:17:25.733Z"
     }
   ]
 }
