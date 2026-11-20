@@ -641011,6 +641011,434 @@
       "priority": "batch",
       "fetchedAt": "2026-11-20T10:09:37.657Z",
       "created_at": "2026-11-20T10:09:37.657Z"
+    },
+    {
+      "id": 29545,
+      "source": "The Verge AI",
+      "title_en": "Signal is blocking Gemini and Siri AI from reading your screen",
+      "description_en": "Signal users on iOS will see this option to toggle blocking screenshots and preventing Siri AI from scanning on-screen content. | Image: Signal\t\n\nSignal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user are \"undermining Signal's ability to independently guarantee privacy,\" Si",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+      "image_url": null,
+      "pub_date": "2026-11-20T12:30:47.000Z",
+      "author": "Jess Weatherbed",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-20T12:31:42.176Z",
+      "created_at": "2026-11-20T12:31:42.176Z"
+    },
+    {
+      "id": 29546,
+      "source": "New Atlas",
+      "title_en": "Record ferry batteries shed nearly 300 tonnes to hit 40 knots",
+      "description_en": "The Argentine-Uruguayan ferry China Zorrilla only started carrying passengers in October, and its battery record already has an expiration date. The same Tasmanian yard that built it is now working on three catamarans for Denmark's Molslinjen, each set to carry 55 MWh of batteries from Andorra-based AYK Energy, against the China Zorrilla's 43.\nContinue Reading\nCategory: Transport\nTags: Batteries, Transport, Electric Boats, Marine Innovations, Ships, World's Largest",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/transport/ayk-energy-molslinjen-incat-electric-ferry-batteries/",
+      "image_url": null,
+      "pub_date": "Fri, 20 Nov 2026 12:03:00 GMT",
+      "author": "Omar Kardoudi",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-20T12:31:44.081Z",
+      "created_at": "2026-11-20T12:31:44.081Z"
+    },
+    {
+      "id": 29547,
+      "source": "The Guardian AI",
+      "title_en": "AI is imposing a hidden ‘cognitive tax’ on the lowest-paid workers",
+      "description_en": "It’s time to rethink welfare as AI reshapes the economy and wears down the brains of some of the most vulnerable workers\nAI is adding to the cognitive load of workers already stretched thin by unpredictable pay, insecure housing and mounting debt – and the lowest paid feel it most. We need to rethink welfare for an economy being reshaped by AI.\nThroughout the history of the study of economics, the human brain, which directs our labour, judgment and resilience, has rarely been considered an asset",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/nov/20/ai-low-paid-workers-cognitive-tax",
+      "image_url": "https://i.guim.co.uk/img/media/b71c923b07b403bdaf953194f3dfdf7229e4b7c6/492_0_3408_2727/master/3408.jpg?width=140&quality=85&auto=format&fit=max&s=7a9b36a23900dd55a7da37ebd913eb2b",
+      "pub_date": "Fri, 20 Nov 2026 11:00:31 GMT",
+      "author": "Henrietta Moore",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Work & careers",
+          "$": {
+            "domain": "https://www.theguardian.com/money/work-and-careers"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Money",
+          "$": {
+            "domain": "https://www.theguardian.com/money/money"
+          }
+        },
+        {
+          "_": "Benefits",
+          "$": {
+            "domain": "https://www.theguardian.com/society/benefits"
+          }
+        },
+        {
+          "_": "Welfare",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/welfare"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-20T12:31:44.271Z",
+      "created_at": "2026-11-20T12:31:44.271Z"
+    },
+    {
+      "id": 29548,
+      "source": "The Guardian AI",
+      "title_en": "Don’t blame cyber-attacks for recent outages. The real villain is the US economy | Bruce Schneier",
+      "description_en": "Our tech infrastructure is riddled with problems. But they’re all downstream of the incentives baked into shareholder capitalism\nIt’s been a bad week for our computerized infrastructure. We’ve seen outages at Microsoft, the FAA, a handful of banks, United Airlines, an unnamed classified NSA network, and Apple. People should be forgiven for suspecting a coordinated cyber-attack, a common cause, or at least a conspiracy. But there is none.\nThe incidents are unrelated. They’re not the result of any",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/20/cyber-attacks-outages-blame-economy",
+      "image_url": "https://i.guim.co.uk/img/media/06367e7fdfd0f05a668d10411818299d34910160/656_0_6561_5249/master/6561.jpg?width=140&quality=85&auto=format&fit=max&s=1fd17bd548ba127b4f7c623cfd2410d2",
+      "pub_date": "Fri, 20 Nov 2026 11:00:31 GMT",
+      "author": "Bruce Schneier",
+      "categories": [
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "US economy",
+          "$": {
+            "domain": "https://www.theguardian.com/business/useconomy"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Microsoft",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/microsoft"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-20T12:31:44.272Z",
+      "created_at": "2026-11-20T12:31:44.272Z"
+    },
+    {
+      "id": 29549,
+      "source": "Interesting Engineering",
+      "title_en": "Thales links sensors, weapons in modular air defense system against aerial threats",
+      "description_en": "French defense company Thales has carried out another live test of its ACE system, designed...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/thales-links-weapons-in-modular-air-defense",
+      "image_url": "https://www.youtube.com/embed/xjj9w3HUFVY",
+      "pub_date": "Fri, 20 Nov 2026 12:02:09 +0000",
+      "author": "Jijo Malayil",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-20T12:31:44.841Z",
+      "created_at": "2026-11-20T12:31:44.841Z"
+    },
+    {
+      "id": 29550,
+      "source": "Interesting Engineering",
+      "title_en": "A ‘closed-loop’ data center may still drive big water demand, just far from the site",
+      "description_en": "A big data center can claim a sealed cooling system that doesn’t touch local water...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/data-center-water-use-closed-loop-cooling-power-generation-saskatchewan",
+      "image_url": null,
+      "pub_date": "Fri, 20 Nov 2026 11:58:00 +0000",
+      "author": "Munis Raza",
+      "categories": [
+        "AI and Robotics"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-20T12:31:44.841Z",
+      "created_at": "2026-11-20T12:31:44.841Z"
+    },
+    {
+      "id": 29551,
+      "source": "Interesting Engineering",
+      "title_en": "Scientists recreate a lifeless Earth, finding conditions suitable for habitability",
+      "description_en": "Despite life having greatly changed the Earth, it may have been able to remain habitable...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/science/scientists-lifeless-earth-conditions-habitability",
+      "image_url": null,
+      "pub_date": "Fri, 20 Nov 2026 11:30:00 +0000",
+      "author": "Kaushal Kishore",
+      "categories": [
+        "Science"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-20T12:31:44.841Z",
+      "created_at": "2026-11-20T12:31:44.841Z"
+    },
+    {
+      "id": 29552,
+      "source": "Interesting Engineering",
+      "title_en": "Electric aircraft reaches 17,200 feet on solid-state batteries with 64% charge left",
+      "description_en": "Heavy batteries have kept electric planes from flying higher, but things are moving forward to...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/innovation/electric-aircraft-reaches-17200-feet",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/UND-Chamber-Test-November-web.jpg",
+      "pub_date": "Fri, 20 Nov 2026 11:01:49 +0000",
+      "author": "Mrigakshi Dixit",
+      "categories": [
+        "Innovation"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-20T12:31:44.841Z",
+      "created_at": "2026-11-20T12:31:44.841Z"
+    },
+    {
+      "id": 29553,
+      "source": "Tom's Hardware",
+      "title_en": "MSI EdgeMesa N AI+ review — RTX Spark power comes to Windows on Arm desktops, but there are trade-offs",
+      "description_en": "MSI's EdgeMesa N AI+ brings Nvidia RTX Spark N1X power to a Windows-on-Arm mini PC with 128GB of unified memory, strong local AI performance, and the ability to game on the side. But its high $7,499 price isn't that much cheaper than more versatile DGX Spark systems.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/desktops/mini-pcs/msi-edgemesa-n-ai-plus-review",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/WPYDMgTLPyiFtgLo3Et3bn-1920-80.jpg",
+      "pub_date": "Fri, 20 Nov 2026 12:00:00 +0000",
+      "author": " Jeffrey Kampman ",
+      "categories": [
+        "Mini PCs",
+        "Desktops"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-20T12:31:45.598Z",
+      "created_at": "2026-11-20T12:31:45.598Z"
+    },
+    {
+      "id": 29554,
+      "source": "Tom's Hardware",
+      "title_en": "Power and cooling limits push 100,000+ accelerator AI clusters past single data centers",
+      "description_en": "Faster GPUs are no longer enough as power constraints, network congestion, and communication overhead force the industry to rethink how massive AI systems are built.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/supercomputers/power-and-cooling-limits-push-100-000-accelerator-ai-clusters-past-single-data-centers-google-cisco-and-marvell-target-scale-across-networking-across-regions",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/MQEF3FGDnEs6gC4KtkGjKG-1920-80.jpg",
+      "pub_date": "Fri, 20 Nov 2026 11:30:00 +0000",
+      "author": " Anton Shilov ",
+      "categories": [
+        "Supercomputers",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-20T12:31:45.598Z",
+      "created_at": "2026-11-20T12:31:45.598Z"
+    },
+    {
+      "id": 29555,
+      "source": "Tom's Hardware",
+      "title_en": "Redditor forced to bring desktop PC in checked luggage on US-to-UK flight with GPU still installed — GPU stayed installed and tempered glass didn't shatter",
+      "description_en": "A pissed traveler decided to check their desktop CPU after a check-in attendant refused to have it carried in the cabin, despite being historically allowed by the airline.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/desktops/gaming-pcs/redditor-puts-pc-into-checked-baggage-from-us-to-uk-flight-desktop-unit-miraculously-arrives-in-one-piece",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/ZVUfmduJvkhQ95gx3zpH4a-1920-80.png",
+      "pub_date": "Fri, 20 Nov 2026 11:00:00 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Gaming PCs",
+        "Desktops"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-20T12:31:45.598Z",
+      "created_at": "2026-11-20T12:31:45.598Z"
+    },
+    {
+      "id": 29556,
+      "source": "Tom's Hardware",
+      "title_en": "OpenAI helped AMD improve its upcoming flagship GPU design by 14% PPA — GPT models also helped Lisa Su's outfit boost its new CPUs",
+      "description_en": "OpenAI helped AMD improve its upcoming flagship GPU design by 14% PPA — GPT models also helping Lisa Su's outfit boost its new CPUs",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-helped-amd-improve-its-upcoming-flagship-gpu-design-by-14-percent-ppa-gpt-models-also-helping-lisa-sus-outfit-boost-its-new-cpus",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/yS3AgV3zrTm8EwpR26QH6k-1920-80.png",
+      "pub_date": "Fri, 20 Nov 2026 10:30:00 +0000",
+      "author": " Bruno Ferreira ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-20T12:31:45.598Z",
+      "created_at": "2026-11-20T12:31:45.598Z"
+    },
+    {
+      "id": 29557,
+      "source": "CNBC Tech",
+      "title_en": "The Tech Download: Anthropic charmed Wall Street. But one big uncertainty hangs over the business",
+      "description_en": "Access to the huge quantities of compute the company needs to continue developing and deploying models is a challenge for Anthropic to navigate.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/20/tech-download-anthropic-compute-access.html",
+      "image_url": null,
+      "pub_date": "Fri, 20 Nov 2026 12:00:02 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-20T12:31:45.606Z",
+      "created_at": "2026-11-20T12:31:45.606Z"
+    },
+    {
+      "id": 29558,
+      "source": "CNBC Tech",
+      "title_en": "Tech wreck drags Anthropic into the red on its second day of trading",
+      "description_en": "Nasdaq futures trade lower after steep declines extend across global tech stocks",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/20/tech-wreck-drags-anthropic-into-the-red-on-its-second-day-of-trading.html",
+      "image_url": null,
+      "pub_date": "Fri, 20 Nov 2026 11:26:37 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-20T12:31:45.606Z",
+      "created_at": "2026-11-20T12:31:45.606Z"
+    },
+    {
+      "id": 29559,
+      "source": "CNBC Tech",
+      "title_en": "Anthropic defies the odds, holding record IPO despite ‘massively disruptive’ market",
+      "description_en": "Anthropic faced a market selloff, raging anti-AI sentiment and a crisis at Nvidia in pulling off the largest IPO on record.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/20/anthropic-defies-odds-holding-ipo-despite-massively-disruptive-market.html",
+      "image_url": null,
+      "pub_date": "Fri, 20 Nov 2026 11:00:01 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-20T12:31:45.606Z",
+      "created_at": "2026-11-20T12:31:45.606Z"
+    },
+    {
+      "id": 29560,
+      "source": "XOR Journal (TG)",
+      "title_en": "Китайцы в ужасе от уровня блокировок в России. А это наша реальность 😭@xor_journal",
+      "description_en": "Китайцы в ужасе от уровня блокировок в России. А это наша реальность 😭@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10567",
+      "image_url": "https://cdn4.telesco.pe/file/rMVEl2tnPhylZuLxty-M2jsYuZ-AEytY98ExLiv9yt0FgGpnJsjH71FSrU_N-AWxJnmBVNbGTrw7lcJzLo3zkJc9JQaGrfxIPkbTa3Bqt9VoUtqiz9RoxztdWW3R_4nViNyIkUBEdRtoaygvrB7oOHTshOKOPvcpY7acNxnvUneBPiuYEc5_jwHD6aKOlROEWpGFcw8yXdLPbmIorblO2G7sjn0X3wVKyIQWdgKTx0K87njJqr9Ru3rdTqDl7IDmR0D41sK7cckODR524hub-U4TlPyg5vzoC42F9gnVtVk-pV_1mMF97ksLHz7UOubbnv1wVVqTfSncPNl_zwKCJQ.jpg",
+      "pub_date": "2026-11-20T10:18:49+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-20T12:31:48.434Z",
+      "created_at": "2026-11-20T12:31:48.434Z"
+    },
+    {
+      "id": 29561,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "✈️ В Северной Корее сделали национального ИИ-бота.Ассистент «Источник мудрости» готов рассказать «что такое ракета», но прямо велит не задавать лишних вопросов.«Можно задавать только вопросы, связанны",
+      "description_en": "✈️ В Северной Корее сделали национального ИИ-бота.Ассистент «Источник мудрости» готов рассказать «что такое ракета», но прямо велит не задавать лишних вопросов.«Можно задавать только вопросы, связанные с наукой и техникой. Не задавайте вопросы социально-политического содержания или некультурные вопросы. Пользователь несет полную ответственность за любые последствия использования системы в злонамеренных целях», — гласит предупреждение внизу экрана.На основе какой модели работает бот — неизвестно,",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3863",
+      "image_url": "https://cdn4.telesco.pe/file/hQMyrjvdbeMiWdVYlug_5yuWDMqE3lRWMxFppOZhKQpG6MCdxJGSPVXse94PKzOHtaPEyhGnun3HvrCm3n1MkguwyObDOJL-ynI0yqK7yLhrJ-2U4EH4m3knxGqZ5pBdThmWZzuMF5X3S-y3kHGbtBWohjs3UZOlXfMQTsZd0J_7zjDGxyJZ4ApGU3ViVJGNpRMuD6rKsXFwxQBkzZAQrQzE3Yxmb5J2Qf9FJfGXSFOzmdjFbB7XyV7_nsaywsLG0NrZ91N00W8rQTgWzT4hMcdTuBR7eKxKruhXA9T_XbnAcXStk8B8ceAPPIdmRqmw77YAOEJ9Jw9jCmdyirzb-A.jpg",
+      "pub_date": "2026-11-20T11:35:10+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-20T12:31:48.706Z",
+      "created_at": "2026-11-20T12:31:48.706Z"
+    },
+    {
+      "id": 29562,
+      "source": "Habr (TG)",
+      "title_en": "⚡ Новости к этому часубустануть канал 👉🛰 Спутников в небе над большинством городов теперь больше, чем видимых звёзд📖 За любую ссылку на «Википедию», которую вы оставляли когда‑либо в интернете, мог",
+      "description_en": "⚡ Новости к этому часубустануть канал 👉🛰 Спутников в небе над большинством городов теперь больше, чем видимых звёзд📖 За любую ссылку на «Википедию», которую вы оставляли когда‑либо в интернете, могут начать штрафовать📱 Вышел Gemini 4 Neon. Золотая середина, по мнению Google👾 «Яндекс 360» открыл доступ к своим сервисам внешним ИИ‑агентам🖥 Nvidia рассматривает главу Arm Рене Хааса в качестве кандидата на пост генерального директора [IMG]💻 В Microsoft признали документацию к Windows неполной",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/habr_com/70085",
+      "image_url": "https://cdn4.telesco.pe/file/JNbGqtCy-7NVURV-l5t3t5d8K0xqm6PlRfRPnsjaT7QDweSg4V7nPDyDhWXP77wALWLc-7rkJfIZ6Veu2fyuwNJu2zsRQ5dfDqGFvNQ3KwRVzy57xIpcyOcMjcoyaKQgiVzUSsYvBBjuLwaV6-5uvLKoDyyRMt9Qs0qE6sO_l_Sh8NduCrPmgWtzFz4r7yABvF95oYUqWeg1e3mtZe1jJAIKtjeBoJfn6kuaeSO9-E6TiWCfakIVy4Q-TTaA4PfqDH0l1jXiof0W1G9OCSOtV6Ik8Fx7eJE6-i70IlbhX7TPM6AYarwzWvLR53X94qe5HTiw6FMMq2ndGsQiOIhzcg.jpg",
+      "pub_date": "2026-11-20T10:39:35+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-20T12:31:48.737Z",
+      "created_at": "2026-11-20T12:31:48.737Z"
+    },
+    {
+      "id": 29563,
+      "source": "AI Post (TG)",
+      "title_en": "#AImemesSeeing thousands of people achieve generational wealth with the Anthropic IPOAI is coming 🐺",
+      "description_en": "#AImemesSeeing thousands of people achieve generational wealth with the Anthropic IPOAI is coming 🐺",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8845",
+      "image_url": "https://cdn4.telesco.pe/file/KwSrGNzg0kRJzbWOy1COac6NOH_YkxgWGyQs7mcw5VhwohD9Ehmiz36O61yIP__3bdim4Dhg1tNJRY8XxuFVzqaMHL9mVuV1uRqM9rQTXyXDuc3Dd-5HCs5K8xWi0EwfqtKHobYDf02h_GLdHxyAxyp4ZFheCuV56GvMq28AGX7RT7y5wftrnxqvLLF1xh7uQ-Vl81RrYQjXjf6E8y6CDIlPI65lHq6YKElkaHFJlKy5M4mmZno0qpTkLAhfQzxjCYVfII00riEfxLWCdQQtifIup_ao80l5EJWZ41L9txq9YJ3852pklWBTN2k0jfdx_IuR7FLsF1OOV-0-Yga0mw.jpg",
+      "pub_date": "2026-11-20T11:43:39+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-20T12:31:49.015Z",
+      "created_at": "2026-11-20T12:31:49.015Z"
+    },
+    {
+      "id": 29564,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 Washington approved AI chip sales to Tencent and AlibabaBloomberg reports that export data shows licenses going to two of China's biggest AI labs.• Alibaba builds Qwen• Tencent builds Hunyuan• Nvid",
+      "description_en": "🚨 Washington approved AI chip sales to Tencent and AlibabaBloomberg reports that export data shows licenses going to two of China's biggest AI labs.• Alibaba builds Qwen• Tencent builds Hunyuan• Nvidia recently halted all China sales, so it's unclear which licenses are still live",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/1076",
+      "image_url": null,
+      "pub_date": "2026-11-20T10:29:29+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-20T12:31:49.261Z",
+      "created_at": "2026-11-20T12:31:49.261Z"
     }
   ]
 }
