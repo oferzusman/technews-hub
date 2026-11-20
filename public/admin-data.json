@@ -1,9 +1,9 @@
 {
-  "total": 29515,
-  "translated": 29506,
+  "total": 29522,
+  "translated": 29513,
   "untranslated": 9,
-  "today": 16,
-  "week": 782,
+  "today": 23,
+  "week": 789,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 2604,
-      "translated": 2604,
+      "total": 2607,
+      "translated": 2607,
       "lastDate": "Wed, 30 Sep 2026 23:56:36 +0000"
     },
     {
@@ -25,8 +25,8 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 1915,
-      "translated": 1915,
+      "total": 1917,
+      "translated": 1917,
       "lastDate": "Wed, 30 Sep 2026 23:50:01 GMT"
     },
     {
@@ -49,14 +49,14 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 1479,
-      "translated": 1479,
+      "total": 1480,
+      "translated": 1480,
       "lastDate": "Wed, 30 Sep 2026 19:12:28 GMT"
     },
     {
       "name": "New Atlas",
-      "total": 1311,
-      "translated": 1311,
+      "total": 1312,
+      "translated": 1312,
       "lastDate": "Wed, 30 Sep 2026 22:56:52 GMT"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-11-20T02:19:34.931Z"
+  "generatedAt": "2026-11-20T03:56:56.450Z"
 }
