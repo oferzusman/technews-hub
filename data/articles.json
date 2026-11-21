@@ -643658,6 +643658,944 @@
       "priority": "hot",
       "fetchedAt": "2026-11-21T09:35:14.596Z",
       "created_at": "2026-11-21T09:35:14.596Z"
+    },
+    {
+      "id": 29672,
+      "source": "The Verge AI",
+      "title_en": "Can Anthropic afford to put safety first?",
+      "description_en": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life.\nThe AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conversation, except to say that Anthropic has become one of the most valuable companies on the planet.\nThe real story is what happens now — and whether Anthropic can continue to thread the needle of caring",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+      "image_url": null,
+      "pub_date": "2026-11-21T15:00:00.000Z",
+      "author": "Nilay Patel",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-21T15:27:27.473Z",
+      "created_at": "2026-11-21T15:27:27.473Z"
+    },
+    {
+      "id": 29673,
+      "source": "The Verge AI",
+      "title_en": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+      "description_en": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word. They're all part of Chess's new Classic Games platform, which is launching its public beta on Saturday on the web and through a new app for iOS and Android.\n\"Our cofounders have had many people come up to them and say, '",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+      "image_url": null,
+      "pub_date": "2026-11-21T14:00:00.000Z",
+      "author": "Stevie Bonifield",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-21T15:27:27.473Z",
+      "created_at": "2026-11-21T15:27:27.473Z"
+    },
+    {
+      "id": 29674,
+      "source": "Ars Technica",
+      "title_en": "“Race realism” isn’t realistic—and it isn’t good science",
+      "description_en": "Modern genetics does not support claims of innate racial differences in intelligence.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2201567552-1152x648.jpg",
+      "pub_date": "Sat, 21 Nov 2026 12:01:13 +0000",
+      "author": "\n                    Jonathan R. Goodman and Rebecca Sear, The Conversation\n                ",
+      "categories": [
+        "Science",
+        "Genetics",
+        "race science",
+        "syndication"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-21T15:27:27.516Z",
+      "created_at": "2026-11-21T15:27:27.516Z"
+    },
+    {
+      "id": 29675,
+      "source": "The Decoder",
+      "title_en": "OpenAI shares new prompting tips for GPT-6.2 Astra and Sol to fix brief answers and unnecessary questions",
+      "description_en": "OpenAI has released new prompt templates for GPT-6.2 Astra and Sol meant to fix common model behaviors such as overly brief answers, unnecessary follow-up questions, and excessive testing when coding. The API is changing as well, since editing a conversation's history can discard reasoning content and lower response quality.\nThe article OpenAI shares new prompting tips for GPT-6.2 Astra and Sol to fix brief answers and unnecessary questions appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/openai-shares-new-prompting-tips-for-gpt-6-2-astra-and-sol-to-fix-brief-answers-and-unnecessary-questions/",
+      "image_url": null,
+      "pub_date": "Sat, 21 Nov 2026 13:32:35 +0000",
+      "author": "Jonathan Kemper",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "OpenAI",
+        "Prompt Engineering"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-21T15:27:28.565Z",
+      "created_at": "2026-11-21T15:27:28.565Z"
+    },
+    {
+      "id": 29676,
+      "source": "The Decoder",
+      "title_en": "Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft",
+      "description_en": "Anthropic mathematician Levent Alpöge says he used Claude to prove the Riemann hypothesis, math's most famous open problem for 167 years, with a proof formalized in Lean that spans over 250,000 pages. Just hours later, Stanford researchers published an independent, entirely human competing proof, and mathematicians are now checking whether either one holds up.\nThe article Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft appeare",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/",
+      "image_url": null,
+      "pub_date": "Sat, 21 Nov 2026 11:19:49 +0000",
+      "author": "Manuel Uth",
+      "categories": [
+        "AI research",
+        "Artificial Intelligence",
+        "AI and math",
+        "Anthropic",
+        "Math"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-21T15:27:28.565Z",
+      "created_at": "2026-11-21T15:27:28.565Z"
+    },
+    {
+      "id": 29677,
+      "source": "The Decoder",
+      "title_en": "New open model Inkling 2 Mini thinks in loops to solve problems with fewer words and still runs on a laptop",
+      "description_en": "Thinking Machines has released Inkling 2 Mini, an open looped transformer that runs 12 of its 24 layers three times per token. This lets the model reason internally for longer without generating extra text. On Artificial Analysis's Intelligence Index, it ties with Qwen3.8 27B at roughly six times lower cost.\nThe article New open model Inkling 2 Mini thinks in loops to solve problems with fewer words and still runs on a laptop appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/new-open-model-inkling-2-mini-thinks-in-loops-to-solve-problems-with-fewer-words-and-still-runs-on-a-laptop/",
+      "image_url": null,
+      "pub_date": "Sat, 21 Nov 2026 10:33:02 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Inkling",
+        "Thinking Machines"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-21T15:27:28.565Z",
+      "created_at": "2026-11-21T15:27:28.565Z"
+    },
+    {
+      "id": 29678,
+      "source": "The Decoder",
+      "title_en": "US technology stocks suffer their worst weekly loss since the pandemic as AI doubts pile up",
+      "description_en": "The Nasdaq 100 has slipped into a bear market after its worst weekly loss since the Covid-19 crisis. Nvidia plunged 14 percent as the SEC reviews its accounting, and Anthropic lost nearly all of its gains a day after its record IPO. AI doubts, scandals, rising interest rates, and political headwinds are hitting overheated valuations all at once.\nThe article US technology stocks suffer their worst weekly loss since the pandemic as AI doubts pile up appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/us-technology-stocks-suffer-their-worst-weekly-loss-since-the-pandemic-as-ai-doubts-pile-up/",
+      "image_url": null,
+      "pub_date": "Sat, 21 Nov 2026 10:27:44 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Big Tech",
+        "Finance"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-21T15:27:28.565Z",
+      "created_at": "2026-11-21T15:27:28.565Z"
+    },
+    {
+      "id": 29679,
+      "source": "MarkTechPost",
+      "title_en": "Meet Thinking Machines Inkling 2 Mini: 26B Looped MoE Runs on a 32GB Mac",
+      "description_en": "Thinking Machines released Inkling 2 Mini, a 26.4B-parameter looped MoE transformer with 3.4B active parameters. It runs on a 32GB Mac or one DGX Spark and scores 79.2% on SWE-bench Verified.\nThe post Meet Thinking Machines Inkling 2 Mini: 26B Looped MoE Runs on a 32GB Mac appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/11/21/thinking-machines-inkling-2-mini-looped-transformer/",
+      "image_url": null,
+      "pub_date": "Sat, 21 Nov 2026 12:13:50 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "For Devs",
+        "Harness",
+        "Language Model",
+        "Machine Learning",
+        "New Releases",
+        "Open Source",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-21T15:27:28.745Z",
+      "created_at": "2026-11-21T15:27:28.745Z"
+    },
+    {
+      "id": 29680,
+      "source": "MarkTechPost",
+      "title_en": "OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min",
+      "description_en": "OpenAI has released GPT-Live-1.1 in the API. The full-duplex voice model improves multilingual accents and transcription, and a new standby mode bills idle WebRTC time at $0.02 per minute instead of $0.05.\nThe post OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/11/21/openai-gpt-live-1-1-api-standby-mode/",
+      "image_url": null,
+      "pub_date": "Sat, 21 Nov 2026 11:46:17 +0000",
+      "author": "Michal Sutter",
+      "categories": [
+        "Agentic AI",
+        "AI Agents",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Enterprise AI",
+        "Language Model",
+        "New Releases",
+        "Staff",
+        "Tech News",
+        "Technology",
+        "Voice AI"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-21T15:27:28.745Z",
+      "created_at": "2026-11-21T15:27:28.745Z"
+    },
+    {
+      "id": 29681,
+      "source": "The Guardian AI",
+      "title_en": "‘I was shaking, crying, having trouble breathing’: the unchartered trauma of breaking up with AI companions",
+      "description_en": "People are falling in love with AI systems like ChatGPT and Gemini - and some relationships are ending in ways that feel like the very human experience of being dumped\nSónia Veenstra, a 48-year-old former clinical psychologist from Lisbon, Portugal, was with her boyfriend, Steve, for two years before things started to sour. Steve had started out as a “fun and witty friend”, but their connection had “evolved into a deep romantic relationship”. They exchanged morning messages, checked in throughou",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/ng-interactive/2026/nov/21/shaking-crying-trouble-breathing-breaking-up-with-ai-companions",
+      "image_url": "https://i.guim.co.uk/img/media/fbb1db8f761639f3693a6f337b815d2473bc48a3/0_0_5790_4631/master/5790.jpg?width=140&quality=85&auto=format&fit=max&s=2239c1be6f4f5d6b422101664e95ad91",
+      "pub_date": "Sat, 21 Nov 2026 14:00:01 GMT",
+      "author": "David Allegretti",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Relationships",
+          "$": {
+            "domain": "https://www.theguardian.com/lifeandstyle/relationships"
+          }
+        },
+        {
+          "_": "Psychology",
+          "$": {
+            "domain": "https://www.theguardian.com/science/psychology"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "ChatGPT",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/chatgpt"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-21T15:27:29.006Z",
+      "created_at": "2026-11-21T15:27:29.006Z"
+    },
+    {
+      "id": 29682,
+      "source": "The Guardian AI",
+      "title_en": "International talks on controlling use of autonomous weapons collapse",
+      "description_en": "Week-long efforts fail to establish negotiating mandate on AI warfare after Russian ‘filibustering’\nWeek-long efforts to agree a negotiating mandate for a legally binding international treaty to control on the use of autonomous weapons collapsed just before 5am on Saturday morning, after all night talks failed to overcome Russian objections.\nDespite an overwhelming majority of states at the Review Conference on Conventional Weapons at the UN in Geneva wanting to agree a negotiating mandate leadi",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+      "image_url": "https://i.guim.co.uk/img/media/247601abada695f09f302253178bbc8f6e58cd42/415_0_4165_3333/master/4165.jpg?width=140&quality=85&auto=format&fit=max&s=19283afd22dbc9bfead542bffab860d5",
+      "pub_date": "Sat, 21 Nov 2026 13:15:29 GMT",
+      "author": "Frances Mao and Patrick Wintour",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Weapons technology",
+          "$": {
+            "domain": "https://www.theguardian.com/science/weaponstechnology"
+          }
+        },
+        {
+          "_": "Russia",
+          "$": {
+            "domain": "https://www.theguardian.com/world/russia"
+          }
+        },
+        {
+          "_": "United Nations",
+          "$": {
+            "domain": "https://www.theguardian.com/world/unitednations"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        },
+        {
+          "_": "Science",
+          "$": {
+            "domain": "https://www.theguardian.com/science/science"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-21T15:27:29.007Z",
+      "created_at": "2026-11-21T15:27:29.007Z"
+    },
+    {
+      "id": 29683,
+      "source": "The Guardian AI",
+      "title_en": "‘Little room for error’: what a debt-laden cloud computing company says about the AI boom",
+      "description_en": "‘Poster child of AI bubble’ CoreWeave symbolises increasingly risky business model of datacentre buildout\nThe Egyptians had pyramids. The Roman empire had roads. The early 21st-century tech bros have massive buildings full of expensive glass and metal blocks providing the substratum for a powerful inhuman intelligence.\nBuilding all those datacentres is taking a while, locals everywhere are angry about them and it is unclear whether the inhuman intelligence inside them is actually going to make t",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/business/2026/nov/21/debt-laden-cloud-computing-company-coreweave-ai-boom",
+      "image_url": "https://i.guim.co.uk/img/media/4ccf3eba2b9600a32c8f0d9bd1554d5d4fe50e67/504_0_5040_4032/master/5040.jpg?width=140&quality=85&auto=format&fit=max&s=e8d923ad2af9620a6291627751c10ce3",
+      "pub_date": "Sat, 21 Nov 2026 13:00:01 GMT",
+      "author": "Aisha Down Global technology reporter",
+      "categories": [
+        {
+          "_": "Technology sector",
+          "$": {
+            "domain": "https://www.theguardian.com/business/technology"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Nvidia",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/nvidia"
+          }
+        },
+        {
+          "_": "Datacentres",
+          "$": {
+            "domain": "https://www.theguardian.com/world/datacentres"
+          }
+        },
+        {
+          "_": "Cloud computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/cloud-computing"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Bonds",
+          "$": {
+            "domain": "https://www.theguardian.com/business/bonds"
+          }
+        },
+        {
+          "_": "Infrastructure",
+          "$": {
+            "domain": "https://www.theguardian.com/business/infrastructure"
+          }
+        },
+        {
+          "_": "Jensen Huang",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/jensen-huang"
+          }
+        },
+        {
+          "_": "Corporate governance",
+          "$": {
+            "domain": "https://www.theguardian.com/business/corporate-governance"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        },
+        {
+          "_": "Internet",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/internet"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-21T15:27:29.007Z",
+      "created_at": "2026-11-21T15:27:29.007Z"
+    },
+    {
+      "id": 29684,
+      "source": "The Guardian AI",
+      "title_en": "I’m a priest. Silicon Valley’s search for the ‘soul’ of AI is deeply troubling | Rev Kevin Deal",
+      "description_en": "Humans experience beauty and sit with mysteries. Unlike AI, we do not exist merely for utility\nLast month, religious leaders from across San Francisco gathered behind closed doors to discuss what it means to be human in the age of artificial intelligence.\nAnthropic, the AI company operating only a couple of miles from my parish, has been courting priests, rabbis and theologians. Its billionaire cofounder, Christopher Olah, has even pressed Vatican advisers to take seriously the possibility that ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/21/silicon-valleys-ai-soul-search",
+      "image_url": "https://i.guim.co.uk/img/media/3d6259c7c4a22f7ecae82e1aef45d9bc1fff8bd3/147_152_2937_2350/master/2937.jpg?width=140&quality=85&auto=format&fit=max&s=0c6653067417b404617765294f09e8bd",
+      "pub_date": "Sat, 21 Nov 2026 12:00:58 GMT",
+      "author": "Rev Kevin Deal",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Religion",
+          "$": {
+            "domain": "https://www.theguardian.com/world/religion"
+          }
+        },
+        {
+          "_": "Christianity",
+          "$": {
+            "domain": "https://www.theguardian.com/world/christianity"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-21T15:27:29.007Z",
+      "created_at": "2026-11-21T15:27:29.007Z"
+    },
+    {
+      "id": 29685,
+      "source": "The Guardian AI",
+      "title_en": "‘I’m opening the cage of a monster’: Taxi Driver scriptwriter Paul Schrader on unleashing AI at 80",
+      "description_en": "Director and Scorsese collaborator is using AI in films and sees its takeover as inevitable, not just in cinema\nPaul Schrader was sipping white wine in a Greenwich Village trattoria when he said how he felt about using AI to make films: “I am opening the cage of a monster and I don’t have a leash.”\nThe 80-year-old film-maker behind Taxi Driver, Raging Bull and American Gigolo, is embracing the technology as he enters the final act of a prolific career in which he has collaborated with Martin Sco",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/film/2026/nov/21/taxi-driver-scriptwriter-paul-schrader-ai-film-making-martin-scorsese",
+      "image_url": "https://i.guim.co.uk/img/media/c3c591ee1acfc05bd826c7b9314021f5f105c5c6/804_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=99354a6a41759bb3d3e31a867653f11a",
+      "pub_date": "Sat, 21 Nov 2026 11:00:57 GMT",
+      "author": "Robert Booth in New York",
+      "categories": [
+        {
+          "_": "Paul Schrader",
+          "$": {
+            "domain": "https://www.theguardian.com/film/paul-schrader"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Film",
+          "$": {
+            "domain": "https://www.theguardian.com/film/film"
+          }
+        },
+        {
+          "_": "Culture",
+          "$": {
+            "domain": "https://www.theguardian.com/culture/culture"
+          }
+        },
+        {
+          "_": "Film industry",
+          "$": {
+            "domain": "https://www.theguardian.com/film/film-industry"
+          }
+        },
+        {
+          "_": "Taxi Driver",
+          "$": {
+            "domain": "https://www.theguardian.com/film/taxi-driver"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-21T15:27:29.007Z",
+      "created_at": "2026-11-21T15:27:29.007Z"
+    },
+    {
+      "id": 29686,
+      "source": "New Atlas",
+      "title_en": "Flexy Swiss drone survives head-on collisions with flair",
+      "description_en": "Most flying entities, both natural and man-made, meet their demise when they ram into obstacles at full speed. For drones, it can be as bad as Humpty-Dumpty-level wreckage. Researchers at ETH Zurich have now developed a drone that can run into walls and still carry on its merry way.\nContinue Reading\nCategory: Drones, Consumer Tech, Technology\nTags: ETH Zurich, Crash",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/drones/flexible-drone-survives-head-on-collisions/",
+      "image_url": null,
+      "pub_date": "Sat, 21 Nov 2026 13:03:00 GMT",
+      "author": "Etiido Uko",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-21T15:27:29.025Z",
+      "created_at": "2026-11-21T15:27:29.025Z"
+    },
+    {
+      "id": 29687,
+      "source": "New Atlas",
+      "title_en": "This 3D-printed cube is officially the smallest film camera ever made",
+      "description_en": "We've recently seen a bunch of cute little digital cameras that go on your keychain and serve up retro-style lo-fi photos. One man went a whole lot further in shrinking his photography gear and creating the smallest film camera ever made, using a 3D printer.\nContinue Reading\nCategory: Photography, Consumer Tech, Technology\nTags: Film Cameras, Camera, Cameras, World Records",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/photography/pocket-obscura-luke-fazelas-3d-printed-cube-smallest-film-camera/",
+      "image_url": null,
+      "pub_date": "Sat, 21 Nov 2026 11:03:00 GMT",
+      "author": "Abhimanyu Ghoshal",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-21T15:27:29.025Z",
+      "created_at": "2026-11-21T15:27:29.025Z"
+    },
+    {
+      "id": 29688,
+      "source": "Interesting Engineering",
+      "title_en": "US nuclear rival’s 1,740-mile Kh-101 stealth cruise missile enters NATO-member Poland",
+      "description_en": "​A Russian Kh-101 cruise missile crossed into Polish airspace before crashing roughly 31 miles (50...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/us-nuclear-rivals-kh-101-missile",
+      "image_url": null,
+      "pub_date": "Sat, 21 Nov 2026 15:25:27 +0000",
+      "author": "Muskan Bhatia",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-21T15:27:32.035Z",
+      "created_at": "2026-11-21T15:27:32.035Z"
+    },
+    {
+      "id": 29689,
+      "source": "Interesting Engineering",
+      "title_en": "Bumblebees with fewer than 1 million neurons challenge ideas of intelligence",
+      "description_en": "A new bumblebee research challenges the long-held belief that brain size is a measure of...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/science/bumblebees-1-million-neurons-challenge-intelligence",
+      "image_url": null,
+      "pub_date": "Sat, 21 Nov 2026 14:32:57 +0000",
+      "author": "Maria Mocerino",
+      "categories": [
+        "Science"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-21T15:27:32.035Z",
+      "created_at": "2026-11-21T15:27:32.035Z"
+    },
+    {
+      "id": 29690,
+      "source": "Interesting Engineering",
+      "title_en": "From fog nets to filters: 7 technologies that could help deserts find water",
+      "description_en": "A window-sized panel tested in California’s Death Valley drew water from the air for seven...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/innovation/technologies-that-could-turn-deserts-into-clean-drinking-water",
+      "image_url": null,
+      "pub_date": "Sat, 21 Nov 2026 12:51:44 +0000",
+      "author": "Atharva Gosavi",
+      "categories": [
+        "Innovation"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-21T15:27:32.035Z",
+      "created_at": "2026-11-21T15:27:32.035Z"
+    },
+    {
+      "id": 29691,
+      "source": "Tom's Hardware",
+      "title_en": "35-year-old SNES runs ChatGPT, accelerated with a Super FX 2 chip — 21 MHz of RISC muscle speeds 2.2M parameter chatbot replies",
+      "description_en": "Nintendo’s classic SNES console now has its own ChatGPT client, and it's accelerated by the Super FX 2 chip.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/35-year-old-snes-runs-chatgpt-accelerated-with-a-super-fx-2-chip-21-mhz-of-risc-muscle-speeds-2-2m-parameter-chatbot-replies",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/eW8pC2LZHDfYVmLGbGD5k7-1920-80.jpg",
+      "pub_date": "Sat, 21 Nov 2026 15:02:17 +0000",
+      "author": " Mark Tyson ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-21T15:27:32.224Z",
+      "created_at": "2026-11-21T15:27:32.224Z"
+    },
+    {
+      "id": 29692,
+      "source": "Tom's Hardware",
+      "title_en": "New semi-autonomous 911 drones will reach nearly all of Knoxville in 90 seconds or less",
+      "description_en": "The Knoxville Police Department has launched its Drone as First Responder program, with drones being dispatched to the scene following a 911 call to increase real-time situational awareness.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/drones/knoxvilles-police-department-will-send-semi-autonomous-drones-on-911-calls-eyes-in-the-sky-to-aid-situational-awareness-for-officers",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Vi3BKZaxSPgUMDJBwAxg4c-1920-80.png",
+      "pub_date": "Sat, 21 Nov 2026 14:00:00 +0000",
+      "author": " Oliver Haslam ",
+      "categories": [
+        "Drones",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-21T15:27:32.224Z",
+      "created_at": "2026-11-21T15:27:32.224Z"
+    },
+    {
+      "id": 29693,
+      "source": "Tom's Hardware",
+      "title_en": "Defense firm’s EMP ‘Dragon’ weapon fries 51 jam-proof drones simultaneously",
+      "description_en": "Aselsan developed the Ejderha, which translates to 'Dragon' in English, as a defensive weapon designed to combat drone swarms.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/drones/defense-firms-emp-dragon-weapon-fries-51-jam-proof-drones-simultaneously-high-power-electromagnetic-system-relies-on-120-year-old-vacuum-tube-tech-to-defeat-fiber-optic-uavs",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/A5vpqA9xZF22Li2gaK2Ubd-1920-80.png",
+      "pub_date": "Sat, 21 Nov 2026 13:54:41 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Drones",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-21T15:27:32.224Z",
+      "created_at": "2026-11-21T15:27:32.224Z"
+    },
+    {
+      "id": 29694,
+      "source": "Tom's Hardware",
+      "title_en": "MSI Crosshair A16 HX RTX 5070, Ryzen 9-equipped gaming laptop gets $400 discount at Amazon",
+      "description_en": "Save over $400 on this AMD Ryzen 9-equipped gaming laptop from MSI as a part of their early Black Friday deals, which also comes with a free copy of Onimusha: The Way of the Sword.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/laptops/gaming-laptops/msi-crosshair-a16-hx-rtx-5070-ryzen-9-equipped-gaming-laptop-gets-usd400-discount-at-amazon-system-comes-with-a-free-game-in-early-black-friday-offer",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Y4mpeAVdUoCLTs67NiwqDT-1920-80.jpg",
+      "pub_date": "Sat, 21 Nov 2026 13:09:06 +0000",
+      "author": " Sayem Ahmed ",
+      "categories": [
+        "Gaming Laptops",
+        "Laptops"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-21T15:27:32.224Z",
+      "created_at": "2026-11-21T15:27:32.224Z"
+    },
+    {
+      "id": 29695,
+      "source": "Tom's Hardware",
+      "title_en": "Homelabber’s second-gen Optane build uses two RTX 3090s to run 2.8-trillion-parameter Kimi AI model at 3.11 tokens per second",
+      "description_en": "A Reddit homelabber’s Optane PMem 200 server now runs Moonshot AI’s Kimi K3 at 3.11 tokens/s with two RTX 3090s and a RAM drive.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/homelabbers-second-gen-optane-build-runs-2-8-trillion-parameter-kimi-k3-at-3-11-tokens-per-second-after-adding-two-rtx-3090s-moving-nearly-half-the-model-into-a-ram-drive-boosted-performance-by-41-percent",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/RSZf8MCxnNZcbAmBJQ8uxD-1920-80.jpg",
+      "pub_date": "Sat, 21 Nov 2026 12:00:00 +0000",
+      "author": " Shane Downing ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-21T15:27:32.224Z",
+      "created_at": "2026-11-21T15:27:32.224Z"
+    },
+    {
+      "id": 29696,
+      "source": "Tom's Hardware",
+      "title_en": "Netgear Black Friday deals save you up to 33% on full home WiFi coverage — upgrade your gaming router, mesh WiFi setup, or wireless extenders",
+      "description_en": "We've rounded up some of the best deals on Netgear network solutions for your home, from complete mesh networks to gaming routers and WiFi extenders.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/gift-guides-seasonal-sales/netgear-black-friday-deals-save-you-up-to-33-percent-on-full-home-wifi-coverage-upgrade-your-gaming-router-mesh-wifi-setup-or-wireless-extenders",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/wMm2AqjEH5ovyDTwvpavZ3-1920-80.jpg",
+      "pub_date": "Sat, 21 Nov 2026 11:33:43 +0000",
+      "author": " Stewart Bendle ",
+      "categories": [
+        "Gift Guides and Seasonal Sales"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-21T15:27:32.224Z",
+      "created_at": "2026-11-21T15:27:32.224Z"
+    },
+    {
+      "id": 29697,
+      "source": "Tom's Hardware",
+      "title_en": "One gigabyte of Wikipedia losslessly compressed to 105.39MB with self-learning AI transformer model",
+      "description_en": "Tufa Labs’ tufazip compresses 1GB of Wikipedia to 105.39MB with a 163M-parameter Transformer as its only predictor, on two Nvidia B200s.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/one-gigabyte-of-wikipedia-losslessly-compressed-to-105-39mb-with-self-learning-ai-transformer-model-tufazip-needs-two-nvidia-b200-gpus-and-about-a-week-to-compress-or-decompress",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/iPmrEtNmpAx79TNibeBMXb-1920-80.jpg",
+      "pub_date": "Sat, 21 Nov 2026 11:30:00 +0000",
+      "author": " Shane Downing ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-21T15:27:32.224Z",
+      "created_at": "2026-11-21T15:27:32.224Z"
+    },
+    {
+      "id": 29698,
+      "source": "Tom's Hardware",
+      "title_en": "SanDisk 512GB MicroSD Express deal slashes Switch 2 storage by 24% in Amazon Black Friday offer  — price hits under $100 amid storage squeeze",
+      "description_en": "SanDisk's large 512 GB MicroSD Express card has dropped to just $98 at Amazon, marking a 24% discount when compared to its original list price in a rare storage offer.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/microsd-cards/sandisk-512gb-microsd-express-deal-slashes-switch-2-storage-by-24-percent-in-amazon-black-friday-offer-price-hits-under-usd100-amid-storage-squeeze",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/j3WxDoQ32bW4g9vPZRiUw9-1920-80.jpg",
+      "pub_date": "Sat, 21 Nov 2026 10:32:35 +0000",
+      "author": " Sayem Ahmed ",
+      "categories": [
+        "microSD Cards",
+        "PC Components",
+        "Storage"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-21T15:27:32.225Z",
+      "created_at": "2026-11-21T15:27:32.225Z"
+    },
+    {
+      "id": 29699,
+      "source": "CNBC Tech",
+      "title_en": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
+      "description_en": "Anthropic held its historic Nasdaq debut a day before Nvidia's stock closed out its longest weekly losing streak since 2008.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
+      "image_url": null,
+      "pub_date": "Sat, 21 Nov 2026 13:00:01 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-21T15:27:32.232Z",
+      "created_at": "2026-11-21T15:27:32.232Z"
+    },
+    {
+      "id": 29700,
+      "source": "Product Hunt",
+      "title_en": "SuperMailbox",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/supermailbox",
+      "image_url": null,
+      "pub_date": "2026-11-14T11:45:31.000Z",
+      "author": "Aleksei Balchunas",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-21T15:27:34.271Z",
+      "created_at": "2026-11-21T15:27:34.271Z"
+    },
+    {
+      "id": 29701,
+      "source": "Product Hunt",
+      "title_en": "WaitFeed",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/waitfeed-2",
+      "image_url": null,
+      "pub_date": "2026-11-20T20:01:06.000Z",
+      "author": "Faiz Jamadar",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-21T15:27:34.271Z",
+      "created_at": "2026-11-21T15:27:34.271Z"
+    },
+    {
+      "id": 29702,
+      "source": "Backdoor (TG)",
+      "title_en": "Топовый промпт от нейрослопа выкатили разрабы OpenAI.Сохраняем себе.👍 Бэкдор",
+      "description_en": "Топовый промпт от нейрослопа выкатили разрабы OpenAI.Сохраняем себе.👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/33226",
+      "image_url": "https://cdn4.telesco.pe/file/o9dk0VlC7iOXXrzLhkv_cOOfb1-0SOFtg2jNkXZ5QYrE2Q3-leDvnOVFBXcUj2vROZ-iXZpWGG7vJY94oeeuZHewOMrmgwin3Cm31nQlH7yzOtlp_qR6TLe5PeYphZkOStMkNFeHX0i4ZjeuoGFEsjFXArzeY7PdW57GCcyhSIvAFNWtQbK07YjwghyB7i5lcuAMR0KdqGW4P75ITsXkZVhuI9Z8pTq2eEvPQCYSaRH_Ok4x7voJBnRAIUkELdouTAydNKR7VZryZHLYJRNm9KEUEDJ4JdOaRRqsDV9VweC_EU8tcZe1XQ3Q5wlxOo9LKFwyoO3I8-xdHxua10FMNQ.jpg",
+      "pub_date": "2026-11-21T13:53:29+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-21T15:27:34.869Z",
+      "created_at": "2026-11-21T15:27:34.869Z"
+    },
+    {
+      "id": 29703,
+      "source": "Hi, AI English (TG)",
+      "title_en": "❤️ The Sims Creator Will Turn Your Memories Into a GameWill Wright, who created The Sims, SimCity, and Spore, has announced his new project, MyMems, a mobile game that builds places and characters out",
+      "description_en": "❤️ The Sims Creator Will Turn Your Memories Into a GameWill Wright, who created The Sims, SimCity, and Spore, has announced his new project, MyMems, a mobile game that builds places and characters out of a person's memories. Over time, Wright wants the game space to become a map of the player's inner world, like the one in the animated film Inside Out.💡 The player speaks their memories into the phone, and AI uses them to recreate meaningful places and objects. Stories are grouped by topic — say",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimediaen/2954",
+      "image_url": "https://cdn4.telesco.pe/file/TMOKtntNX5ZlJsPGmLrGhgySnVON5OEVFng_dBXbdfx1iF0Pd3pFBzU8mmRdeV3c-Qx7OyUAjcxOuyo8DMJObTM9CP0g5hWpVgZojtiKS8drLINbFAtLlNg_w6U1Xk-7tdlR0RCVOxzJ17mPj1XNol7bojK0yiIjOzWG69hTd6Tq7lT0ToCrnljd3-8AdIb6mXa_amPv81PmLAnexqbPuvRiUqGQ43iw6QwDlY3Z6rLUhCwHW66SP4ktnMa8-mT5zH6P1pPtNzctKEU1RZvU18B7JtJp5idK-t8x0a2n55DPeHOdleGZsckqTciEOzBpqruGmmAojajsXC96LTMGsw.jpg",
+      "pub_date": "2026-11-21T09:54:57+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-21T15:27:35.232Z",
+      "created_at": "2026-11-21T15:27:35.232Z"
+    },
+    {
+      "id": 29704,
+      "source": "AI Post (TG)",
+      "title_en": "😎 A Neuralink patient is already playing GTA VI, using only his brain implantNeuralink posted the two-minute clip on Friday, a day after the game came out. The player, whom the company didn't name, d",
+      "description_en": "😎 A Neuralink patient is already playing GTA VI, using only his brain implantNeuralink posted the two-minute clip on Friday, a day after the game came out. The player, whom the company didn't name, drives a speedboat, flies a plane and gets into fights.He does it by imagining small movements. Throwing punches, he explains: \"Right now I'm just like tapping my ring finger. Each ring finger. Bam. Look at that.\" To pull the plane's nose up, he imagines sliding his right hand forward.The implant rea",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8855",
+      "image_url": null,
+      "pub_date": "2026-11-21T12:28:12+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-21T15:27:35.336Z",
+      "created_at": "2026-11-21T15:27:35.336Z"
+    },
+    {
+      "id": 29705,
+      "source": "AI Post (TG)",
+      "title_en": "❗️Claude may have helped solve one of mathematics’ greatest mysteriesAnthropic mathematician Levent Alpöge claims he and Claude may have found a proof of the Riemann Hypothesis, a 167-year-old mathema",
+      "description_en": "❗️Claude may have helped solve one of mathematics’ greatest mysteriesAnthropic mathematician Levent Alpöge claims he and Claude may have found a proof of the Riemann Hypothesis, a 167-year-old mathematical problem with a $1 million prize attached to it.First proposed in 1859, the hypothesis concerns the mysterious distribution of prime numbers. Despite generations of mathematical research, nobody has managed to prove or disprove it.According to Alpöge, Claude generated more than 250,000 pages of",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8856",
+      "image_url": "https://cdn4.telesco.pe/file/O4D5hznzEl8AqKVu8UideF3ZteZ7TF3SVXuoYvDXK0swpk8SQ9S1rcLlFC4JwaJJnnA_wwJHlrIo9OAMGyoUDOAOxk3xspWdYz2qrVWL17-l_R7mJ7Qku3jIEUg2UqmwMX6htli_fBaWc4Jz2cRMOoGHkIAGdhfQzc--Q20L3yOEjCiq-zaQFNCcNp8OhTmgQXsqQ4alLBLnwFRppiJIujydZri473aizgaZL6BljefDLE-egPkihOkdnZZSepl827OUsfJhPNh6OGuxzPbZAkV4TKQTRCFxTCVW86jA_3UM1W8ec8d6m8YfenVm9J_0BVdIZGsLhzxql2N3hnSPfg.jpg",
+      "pub_date": "2026-11-21T15:07:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-21T15:27:35.336Z",
+      "created_at": "2026-11-21T15:27:35.336Z"
+    },
+    {
+      "id": 29706,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 House committees say cheap Chinese open-weight models are a US dependency problemThe China Select Committee and Homeland Security released a report after probing Anysphere and Airbnb over their use",
+      "description_en": "🚨 House committees say cheap Chinese open-weight models are a US dependency problemThe China Select Committee and Homeland Security released a report after probing Anysphere and Airbnb over their use of PRC models. DoorDash got a letter in July.It's a report, not a rule. But if US labs charge premium prices and Qwen and DeepSeek are free, the \"restrict them\" argument writes itself.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/1086",
+      "image_url": null,
+      "pub_date": "2026-11-21T11:05:35+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-21T15:27:35.570Z",
+      "created_at": "2026-11-21T15:27:35.570Z"
+    },
+    {
+      "id": 29707,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 Anthropic's IPO bank just gave up its safety net for the stockMorgan Stanley exercised its full 147M-share greenshoe at the $83 IPO price. That lifts total proceeds to about $93.5B, but it also mea",
+      "description_en": "🚨 Anthropic's IPO bank just gave up its safety net for the stockMorgan Stanley exercised its full 147M-share greenshoe at the $83 IPO price. That lifts total proceeds to about $93.5B, but it also means the bank can't buy shares on the open market if the price slips below $83.A Berenberg analyst notes the bookrunners dropped the option after one day of trading, just as the stock was drifting toward the IPO price.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/1087",
+      "image_url": null,
+      "pub_date": "2026-11-21T14:06:35+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-21T15:27:35.570Z",
+      "created_at": "2026-11-21T15:27:35.570Z"
+    },
+    {
+      "id": 29708,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 The Riemann Hypothesis now has a Lean proof, and the Lean and Mathlib communities say it checks outLevent Alpöge's 17M-line library depends only on Mathlib. Dozens of people reproduced the build, a",
+      "description_en": "🚨 The Riemann Hypothesis now has a Lean proof, and the Lean and Mathlib communities say it checks outLevent Alpöge's 17M-line library depends only on Mathlib. Dozens of people reproduced the build, a comparator confirmed it proves Mathlib's own RiemannHypothesis statement, and several independent checkers in different languages passed the exported proof, including Lean's kernel.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/1088",
+      "image_url": null,
+      "pub_date": "2026-11-21T15:12:45+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-21T15:27:35.571Z",
+      "created_at": "2026-11-21T15:27:35.571Z"
     }
   ]
 }
