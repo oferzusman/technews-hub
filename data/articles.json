@@ -644967,40 +644967,6 @@
       "priority": "batch",
       "fetchedAt": "2026-11-21T20:59:51.857Z",
       "created_at": "2026-11-21T20:59:51.857Z"
-    },
-    {
-      "id": 29724,
-      "source": "XOR Journal (TG)",
-      "title_en": "А ведь вас предупреждали 😂@xor_journal",
-      "description_en": "А ведь вас предупреждали 😂@xor_journal",
-      "title_he": null,
-      "description_he": null,
-      "link": "https://t.me/xor_journal/10576",
-      "image_url": null,
-      "pub_date": "2026-11-21T21:15:02+00:00",
-      "author": null,
-      "categories": [],
-      "translated": false,
-      "priority": "hot",
-      "fetchedAt": "2026-11-21T21:48:17.167Z",
-      "created_at": "2026-11-21T21:48:17.167Z"
-    },
-    {
-      "id": 29725,
-      "source": "Prompt AI News (TG)",
-      "title_en": "🤖 Stripe's new evals: coding agents score 78.1% on Stripe integrations, but only 29.4% on strict passStripe ran 69 scenarios on 14 model and harness pairs. Agents lean on older APIs from their traini",
-      "description_en": "🤖 Stripe's new evals: coding agents score 78.1% on Stripe integrations, but only 29.4% on strict passStripe ran 69 scenarios on 14 model and harness pairs. Agents lean on older APIs from their training data, and they ship code that's almost right. Opus 5.5 checks that a payment succeeded but not whether the order was refunded, so it can ship refunded or disputed orders. The Stripe plugin lifted every agent by 3 to 8 points and cut web searches 96%.Almost correct is how money gets lost.",
-      "title_he": null,
-      "description_he": null,
-      "link": "https://t.me/prompt/1090",
-      "image_url": null,
-      "pub_date": "2026-11-21T21:14:35+00:00",
-      "author": null,
-      "categories": [],
-      "translated": false,
-      "priority": "hot",
-      "fetchedAt": "2026-11-21T21:48:17.873Z",
-      "created_at": "2026-11-21T21:48:17.873Z"
     }
   ]
 }
