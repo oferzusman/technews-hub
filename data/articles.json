@@ -643584,6 +643584,80 @@
       "priority": "hot",
       "fetchedAt": "2026-11-21T08:56:14.230Z",
       "created_at": "2026-11-21T08:56:14.230Z"
+    },
+    {
+      "id": 29668,
+      "source": "The Decoder",
+      "title_en": "Bytedance argues most AI training phases are unnecessary and backs it up with a competitive open model",
+      "description_en": "Bytedance and several US universities introduce Axion 1.0, an AI agent that rivals top commercial models from OpenAI and Anthropic on benchmarks after just three training phases. The researchers attribute the gains to carefully curated training data rather than ever more training steps. The model, data, and code are freely available.\nThe article Bytedance argues most AI training phases are unnecessary and backs it up with a competitive open model appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/bytedance-argues-most-ai-training-phases-are-unnecessary-and-backs-it-up-with-a-competitive-open-model/",
+      "image_url": null,
+      "pub_date": "Sat, 21 Nov 2026 09:17:24 +0000",
+      "author": "Jonathan Kemper",
+      "categories": [
+        "AI research",
+        "Artificial Intelligence",
+        "ByteDance"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-21T09:35:10.524Z",
+      "created_at": "2026-11-21T09:35:10.524Z"
+    },
+    {
+      "id": 29669,
+      "source": "Interesting Engineering",
+      "title_en": "Chinese hybrid SUV model that towed 180-ton jumbo jet now faces suspension failures",
+      "description_en": "Chinese owners of BYD’s Denza B5 (Bao 5) have reported broken half-shafts and rear suspension...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/transportation/chinese-suv-towed-180-ton-jet-failure",
+      "image_url": null,
+      "pub_date": "Sat, 21 Nov 2026 09:24:08 +0000",
+      "author": "Christopher McFadden",
+      "categories": [
+        "Transportation"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-21T09:35:12.570Z",
+      "created_at": "2026-11-21T09:35:12.570Z"
+    },
+    {
+      "id": 29670,
+      "source": "XOR Journal (TG)",
+      "title_en": "Вся суть ИИ внедрения 😆@xor_journal",
+      "description_en": "Вся суть ИИ внедрения 😆@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10574",
+      "image_url": "https://cdn4.telesco.pe/file/nKJaMV0RcByI0RLpf8TW0_TIJOjZCfdVafDWH1RHHpZhVjVLX3UUHHU_IivC2kmcPOPrRa_bx_T34IZ7x3DE2j6ovAXMBSeq8s3bL5i4TFncSoeeYn_6g0YJhH1lwHt8tHOV2XeeixYaavnPV5GiOW4Vr9pethD7ycZnil5ycjzLaZcpEVHYBWYeqq62qWL-x48ZMTX4zb6x95NyCCc7ZcctCWBYPDjBY__msLmurDzKBHFh4RLN7k_gvJfVlmZiyHQhQCdfzW1Xa5rZmme7Ki0PectNeS_l5Bjmr3a77BCiQJ8s1DkmAMTv1EKHAIYScIlkdgdNO6bp-oQuE7ZRvQ.jpg",
+      "pub_date": "2026-11-21T09:10:51+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-21T09:35:14.134Z",
+      "created_at": "2026-11-21T09:35:14.134Z"
+    },
+    {
+      "id": 29671,
+      "source": "AI Post (TG)",
+      "title_en": "🧐 OpenAI is acting against up to tens of thousands of accounts a week trying to clone its AIThe accounts belong to what OpenAI calls adversarial distillation campaigns: training another model on its ",
+      "description_en": "🧐 OpenAI is acting against up to tens of thousands of accounts a week trying to clone its AIThe accounts belong to what OpenAI calls adversarial distillation campaigns: training another model on its models' outputs and hidden reasoning without permission. The pace picked up sharply this past summer, the company says.The danger, it argues, is a copy with the skills but none of the safety rules. Someone could copy a model's cyber skills and use the copy for attacks the original would have refused",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8854",
+      "image_url": "https://cdn4.telesco.pe/file/H5RrFJndfcDZFJgXpbMOipe7FPbK1DblgWN39DJO6zuWlmS_HUK_sCgn1UjgHLoAgyev-2gtSwotb7THq-if7GsP-lsvqSsdhqkguAlbyVbOUna9Nix8i88Rn3SeiPQkeeeUfyC3_3yMAHFR_QI9PIXMi1S9ZjO63bbug84agkbuA-v-HDlgdM4OfFFwdqx8jKsoLV_DYeI5zqu9mup9hhrtt5jAvKlzyQKyvMGlaFCK-aO3q2QxUHTOp11bGxR1ks0yorqWldg9P3H7ebnaGYCTjfspOsnhWy9yAxVoHrjv8LT3_g8JTXFIWIdoQoTZTkiVKjmEbn6eby75zw0pAw.jpg",
+      "pub_date": "2026-11-21T09:09:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-21T09:35:14.596Z",
+      "created_at": "2026-11-21T09:35:14.596Z"
     }
   ]
 }
