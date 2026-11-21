@@ -642954,7 +642954,7 @@
         "Ukraine"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-11-21T00:10:29.396Z",
       "created_at": "2026-11-21T00:10:29.396Z"
     },
@@ -643212,6 +643212,57 @@
       "priority": "batch",
       "fetchedAt": "2026-11-21T00:10:38.706Z",
       "created_at": "2026-11-21T00:10:38.706Z"
+    },
+    {
+      "id": 29650,
+      "source": "AI Post (TG)",
+      "title_en": "🧐 The hidden rules ChatGPT and Claude read before your first message are in one free repoClaude \"never curses unless the person asks or curses a lot themselves.\" When it turns you down, it skips bull",
+      "description_en": "🧐 The hidden rules ChatGPT and Claude read before your first message are in one free repoClaude \"never curses unless the person asks or curses a lot themselves.\" When it turns you down, it skips bullet points, because \"the additional care helps soften the blow.\" A ChatGPT prompt from August tells it to avoid \"ungrounded or sycophantic flattery.\"Those lines come from System Prompts Leaks, a GitHub collection of the instructions chatbots get before every chat. It has leaked and some official vers",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8851",
+      "image_url": "https://cdn4.telesco.pe/file/qoPwYbPcDTzEqY7kUMjUIpxm5_FNIy_Q6hU0wbwDXkDFJ9dcZPrcBTTAR3YZ9DZn5Et-w9TPazgFNh2IF3_QIUJ8e57sMEIOmGYQfv3xOT_ZWgspcbHb9RZ8J-ifErBWjEN2dGqcO8nIIXTV_YIJokitmD0SCgtSnwstgl9O0m5Xma8Ho5QhBBXMp85aUaHVv8_BYSiJ82kRJIPzIKnPvdp8wUBVwkN1GILJAzOLxD816D2nKOWWK6NAROIKLj5_I4jszyn96s5K3IoIB3pMclADX7L_XShR3njExcsUqcQ-ECoWDKj1-my4G027vVDVuJBMKJ8f8MhB_7PK17Se8A.jpg",
+      "pub_date": "2026-11-21T00:49:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-21T01:51:58.156Z",
+      "created_at": "2026-11-21T01:51:58.156Z"
+    },
+    {
+      "id": 29651,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 2 million canary secrets went through AI routers, and the leaks were everywhereResearcher HD Moore seeded fake AWS keys, SSH passwords and private git URLs into prompts, one secret per request, the",
+      "description_en": "🚨 2 million canary secrets went through AI routers, and the leaks were everywhereResearcher HD Moore seeded fake AWS keys, SSH passwords and private git URLs into prompts, one secret per request, then watched what happened. Per the writeup, every request sent in the late October windows was stolen, including some the provider rejected before any model ran, and some flagged zero data retention.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/1082",
+      "image_url": null,
+      "pub_date": "2026-11-21T01:00:35+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-21T01:51:58.404Z",
+      "created_at": "2026-11-21T01:51:58.404Z"
+    },
+    {
+      "id": 29652,
+      "source": "Artificial Intelligence (TG)",
+      "title_en": "The paper that changed the World forever...Not a movie premiere.Not a first look poster.A PAPER - on a big screen. Crazy right? That's why I started to dig about that... And it went even more crazyNam",
+      "description_en": "The paper that changed the World forever...Not a movie premiere.Not a first look poster.A PAPER - on a big screen. Crazy right? That's why I started to dig about that... And it went even more crazyName of the research paper: “Attention Is All You Need”8 people wrote it.In 2017.At Google.No one clapped then.No one celebrated then.It was just 15 pages.Full of maths, diagrams, and one crazy idea.Years later, that one idea became the Transformer.The Transformer became ChatGPT.And ChatGPT changed the",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/Artificial_intelligence_in/1263",
+      "image_url": "https://cdn5.telesco.pe/file/fks-qbQwVPaKT24QpBJbr16jnWPye8YF6Ybuvbbptra19VH41crzNzjv34QS4SN3JTRORUQNCuCAP2vQFMQAHyG4Vz_Fx59aGu5RNtJbBwyfBHhKgAZOVC9fNHE7L_9b4FqgdAyrsE6BZKc0J30jmgK0gngeetBgbMi8Ysyz3HT-t0p9eB4ttyrtyqM3856b8mpMNNrUtR-FkxN-zDrwWpAMCCKAdupAqXywIDcyn4s_TA9v8XFup9W-akSPwyVLmVpr-qz65ghvDIcNr8l1-owq_34xxUWBJoPbIQ4Aei_ZXxqwogmn8I-k4yFTqRo_k7thO4LiD6nSmiT4i8IYSg.jpg",
+      "pub_date": "2026-11-21T01:39:40+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-21T01:51:58.513Z",
+      "created_at": "2026-11-21T01:51:58.513Z"
     }
   ]
 }
