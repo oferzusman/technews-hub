@@ -644658,6 +644658,93 @@
       "priority": "hot",
       "fetchedAt": "2026-11-21T16:29:40.211Z",
       "created_at": "2026-11-21T16:29:40.211Z"
+    },
+    {
+      "id": 29712,
+      "source": "The Guardian AI",
+      "title_en": "Anthropic mathematician claims he used Claude to prove 19th-century Riemann hypothesis",
+      "description_en": "Levent Alpöge says it took six weeks for him using the AI tool to solve the math problem involving prime numbers\nA mathematician at Anthropic is contending that the San Francisco-based artificial intelligence (AI) company’s software has helped crack one of the most important unsolved problems in mathematics.\nLevent Alpöge, a Turkish American mathematician, on Friday posted a note on his personal website saying that Claude, the AI software, had helped prove the Riemann hypothesis. He says that Cl",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
+      "image_url": "https://i.guim.co.uk/img/media/d3154f68df589c297fc3d173e2bb3d95faca05c9/530_0_4678_3742/master/4678.jpg?width=140&quality=85&auto=format&fit=max&s=2be6ea0855df616ea30ffc89afed2e1f",
+      "pub_date": "Sat, 21 Nov 2026 16:39:49 GMT",
+      "author": "José Olivares",
+      "categories": [
+        {
+          "_": "Anthropic",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/anthropic"
+          }
+        },
+        {
+          "_": "Mathematics",
+          "$": {
+            "domain": "https://www.theguardian.com/science/mathematics"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-21T17:07:27.670Z",
+      "created_at": "2026-11-21T17:07:27.670Z"
+    },
+    {
+      "id": 29713,
+      "source": "Interesting Engineering",
+      "title_en": "7 realistic solutions that could help US data centers manage electricity demand",
+      "description_en": "Artificial intelligence has turned data centers into the hungriest tenants on the American power grid....",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/energy/7-technologies-that-could-help-us-data-centers",
+      "image_url": null,
+      "pub_date": "Sat, 21 Nov 2026 16:31:34 +0000",
+      "author": "Kaif Shaikh",
+      "categories": [
+        "Energy"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-21T17:07:28.739Z",
+      "created_at": "2026-11-21T17:07:28.739Z"
+    },
+    {
+      "id": 29714,
+      "source": "Tom's Hardware",
+      "title_en": "Best Black Friday gaming chair deals 2026",
+      "description_en": "The best Black Friday deals on gaming chairs for every budget, style, and comfort level. Upgrade your gaming chair with something high-quality.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/peripherals/gaming-chairs/best-gaming-chair-deals-secretlab-razer-and-more",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/sRFGL8XtiMGf2KpND49w55-1920-80.jpg",
+      "pub_date": "Sat, 21 Nov 2026 16:38:40 +0000",
+      "author": " Sarah Jacobsson Purewal ",
+      "categories": [
+        "Gaming Chairs",
+        "Peripherals"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-21T17:07:29.004Z",
+      "created_at": "2026-11-21T17:07:29.004Z"
     }
   ]
 }
