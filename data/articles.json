@@ -645109,38 +645109,6 @@
       "priority": "hot",
       "fetchedAt": "2026-11-22T01:44:55.143Z",
       "created_at": "2026-11-22T01:44:55.143Z"
-    },
-    {
-      "id": 29732,
-      "source": "MarkTechPost",
-      "title_en": "A Team of Researchers from Columbia and CertiK Introduce TensorLean for Formal Verification of GPU Kernels",
-      "description_en": "TensorLean, from Columbia University and CertiK, formally verifies production GPU kernels at the PTX level using Lean. It checked 149 kernel instances, proved 83 correct, and found 38 bugs in FlashAttention, DeepGEMM and more.\nThe post A Team of Researchers from Columbia and CertiK Introduce TensorLean for Formal Verification of GPU Kernels appeared first on MarkTechPost.",
-      "title_he": null,
-      "description_he": null,
-      "link": "https://www.marktechpost.com/2026/11/21/columbia-certik-tensorlean-formal-verification-gpu-kernels/",
-      "image_url": null,
-      "pub_date": "Sun, 22 Nov 2026 01:51:43 +0000",
-      "author": "Michal Sutter",
-      "categories": [
-        "Agentic AI",
-        "AI Infrastructure",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence",
-        "Editors Pick",
-        "Language Model",
-        "Machine Learning",
-        "New Releases",
-        "Software Engineering",
-        "Staff",
-        "Tech News",
-        "Technology",
-        "Uncategorized"
-      ],
-      "translated": false,
-      "priority": "hot",
-      "fetchedAt": "2026-11-22T02:29:24.532Z",
-      "created_at": "2026-11-22T02:29:24.532Z"
     }
   ]
 }
