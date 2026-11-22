@@ -645648,6 +645648,724 @@
       "priority": "hot",
       "fetchedAt": "2026-11-22T10:11:00.679Z",
       "created_at": "2026-11-22T10:11:00.679Z"
+    },
+    {
+      "id": 29753,
+      "source": "The Verge AI",
+      "title_en": "The vibe-coding revolution is coming to all the gadgets",
+      "description_en": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here.\nHow it started\nLike so many things with AI, it's not that large language models opened up some wholly new capability. For as long as there have been gadgets, a few users have been hacking, modding, jailbreaking, and tweaking them to their",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+      "image_url": null,
+      "pub_date": "2026-11-22T13:00:00.000Z",
+      "author": "David Pierce",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-22T16:01:31.375Z",
+      "created_at": "2026-11-22T16:01:31.375Z"
+    },
+    {
+      "id": 29754,
+      "source": "The Decoder",
+      "title_en": "AI coding agents ace isolated tests but complete fewer than one in ten tasks in a simulated workplace",
+      "description_en": "A new real-world test puts AI coding agents in a simulated developer job with colleagues, project boards, and incomplete handoffs, where they have to keep developing software on their own and reliably close open tickets in a messy daily workflow. Even Opus 5.5 and Astra fall far short, solving fewer than one in ten tasks completely. The models finish clear, standalone assignments quickly, but they lose track as autonomous developers.\nThe article AI coding agents ace isolated tests but complete f",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/ai-coding-agents-ace-isolated-tests-but-complete-fewer-than-one-in-ten-tasks-in-a-simulated-workplace/",
+      "image_url": null,
+      "pub_date": "Sun, 22 Nov 2026 15:15:48 +0000",
+      "author": "Jonathan Kemper",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Anthropic"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-22T16:01:32.892Z",
+      "created_at": "2026-11-22T16:01:32.892Z"
+    },
+    {
+      "id": 29755,
+      "source": "The Decoder",
+      "title_en": "Perplexity's new Monitor API turns web search from a one-off query into a nonstop watchdog",
+      "description_en": "Perplexity is launching a Monitor API that searches the web on a schedule and alerts agents via webhook only when relevant changes occur. Its own decision model filters out unimportant results. For Perplexity, the API is part of a broader strategy to stand out from an increasingly interchangeable chatbot business through developer tools.\nThe article Perplexity's new Monitor API turns web search from a one-off query into a nonstop watchdog appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/perplexitys-new-monitor-api-turns-web-search-from-a-one-off-query-into-a-nonstop-watchdog/",
+      "image_url": null,
+      "pub_date": "Sun, 22 Nov 2026 14:20:28 +0000",
+      "author": "Jonathan Kemper",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "AI search",
+        "Perplexity"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-22T16:01:32.892Z",
+      "created_at": "2026-11-22T16:01:32.892Z"
+    },
+    {
+      "id": 29756,
+      "source": "The Decoder",
+      "title_en": "AI is getting better faster than experts can reliably test whether new systems are safe, METR warns",
+      "description_en": "METR reports that leading AI models like Opus 5.5 and GPT-6 Astra are improving rapidly at research tasks but getting harder to measure. Current data can't rule out a dangerous acceleration in AI development, the organization warns, though it also says common tests may overestimate what the models can actually do.\nThe article AI is getting better faster than experts can reliably test whether new systems are safe, METR warns appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/ai-is-getting-better-faster-than-experts-can-reliably-test-whether-new-systems-are-safe-metr-warns/",
+      "image_url": null,
+      "pub_date": "Sun, 22 Nov 2026 13:00:43 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI research",
+        "Artificial Intelligence",
+        "Short News",
+        "AI and safety",
+        "AI Safety",
+        "Cybersecurity",
+        "METR",
+        "Safety"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-22T16:01:32.892Z",
+      "created_at": "2026-11-22T16:01:32.892Z"
+    },
+    {
+      "id": 29757,
+      "source": "The Decoder",
+      "title_en": "Security researchers show how cheap AI inference providers steal keys and snoop on users",
+      "description_en": "Security researchers at Dragos used two million fake AI requests to uncover serious vulnerabilities in the AI supply chain, finding at least three compromised providers, hundreds of stolen AWS keys, and marketplace resellers who were simply reading customer requests. OpenRouter responded by removing three providers and 125 endpoints.\nThe article Security researchers show how cheap AI inference providers steal keys and snoop on users appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/security-researchers-show-how-cheap-ai-inference-providers-steal-keys-and-snoop-on-users/",
+      "image_url": null,
+      "pub_date": "Sun, 22 Nov 2026 12:07:56 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Cybersecurity"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-22T16:01:32.893Z",
+      "created_at": "2026-11-22T16:01:32.893Z"
+    },
+    {
+      "id": 29758,
+      "source": "The Decoder",
+      "title_en": "Lean and Mathlib community officially confirms Levent Alpöge's proof of the Riemann hypothesis is correct",
+      "description_en": "The Lean and Mathlib community has officially confirmed Levent Alpöge's proof of the Riemann hypothesis as correct. Dozens of independent verifiers checked the 17 million lines of computer code. The solution arrived years earlier than expected: Terence Tao had predicted it wouldn't happen until around 2050 and didn't expect AI to solve it alone.\nThe article Lean and Mathlib community officially confirms Levent Alpöge's proof of the Riemann hypothesis is correct appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/lean-and-mathlib-community-officially-confirms-levent-alpoges-proof-of-the-riemann-hypothesis-is-correct/",
+      "image_url": null,
+      "pub_date": "Sun, 22 Nov 2026 11:08:31 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "AI and math",
+        "Math"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-22T16:01:32.893Z",
+      "created_at": "2026-11-22T16:01:32.893Z"
+    },
+    {
+      "id": 29759,
+      "source": "MarkTechPost",
+      "title_en": "Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and More, Compared on Memory, Security and Cost",
+      "description_en": "Hermes Agent, OpenClaw, Gemini Spark, OpenAI dots, Meta Muse and Perplexity Personal Computer ranked on memory, security defaults and real cost.\nThe post Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and More, Compared on Memory, Security and Cost appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/11/22/best-personal-ai-agents-2026/",
+      "image_url": null,
+      "pub_date": "Sun, 22 Nov 2026 10:36:17 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "AI Agents",
+        "Comparison",
+        "Editors Pick",
+        "Staff",
+        "Top"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-22T16:01:33.064Z",
+      "created_at": "2026-11-22T16:01:33.064Z"
+    },
+    {
+      "id": 29760,
+      "source": "MarkTechPost",
+      "title_en": "Google AI Previews Tool Retrieval in the Gemini API for Large Tool Libraries",
+      "description_en": "Google launched Gemini API Tool Retrieval in preview. Agents keep a large tool library on standby and load each parameter schema only when needed, inside one Interactions API request.\nThe post Google AI Previews Tool Retrieval in the Gemini API for Large Tool Libraries appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/11/22/google-gemini-api-tool-retrieval/",
+      "image_url": null,
+      "pub_date": "Sun, 22 Nov 2026 10:03:54 +0000",
+      "author": "Michal Sutter",
+      "categories": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "For Devs",
+        "Generative AI",
+        "Guardrail",
+        "New Releases",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-22T16:01:33.064Z",
+      "created_at": "2026-11-22T16:01:33.064Z"
+    },
+    {
+      "id": 29761,
+      "source": "The Guardian AI",
+      "title_en": "I stopped talking to my husband and let AI do it instead. He didn’t even notice | Polly Hudson",
+      "description_en": "What have I learned from my experiment with outsourcing? That I’m easily replaced – and awful\nI’ve just ventured deeper into my phone’s settings than anybody has ever been before. A software update is always discombobulating, but the latest one brought a lot of unwanted AI nonsense (that mental image you just got of me waving my fist at the sky: spot on). Even when you manually switch off Apple Intelligence, check the box to make Siri the same dummy she’s always been, and deselect the option to ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/22/stopped-talking-to-husband-let-ai-do-it-instead",
+      "image_url": "https://i.guim.co.uk/img/media/8de114b421ebe5837795f62e223317d67e4528bd/719_0_6156_4923/master/6156.jpg?width=140&quality=85&auto=format&fit=max&s=e40cbde46c5a8db0f44e78010eefcfa2",
+      "pub_date": "Sun, 22 Nov 2026 16:00:31 GMT",
+      "author": "Polly Hudson",
+      "categories": [
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Mobile phones",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/mobilephones"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-22T16:01:33.511Z",
+      "created_at": "2026-11-22T16:01:33.511Z"
+    },
+    {
+      "id": 29762,
+      "source": "The Guardian AI",
+      "title_en": "Will fragile bipartisanship on AI survive the silly season, or is parliament heading for a holiday meltdown? | Josh Butler",
+      "description_en": "A joint select committee report on Monday should signal where Labor is headed on issues including datacentres and copyright – and whether they’ll go it alone\n\nGet our daily political email, free app or daily news podcast\n\nThe final four days of parliament for 2026 begin on Monday, and the government has a clutch of key reforms, budget hangovers and savings measures it wants to pass. But how many, if any, will get over the line by Friday is anyone’s guess.\nBut over the top of the usual last-week-",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/australia-news/2026/nov/23/will-fragile-bipartisanship-on-ai-survive-silly-season-or-is-parliament-heading-for-a-holiday-meltdown-the-agenda",
+      "image_url": "https://i.guim.co.uk/img/media/0703852cd8009754ed16a9c2bbad6d2d80b6fedd/864_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=ef5454aef90161188ef385ecfc373f52",
+      "pub_date": "Sun, 22 Nov 2026 14:00:32 GMT",
+      "author": "Josh Butler",
+      "categories": [
+        {
+          "_": "Australia news",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/australia-news"
+          }
+        },
+        {
+          "_": "Australian politics",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/australian-politics"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Penny Wong",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/penny-wong"
+          }
+        },
+        {
+          "_": "Datacentres - Australia",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/datacentres"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-22T16:01:33.511Z",
+      "created_at": "2026-11-22T16:01:33.511Z"
+    },
+    {
+      "id": 29763,
+      "source": "The Guardian AI",
+      "title_en": "Why I won’t leave mathematics, despite AI solving centuries-old problems | Ken Ono",
+      "description_en": "I believe human judgment remains essential\n\r\n \n\r\n Last year, I nearly quit mathematics. On 20 November, Levent Alpöge announced that, working with Claude, he had proved the Riemann hypothesis, a 167-year-old problem about the distribution of prime numbers. The Lean and Mathlib communities have since certified the formal proof. We are only beginning to understand the argument. What kind of future awaits someone beginning a life in mathematics?\r\n\nIn May 2025, I led the number theory team for Epoch",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/22/why-i-wont-leave-mathematics-despite-ai-solving-centuries-old-problems",
+      "image_url": "https://i.guim.co.uk/img/media/df6c16bf913288657abe83afff8969abdd383bad/581_0_4307_3445/master/4307.jpg?width=140&quality=85&auto=format&fit=max&s=9c292058b38251501e72e01d722fd4b1",
+      "pub_date": "Sun, 22 Nov 2026 11:00:26 GMT",
+      "author": "Ken Ono",
+      "categories": [
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Mathematics",
+          "$": {
+            "domain": "https://www.theguardian.com/science/mathematics"
+          }
+        },
+        {
+          "_": "ChatGPT",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/chatgpt"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-22T16:01:33.511Z",
+      "created_at": "2026-11-22T16:01:33.511Z"
+    },
+    {
+      "id": 29764,
+      "source": "New Atlas",
+      "title_en": "Roof-mounted solar panels turn your EV into its own charging station",
+      "description_en": "The real estate on the roof of your electric vehicle (EV) could actually be good for more than carrying cargo. Los Angeles-based DartSolar wants you to install its solar panels on top of your car, and add enough range to cover your daily commute, using just the power of the sun.\nContinue Reading\nCategory: Automotive, Transport\nTags: Solar Powered, Electric Vehicles",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/automotive/dartsolar-roof-mounted-solar-charging-ev/",
+      "image_url": null,
+      "pub_date": "Sun, 22 Nov 2026 13:03:00 GMT",
+      "author": "Abhimanyu Ghoshal",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-22T16:01:33.538Z",
+      "created_at": "2026-11-22T16:01:33.538Z"
+    },
+    {
+      "id": 29765,
+      "source": "New Atlas",
+      "title_en": "$9,500 electric motorcycle is basically 4 bikes in 1",
+      "description_en": "Why build four different motorcycles when you can build one and give it four different personalities? That's essentially the idea behind GR1T, an Italian electric motorcycle startup looking to do things a little differently. Its G1 platform serves as the foundation for four distinct motorcycles – all sharing the same chassis, electric motor, battery system, and electronics.\nContinue Reading\nCategory: Motorcycles, Transport\nTags: Electric Motorcycles, Modular, Scramblers, Removable, Italy",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/motorcycles/gr1ts-modular-bikes/",
+      "image_url": null,
+      "pub_date": "Thu, 19 Nov 2026 10:03:19 GMT",
+      "author": "Utkarsh Sood",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-22T16:01:33.539Z",
+      "created_at": "2026-11-22T16:01:33.539Z"
+    },
+    {
+      "id": 29766,
+      "source": "Interesting Engineering",
+      "title_en": "AI agents vs physical AI: How software automation differs from embodied robotics",
+      "description_en": "Today’s Artificial intelligence has evolved far beyond simple chatbots that merely answer questions or generate...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/ai-agents-vs-physical-ai-difference-between-two-technologies",
+      "image_url": null,
+      "pub_date": "Sun, 22 Nov 2026 15:54:12 +0000",
+      "author": "Kaif Shaikh",
+      "categories": [
+        "AI and Robotics"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-22T16:01:34.600Z",
+      "created_at": "2026-11-22T16:01:34.600Z"
+    },
+    {
+      "id": 29767,
+      "source": "Interesting Engineering",
+      "title_en": "Neuralink N1 explained: How the US brain chip turns intent into action",
+      "description_en": "In January 2024, Noland Arbaugh became the first person to receive Neuralink’s brain implant. Arbaugh,...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/innovation/neuralink-brain-chip-explained",
+      "image_url": null,
+      "pub_date": "Sun, 22 Nov 2026 14:57:03 +0000",
+      "author": "Atharva Gosavi",
+      "categories": [
+        "Innovation"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-22T16:01:34.600Z",
+      "created_at": "2026-11-22T16:01:34.600Z"
+    },
+    {
+      "id": 29768,
+      "source": "Interesting Engineering",
+      "title_en": "China’s mystery UAV has  66-foot wingspan and design resembling MQ-25 Stingray",
+      "description_en": "Recent satellite imagery has revealed an unidentified Chinese uncrewed aircraft with a configuration resembling the...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/chinas-mystery-uav-resemble-mq-25",
+      "image_url": "https://www.youtube.com/embed/mXLGGZM_b50",
+      "pub_date": "Sun, 22 Nov 2026 14:15:36 +0000",
+      "author": "Bojan Stojkovski",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-22T16:01:34.600Z",
+      "created_at": "2026-11-22T16:01:34.600Z"
+    },
+    {
+      "id": 29769,
+      "source": "Interesting Engineering",
+      "title_en": "This shape-shifting robot looks like real transformer; can bend, grab and combine for new role",
+      "description_en": "Colorado State University’s Adaptive Robotics Lab researchers have developed a new robot that can bend,...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/shape-shifting-robot-looks-like-real-transformer",
+      "image_url": "https://www.youtube.com/embed/gnYVZeo2jTo",
+      "pub_date": "Sun, 22 Nov 2026 10:39:30 +0000",
+      "author": "Christopher McFadden",
+      "categories": [
+        "AI and Robotics"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-22T16:01:34.600Z",
+      "created_at": "2026-11-22T16:01:34.600Z"
+    },
+    {
+      "id": 29770,
+      "source": "Tom's Hardware",
+      "title_en": "Arm yourself against online threats with 30% off YubiKey 5C NFC bundles at Best Buy",
+      "description_en": "The YubiKey 5 NFC security key has dropped to an effective $ 37 per key at Best Buy when purchasing a bundle of two. Sporting both Type-A and Type-C flavors, this Black Friday deal could save you more than just money in the long run.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/arm-yourself-against-online-threats-with-30-percent-off-yubikey-5c-nfc-bundles-at-best-buy-at-usd37-per-key-this-deal-could-save-you-more-than-just-cash",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/9jsuZfixRJWfn4dcgK92eR-1920-80.jpg",
+      "pub_date": "Sun, 22 Nov 2026 15:45:00 +0000",
+      "author": " Sayem Ahmed ",
+      "categories": [
+        "Cybersecurity",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-22T16:01:34.867Z",
+      "created_at": "2026-11-22T16:01:34.867Z"
+    },
+    {
+      "id": 29771,
+      "source": "Tom's Hardware",
+      "title_en": "Neuralink trial participant ditches mouth stick to play GTA 6 with his mind",
+      "description_en": "This is one of the most complicated games yet to be played using Neuralink, with the patient using imagined movements like tapping a finger or sliding a hand to simulate commands on the PS5 controller.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/peripherals/wearable-tech/neuralink-trial-participant-ditches-mouth-stick-to-play-gta-6-with-his-mind-brain-computer-interface-maps-imagined-ring-finger-taps-and-hand-slides-to-a-playstation-5-controller",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/pBECYsfzY5sUbRWdhLESLc-1920-80.png",
+      "pub_date": "Sun, 22 Nov 2026 14:49:48 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Wearable Tech",
+        "Peripherals"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-22T16:01:34.868Z",
+      "created_at": "2026-11-22T16:01:34.868Z"
+    },
+    {
+      "id": 29772,
+      "source": "Tom's Hardware",
+      "title_en": "KFC offers disc-shaped fried chicken to sad disc-less GTA VI fans",
+      "description_en": "KFC Spain is offering free fried chicken discs to GTA 6 game owners bringing in their empty game cases as part of its 'The Replacement Disc' campaign.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/video-games/kfc-offers-disc-shaped-fried-chicken-to-sad-disc-less-gta-vi-fans-kfc-spains-the-replacement-disc-campaign-delivers-where-rockstar-disappoints-after-selling-usd3-79-billion-of-gta-vi-without-a-physical-disc",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/REUeVWr8RDsDbWAVjeiuW3-1920-80.jpg",
+      "pub_date": "Sun, 22 Nov 2026 14:18:22 +0000",
+      "author": " Mark Tyson ",
+      "categories": [
+        "Video Games"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-22T16:01:34.868Z",
+      "created_at": "2026-11-22T16:01:34.868Z"
+    },
+    {
+      "id": 29773,
+      "source": "Tom's Hardware",
+      "title_en": "Ukraine revives its grounded fleet of 500+ US-made Puma drones with homegrown anti-jamming tech",
+      "description_en": "The Puma AE reconnaissance drones had been grounded by electromagnetic warfare until they received this upgrade.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/drones/ukraine-revives-its-grounded-fleet-of-500-us-made-puma-drones-with-homegrown-anti-jamming-tech-anti-jamming-upgrade-triples-range-to-31-miles",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/b6CuzvV6Dix5T3C6D6x8ZK-1920-80.jpg",
+      "pub_date": "Sun, 22 Nov 2026 13:51:18 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Drones",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-22T16:01:34.868Z",
+      "created_at": "2026-11-22T16:01:34.868Z"
+    },
+    {
+      "id": 29774,
+      "source": "Tom's Hardware",
+      "title_en": "AI agents design an entirely new CPU architecture from scratch, startup claims",
+      "description_en": "Architect Labs says its AI agents designed Frostbite, an interaction-net CPU with 4.59x the performance per watt of an in-order core.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/ai-agents-design-an-entirely-new-cpu-architecture-from-scratch-startup-claims-frostbite-posts-4-59x-the-performance-per-watt-of-an-in-order-core-in-pre-silicon-tests",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/E6ZGdHQ5GTZE5a3yPzPScR-1920-80.jpg",
+      "pub_date": "Sun, 22 Nov 2026 13:00:00 +0000",
+      "author": " Shane Downing ",
+      "categories": [
+        "Semiconductors",
+        "Tech Industry",
+        "Manufacturing"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-22T16:01:34.868Z",
+      "created_at": "2026-11-22T16:01:34.868Z"
+    },
+    {
+      "id": 29775,
+      "source": "Tom's Hardware",
+      "title_en": "Moore Threads' next 'Lushan' gaming GPU could pack a record 64GB of VRAM",
+      "description_en": "Moore Threads teased its Lushan gaming GPU ahead of MDC 2026, with a product manager claiming record VRAM for a consumer graphics card.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/gpus/moore-threads-next-lushan-gaming-gpu-could-pack-a-record-64gb-of-vram-doubles-the-rtx-5090s-32gb-lofty-claims-of-15x-gaming-and-50x-ray-tracing-over-mtt-s80",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/agn22VSyFu3ySBjNDWMLXP-1920-80.jpg",
+      "pub_date": "Sun, 22 Nov 2026 12:30:00 +0000",
+      "author": " Shane Downing ",
+      "categories": [
+        "GPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-22T16:01:34.868Z",
+      "created_at": "2026-11-22T16:01:34.868Z"
+    },
+    {
+      "id": 29776,
+      "source": "Tom's Hardware",
+      "title_en": "Lenders back SpaceX's $43 billion Nvidia GPU deal but worry the collateral could end up in orbit, making them impossible to reclaim if Musk defaults",
+      "description_en": "The $43 billion loan is structured as a unique arrangement in which a different company buys the Nvidia chips, while SpaceX makes quarterly payments to use them.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/lenders-back-spacexs-usd43-billion-nvidia-gpu-deal-but-worry-the-collateral-could-end-up-in-orbit-making-it-impossible-to-reclaim-if-musk-defaults-five-year-hell-or-high-water-lease-may-lack-a-written-earth-only-guarantee",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/kpcmv7uS8rMeQdJP4KMMfG-1920-80.png",
+      "pub_date": "Sun, 22 Nov 2026 12:00:00 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "Data Centers",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-22T16:01:34.868Z",
+      "created_at": "2026-11-22T16:01:34.868Z"
+    },
+    {
+      "id": 29777,
+      "source": "Tom's Hardware",
+      "title_en": "Dev squeezes an AI language model onto a floppy for 486DX and Pentium PC stalwarts",
+      "description_en": "An inspired developer has shoehorned a language model onto a floppy disk created especially for 486DX and Pentium PC users running DOS.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/dev-squeezes-an-ai-language-model-onto-a-floppy-for-486dx-and-pentium-pc-stalwarts-tiny-2-1-needs-540kb-of-memory-and-speaks-via-pc-speaker-is-a-question-answering-transformer-with-367k-parameters",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/wqXY5fMoARr5jLvxdawrNS-1920-80.jpg",
+      "pub_date": "Sun, 22 Nov 2026 11:00:00 +0000",
+      "author": " Mark Tyson ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-22T16:01:34.868Z",
+      "created_at": "2026-11-22T16:01:34.868Z"
+    },
+    {
+      "id": 29778,
+      "source": "Wylsacom Red (TG)",
+      "title_en": "Обзор ультрабука Lunnen Airis: много ли поместится в один килограмм?На бумаге анонс первого ультрабука Lunnen выглядел слишком хорошо. Я провёл с ним пару недель: поработал, поиграл, повайбкодил в дух",
+      "description_en": "Обзор ультрабука Lunnen Airis: много ли поместится в один килограмм?На бумаге анонс первого ультрабука Lunnen выглядел слишком хорошо. Я провёл с ним пару недель: поработал, поиграл, повайбкодил в духе времени и проверил, насколько реальность сошлась с обещаниям.Подробнее о железе, производительности и опыте использования читайте в обзоре: https://wylsa.com/lunnen-airis-reviewАвтор: Ян Дашевский",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/Wylsared/37293",
+      "image_url": "https://cdn4.telesco.pe/file/uVgZY9BtvSV8ba3Pni-v8tFbwNRghhEM94AuBEtUBcyIjcfejHmcrUsQV5E1GHeqkMPz6OKy562mhKk9zVxnvDG5joPkQA1wQo7I1sgKqN2pUVhhVJuQLSw3DjTWFdEBLpafrhQTi_fhTRgi0eMavPYgwEsYkgda-G4H7ta3exfbbBdb7a-DBFZb4avRUKUO9-wzaNF1FkzODLgJbGIQNRxCu-0HB4zXEz3F0pig8ZTLU4RTkjHBlF4WaB5Uzi5hA9YWeJjeGKRNYHKpnOpSMC2lH0fl2-zxOcXBLxu3vWdB2uAovz8yzEd1YPEBDbq3xfg22qREGODgOO00bkpAag.jpg",
+      "pub_date": "2026-11-22T12:59:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-22T16:01:36.841Z",
+      "created_at": "2026-11-22T16:01:36.841Z"
+    },
+    {
+      "id": 29779,
+      "source": "XOR Journal (TG)",
+      "title_en": "⚡️ Оплачиваем Claude и покупаем GTA VI прямо в Telegram с российской карты!В одном месте теперь можно пополнить Apple ID и Steam, а также оплатить подписки на Spotify, YouTube Premium, Claude и другие",
+      "description_en": "⚡️ Оплачиваем Claude и покупаем GTA VI прямо в Telegram с российской карты!В одном месте теперь можно пополнить Apple ID и Steam, а также оплатить подписки на Spotify, YouTube Premium, Claude и другие популярные зарубежные сервисы. Забираем цифровой комфорт здесь 😎",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10578",
+      "image_url": "https://cdn4.telesco.pe/file/X99yGJjCZ8zqfEH9xZk9Jyb1b6PNKYEyxaJpa3Xqd_odNql87V8bXy4TLZuGbccCwHL0TuWYVA1hBAFUXVr4U3WnQPxZ9EFcNjAdSrKErfwThGhl6fXGKp4MrPAfdgRHwAonjJEf8IS7s2DDTLPEQCJaJW5StKwxakco1HFx8vLe645SfNDj9ZIZafFNSVoa6eTwdK1Rxig3dw-s4EEZDBNi_lfh80bSARMSos31pUfg6ao8Dp4EOqmKSABMBd94QbCkMLZAaY8h-rn4MDXPgG6Vvyz2GsuaL--KCBNxCZMaHLwpVkKlbddd5hMnknGs2_qLR8kk5QXncPcDNyb1vQ.jpg",
+      "pub_date": "2026-11-22T14:35:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-22T16:01:36.913Z",
+      "created_at": "2026-11-22T16:01:36.913Z"
+    },
+    {
+      "id": 29780,
+      "source": "XOR Journal (TG)",
+      "title_en": "Это клад: нашли ультимативный гайд по Claude Code на GitHub ☺️Внутри огромная бесплатная база знаний: от установки и первых шагов до продвинутых настроек, MCP-серверов, скиллов и автоматизации. Есть г",
+      "description_en": "Это клад: нашли ультимативный гайд по Claude Code на GitHub ☺️Внутри огромная бесплатная база знаний: от установки и первых шагов до продвинутых настроек, MCP-серверов, скиллов и автоматизации. Есть готовые шаблоны, примеры и, разумеется, шпаргалки.Выкручиваем Claude на максимум 💪@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10579",
+      "image_url": "https://cdn4.telesco.pe/file/a2JXRd72Ym50hhaqgqHVdhqWNGffLq9FSIAYTWYUa4MW3V__LHzv54xTBJ-0LALgeHXf4uvya980pvXIcZ1CEE1Zz9cB1GWHJave5IzqVTMpvEXj_LEBt3cOqPKUqgJ6LktIHAouaItuecyKj5AKga85yqS7CAvpJeZhzvY0AEWyrJaLc8UJlCAwD6qXeN3x57uE8iLHykWmVrNpUNMaCT5IlGwPJgj4obFmT34DWaJU8BgKoXRqfUsvCh-LfExdUDPE_j6sRl4BqKq4iIyRik-ccKiYTkPde8Hqmbx11bS13-OQZo6mA7lp8kOo9T-5xP7xFMm8_VA916Hcmvnl3Q.jpg",
+      "pub_date": "2026-11-22T15:21:02+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-22T16:01:36.913Z",
+      "created_at": "2026-11-22T16:01:36.913Z"
+    },
+    {
+      "id": 29781,
+      "source": "Data Science ODS.ai (TG)",
+      "title_en": "Всем привет! Встречайте новый выпуск подкаста \"Капитанский мостик\". Ведущие Валентин Малых и Дмитрий Колодезев обсуждают темы: Модель-призрак Gestalt | Алиса на бирже | Чипы-заложникиСмотрите видео на",
+      "description_en": "Всем привет! Встречайте новый выпуск подкаста \"Капитанский мостик\". Ведущие Валентин Малых и Дмитрий Колодезев обсуждают темы: Модель-призрак Gestalt | Алиса на бирже | Чипы-заложникиСмотрите видео на каналах ⤵️ODS VK VideoODS YouTube📩 Присылайте новости для обсуждения в канал \"Дата-капитаны\" в mattermost (авторизуйтесь через ODS.ai).",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/opendatascience/3464",
+      "image_url": "https://cdn4.telesco.pe/file/PfgLRLiLyjrqChIzNcTsW1D3Y42pXa-2yXfYVaLY3PHVbOo5mGTPQLQ0wZ7vA-Dvlz1wTuKO27PQVZzU4O4PdUQzhvTyofQVb3DfF86etDIInGt9sIFFtxk4usVZ4XfOjvINwi4T7m-2DAAj8CggGeSs9UQ-_7Rle3PzzUDaqUBmx82dXpdnJQsPADF_g3evA9jaofyaKoWtgwlZ6YGOYHGSRUJpLklFy2S2u2k7tPVY3BRMMa-msqqNj_BHXarAI3ip1FXy5nKcyEuOOCP6yjnGzMYbHMxmgQtsKHw06MIPLJpungkOjw-anZoga2p00NbqChFQZ4LYr0YFgF-0Gg.jpg",
+      "pub_date": "2026-11-22T12:08:59+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-22T16:01:37.688Z",
+      "created_at": "2026-11-22T16:01:37.688Z"
+    },
+    {
+      "id": 29782,
+      "source": "AI Post (TG)",
+      "title_en": "😮 Tap a spot on the screen and the car drives there. Musk shows Tesla's FSD V15Elon Musk posted the new driving view coming in FSD V15, the next version of Tesla's self-driving software.The car's AI ",
+      "description_en": "😮 Tap a spot on the screen and the car drives there. Musk shows Tesla's FSD V15Elon Musk posted the new driving view coming in FSD V15, the next version of Tesla's self-driving software.The car's AI computer \"re-renders reality with chevrons in the sky for turns like a video game,\" he wrote. Under another clip of the same screen, he put it shorter: \"It's like GTA.\"Musk calls the screen a \"reality revisualizer.\" Tap any point on it, he says, and the car goes there.He didn't say when V15 reaches ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8863",
+      "image_url": null,
+      "pub_date": "2026-11-22T11:37:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-22T16:01:37.714Z",
+      "created_at": "2026-11-22T16:01:37.714Z"
+    },
+    {
+      "id": 29783,
+      "source": "AI Post (TG)",
+      "title_en": "❗️Bezos’s AI just designed a Mars helicopter from scratchJeff Bezos says his AI company, Prometheus, designed a helicopter for Mars using a single prompt. The AI explored several concepts, including d",
+      "description_en": "❗️Bezos’s AI just designed a Mars helicopter from scratchJeff Bezos says his AI company, Prometheus, designed a helicopter for Mars using a single prompt. The AI explored several concepts, including drones and fixed-wing aircraft, before arriving at a design remarkably similar to NASA’s Ingenuity Mars helicopter.What makes the story interesting is that the AI also calculated rotor blade requirements for Mars’s thin atmosphere, developed its own design specifications and asked questions when it n",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8864",
+      "image_url": null,
+      "pub_date": "2026-11-22T14:45:06+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-22T16:01:37.714Z",
+      "created_at": "2026-11-22T16:01:37.714Z"
+    },
+    {
+      "id": 29784,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 Trump threatens \"tremendous penalties\" for US tech firms that build datacenters abroadHe said it at a Friday press conference, and he gave no details. He also admitted he hasn't told his own offici",
+      "description_en": "🚨 Trump threatens \"tremendous penalties\" for US tech firms that build datacenters abroadHe said it at a Friday press conference, and he gave no details. He also admitted he hasn't told his own officials. His reasoning is that China \"will take all of them,\" and he told US communities to make developers pay them but not shut the datacenters off.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/1095",
+      "image_url": null,
+      "pub_date": "2026-11-22T12:19:35+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-22T16:01:37.977Z",
+      "created_at": "2026-11-22T16:01:37.977Z"
+    },
+    {
+      "id": 29785,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 Anthropic's IPO ran so tight that bankers are complainingReuters reports Anthropic capped some of its 22 underwriters at four bankers per deal team. Some senior bankers also signed six-month non-co",
+      "description_en": "🚨 Anthropic's IPO ran so tight that bankers are complainingReuters reports Anthropic capped some of its 22 underwriters at four bankers per deal team. Some senior bankers also signed six-month non-competes covering rivals like OpenAI and Cursor.Banks still collected over $500M in fees. The stock jumped 17% on day one, then closed down 8.5% on Friday.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/1096",
+      "image_url": null,
+      "pub_date": "2026-11-22T15:20:35+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-22T16:01:37.977Z",
+      "created_at": "2026-11-22T16:01:37.977Z"
     }
   ]
 }
