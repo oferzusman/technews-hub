@@ -646366,6 +646366,76 @@
       "priority": "hot",
       "fetchedAt": "2026-11-22T16:01:37.977Z",
       "created_at": "2026-11-22T16:01:37.977Z"
+    },
+    {
+      "id": 29786,
+      "source": "The Verge AI",
+      "title_en": "Binding of Isaac developer removes AI music from Repentance Plus",
+      "description_en": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found several audio files with Suno metadata that pointed back to the tracks on Suno's site.\nCreator Edmund McMillen took to X to apologize and claimed he \"had no idea\" the in-game GTA parody used generative AI music. Adding to ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+      "image_url": null,
+      "pub_date": "2026-11-22T17:25:20.000Z",
+      "author": "Terrence O’Brien",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-22T17:58:30.948Z",
+      "created_at": "2026-11-22T17:58:30.948Z"
+    },
+    {
+      "id": 29787,
+      "source": "OpenAI Blog",
+      "title_en": "Perplexity and Intelligence",
+      "description_en": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/perplexity-and-intelligence",
+      "image_url": null,
+      "pub_date": "Sun, 22 Nov 2026 00:00:00 GMT",
+      "author": null,
+      "categories": [
+        "Research"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-22T17:58:32.604Z",
+      "created_at": "2026-11-22T17:58:32.604Z"
+    },
+    {
+      "id": 29788,
+      "source": "CNBC Tech",
+      "title_en": "Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages",
+      "description_en": "Clayton’s warning comes ahead of Thanksgiving travel, after separate outages disrupted air travel, Microsoft 365 and some bank transactions.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html",
+      "image_url": null,
+      "pub_date": "Sun, 22 Nov 2026 17:14:03 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-22T17:58:35.619Z",
+      "created_at": "2026-11-22T17:58:35.619Z"
+    },
+    {
+      "id": 29789,
+      "source": "AI Post (TG)",
+      "title_en": "How Anthropic employees eat oranges since IPO@aipost 🏴",
+      "description_en": "How Anthropic employees eat oranges since IPO@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8865",
+      "image_url": null,
+      "pub_date": "2026-11-22T17:30:07+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-22T17:58:39.266Z",
+      "created_at": "2026-11-22T17:58:39.266Z"
     }
   ]
 }
