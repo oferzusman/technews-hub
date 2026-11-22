@@ -1,9 +1,9 @@
 {
-  "total": 29732,
+  "total": 29731,
   "translated": 29722,
-  "untranslated": 10,
-  "today": 7,
-  "week": 842,
+  "untranslated": 9,
+  "today": 6,
+  "week": 841,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -85,7 +85,7 @@
     },
     {
       "name": "MarkTechPost",
-      "total": 942,
+      "total": 941,
       "translated": 941,
       "lastDate": "Wed, 30 Sep 2026 21:30:08 +0000"
     },
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-11-22T02:30:24.707Z"
+  "generatedAt": "2026-11-22T02:31:24.300Z"
 }
