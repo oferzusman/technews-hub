@@ -645109,6 +645109,312 @@
       "priority": "hot",
       "fetchedAt": "2026-11-22T01:44:55.143Z",
       "created_at": "2026-11-22T01:44:55.143Z"
+    },
+    {
+      "id": 29732,
+      "source": "MarkTechPost",
+      "title_en": "A Team of Researchers from Columbia and CertiK Introduce TensorLean for Formal Verification of GPU Kernels",
+      "description_en": "TensorLean, from Columbia University and CertiK, formally verifies production GPU kernels at the PTX level using Lean. It checked 149 kernel instances, proved 83 correct, and found 38 bugs in FlashAttention, DeepGEMM and more.\nThe post A Team of Researchers from Columbia and CertiK Introduce TensorLean for Formal Verification of GPU Kernels appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/11/21/columbia-certik-tensorlean-formal-verification-gpu-kernels/",
+      "image_url": null,
+      "pub_date": "Sun, 22 Nov 2026 01:51:43 +0000",
+      "author": "Michal Sutter",
+      "categories": [
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Language Model",
+        "Machine Learning",
+        "New Releases",
+        "Software Engineering",
+        "Staff",
+        "Tech News",
+        "Technology",
+        "Uncategorized"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-22T07:57:35.660Z",
+      "created_at": "2026-11-22T07:57:35.660Z"
+    },
+    {
+      "id": 29733,
+      "source": "The Guardian AI",
+      "title_en": "‘Serious error of judgment’: outrage over military AI event at Berlin arts complex",
+      "description_en": "Kraftwerk Berlin, part of same development as techno club Tresor, transformed into ‘war room’ for arms firm event\nWith their cavernous post-industrial venues, teeth-grinding four-by-four beats and bouncers that look like Blade Runner extras, Berlin’s nightclubs trade on a reputation for bleakness. A recent event at one of the city’s most legendary clubland institutions, however, has proven too dystopian even for seasoned techno-heads.\nOn 11 November, the Kraftwerk Berlin arts complex had its cen",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/world/2026/nov/22/military-ai-event-berlin-kraftwerk-arts-complex",
+      "image_url": "https://i.guim.co.uk/img/media/4d3b2eefdc19be5ce451b348a00b741e730d6dbd/1327_0_6144_4918/master/6144.jpg?width=140&quality=85&auto=format&fit=max&s=afb066577694373a8420080e6f970403",
+      "pub_date": "Sun, 22 Nov 2026 06:00:21 GMT",
+      "author": "Philip Oltermann European culture editor",
+      "categories": [
+        {
+          "_": "Arms trade",
+          "$": {
+            "domain": "https://www.theguardian.com/world/arms-trade"
+          }
+        },
+        {
+          "_": "Germany",
+          "$": {
+            "domain": "https://www.theguardian.com/world/germany"
+          }
+        },
+        {
+          "_": "Club culture",
+          "$": {
+            "domain": "https://www.theguardian.com/music/club-culture"
+          }
+        },
+        {
+          "_": "Corporate sponsorship",
+          "$": {
+            "domain": "https://www.theguardian.com/culture/corporate-sponsorship"
+          }
+        },
+        {
+          "_": "Clubbing",
+          "$": {
+            "domain": "https://www.theguardian.com/music/clubs"
+          }
+        },
+        {
+          "_": "Weapons technology",
+          "$": {
+            "domain": "https://www.theguardian.com/science/weaponstechnology"
+          }
+        },
+        {
+          "_": "Electronic music",
+          "$": {
+            "domain": "https://www.theguardian.com/music/electronicmusic"
+          }
+        },
+        {
+          "_": "Europe",
+          "$": {
+            "domain": "https://www.theguardian.com/world/europe-news"
+          }
+        },
+        {
+          "_": "Culture",
+          "$": {
+            "domain": "https://www.theguardian.com/culture/culture"
+          }
+        },
+        {
+          "_": "Music",
+          "$": {
+            "domain": "https://www.theguardian.com/music/music"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-22T07:57:36.231Z",
+      "created_at": "2026-11-22T07:57:36.231Z"
+    },
+    {
+      "id": 29734,
+      "source": "The Guardian AI",
+      "title_en": "South Korea education minister resigns after AI cheating scandal engulfs university exams",
+      "description_en": "Choi Kyo-jin said he ‘failed to prepare adequately’ for entrance exams, which this year had phones banned and checks for cameras hidden in clothing\nSouth Korea’s education minister resigned on Sunday after an AI-assisted cheating scandal that erupted in the lead-up to the country’s key university entrance exams.\nThe country has been gripped by fears of AI-assisted exam cheating since last Sunday, when the top scorer in a national tax accountant exam confessed to using a miniature camera and smar",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
+      "image_url": "https://i.guim.co.uk/img/media/3d9052371f434580f71c25a962110e47f2e6a076/605_0_6228_4986/master/6228.jpg?width=140&quality=85&auto=format&fit=max&s=b27cbf562e91080e6b506b93ff0b44c3",
+      "pub_date": "Sun, 22 Nov 2026 05:04:39 GMT",
+      "author": "Guardian staff and agencies",
+      "categories": [
+        {
+          "_": "South Korea",
+          "$": {
+            "domain": "https://www.theguardian.com/world/south-korea"
+          }
+        },
+        {
+          "_": "Asia Pacific",
+          "$": {
+            "domain": "https://www.theguardian.com/world/asia-pacific"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-22T07:57:36.231Z",
+      "created_at": "2026-11-22T07:57:36.231Z"
+    },
+    {
+      "id": 29735,
+      "source": "Interesting Engineering",
+      "title_en": "Quantum chromodynamics could explain dark energy origins, scientists say",
+      "description_en": "Despite dark energy making up around 70% of the total energy in the Universe, we...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/science/quantum-origin-dark-energy-physics",
+      "image_url": null,
+      "pub_date": "Sun, 22 Nov 2026 06:55:00 +0000",
+      "author": "Kaushal Kishore",
+      "categories": [
+        "Science"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-22T07:57:37.084Z",
+      "created_at": "2026-11-22T07:57:37.084Z"
+    },
+    {
+      "id": 29736,
+      "source": "Interesting Engineering",
+      "title_en": "US Army to get next-gen autonomous fuel delivery with converted unmanned surface vessels",
+      "description_en": "Textron Systems is strengthening its role in next-generation autonomous maritime operations after supporting NEYA Systems...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/us-army-next-gen-autonomous-fuel-delivery",
+      "image_url": null,
+      "pub_date": "Sun, 22 Nov 2026 06:11:57 +0000",
+      "author": "Prabhat Ranjan Mishra",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-22T07:57:37.084Z",
+      "created_at": "2026-11-22T07:57:37.084Z"
+    },
+    {
+      "id": 29737,
+      "source": "Interesting Engineering",
+      "title_en": "US ally bombarded with ballistic missile, jet-powered drones by nuclear enemy",
+      "description_en": "A Russian ballistic missile and drone strike on the central Ukrainian city of Kryvyi Rih...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/russian-double-tap-strike-kryvyi-rih",
+      "image_url": null,
+      "pub_date": "Sun, 22 Nov 2026 04:29:26 +0000",
+      "author": "Kaif Shaikh",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-22T07:57:37.084Z",
+      "created_at": "2026-11-22T07:57:37.084Z"
+    },
+    {
+      "id": 29738,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "💡 ИИ может захватить власть в ближайший годЧлен совета директоров OpenAI Foundation Пол Кристиано полагает, что в ближайшие 6-12 месяцев существует реальная вероятность, что ИИ выйдет из-под контроля",
+      "description_en": "💡 ИИ может захватить власть в ближайший годЧлен совета директоров OpenAI Foundation Пол Кристиано полагает, что в ближайшие 6-12 месяцев существует реальная вероятность, что ИИ выйдет из-под контроля и захватит власть. «Я бы сказал, что риск на ближайший год ближе к 10%, чем к 1%. Думаю, если разработчики ИИ будут двигаться на полной скорости и не примут мер предосторожности, которые бы их заметно замедлили, риск будет намного выше 10%», — рассказал Кристиано в подкасте Дваркеша Пателя. Он подч",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3867",
+      "image_url": "https://cdn4.telesco.pe/file/fDmPYCGvjeJQVtTVmIgCsk8z_lQZbSFnxJSStxngsLTBIIQHTKHS0949cF-OVq7yYa4TSPTYKoteCHtPTwpLCd1acp6_pvA6uM3BnpjhTqbJSDMFc4jfgLIkuAV1FjusuoZEKQuBXB5Biz2S-HwIeHgJvORNLjLKMlSGsHBUvwc8cXJs4GdOfcJR3TsNzpxJBVB4FAyrgbPTC3LgdOgn-ao0WtIkWHdciN8PxunPUN-81YtDzhCwoF7KwJZJ7B88T4nMNtj3C2wgSMOXOVKVxIo0X0uT8SRFsbWbm1Go1kdNxrRidBx8SW1PuRDw3r0mJFKqgJcGTJbXBOC_idG3QQ.jpg",
+      "pub_date": "2026-11-22T07:43:17+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-22T07:57:38.907Z",
+      "created_at": "2026-11-22T07:57:38.907Z"
+    },
+    {
+      "id": 29739,
+      "source": "AI Post (TG)",
+      "title_en": "🔥 The Riemann proof made with Claude checks out. Mathematicians have certified it\"We have full confidence that Alpöge's proof of the Riemann Hypothesis is correct.\" That is the verdict of the Lean an",
+      "description_en": "🔥 The Riemann proof made with Claude checks out. Mathematicians have certified it\"We have full confidence that Alpöge's proof of the Riemann Hypothesis is correct.\" That is the verdict of the Lean and Mathlib communities in a joint statement, a day after Anthropic mathematician Levent Alpöge released the proof he says he found with Claude.The proof is 17 million lines of Lean, a language in which a computer checks every step. Dozens of people compiled it and got the same result. Two separate to",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8860",
+      "image_url": "https://cdn4.telesco.pe/file/Py3_RWpKpgpRzZeYV62SIq84Az8ZnevMdvJbtg2bTvY_BB2f865Vphyt_E0MFTCXRrElhRT6M4hMNgdpAD61BspROcFaRLtkDftl6j6e4uvJK75cpGlIoBz2SUaSiJRE6YBqgP0O0w7Ag7cmJqncNCQfjsYjYszqr0bSvIzz1sWd-oYw35J-cNOQhG_54-tHTI0BgjLwfh9k5YbR9FP1r-Kr2KXnYXMwqf65e6BY977NVC_OZiVXolkeAs35Uv_N88Fe63zvZV2JVI0PNldykNwrXWtP09rcJ7x9uvZ1heVEH_bNJqggc7vIOLZyWQcg-hD9Sy9gt48BDlVcP8aHxw.jpg",
+      "pub_date": "2026-11-22T04:17:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-22T07:57:39.270Z",
+      "created_at": "2026-11-22T07:57:39.270Z"
+    },
+    {
+      "id": 29740,
+      "source": "AI Post (TG)",
+      "title_en": "💻 On a plane with no internet, Mira Murati's new AI built a flight simulator on a MacBookInkling 2 Mini is the new open model from Thinking Machines Lab. It takes about 20GB, so it runs on a Mac with",
+      "description_en": "💻 On a plane with no internet, Mira Murati's new AI built a flight simulator on a MacBookInkling 2 Mini is the new open model from Thinking Machines Lab. It takes about 20GB, so it runs on a Mac with 32GB of memory or more. The lab's researchers took it on a flight, where it ran offline on a MacBook Pro and built a playable flight simulator in a few minutes.Its trick is looping: the model runs its middle layers three times for every token, so it reasons more and writes less. The lab says it lea",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8861",
+      "image_url": "https://cdn4.telesco.pe/file/tVCxMrCjWZ1tPNZYsP5SiTw64HEb8A0Cp8isfCWeO5EYn9UFFQyVLCph4PP1dh0YKQiNqn4Dt6Rcaf3LDbWowXg0UE3A7x7BRUzcTyJ0RN-vhUdKf-oEcwwlCaRkuf_yL6cdxRcj5Q8ckAg3W7MCCGvdfyFnuG0PCgrl9nWZavUwdFFCuCNDCI03HVyZVz49VRPh99uYCp9swQhcw5TSVotCKUrVTeB1l8kxhcdzacOL5CM_dCSeEEaxFPX7ot7-ixS_V5-1YT9Q1Dn3sMJOphnlTcho4I4ZZ_tuPAMi5S8FQIfK2lJxTQN949AQ9FNBXJMBa6UgY8dWWpNQT6HaSA.jpg",
+      "pub_date": "2026-11-22T07:04:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-22T07:57:39.270Z",
+      "created_at": "2026-11-22T07:57:39.270Z"
+    },
+    {
+      "id": 29741,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 OpenRouter cuts 3 inference providers and pulls 125 endpoints from Zero Data RetentionAfter the MiniMax prompt leak, OpenRouter off-boarded three providers. It also dropped some endpoints as a prec",
+      "description_en": "🚨 OpenRouter cuts 3 inference providers and pulls 125 endpoints from Zero Data RetentionAfter the MiniMax prompt leak, OpenRouter off-boarded three providers. It also dropped some endpoints as a precaution, beyond the ones researchers flagged.Those endpoints only get ZDR back with assurances and validation, and OpenRouter is adapting the researchers' testing to run these checks continuously.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/1092",
+      "image_url": null,
+      "pub_date": "2026-11-22T03:16:35+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-22T07:57:39.570Z",
+      "created_at": "2026-11-22T07:57:39.570Z"
+    },
+    {
+      "id": 29742,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 Together AI's leaked prompts came from a credential its own coding agent committedTogether disclosed that an AI coding agent working on its public xorl repo committed a key to a private Hugging Fac",
+      "description_en": "🚨 Together AI's leaked prompts came from a credential its own coding agent committedTogether disclosed that an AI coding agent working on its public xorl repo committed a key to a private Hugging Face repo of prompt samples. Someone grabbed it, downloaded samples from MiniMax M3, GLM-5.2 and Kimi K2.6 requests, and went hunting for credentials.Together reverted the commit after its scanner flagged the key. It's still working out which customers were hit, and five of the credentials the thief te",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/1093",
+      "image_url": null,
+      "pub_date": "2026-11-22T06:17:35+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-22T07:57:39.570Z",
+      "created_at": "2026-11-22T07:57:39.570Z"
     }
   ]
 }
