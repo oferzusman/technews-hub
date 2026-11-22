@@ -1,20 +1,20 @@
 {
-  "total": 29789,
-  "translated": 29780,
+  "total": 29801,
+  "translated": 29792,
   "untranslated": 9,
-  "today": 64,
-  "week": 899,
+  "today": 76,
+  "week": 911,
   "sources": [
     {
       "name": "Tom's Hardware",
-      "total": 2762,
-      "translated": 2762,
+      "total": 2765,
+      "translated": 2765,
       "lastDate": "Wed, 30 Sep 2026 18:00:39 +0000"
     },
     {
       "name": "Interesting Engineering",
-      "total": 2637,
-      "translated": 2637,
+      "total": 2638,
+      "translated": 2638,
       "lastDate": "Wed, 30 Sep 2026 23:56:36 +0000"
     },
     {
@@ -25,15 +25,15 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 1933,
-      "translated": 1933,
+      "total": 1934,
+      "translated": 1934,
       "lastDate": "Wed, 30 Sep 2026 23:50:01 GMT"
     },
     {
       "name": "AI Post (TG)",
-      "total": 1784,
-      "translated": 1782,
-      "lastDate": "2026-11-22T17:30:07+00:00"
+      "total": 1785,
+      "translated": 1783,
+      "lastDate": "2026-11-22T19:42:01+00:00"
     },
     {
       "name": "The Decoder",
@@ -49,8 +49,8 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 1503,
-      "translated": 1503,
+      "total": 1505,
+      "translated": 1505,
       "lastDate": "Wed, 30 Sep 2026 19:12:28 GMT"
     },
     {
@@ -67,9 +67,9 @@
     },
     {
       "name": "XOR Journal (TG)",
-      "total": 1179,
-      "translated": 1177,
-      "lastDate": "2026-11-22T15:21:02+00:00"
+      "total": 1180,
+      "translated": 1178,
+      "lastDate": "2026-11-22T21:25:01+00:00"
     },
     {
       "name": "The Verge AI",
@@ -79,14 +79,14 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 958,
-      "translated": 958,
-      "lastDate": "2026-11-22T15:20:35+00:00"
+      "total": 960,
+      "translated": 960,
+      "lastDate": "2026-11-22T21:21:48+00:00"
     },
     {
       "name": "MarkTechPost",
-      "total": 944,
-      "translated": 944,
+      "total": 945,
+      "translated": 945,
       "lastDate": "Wed, 30 Sep 2026 21:30:08 +0000"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-11-22T20:19:41.171Z"
+  "generatedAt": "2026-11-22T21:44:56.050Z"
 }
