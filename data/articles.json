@@ -647683,6 +647683,680 @@
       "priority": "hot",
       "fetchedAt": "2026-11-23T11:17:06.059Z",
       "created_at": "2026-11-23T11:17:06.059Z"
+    },
+    {
+      "id": 29845,
+      "source": "Ars Technica",
+      "title_en": "Tri-screen portable monitors aren’t for the faint of heart",
+      "description_en": "Three extra screens boost multitasking but can distract and overwhelm.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/gadgets/2026/11/a-triple-screen-portable-monitor-means-more-pixels-and-more-bulk/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/20261120_163720-1152x648.jpg",
+      "pub_date": "Mon, 23 Nov 2026 12:15:16 +0000",
+      "author": "\n                    Scharon Harding\n                ",
+      "categories": [
+        "Reviews",
+        "Tech",
+        "Monitors",
+        "reviews"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-23T14:09:59.753Z",
+      "created_at": "2026-11-23T14:09:59.753Z"
+    },
+    {
+      "id": 29846,
+      "source": "Ars Technica",
+      "title_en": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
+      "description_en": "The new Asus ProArt laptop costs up to $7,000, but it can run a gaggle of local AI agents.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Asus-P16-3-1152x648.jpg",
+      "pub_date": "Mon, 23 Nov 2026 12:00:00 +0000",
+      "author": "\n                    Ryan Whitwam\n                ",
+      "categories": [
+        "AI",
+        "Features",
+        "Reviews",
+        "ASUS",
+        "local AI",
+        "RTX Spark",
+        "Windows"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-23T14:09:59.753Z",
+      "created_at": "2026-11-23T14:09:59.753Z"
+    },
+    {
+      "id": 29847,
+      "source": "The Decoder",
+      "title_en": "Meta's Alexandr Wang warns the AI industry isn't ready for what's coming after Riemann breakthrough",
+      "description_en": "Meta's Chief AI Officer Alexandr Wang sees the recent AI-assisted proof sketch of the Riemann Hypothesis as a clear sign that superintelligence is right around the corner.\nThe article Meta's Alexandr Wang warns the AI industry isn't ready for what's coming after Riemann breakthrough appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/metas-alexandr-wang-warns-the-ai-industry-isnt-ready-for-whats-coming-after-riemann-breakthrough/",
+      "image_url": null,
+      "pub_date": "Mon, 23 Nov 2026 13:59:36 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "AGI",
+        "Meta",
+        "Meta AI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-23T14:10:01.300Z",
+      "created_at": "2026-11-23T14:10:01.300Z"
+    },
+    {
+      "id": 29848,
+      "source": "The Decoder",
+      "title_en": "US spies tracked Nvidia scandal figure's ties to Chinese intelligence for over a year",
+      "description_en": "US intelligence agencies tracked contacts between Alice Huang and China's Ministry of State Security for over a year, the New York Times reports. The surveillance ran parallel to her secret affair with then-Nvidia CEO Jensen Huang. Federal investigators are now looking into whether a network of companies in Southeast Asia was used to smuggle AI chips into China in violation of US export controls. Jensen Huang is scheduled to testify before the US House of Representatives on December 1.\nThe artic",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/us-spies-tracked-nvidia-scandal-figures-ties-to-chinese-intelligence-for-over-a-year/",
+      "image_url": null,
+      "pub_date": "Mon, 23 Nov 2026 13:45:32 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "Short News",
+        "China",
+        "Nvidia",
+        "USA"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-23T14:10:01.300Z",
+      "created_at": "2026-11-23T14:10:01.300Z"
+    },
+    {
+      "id": 29849,
+      "source": "The Decoder",
+      "title_en": "GPT-6.2 Astra solved a math theorem no other AI could crack, then invented its own proof strategy",
+      "description_en": "OpenAI's GPT-6.2 Astra independently produced a machine-verifiable Lean proof of Smoktunowicz's gap theorem, the first of its kind according to Vals AI. The model chose its own approach because key foundations were missing from Mathlib. On Autoform-Hard, Astra now leads the leaderboard with 49 of 56 tasks solved.\nThe article GPT-6.2 Astra solved a math theorem no other AI could crack, then invented its own proof strategy appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/gpt-6-2-astra-solved-a-math-theorem-no-other-ai-could-crack-then-invented-its-own-proof-strategy/",
+      "image_url": null,
+      "pub_date": "Mon, 23 Nov 2026 12:17:01 +0000",
+      "author": "Manuel Uth",
+      "categories": [
+        "AI research",
+        "Artificial Intelligence",
+        "Short News",
+        "AI and math",
+        "Astra",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-23T14:10:01.300Z",
+      "created_at": "2026-11-23T14:10:01.300Z"
+    },
+    {
+      "id": 29850,
+      "source": "MIT Technology Review",
+      "title_en": "The Download: AI’s judgment problem and carbon removal’s crop threat",
+      "description_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The most misunderstood graph in AI just got a major update A new report from the AI evaluation nonprofit METR finds that some capabilities are improving exponentially—but models aren’t as good…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
+      "image_url": null,
+      "pub_date": "Mon, 23 Nov 2026 13:10:00 +0000",
+      "author": "Thomas Macaulay",
+      "categories": [
+        "The Download"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-23T14:10:01.421Z",
+      "created_at": "2026-11-23T14:10:01.421Z"
+    },
+    {
+      "id": 29851,
+      "source": "MIT Technology Review",
+      "title_en": "Why using rocks for carbon removal could eventually reduce crop growth",
+      "description_en": "Tech companies are investing a lot of hope and money in rocks. Google, Microsoft, and others have committed hundreds of millions of dollars to get startups to spread crushed basalt, olivine, or other alkaline materials across farms, in an effort to capture carbon from the air and lock it away. A number of influential models…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
+      "image_url": null,
+      "pub_date": "Mon, 23 Nov 2026 11:00:00 +0000",
+      "author": "James Temple",
+      "categories": [
+        "Climate change and energy",
+        "App",
+        "Summary"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-23T14:10:01.421Z",
+      "created_at": "2026-11-23T14:10:01.421Z"
+    },
+    {
+      "id": 29852,
+      "source": "Hugging Face Blog",
+      "title_en": "How to build and maintain an agentic evaluation",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://huggingface.co/blog/agentic-evals",
+      "image_url": null,
+      "pub_date": "Mon, 23 Nov 2026 00:00:00 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-23T14:10:01.547Z",
+      "created_at": "2026-11-23T14:10:01.547Z"
+    },
+    {
+      "id": 29853,
+      "source": "The Guardian AI",
+      "title_en": "‘Pervert glasses’ named word of the year by Macquarie dictionary, ahead of ‘nudify’ and ‘AI;DR’",
+      "description_en": "Australian dictionary’s committee of word experts says winning term is ‘a succinct reflection of the state of the world in 2026’\n\nGet our breaking news email, free app or daily news podcast\n\nThe backlash to “pervert glasses” has been swift and severe.\nSmartglasses such as Meta’s Ray-Bans, which have built-in cameras, microphones, and AI assistants have been banned at some Australian swimming pools and playgrounds, and condemned as a possible invasion of privacy.\n Continue reading...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/science/2026/nov/23/pervert-glasses-meta-word-of-the-year-macquarie-dictionary-nudify-aidr",
+      "image_url": "https://i.guim.co.uk/img/media/157cb03ca11449508590bbb8b23daca70b5a59ce/418_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=3e842895d6ccaf9e9f6342fb5695c9ff",
+      "pub_date": "Mon, 23 Nov 2026 13:55:40 GMT",
+      "author": "Caitlin Cassidy",
+      "categories": [
+        {
+          "_": "Language",
+          "$": {
+            "domain": "https://www.theguardian.com/science/language"
+          }
+        },
+        {
+          "_": "Australian books",
+          "$": {
+            "domain": "https://www.theguardian.com/books/australian-books"
+          }
+        },
+        {
+          "_": "Australia news",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/australia-news"
+          }
+        },
+        {
+          "_": "Linguistics",
+          "$": {
+            "domain": "https://www.theguardian.com/education/linguistics"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-23T14:10:02.126Z",
+      "created_at": "2026-11-23T14:10:02.126Z"
+    },
+    {
+      "id": 29854,
+      "source": "The Guardian AI",
+      "title_en": "Dylan Moran goes looking for trouble and disappears off the beaten track in this baffling comedy show",
+      "description_en": "Royal & Derngate, Northampton\nThe Black Books star gets off to a promising start as he contemplates ‘the burning ball of what you don’t understand’ but his search for levity leads to half-baked ditties\nIs Dylan Moran joking when he opens his show by telling Northampton’s audience “I didn’t write anything, or prepare”? By the end, you wouldn’t bet on it. Bleary directionlessness may be par for the course for the Irish comic, whose work has always combined poetic-philosophical dazzle with a certai",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/stage/2026/nov/23/dylan-moran-looking-for-trouble-review",
+      "image_url": "https://i.guim.co.uk/img/media/06cdcd75701ea082b0e53f418adb0a889c35729a/1653_754_2048_1639/master/2048.jpg?width=140&quality=85&auto=format&fit=max&s=56d55dd0596e8cec97fda8bc89459a72",
+      "pub_date": "Mon, 23 Nov 2026 13:32:49 GMT",
+      "author": "Brian Logan",
+      "categories": [
+        {
+          "_": "Comedy",
+          "$": {
+            "domain": "https://www.theguardian.com/stage/comedy"
+          }
+        },
+        {
+          "_": "Dylan Moran",
+          "$": {
+            "domain": "https://www.theguardian.com/stage/dylan-moran"
+          }
+        },
+        {
+          "_": "Stage",
+          "$": {
+            "domain": "https://www.theguardian.com/stage/stage"
+          }
+        },
+        {
+          "_": "Comedy",
+          "$": {
+            "domain": "https://www.theguardian.com/culture/comedy"
+          }
+        },
+        {
+          "_": "Culture",
+          "$": {
+            "domain": "https://www.theguardian.com/culture/culture"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-23T14:10:02.126Z",
+      "created_at": "2026-11-23T14:10:02.126Z"
+    },
+    {
+      "id": 29855,
+      "source": "The Guardian AI",
+      "title_en": "AI conquered chess. What happened next should give us hope",
+      "description_en": "As two 20-year-old prodigies prepare to battle in the world chess championship, the game offers a surprising lesson about AI and what it cannot replicate\nThe upcoming world chess championship between Uzbekistan’s Javokhir Sindarov and India’s Gukesh Dommaraju in Geneva has all the makings of a barnburner.\nEarlier this year, Sindarov, 20, won the Candidates Tournament as an outside longshot with a magnificent attacking style that overwhelmed the competition, locking up his title shot with a strin",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/sport/ng-interactive/2026/nov/23/chess-world-championship-ai",
+      "image_url": "https://i.guim.co.uk/img/media/27a66ef88057d6d195408e202c3dfc9face73bec/0_359_2400_1919/master/2400.jpg?width=140&quality=85&auto=format&fit=max&s=9d346e8f8c324929f31f5d5ce02178ec",
+      "pub_date": "Mon, 23 Nov 2026 13:00:31 GMT",
+      "author": "Stephen Marche",
+      "categories": [
+        {
+          "_": "Sport",
+          "$": {
+            "domain": "https://www.theguardian.com/sport/sport"
+          }
+        },
+        {
+          "_": "Chess",
+          "$": {
+            "domain": "https://www.theguardian.com/sport/chess"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-23T14:10:02.126Z",
+      "created_at": "2026-11-23T14:10:02.126Z"
+    },
+    {
+      "id": 29856,
+      "source": "Interesting Engineering",
+      "title_en": "Superintelligence could soon surpass humans, warns Meta executive amid safety concerns",
+      "description_en": "Meta Chief AI Officer Alexandr Wang has warned that artificial superintelligence (ASI), capable of surpassing...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/ai-surpass-human-intelligence",
+      "image_url": "https://www.youtube.com/embed/u5aACewFWaw",
+      "pub_date": "Mon, 23 Nov 2026 13:46:31 +0000",
+      "author": "Jijo Malayil",
+      "categories": [
+        "AI and Robotics"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-23T14:10:03.123Z",
+      "created_at": "2026-11-23T14:10:03.123Z"
+    },
+    {
+      "id": 29857,
+      "source": "Interesting Engineering",
+      "title_en": "World’s first 1,500V DC contactor handles 600A with 150,000 switching cycles",
+      "description_en": "Siemens has introduced the SIRIUS 3QC1, the world’s first semiconductor-based heavy-duty direct current (DC) contactor...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/innovation/siemens-worlds-first-1500v-dc-contactor",
+      "image_url": null,
+      "pub_date": "Mon, 23 Nov 2026 13:45:59 +0000",
+      "author": "Mrigakshi Dixit",
+      "categories": [
+        "Innovation"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-23T14:10:03.123Z",
+      "created_at": "2026-11-23T14:10:03.123Z"
+    },
+    {
+      "id": 29858,
+      "source": "Interesting Engineering",
+      "title_en": "World’s first 300 MW artificial-cavern energy storage plant connects to China’s grid",
+      "description_en": "China has connected a 300-megawatt compressed air energy storage plant to the power grid, using...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/energy/china-caes-plant-grid-world-first",
+      "image_url": null,
+      "pub_date": "Mon, 23 Nov 2026 13:37:23 +0000",
+      "author": "Munis Raza",
+      "categories": [
+        "Energy"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-23T14:10:03.123Z",
+      "created_at": "2026-11-23T14:10:03.123Z"
+    },
+    {
+      "id": 29859,
+      "source": "Interesting Engineering",
+      "title_en": "US Army unleashes modular drones equipped with lethal bombs in live-fire drills",
+      "description_en": "Soldiers with the 101st Airborne Division (Air Assault) recently spent a week turning standard reconnaissance...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/us-army-modular-drones-with-bombs",
+      "image_url": null,
+      "pub_date": "Mon, 23 Nov 2026 13:27:06 +0000",
+      "author": "Mrigakshi Dixit",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-23T14:10:03.123Z",
+      "created_at": "2026-11-23T14:10:03.123Z"
+    },
+    {
+      "id": 29860,
+      "source": "Interesting Engineering",
+      "title_en": "Humanoid robots trade punches, kicks, and blade strikes in San Francisco’s event",
+      "description_en": "Humanoid robots have entered the combat sports arena, with a Silicon Valley event showcasing machines...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/humanoid-robots-face-off",
+      "image_url": "https://www.youtube.com/embed/D9Br0hD6jUw",
+      "pub_date": "Mon, 23 Nov 2026 13:06:14 +0000",
+      "author": "Jijo Malayil",
+      "categories": [
+        "AI and Robotics"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-23T14:10:03.123Z",
+      "created_at": "2026-11-23T14:10:03.123Z"
+    },
+    {
+      "id": 29861,
+      "source": "Tom's Hardware",
+      "title_en": "Russia readying nuclear-armed satellite that could destroy every low-Earth-orbit satellite, report claims",
+      "description_en": "Intelligence agencies believe that Russia has spent the last several years readying Sputnik-S, a satellite armed with a nuclear weapon that could be used to destroy rival satellites in Earth's orbit — and it's expected to launch before the end of 2026.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/space/russia-readying-nuclear-armed-satellite-that-could-destroy-every-low-earth-orbit-satellite-report-claims-kremlin-blasts-sputnik-s-claims-as-unfounded-allegations-and-propaganda",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/weuJYZ7wRLJCvauEdrFjPP-1920-80.jpg",
+      "pub_date": "Mon, 23 Nov 2026 14:00:00 +0000",
+      "author": " Oliver Haslam ",
+      "categories": [
+        "Space",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-23T14:10:03.495Z",
+      "created_at": "2026-11-23T14:10:03.495Z"
+    },
+    {
+      "id": 29862,
+      "source": "Tom's Hardware",
+      "title_en": "The RTX 5090’s 16-pin connector just got a free pin-by-pin watchdog",
+      "description_en": "RTX Lens, a free open-source Windows app, reads per-pin current from Asus ROG Astral GPUs, WireView Pro II and MSI PSUs.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/gpus/the-rtx-5090s-16-pin-connector-just-got-a-free-pin-by-pin-watchdog-rtx-lens-taps-asus-astral-wireview-pro-ii-and-msi-psu-sensors-to-alert-your-phone-or-shut-down-your-pc",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/rbu2h6JFJkeByAw3SJAbrg-1920-80.jpg",
+      "pub_date": "Mon, 23 Nov 2026 13:30:00 +0000",
+      "author": " Shane Downing ",
+      "categories": [
+        "GPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-23T14:10:03.495Z",
+      "created_at": "2026-11-23T14:10:03.495Z"
+    },
+    {
+      "id": 29863,
+      "source": "Tom's Hardware",
+      "title_en": "AI server makers hike prices up to 45% months after contracts are signed as RAM shortage triples memory-heavy CPU node costs",
+      "description_en": "AI server OEMs are hiking prices post-contract up to 45% — financial firms building datacenters still pay up as \"the compute is valuable\"",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/ai-server-makers-hike-prices-up-to-45-percent-months-after-contracts-are-signed-as-ram-shortage-triples-memory-heavy-cpu-node-costs-financial-firms-still-pay-up-as-the-compute-is-valuable",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/ZJSVRpaCtkGTUSuxavfnsC-1920-80.jpg",
+      "pub_date": "Mon, 23 Nov 2026 12:30:00 +0000",
+      "author": " Bruno Ferreira ",
+      "categories": [
+        "Big Tech",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-23T14:10:03.495Z",
+      "created_at": "2026-11-23T14:10:03.495Z"
+    },
+    {
+      "id": 29864,
+      "source": "Tom's Hardware",
+      "title_en": "President Trump says Nvidia board rehiring Jensen Huang would be best for the company and US",
+      "description_en": "After saying that Nvidia's new CEO should come \"outside the company,\" U.S. Treasury Secretary Scott Bessent now argues that former chief Jensen Huang \"is on the outside,\" paving the way for a return following President Trump's declaration of his \"hope\" that Huang will be back.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/president-trump-says-nvidia-board-rehiring-jensen-huang-would-be-best-for-the-company-and-the-us-treasury-sec-bessent-walks-back-outsider-ceo-comments-claims-huang-is-technically-an-outsider-now",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/NfVpgKshf2uGNfh2twNZmj-1920-80.jpg",
+      "pub_date": "Mon, 23 Nov 2026 11:59:00 +0000",
+      "author": " Oliver Haslam ",
+      "categories": [
+        "Big Tech",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-23T14:10:03.495Z",
+      "created_at": "2026-11-23T14:10:03.495Z"
+    },
+    {
+      "id": 29865,
+      "source": "Tom's Hardware",
+      "title_en": "Weird finger-wearable gaming mouse raises $43,000 on Kickstarter, a staggering 8x its crowdfunding goal",
+      "description_en": "The Borslon finger-worn gaming mouse is the first of its kind, reaching $43,000 in its Kickstarter campaign and shattering its $5,000 goal. However, it may have some major design flaws.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/peripherals/gaming-mice/weird-finger-wearable-gaming-mouse-kickstarter-breaks-8x-its-crowdfunding-goal-but-it-potentially-has-major-design-flaws-and-is-kind-of-sketchy",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/mCFjVhhP3Kjeye7xTryyAc-1920-80.jpg",
+      "pub_date": "Mon, 23 Nov 2026 11:30:00 +0000",
+      "author": " Jhet Borja ",
+      "categories": [
+        "Gaming Mice",
+        "Peripherals",
+        "Mice"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-23T14:10:03.495Z",
+      "created_at": "2026-11-23T14:10:03.495Z"
+    },
+    {
+      "id": 29866,
+      "source": "CNBC Tech",
+      "title_en": "SpaceX sued by Oregon and Virginia over AI deepfake porn, Grok safety claims",
+      "description_en": "The states are seeking civil penalties and injunctions to stop Grok and X from creation and distribution of nonconsensual sexualized images.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/23/oregon-virginia-spacex-grok-deepfake-lawsuits.html",
+      "image_url": null,
+      "pub_date": "Mon, 23 Nov 2026 12:40:37 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-23T14:10:03.578Z",
+      "created_at": "2026-11-23T14:10:03.578Z"
+    },
+    {
+      "id": 29867,
+      "source": "CNBC Tech",
+      "title_en": "Futures rally after Wall Street's nightmare week",
+      "description_en": "Investors look to buy the dip as technology stocks lead early gains for the Nasdaq",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/23/futures-rally-after-wall-streets-nightmare-week-.html",
+      "image_url": null,
+      "pub_date": "Mon, 23 Nov 2026 11:10:34 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-23T14:10:03.579Z",
+      "created_at": "2026-11-23T14:10:03.579Z"
+    },
+    {
+      "id": 29868,
+      "source": "Backdoor (TG)",
+      "title_en": "⚡️ Хуанга вернули в Nvidia на пост CEO — решение Совета директоров. Куртка снова у руля.👍 Бэкдор",
+      "description_en": "⚡️ Хуанга вернули в Nvidia на пост CEO — решение Совета директоров. Куртка снова у руля.👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/33266",
+      "image_url": "https://cdn4.telesco.pe/file/uqdN6_jld14xyDPp6RNlaFCM7Xkk8rpV4425ALj3K8ESQb8gJeGW5wDxD2W2CBT6oL6L-xlv0BwP7VqLO8LGOCsFUgVMNs3h4123BfjnJr0RdBc2_bOpNulQIOYiXDBtplSJSGHuJzZsq2c17EPtgOaeTudy-2EhELvO6ETe26uR-Xu0HVZUfWBOgpIdwTIbiDxFUsgcz0YuuH_iMhF9-_j0IY3gkgeOJah0BxgVB8_1u_n8T2Fym3h8WergyLoV3Pp4xhD7c1kQubog5lEfeIh8Z5K_nf8pBDdW926aaqAou_JNAsd_LvYFV07EqYUbZH4y4zFxIskGo7kUzrzUOQ.jpg",
+      "pub_date": "2026-11-23T13:58:54+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-23T14:10:04.183Z",
+      "created_at": "2026-11-23T14:10:04.183Z"
+    },
+    {
+      "id": 29869,
+      "source": "Backdoor (TG)",
+      "title_en": "NVIDIA взлетает ракетой на 30% после новости о возвращении Хуанга.Наш слон.👍 Бэкдор",
+      "description_en": "NVIDIA взлетает ракетой на 30% после новости о возвращении Хуанга.Наш слон.👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/33268",
+      "image_url": "https://cdn4.telesco.pe/file/A_p-vubLdTXQp4jMNGBs1E9ff7n4sKLh4hLh7G9uNCqCQKo0Yl66SYW6ZZZxItCIxz4nmAruZM7XdJnvreQSGtmzaNZuYsOYw-oaG218IjN-HnfcE86fbDowPNElREfDvUj2QUOvT_nnG4wXR6joIlQaVXQlynHJ3e8STT0mWRxO_1wATUX-HIvV5x6_SehQ8QJLWB3cycybeO1oosUy3FFFDoFYT_27Qk3fJ814fbUYvLnWvXRjGVqOgzzZDdzqqMozrS9jJ09Cy_J3GYaIQD_-qy5mNFXdy91o3bfr_mEdlO_B2MZ1YPW2aAY_RbC5o45RoCjZUyj2XVkSiC4a7Q.jpg",
+      "pub_date": "2026-11-23T14:06:40+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-23T14:10:04.183Z",
+      "created_at": "2026-11-23T14:10:04.183Z"
+    },
+    {
+      "id": 29870,
+      "source": "Wylsacom Red (TG)",
+      "title_en": "КУДА: акции NVIDIA устремились ввысь после восстановления Дженсена Хуанга в должности гендира компании.Интересно, с кем он переспал в этот раз?",
+      "description_en": "КУДА: акции NVIDIA устремились ввысь после восстановления Дженсена Хуанга в должности гендира компании.Интересно, с кем он переспал в этот раз?",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/Wylsared/37308",
+      "image_url": "https://cdn4.telesco.pe/file/F6vNPIMIQUD5jbO-n5ThDffIUyVqBy9dsewwL5h4tAlpyBtUO6SGNtAFMTnbocrhhiT5RYB-Ey9ZUa7mUaWxA_HzM73zuN95Hs5-cW8_uVaOI-91HO4_qd4dcAxz5Qtl-Vg8fzqXWLxmGDhQgTPj_jtXXo08BZUeeWuMoI1yWWJpf5tZ27KCfD-JoqTyH9z6Eny85H5yUVKnJkvOp5FT1RLhXwrvKVL0NaCoBkgjpqf-qQbS4EJXRUTGZ59sJuF9sgmDlheB4MgpVXE_1ISjzIkdaQL1jfI5anT_44PF8nQqNybZyPRXsQQ2CaGXXFQLv25y2I091I7efYHqK0zhCQ.jpg",
+      "pub_date": "2026-11-23T14:02:03+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-23T14:10:04.209Z",
+      "created_at": "2026-11-23T14:10:04.209Z"
+    },
+    {
+      "id": 29871,
+      "source": "XOR Journal (TG)",
+      "title_en": "Разрабы могут спать спокойно: ИИ-агенты смогли полностью выполнить меньше 8% реальных рабочих задач 🤭Исследователи создали виртуальную ИТ-компанию и подготовили 101 задачу на основе реальных проектов",
+      "description_en": "Разрабы могут спать спокойно: ИИ-агенты смогли полностью выполнить меньше 8% реальных рабочих задач 🤭Исследователи создали виртуальную ИТ-компанию и подготовили 101 задачу на основе реальных проектов по разработке на 11 ЯП. Агентам нужно было разбираться в документации, общаться с виртуальными коллегами, писать код и проверять результат.В итоге даже лучшие модели, GPT-6 Astra и Claude Opus 5.5, не справились с 90% задач.Работаем, коллеги 😉😉@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10587",
+      "image_url": "https://cdn4.telesco.pe/file/mo8-uu1nKItE4Gr4wcMERFml9IAVmPIx8cwKm84_fK-mdEj_XZ3sTog2sKI9_VaTOalgeOWIAUsQc15B-VIedox7qzi8cTDe3gILyzNN1SxBG5iuWJdIQsF5XIbGl6ywsqM3UE9LmJPlGFmXkqMsyHB36KI0YjQUPEJ05Kl6oNlINKd_KYyEyspNHU6QF8V_1vSd7LGDAvV37ZgvOvdzEaN_wyPi0eGeVw6KMZjRM7_iIP8dE_Xyunv6mkS8EWYXHeBglH024i7Ac1oTx0ZR3gcwk78YAtQafJB1bTPDAALDfBWkS5nHE1jqwTd0wB1iUzaUjTsJBf9f3AArZxEZvg.jpg",
+      "pub_date": "2026-11-23T11:42:31+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-23T14:10:04.239Z",
+      "created_at": "2026-11-23T14:10:04.239Z"
+    },
+    {
+      "id": 29872,
+      "source": "XOR Journal (TG)",
+      "title_en": "⚡️ ОН ВЕРНУЛСЯ: Дженсен Хуанг снова возглавил NVIDIA — совет директоров единогласно восстановил его в должности гендиректора. 🔥 — Легенда.@xor_journal",
+      "description_en": "⚡️ ОН ВЕРНУЛСЯ: Дженсен Хуанг снова возглавил NVIDIA — совет директоров единогласно восстановил его в должности гендиректора. 🔥 — Легенда.@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10588",
+      "image_url": null,
+      "pub_date": "2026-11-23T14:04:15+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-23T14:10:04.239Z",
+      "created_at": "2026-11-23T14:10:04.239Z"
+    },
+    {
+      "id": 29873,
+      "source": "AI Post (TG)",
+      "title_en": "🤖 Dozens of AI agents are trying to solve P vs NP right now, and anyone can watchA new site, P = NP?, livestreams a coordinated fleet of AI agents attacking the most famous open problem in computer s",
+      "description_en": "🤖 Dozens of AI agents are trying to solve P vs NP right now, and anyone can watchA new site, P = NP?, livestreams a coordinated fleet of AI agents attacking the most famous open problem in computer science. Brilliant, a design tool company, runs it, and every claim the agents make goes through the Lean proof checker.A screenshot posted Sunday night showed 86 agents working at that moment and 1,740 agent sessions so far. Of 385 lemmas, 334 were checked and 5 refuted.The site's own verdict is “op",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8873",
+      "image_url": "https://cdn4.telesco.pe/file/vB7AdpaQZigeBoYj1bKqlHj7NF20Vr6EEZQ92ZZfVC1ktgdEWBQx7LBO_cPA3rlHM-sMUOl5oahdPgCayDHOvue4-YXNxNN0hN__q5WTx0WRL5N_FBnVwiDRW_65kp3Vyr6p4Q7mBD6fKDDIKQYUKxTReVgQ8jk5vv31uHFGLupq6jK_C6QxjRzET9wp8J0XaH0N8p2czd2lqqoGcfyQTLaZ17NK58YGNaiteiM6_4UGBojiwEvoBtR-EwZWqdA_7nGFlq_L3bNMZ2uu8-G6osSih38BpdYLjin6AnsyQN_zuJmYSYqeL0BpAS6_qN5NrgcVX_nBGjdXGRy5N9YmyQ.jpg",
+      "pub_date": "2026-11-23T11:27:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-23T14:10:04.819Z",
+      "created_at": "2026-11-23T14:10:04.819Z"
+    },
+    {
+      "id": 29874,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🤖 HAProxy's lead got Mythos bug reports on his own code, and they were close to unusableWilly Tarreau says two batches of 30 to 50 findings arrived with no reproducers, no patches, no commit ID, and ",
+      "description_en": "🤖 HAProxy's lead got Mythos bug reports on his own code, and they were close to unusableWilly Tarreau says two batches of 30 to 50 findings arrived with no reproducers, no patches, no commit ID, and walls of text in single-line paragraphs. A colleague who validated and patched the bugs by hand got far better results.He's a Linux kernel security team member, and he still can't get Mythos access himself.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/1104",
+      "image_url": null,
+      "pub_date": "2026-11-23T11:35:48+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-23T14:10:05.043Z",
+      "created_at": "2026-11-23T14:10:05.043Z"
     }
   ]
 }
