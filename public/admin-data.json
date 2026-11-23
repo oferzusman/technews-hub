@@ -1,9 +1,9 @@
 {
-  "total": 29942,
-  "translated": 29932,
+  "total": 29946,
+  "translated": 29936,
   "untranslated": 10,
-  "today": 138,
-  "week": 916,
+  "today": 142,
+  "week": 920,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -25,14 +25,14 @@
     },
     {
       "name": "CNBC Tech",
-      "total": 1945,
-      "translated": 1945,
+      "total": 1947,
+      "translated": 1947,
       "lastDate": "Wed, 30 Sep 2026 23:50:01 GMT"
     },
     {
       "name": "AI Post (TG)",
       "total": 1796,
-      "translated": 1793,
+      "translated": 1794,
       "lastDate": "2026-11-23T20:01:01+00:00"
     },
     {
@@ -62,7 +62,7 @@
     {
       "name": "Ars Technica",
       "total": 1288,
-      "translated": 1288,
+      "translated": 1287,
       "lastDate": "Wed, 30 Sep 2026 20:44:48 +0000"
     },
     {
@@ -73,9 +73,9 @@
     },
     {
       "name": "The Verge AI",
-      "total": 1132,
-      "translated": 1132,
-      "lastDate": "2026-11-23T22:09:26.000Z"
+      "total": 1133,
+      "translated": 1133,
+      "lastDate": "2026-11-23T22:25:12.000Z"
     },
     {
       "name": "Prompt AI News (TG)",
@@ -97,8 +97,8 @@
     },
     {
       "name": "OpenAI Blog",
-      "total": 744,
-      "translated": 744,
+      "total": 745,
+      "translated": 745,
       "lastDate": "Wed, 30 Sep 2026 10:30:00 GMT"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-11-23T22:48:47.073Z"
+  "generatedAt": "2026-11-23T22:50:53.064Z"
 }
