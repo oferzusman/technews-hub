@@ -649818,6 +649818,76 @@
       "priority": "batch",
       "fetchedAt": "2026-11-23T22:13:12.229Z",
       "created_at": "2026-11-23T22:13:12.229Z"
+    },
+    {
+      "id": 29943,
+      "source": "The Verge AI",
+      "title_en": "Trump engineered a risky comeback for Jensen Huang",
+      "description_en": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's radio show shortly after the news came out, Trump said that Huang would \"end up on his feet.\"\n\"You know the expression, anybody can be replaced,\" Trump said, floating Apple's ex-CEO Tim Cook as a potential CEO candidate.\nIt didn't take long for Trump to begin sof",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
+      "image_url": null,
+      "pub_date": "2026-11-23T22:25:12.000Z",
+      "author": "Lauren Feiner",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-23T22:46:24.083Z",
+      "created_at": "2026-11-23T22:46:24.083Z"
+    },
+    {
+      "id": 29944,
+      "source": "OpenAI Blog",
+      "title_en": "OpenAI and Cisco introduce Shirudo",
+      "description_en": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/index/introducing-shirudo",
+      "image_url": null,
+      "pub_date": "Mon, 23 Nov 2026 21:20:00 GMT",
+      "author": null,
+      "categories": [
+        "Security"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-23T22:46:25.194Z",
+      "created_at": "2026-11-23T22:46:25.194Z"
+    },
+    {
+      "id": 29945,
+      "source": "CNBC Tech",
+      "title_en": "What Jensen Huang’s return means for Nvidia’s Colette Kress",
+      "description_en": "Kress steered the company through billions in AI financing deals and during Huang's sudden departure. Now she's back to full-time CFO.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-returns-colette-kress-cfo.html",
+      "image_url": null,
+      "pub_date": "Mon, 23 Nov 2026 22:18:23 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-23T22:46:29.603Z",
+      "created_at": "2026-11-23T22:46:29.603Z"
+    },
+    {
+      "id": 29946,
+      "source": "CNBC Tech",
+      "title_en": "Exclusive CNBC Transcript: See how Trump 'made the deal' to reinstate Huang as Nvidia CEO",
+      "description_en": "Read CNBC’s exclusive interview with President Donald Trump on how he “made the deal” to reinstate Jensen Huang as Nvidia CEO.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang-reinstatement-cnbc-interview-transcript.html",
+      "image_url": null,
+      "pub_date": "Mon, 23 Nov 2026 21:53:49 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-23T22:46:29.604Z",
+      "created_at": "2026-11-23T22:46:29.604Z"
     }
   ]
 }
