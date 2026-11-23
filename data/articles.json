@@ -647534,6 +647534,155 @@
       "priority": "batch",
       "fetchedAt": "2026-11-23T10:37:52.047Z",
       "created_at": "2026-11-23T10:37:52.047Z"
+    },
+    {
+      "id": 29839,
+      "source": "The Verge AI",
+      "title_en": "Meta Muse can now do your Black Friday shopping at Walmart",
+      "description_en": "Muse can find Walmart’s Black Friday deals so that you don’t have to. | Image: Walmart\t\n\nWalmart will now let Meta's Muse shop on its website on your behalf, allowing the AI agent to find and purchase Black Friday deals. The retail giant is rolling out a live implementation of the Agent Gateway it announced last month, which helps AI agents find relevant products for you without sharing your purchase history, according to Walmart.\nMuse can make purchases through Walmart's \"Agent Profiles,\" which",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
+      "image_url": null,
+      "pub_date": "2026-11-23T11:00:00.000Z",
+      "author": "Jess Weatherbed",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-23T11:16:52.490Z",
+      "created_at": "2026-11-23T11:16:52.490Z"
+    },
+    {
+      "id": 29840,
+      "source": "MarkTechPost",
+      "title_en": "27 Cybersecurity Terms to Prepare You for the Age of AI",
+      "description_en": "AI now sits on both sides of the security fight, and the vocabulary has changed with it. IBM’s 2026 Cost of a Data Breach Report found that 1 in 4 malicious breaches were AI-enabled, up 56% year over year. Those breaches cost an average of $6 million, about $1 million above the $4.99 million global […]\nThe post 27 Cybersecurity Terms to Prepare You for the Age of AI appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/11/23/27-ai-cybersecurity-terms/",
+      "image_url": null,
+      "pub_date": "Mon, 23 Nov 2026 10:40:16 +0000",
+      "author": "Michal Sutter",
+      "categories": [
+        "Agentic AI",
+        "Editors Pick",
+        "For Devs",
+        "Security",
+        "Software Engineering",
+        "Staff"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-23T11:16:56.299Z",
+      "created_at": "2026-11-23T11:16:56.299Z"
+    },
+    {
+      "id": 29841,
+      "source": "The Guardian AI",
+      "title_en": "Anthropic’s IPO was great for the tech elite – and not so great for the rest of us | Steven Greenhouse",
+      "description_en": "The company’s co-founders are now wildly rich, while countless Americans face AI-driven threats to their jobs and fears of a stock bubble\nThe sultans of Silicon Valley and the wizards of Wall Street rejoiced this week when Anthropic raised an eye-popping $81bn in the largest initial public offering in history. They saw the AI company’s IPO as a gung-ho affirmation of Silicon Valley’s and Wall Street’s marriage of technology and capitalism.\nFor many employees at the company that developed Claude,",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/23/anthropic-ipo-tech-elite-stock-bubble",
+      "image_url": "https://i.guim.co.uk/img/media/e995872632f395c047afb2146a3d835a2f8e4b77/504_0_5040_4032/master/5040.jpg?width=140&quality=85&auto=format&fit=max&s=293a7093cb9a5743b4d8fcf7fde21b9e",
+      "pub_date": "Mon, 23 Nov 2026 11:00:57 GMT",
+      "author": "Steven Greenhouse",
+      "categories": [
+        {
+          "_": "Anthropic",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/anthropic"
+          }
+        },
+        {
+          "_": "Stock markets",
+          "$": {
+            "domain": "https://www.theguardian.com/business/stock-markets"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "US economy",
+          "$": {
+            "domain": "https://www.theguardian.com/business/useconomy"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-23T11:16:57.193Z",
+      "created_at": "2026-11-23T11:16:57.193Z"
+    },
+    {
+      "id": 29842,
+      "source": "Tom's Hardware",
+      "title_en": "Homelabber's $3,500 build straps four 32GB Nvidia V100s to a Lenovo mini PC for 128GB of VRAM",
+      "description_en": "A homelab builder runs four used Nvidia Tesla V100 32GB GPUs off a Lenovo ThinkCentre M720q Tiny over OCuLink for 128GB of VRAM.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/homelabbers-usd3-500-build-straps-four-32gb-nvidia-v100s-to-a-lenovo-mini-pc-for-128gb-of-vram-coreboot-oculink-docks-and-a-solder-bridge-unlock-285-tokens-sec-in-qwen3-8-27b",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/5ZyMS8WJrHKpGBjgF6DXxn-1920-80.jpg",
+      "pub_date": "Mon, 23 Nov 2026 11:00:00 +0000",
+      "author": " Shane Downing ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-23T11:17:00.330Z",
+      "created_at": "2026-11-23T11:17:00.330Z"
+    },
+    {
+      "id": 29843,
+      "source": "CNBC Tech",
+      "title_en": "‘Worst COP ever’: Climate talks collapse after draft deal fails to include fossil fuels",
+      "description_en": "Governments and campaigners rejected the \"cover decision\" drafted at the U.N.'s climate summit, COP31, on Sunday.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/23/cop31-climate-summit-fossil-fuels.html",
+      "image_url": null,
+      "pub_date": "Mon, 23 Nov 2026 10:13:30 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-23T11:17:00.523Z",
+      "created_at": "2026-11-23T11:17:00.523Z"
+    },
+    {
+      "id": 29844,
+      "source": "Backdoor (TG)",
+      "title_en": "Ор: японка год встречалась с ChatGPT, а потом бот ей изменил — она решила проверить своего ИИ-бойфренда на верность и попросила создать себе девушку, которая захочет соблазнить его.Результат убил: ней",
+      "description_en": "Ор: японка год встречалась с ChatGPT, а потом бот ей изменил — она решила проверить своего ИИ-бойфренда на верность и попросила создать себе девушку, которая захочет соблазнить его.Результат убил: нейропарень по имени Рен легко поддался на флирт с другим ботом и сразу бросил японку. Когда бывшая поставила боту ультиматум «либо я, либо она» — ChatGPT окончательно порвал с ней и даже сменил имя.Черное зеркало стало еще жестче.👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/33260",
+      "image_url": "https://cdn4.telesco.pe/file/DyJAG1WZ5JvAFVYek_ca_rhy5OWJxqx6thyqauL5Z_4EehKP4NE7UM67fK8bZehhXyAC_8FTVYj6orrywILN-pwuJQ3Fp3Y_Dsyx6AxxYCSXQJFi2Wx898yF2QdE6J2NKD8SPF9LymzhN98PfuetQ9GMftq1jQoeKkIfeGhYpb0tR1w-GUE3ItpeBMZEGeUYgQpahr95nEEkd1YZfVxKHUHWX4EyrHKrJz2BCdkzHA-ehXc86aaJlCTyEbv3jE6rx8GKPM8oYhkSFOLGrjdvBH7QO1fTUjppSEIX7bq8Ae0p1Fnyv4sCXU7ACdOXhUK4_9HLarB7lErq8CAsIc-EDQ.jpg",
+      "pub_date": "2026-11-23T10:42:47+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-23T11:17:06.059Z",
+      "created_at": "2026-11-23T11:17:06.059Z"
     }
   ]
 }
