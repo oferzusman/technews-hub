@@ -646913,6 +646913,77 @@
       "priority": "hot",
       "fetchedAt": "2026-11-23T02:00:00.398Z",
       "created_at": "2026-11-23T02:00:00.398Z"
+    },
+    {
+      "id": 29808,
+      "source": "New Atlas",
+      "title_en": "Gravity sends unstoppable messages for the first time",
+      "description_en": "Options are limited when you absolutely need to get a message through. Snail mail can get lost. Electromagnetic waves can be shielded. Even reliable ol’ Morse code taps out in a vacuum.\nContinue Reading\nCategory: Technology\nTags: Gravity, Communications, University of Queensland, Signal",
+      "title_he": "Gravity שולחת הודעות בלתי עצירות בפעם הראשונה",
+      "description_he": "חוקרים מאוניברסיטת קווינסלנד הצליחו לשדר הודעה באמצעות גלי כבידה - משהו שעד עכשיו נחשב למעשה בלתי אפשרי. בניגוד לגלים אלקטרומגנטיים שאפשר להגן מהם או להוד לאיבוד, גלי הכבידה עוברים ללא הפרעה דרך כמעט כל דבר. זה פותח אפשרויות חדשות לחלוטין בתקשורת בחלל, במיוחד בתנאים שבהם השיטות הקונוונציונליות כשלות.\nמקור: New Atlas",
+      "link": "https://newatlas.com/technology/gravity-unstoppable-messages-first-time/",
+      "image_url": null,
+      "pub_date": "Mon, 23 Nov 2026 02:03:00 GMT",
+      "author": "Mike McRae",
+      "categories": [],
+      "translated": true,
+      "priority": "hot",
+      "fetchedAt": "2026-11-23T02:43:37.735Z",
+      "created_at": "2026-11-23T02:43:37.735Z"
+    },
+    {
+      "id": 29809,
+      "source": "The Guardian AI",
+      "title_en": "Victorian Liberal party uses AI to write Jess Wilson’s tribute to Molly Meldrum",
+      "description_en": "Exclusive: Statement on death of Australian music industry legend drafted using search and AI but ‘fact checked and edited’ before approval, party says\n\nTributes flow for Molly Meldrum: Human Nature, Jason Donovan and others remember music industry great\n\nMolly Meldrum – a life in pictures\n\nIan ‘Molly’ Meldrum – obituary\n\nA statement on the death of Molly Meldrum attributed to the Victorian opposition leader, Jess Wilson, was written using AI, the Liberal party has confirmed.\nMeldrum, the Austra",
+      "title_he": "הפלג הליברלי בוויקטוריה השתמש ב-AI כדי לכתוב הוקירה של ג'ס וילסון לזכר מולי מלדרום",
+      "description_he": "בחשיפה אקסקלוסיבית, התברר שהיא הצהרת אבל על פטירת הופעת הנגנים האוסטרלית מולי מלדרום נכתבה בעזרת AI וחיפוש, אם כי המפלגה טוענת שהיא עברה בדיקת עובדות ועריכה לפני אישור. התמונה מעלה שאלות על השימוש בבינה מלאכותית בתקשורת פוליטית רשמית, במיוחד בהודעות כלכד לאירועים רגישים כמו הוקירות למנוחים. הנושא צף שוב את הדיון הציבורי בישראל על כמו שאנחנו צריכים לנהל את השימוש בכלים של AI בספירה הציבורית.",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/23/victorian-liberal-party-uses-ai-to-write-jess-wilsons-tribute-to-molly-meldrum",
+      "image_url": "https://i.guim.co.uk/img/media/f8400eec13a4a86627b0f0ba9608b2ae5afe8080/1714_12_4846_3878/master/4846.jpg?width=140&quality=85&auto=format&fit=max&s=0bf06df6edc09d4dead5da6b9a7ccf56",
+      "pub_date": "Mon, 23 Nov 2026 02:28:59 GMT",
+      "author": "Benita Kolovos Victorian state correspondent",
+      "categories": [
+        {
+          "_": "Victorian politics",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/victorian-politics"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Jess Wilson",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/jess-wilson"
+          }
+        },
+        {
+          "_": "Victoria state election 2026",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/victoria-state-election-2026"
+          }
+        },
+        {
+          "_": "Victoria",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/victoria"
+          }
+        },
+        {
+          "_": "Australia news",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/australia-news"
+          }
+        }
+      ],
+      "translated": true,
+      "priority": "hot",
+      "fetchedAt": "2026-11-23T02:43:38.102Z",
+      "created_at": "2026-11-23T02:43:38.102Z"
     }
   ]
 }
