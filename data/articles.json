@@ -652522,6 +652522,191 @@
       "priority": "hot",
       "fetchedAt": "2026-11-24T17:34:38.485Z",
       "created_at": "2026-11-24T17:34:38.485Z"
+    },
+    {
+      "id": 30065,
+      "source": "Ars Technica",
+      "title_en": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
+      "description_en": "AI songs account for 6.3 percent of Tidal's catalog, but it's about to be zero.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1083228790-1152x648.jpg",
+      "pub_date": "Tue, 24 Nov 2026 17:34:34 +0000",
+      "author": "\n                    Ryan Whitwam\n                ",
+      "categories": [
+        "AI",
+        "Artificial Intelligence",
+        "music streaming",
+        "tidal"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-24T18:17:25.279Z",
+      "created_at": "2026-11-24T18:17:25.279Z"
+    },
+    {
+      "id": 30066,
+      "source": "The Decoder",
+      "title_en": "Novartis CEO says AI will shave four years off drug development, not cure all disease",
+      "description_en": "Novartis CEO Vas Narasimhan, who also sits on Anthropic's board, is pushing back on the cure-all promises from Anthropic CEO Amodei and DeepMind founder Hassabis. AI will speed up drug development, he says, but it won't beat cancer in a decade. The real value lies \"somewhere in the middle.\"\nThe article Novartis CEO says AI will shave four years off drug development, not cure all disease appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/novartis-ceo-says-ai-will-shave-four-years-off-drug-development-not-cure-all-disease/",
+      "image_url": null,
+      "pub_date": "Tue, 24 Nov 2026 18:01:55 +0000",
+      "author": "Manuel Uth",
+      "categories": [
+        "AI research",
+        "Artificial Intelligence",
+        "Short News",
+        "AI in medicine",
+        "Anthropic"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-24T18:17:25.743Z",
+      "created_at": "2026-11-24T18:17:25.743Z"
+    },
+    {
+      "id": 30067,
+      "source": "The Decoder",
+      "title_en": "OpenAI o1 co-creator Noam Brown urges promising students to drop out as AI enters a \"very steep rate of progress\"",
+      "description_en": "OpenAI researcher Noam Brown is urging promising students to drop out, saying it's \"not a great time to sit on the sidelines.\" The o1 co-creator says AI is still in a \"centaur period\" and struggles with planning and self-correction, though he expects a \"very steep rate of progress\" soon. According to Brown, language models are already being used to build the next generation of models.\nThe article OpenAI o1 co-creator Noam Brown urges promising students to drop out as AI enters a \"very steep rate",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/openai-o1-co-creator-noam-brown-urges-promising-students-to-drop-out-as-ai-enters-a-very-steep-rate-of-progress/",
+      "image_url": null,
+      "pub_date": "Tue, 24 Nov 2026 17:58:44 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI research",
+        "Artificial Intelligence",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-24T18:17:25.743Z",
+      "created_at": "2026-11-24T18:17:25.743Z"
+    },
+    {
+      "id": 30068,
+      "source": "The Guardian AI",
+      "title_en": "Tech sell-off resumes as euphoria from Jensen Huang’s Nvidia return subsides",
+      "description_en": "Sell-off signals investors are bracing for further volatility in key AI sector driving economic growth worldwide\nTechnology shares led a market retreat Tuesday as caution returned after Jensen Huang’s extraordinary return to Nvidia days after he was forced to resign, with investors bracing for further volatility in a key sector driving economic growth worldwide.\nA day after Huang’s reinstatement as CEO drove Nvidia shares up more than 30%, adding more than $900bn to the firm’s market value, the ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/business/2026/nov/24/nvidia-stock-falls-jensen-huang",
+      "image_url": "https://i.guim.co.uk/img/media/ba0b7e2734b3f5675558eff081b376f8f83077b6/479_0_4801_3840/master/4801.jpg?width=140&quality=85&auto=format&fit=max&s=814d34a792f3088b68350ec9f04f70e5",
+      "pub_date": "Tue, 24 Nov 2026 18:00:24 GMT",
+      "author": "Agence France-Presse",
+      "categories": [
+        {
+          "_": "US markets",
+          "$": {
+            "domain": "https://www.theguardian.com/business/us-markets"
+          }
+        },
+        {
+          "_": "Stock markets",
+          "$": {
+            "domain": "https://www.theguardian.com/business/stock-markets"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        },
+        {
+          "_": "Nvidia",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/nvidia"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology sector",
+          "$": {
+            "domain": "https://www.theguardian.com/business/technology"
+          }
+        },
+        {
+          "_": "Anthropic",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/anthropic"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-24T18:17:26.342Z",
+      "created_at": "2026-11-24T18:17:26.342Z"
+    },
+    {
+      "id": 30069,
+      "source": "Interesting Engineering",
+      "title_en": "US: Idaho lab deploys NVIDIA H200 supercomputer for advanced nuclear simulations",
+      "description_en": "Idaho National Laboratory (INL) has deployed a new supercomputer named Arco to support research into...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/energy/arco-supercomputer-us-nuclear-energy-research",
+      "image_url": null,
+      "pub_date": "Tue, 24 Nov 2026 17:58:08 +0000",
+      "author": "Kaushal Kishore",
+      "categories": [
+        "Energy"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-24T18:17:27.606Z",
+      "created_at": "2026-11-24T18:17:27.606Z"
+    },
+    {
+      "id": 30070,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "👨‍💻 Что важнее в агентной разработке — модель или harness? На одинаковых задачах результаты разных моделей могут отличаться незначительно, зато среда в которой ИИ-агенты работают (harness), качестве",
+      "description_en": "👨‍💻 Что важнее в агентной разработке — модель или harness? На одинаковых задачах результаты разных моделей могут отличаться незначительно, зато среда в которой ИИ-агенты работают (harness), качественно меняет скорость выхода релизов. Она накапливает контекст и знания о ваших системах и остается активом компании, даже когда LLM меняются. В подходе harness-first модели подключаются к единой среде исполнения без потери настроект и контекста. 💡 «Среда работы агента важнее модели» — один из четыре",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3876",
+      "image_url": null,
+      "pub_date": "2026-11-24T18:05:15+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-24T18:17:33.570Z",
+      "created_at": "2026-11-24T18:17:33.571Z"
+    },
+    {
+      "id": 30071,
+      "source": "AI Post (TG)",
+      "title_en": "⚠️ The Economist | Predictions for 2027.  Once again, this cover tells us exactly what is going to happen…  1. Global stock market crash. 2. The largest cyberattack in history, fueled by AI. 3. Bankin",
+      "description_en": "⚠️ The Economist | Predictions for 2027.  Once again, this cover tells us exactly what is going to happen…  1. Global stock market crash. 2. The largest cyberattack in history, fueled by AI. 3. Banking crisis and bank runs. 4. Major escalation in the Middle…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8886",
+      "image_url": null,
+      "pub_date": "2026-11-24T17:52:45+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-24T18:17:33.644Z",
+      "created_at": "2026-11-24T18:17:33.644Z"
     }
   ]
 }
