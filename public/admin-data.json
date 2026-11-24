@@ -1,7 +1,7 @@
 {
   "total": 30064,
-  "translated": 30052,
-  "untranslated": 12,
+  "translated": 30055,
+  "untranslated": 9,
   "today": 118,
   "week": 884,
   "sources": [
@@ -20,7 +20,7 @@
     {
       "name": "CNBC Tech",
       "total": 1960,
-      "translated": 1959,
+      "translated": 1960,
       "lastDate": "Wed, 30 Sep 2026 23:50:01 GMT"
     },
     {
@@ -62,7 +62,7 @@
     {
       "name": "Ars Technica",
       "total": 1293,
-      "translated": 1291,
+      "translated": 1293,
       "lastDate": "Wed, 30 Sep 2026 20:44:48 +0000"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-11-24T17:39:23.878Z"
+  "generatedAt": "2026-11-24T18:18:43.312Z"
 }
