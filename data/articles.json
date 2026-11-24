@@ -651336,7 +651336,8 @@
       "source": "Ars Technica",
       "title_en": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
       "description_en": "The Cairn AI framework is proving to be a boon for defenders and attackers.",
-      "title_he": "אמזון חושפת: סוכני AI של האקרים מצאו וניצלו 0-day כמעט ללא התערבות אנושית",
+      "title_he": "אמזון חושפת: סוכני AI של האקרים מצאו וניצלו 0-day כמעט ללא התערבות אנוש",
+      "description_he": "אמזון פרסמה תגלית די מדאיגה - סוכני AI הצליחו למצוא וליצור exploit לפרצת 0-day בצורה כמעט מלאה באופן אוטונומי. ה-Cairn AI framework שהם השתמשו בו יכול להיות כלי חזק הן להגנה והן להתקפה, וזה מעלה שאלות לא פשוטות על עתיד הסייבר. מה שמעניין זה שהתהליך הזה לא דרש כמעט הנחיה אנושית, מה שמשמעותו שחוקרי בטיחות יכולים לאמן מודלים כדי למצוא חולשות לפני שהרעים יעשו זאת.",
       "link": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cairn-banner.jpg",
       "pub_date": "Tue, 24 Nov 2026 12:30:05 +0000",
@@ -651359,8 +651360,8 @@
       "source": "Ars Technica",
       "title_en": "Ukraine sinks Russian warship, strikes cargo ships from Mediterranean to Baltic",
       "description_en": "Russian missile corvette latest casualty as Ukraine strikes back in war at sea.",
-      "title_he": "אוקראינה טובעת אונייה רוסית ותוקפת ספינות משא מהים התיכון ועד לים הבלטי",
-      "description_he": "אוקראינה ממשיכה להפגין כוח צבאי מרשים גם בחזית הימית, כשצלחת רוסית נוספת (corvette בדיוק) טבעה כנגד האש האוקראינית. בתנועה מתואמת, הצבא האוקראיני תוקף גם ספינות משא רוסיות שמפליגות בשטחים שונים מהים התיכון ועד לאזור הבלטי, מה שמדגים שהמלחמה בים היא כמו משחק שח מתוחכם שבו הרוסים מפסידים עוד ועוד.",
+      "title_he": "אוקראינה טבעה אוניית קרב רוסית וחבטה בספינות משא מים התיכון לים הבלטי",
+      "description_he": "בהמשך למלחמת הים התגברת, אוקראינה הצליחה לשקוע את הקורבט הטילים הרוסי העדכני ביותר, וגם לתקוף משלחות ספינות משא רוסיות שנמשכות מים התיכון עד לים הבלטי - זה כמו שהם אומרים בעברית, 'מכה בחזרה'. הפעילויות הימיות של אוקראינה מראות שהיא לא סתם משחקת הגנה, אלא באמת יוצאת להתקוף במקומות שהרוסים לא כל כך מצפים.",
       "link": "https://arstechnica.com/gadgets/2026/11/ukraines-sea-drones-blow-up-russian-warship-in-benghazi-operation/",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/merkury-fire_benghazi-libya_20261122_054739_ssc4_rgb_flat_50cm_1920px_logo_geo-1152x648.jpg",
       "pub_date": "Tue, 24 Nov 2026 12:00:57 +0000",
@@ -652289,8 +652290,8 @@
       "source": "CNBC Tech",
       "title_en": "Futures turn red as Huang-effect fails to deliver another day of gains",
       "description_en": "Investors assess the return of Huang as investigations loom",
-      "title_he": "הבורסה צבעה אדום - ההשפעה של Huang לא הצליחה להחזיק עוד יום עלייה",
-      "description_he": "משקיעים מחזרים את הנושא של חזרתו של Huang כשחקירות צפויות בדרך. בתחקוק שלישי ברציפות, נראה שהתאוצה הטכנולוגית שחברות ה-AI הביאו לשווקים מתקררת, וגם גיגנט ה-GPU לא הצליח להציל את היום הזה. מה קורה כאן? זה עוד פרק בסרט הרכיבה הגלגלות של השוק.",
+      "title_he": "השווקים צבועים באדום - אפקט הואנג לא הצליח להמשיך את סדרת הרווחים",
+      "description_he": "המשקיעים מעריכים את חזרתו של הואנג לעת שהחקירות מתקרבות - נראה שגם גם ההצלחות של NVIDIA לא מספיקות להציל את השוק כרגע, וההשפעה של מנכ\"ל הענקית הטקנולוגית על מניות הטק מתחילה להתמעמעות.",
       "link": "https://www.cnbc.com/2026/11/24/futures-turn-red-as-huang-effect-fails-to-deliver-another-day-of-gains.html",
       "image_url": null,
       "pub_date": "Tue, 24 Nov 2026 11:58:45 GMT",
@@ -652521,6 +652522,191 @@
       "priority": "hot",
       "fetchedAt": "2026-11-24T17:34:38.485Z",
       "created_at": "2026-11-24T17:34:38.485Z"
+    },
+    {
+      "id": 30065,
+      "source": "Ars Technica",
+      "title_en": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
+      "description_en": "AI songs account for 6.3 percent of Tidal's catalog, but it's about to be zero.",
+      "title_he": "Tidal מכריזה על איסור על מוזיקה שנוצרה בAI; 27 מיליון track יימחקו",
+      "description_he": "Tidal החליטה לנקות את הפלטפורמה מכל המוזיקה שנוצרה בעזרת AI - זה כולל 6.3% מהקטלוג שלהם, או כ-27 מיליון שירים שהולכים לצאת לפח. נראה שהשירות מחליט לעמוד על הקצה של מוזיקאים אמיתיים מול הגל של ההפקות האוטומטיות, ובעצם אומר שלא כל מה שהוא מוזיקה הוא מדרג שלהם.",
+      "link": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1083228790-1152x648.jpg",
+      "pub_date": "Tue, 24 Nov 2026 17:34:34 +0000",
+      "author": "\n                    Ryan Whitwam\n                ",
+      "categories": [
+        "AI",
+        "Artificial Intelligence",
+        "music streaming",
+        "tidal"
+      ],
+      "translated": true,
+      "priority": "hot",
+      "fetchedAt": "2026-11-24T18:17:25.279Z",
+      "created_at": "2026-11-24T18:17:25.279Z"
+    },
+    {
+      "id": 30066,
+      "source": "The Decoder",
+      "title_en": "Novartis CEO says AI will shave four years off drug development, not cure all disease",
+      "description_en": "Novartis CEO Vas Narasimhan, who also sits on Anthropic's board, is pushing back on the cure-all promises from Anthropic CEO Amodei and DeepMind founder Hassabis. AI will speed up drug development, he says, but it won't beat cancer in a decade. The real value lies \"somewhere in the middle.\"\nThe article Novartis CEO says AI will shave four years off drug development, not cure all disease appeared first on The Decoder.",
+      "title_he": "מנכ״ל Novartis: AI יקצר פיתוח תרופות ב-4 שנים, אבל זה לא הקוסם שכולם חושבים שהוא",
+      "description_he": "מנכ״ל Novartis מנסה להוריד את הציפיות מהשמיים - כן, AI יתן לנו יד בפיתוח תרופות ויחסוך ארבע שנים משמעותיות, אבל מי שחושב שהוא יביס סרטן תוך עשר שנים צריך להחזיר את המחשבה לכדור הארץ. הערך האמיתי של AI בתיעוש הפארמה טמון במשהו שנמצא בדיוק באמצע - לא בהבטחות גדולות וגם לא בעדם, אלא בשיפורים מעשיים ומדידים שהם כבר כאן.",
+      "link": "https://the-decoder.com/novartis-ceo-says-ai-will-shave-four-years-off-drug-development-not-cure-all-disease/",
+      "image_url": null,
+      "pub_date": "Tue, 24 Nov 2026 18:01:55 +0000",
+      "author": "Manuel Uth",
+      "categories": [
+        "AI research",
+        "Artificial Intelligence",
+        "Short News",
+        "AI in medicine",
+        "Anthropic"
+      ],
+      "translated": true,
+      "priority": "hot",
+      "fetchedAt": "2026-11-24T18:17:25.743Z",
+      "created_at": "2026-11-24T18:17:25.743Z"
+    },
+    {
+      "id": 30067,
+      "source": "The Decoder",
+      "title_en": "OpenAI o1 co-creator Noam Brown urges promising students to drop out as AI enters a \"very steep rate of progress\"",
+      "description_en": "OpenAI researcher Noam Brown is urging promising students to drop out, saying it's \"not a great time to sit on the sidelines.\" The o1 co-creator says AI is still in a \"centaur period\" and struggles with planning and self-correction, though he expects a \"very steep rate of progress\" soon. According to Brown, language models are already being used to build the next generation of models.\nThe article OpenAI o1 co-creator Noam Brown urges promising students to drop out as AI enters a \"very steep rate",
+      "title_he": "מייסד OpenAI o1 נואם בראון קורא לסטודנטים מבטיחים להזנח את הלימודים - AI בעתיד עוצמתי",
+      "description_he": "נואם בראון מ-OpenAI משכנע סטודנטים מוכשרים להפסיק ללמוד עכשיו, בטוען שזה לא הזמן להישאר על הקווים מהצדדים - ה-AI כרגע בעיצומה של קפיצה משמעותית בהתקדמות. בראון אומר שמודלי שפה כבר משמשים כדי לבנות דור הבא של מודלים, וצופה קצב בחירה תלול מאוד בקרוב.",
+      "link": "https://the-decoder.com/openai-o1-co-creator-noam-brown-urges-promising-students-to-drop-out-as-ai-enters-a-very-steep-rate-of-progress/",
+      "image_url": null,
+      "pub_date": "Tue, 24 Nov 2026 17:58:44 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI research",
+        "Artificial Intelligence",
+        "OpenAI"
+      ],
+      "translated": true,
+      "priority": "hot",
+      "fetchedAt": "2026-11-24T18:17:25.743Z",
+      "created_at": "2026-11-24T18:17:25.743Z"
+    },
+    {
+      "id": 30068,
+      "source": "The Guardian AI",
+      "title_en": "Tech sell-off resumes as euphoria from Jensen Huang’s Nvidia return subsides",
+      "description_en": "Sell-off signals investors are bracing for further volatility in key AI sector driving economic growth worldwide\nTechnology shares led a market retreat Tuesday as caution returned after Jensen Huang’s extraordinary return to Nvidia days after he was forced to resign, with investors bracing for further volatility in a key sector driving economic growth worldwide.\nA day after Huang’s reinstatement as CEO drove Nvidia shares up more than 30%, adding more than $900bn to the firm’s market value, the ",
+      "title_he": "המכירות חוזרות: הנרגזות מחזרתו של ג'נסן הואנג' להנוויה דעכה",
+      "description_he": "אחרי יום של אופוריה שבו הצליח ג'נסן הואנג' להחזיר את עצמו לתפקיד מנכ\"ל בהנוויה, השווקים כרגע מתקררים. המשקיעים שוב מתייתרים ופוחדים מתנודתיות בסקטור ה-AI שמנהל את הגדילה הגלובלית, בעוד מניות טכנולוגיה צוללות למטה.",
+      "link": "https://www.theguardian.com/business/2026/nov/24/nvidia-stock-falls-jensen-huang",
+      "image_url": "https://i.guim.co.uk/img/media/ba0b7e2734b3f5675558eff081b376f8f83077b6/479_0_4801_3840/master/4801.jpg?width=140&quality=85&auto=format&fit=max&s=814d34a792f3088b68350ec9f04f70e5",
+      "pub_date": "Tue, 24 Nov 2026 18:00:24 GMT",
+      "author": "Agence France-Presse",
+      "categories": [
+        {
+          "_": "US markets",
+          "$": {
+            "domain": "https://www.theguardian.com/business/us-markets"
+          }
+        },
+        {
+          "_": "Stock markets",
+          "$": {
+            "domain": "https://www.theguardian.com/business/stock-markets"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        },
+        {
+          "_": "Nvidia",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/nvidia"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology sector",
+          "$": {
+            "domain": "https://www.theguardian.com/business/technology"
+          }
+        },
+        {
+          "_": "Anthropic",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/anthropic"
+          }
+        }
+      ],
+      "translated": true,
+      "priority": "hot",
+      "fetchedAt": "2026-11-24T18:17:26.342Z",
+      "created_at": "2026-11-24T18:17:26.342Z"
+    },
+    {
+      "id": 30069,
+      "source": "Interesting Engineering",
+      "title_en": "US: Idaho lab deploys NVIDIA H200 supercomputer for advanced nuclear simulations",
+      "description_en": "Idaho National Laboratory (INL) has deployed a new supercomputer named Arco to support research into...",
+      "title_he": "ארצות הברית: מעבדה באיידהו משיקה סופרקומפיוטר NVIDIA H200 לסימולציות גרעיניות מתקדמות",
+      "description_he": "מעבדת INL באיידהו הציבה סופרקומפיוטר חדש בשם Arco שנועד להניע את המחקר בתחום הסימולציות גרעיניות לשלבים חדשים - בעזרת H200 של NVIDIA שהיא כבר כרטיסיה החזקה ביותר של החברה. הטכנולוגיה הזו תאפשר לחוקרים להריץ מודלים מורכבים שהיו בלתי אפשריים עד היום, מה שיכול להשפיע גם על פיתוח אנרגיה גרעינית בעתיד. זה עוד דוגמה לאופן שבו ענקיות הטק משנות את המחקר המדעי העמוק.",
+      "link": "https://interestingengineering.com/energy/arco-supercomputer-us-nuclear-energy-research",
+      "image_url": null,
+      "pub_date": "Tue, 24 Nov 2026 17:58:08 +0000",
+      "author": "Kaushal Kishore",
+      "categories": [
+        "Energy"
+      ],
+      "translated": true,
+      "priority": "hot",
+      "fetchedAt": "2026-11-24T18:17:27.606Z",
+      "created_at": "2026-11-24T18:17:27.606Z"
+    },
+    {
+      "id": 30070,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "👨‍💻 Что важнее в агентной разработке — модель или harness? На одинаковых задачах результаты разных моделей могут отличаться незначительно, зато среда в которой ИИ-агенты работают (harness), качестве",
+      "description_en": "👨‍💻 Что важнее в агентной разработке — модель или harness? На одинаковых задачах результаты разных моделей могут отличаться незначительно, зато среда в которой ИИ-агенты работают (harness), качественно меняет скорость выхода релизов. Она накапливает контекст и знания о ваших системах и остается активом компании, даже когда LLM меняются. В подходе harness-first модели подключаются к единой среде исполнения без потери настроект и контекста. 💡 «Среда работы агента важнее модели» — один из четыре",
+      "title_he": "👨‍💻 מה חשוב יותר בפיתוח AI agents — המודל או ה-harness?",
+      "description_he": "בפיתוח AI agents, התוצאות של מודלים שונים על אותן משימות עלולות להיות דומות למדי, אבל הסביבה שבה הסוכנים עובדים (harness) היא זו שמשנה באמת את המשחק ומאיצה את זמן ההוצאה של releases. ה-harness מצבור context וידע על המערכות שלכם והופך לנכס קבוע של החברה גם כשהוא LLM משתנה מדי שבוע. בגישת harness-first, מודלים מחוברים לסביבת ביצוע יחידה בלי להפסיד הגדרות וקונטקסט — וזה משנה הכל. 💡",
+      "link": "https://t.me/hiaimedia/3876",
+      "image_url": null,
+      "pub_date": "2026-11-24T18:05:15+00:00",
+      "author": null,
+      "categories": [],
+      "translated": true,
+      "priority": "hot",
+      "fetchedAt": "2026-11-24T18:17:33.570Z",
+      "created_at": "2026-11-24T18:17:33.571Z"
+    },
+    {
+      "id": 30071,
+      "source": "AI Post (TG)",
+      "title_en": "⚠️ The Economist | Predictions for 2027.  Once again, this cover tells us exactly what is going to happen…  1. Global stock market crash. 2. The largest cyberattack in history, fueled by AI. 3. Bankin",
+      "description_en": "⚠️ The Economist | Predictions for 2027.  Once again, this cover tells us exactly what is going to happen…  1. Global stock market crash. 2. The largest cyberattack in history, fueled by AI. 3. Banking crisis and bank runs. 4. Major escalation in the Middle…",
+      "title_he": "⚠️ The Economist | התחזוקות לשנת 2027. שוב, הכיסוי של המגזין אומר לנו בדיוק מה הולך להיות…",
+      "description_he": "The Economist חוזרת עם התחזוקות השנתיות שלה לשנת 2027, והפעם זה נראה כמו סרטון אימה: התרסקות בשוק המניות הגלובלי, התקיפת סייבר הגדולה בהיסטוריה שמופעלת על ידי AI, משבר בנקאי וחילופי בנקים, בתוספת התגברות משמעותית במזרח התיכון. המגזין שמעמיד על כן התחזוקות אלה עם כיסוי מוקד שלא להחמיץ את זה 👀",
+      "link": "https://t.me/aipost/8886",
+      "image_url": null,
+      "pub_date": "2026-11-24T17:52:45+00:00",
+      "author": null,
+      "categories": [],
+      "translated": true,
+      "priority": "hot",
+      "fetchedAt": "2026-11-24T18:17:33.644Z",
+      "created_at": "2026-11-24T18:17:33.644Z"
     }
   ]
 }
