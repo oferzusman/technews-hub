@@ -649888,6 +649888,277 @@
       "priority": "hot",
       "fetchedAt": "2026-11-23T22:46:29.604Z",
       "created_at": "2026-11-23T22:46:29.604Z"
+    },
+    {
+      "id": 29947,
+      "source": "MarkTechPost",
+      "title_en": "Anthropic Launches Claude Ship for GitHub Pull Request Review and Fixes",
+      "description_en": "Anthropic's Claude Ship bundles Code Review, PR Steward and Claude Approvals to review, fix and approve GitHub pull requests. Code Review is GA; the other 2 agents are in public beta for Team and Enterprise.\nThe post Anthropic Launches Claude Ship for GitHub Pull Request Review and Fixes appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/11/23/anthropic-claude-ship-pull-request-agents/",
+      "image_url": null,
+      "pub_date": "Tue, 24 Nov 2026 00:02:39 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "AI Agents",
+        "Editors Pick",
+        "For Devs",
+        "Harness",
+        "New Releases",
+        "Software Engineering",
+        "Staff",
+        "Tech News"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-24T01:47:30.683Z",
+      "created_at": "2026-11-24T01:47:30.683Z"
+    },
+    {
+      "id": 29948,
+      "source": "The Guardian AI",
+      "title_en": "Nvidia rejoices at Jensen Huang’s second coming as White House takes victory lap",
+      "description_en": "Huang receives hero’s welcome at firm’s Silicon Valley headquarters as return cements role as key AI figure\nJensen Huang made his return to Nvidia’s headquarters with a hero’s welcome on Monday. Hours earlier he’d been reinstated as the CEO of the world’s most valuable chip company, following a whiplash series of events that involved a romantic affair with a suspected Chinese spy, a drastic plummet in the stock market, and an intervention from Donald Trump.\nAs Huang entered the company’s Silicon",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/nov/23/nvidia-jensen-huang-return-ceo",
+      "image_url": "https://i.guim.co.uk/img/media/acc6b55b5a2588de1743b839ccdd4877f7978618/463_0_4821_3856/master/4821.jpg?width=140&quality=85&auto=format&fit=max&s=203a93cae1aa0ce160fd7aa72d148430",
+      "pub_date": "Tue, 24 Nov 2026 01:34:39 GMT",
+      "author": "Dara Kerr",
+      "categories": [
+        {
+          "_": "Nvidia",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/nvidia"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Jensen Huang",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/jensen-huang"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-24T01:47:31.098Z",
+      "created_at": "2026-11-24T01:47:31.098Z"
+    },
+    {
+      "id": 29949,
+      "source": "Interesting Engineering",
+      "title_en": "Anthropic says Claude proved VP ≠ VNP, tackling Valiant’s 47-year-old conjecture",
+      "description_en": "Anthropic has published a 70-page mathematical paper credited entirely to Claude, claiming to settle a...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/claude-proves-vp-not-vnp-valiant-conjecture",
+      "image_url": null,
+      "pub_date": "Tue, 24 Nov 2026 01:27:41 +0000",
+      "author": "Aamir Khollam",
+      "categories": [
+        "AI and Robotics"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-24T01:47:33.046Z",
+      "created_at": "2026-11-24T01:47:33.046Z"
+    },
+    {
+      "id": 29950,
+      "source": "Interesting Engineering",
+      "title_en": "US fires full 24-round load in third successful test of reusable rocket system",
+      "description_en": "Lockheed Martin has put a new rocket training system through its third successful flight test,...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/lockheed-martin-jr3-third-successful-rocket-test",
+      "image_url": null,
+      "pub_date": "Tue, 24 Nov 2026 01:12:54 +0000",
+      "author": "Aamir Khollam",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-24T01:47:33.046Z",
+      "created_at": "2026-11-24T01:47:33.046Z"
+    },
+    {
+      "id": 29951,
+      "source": "Interesting Engineering",
+      "title_en": "OpenAI’s Codex builds security shields to block attacks on running Linux systems",
+      "description_en": "OpenAI and Cisco have launched an open-source security runtime that can protect running Linux systems...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/openai-cisco-shirudo-linux-security-runtime",
+      "image_url": null,
+      "pub_date": "Tue, 24 Nov 2026 01:05:19 +0000",
+      "author": "Neetika Walter",
+      "categories": [
+        "AI and Robotics"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-24T01:47:33.046Z",
+      "created_at": "2026-11-24T01:47:33.046Z"
+    },
+    {
+      "id": 29952,
+      "source": "Interesting Engineering",
+      "title_en": "250,000-page Riemann Hypothesis proof ‘was a joke,’ Anthropic mathematician says",
+      "description_en": "Levent Alpöge, the Anthropic mathematician who claimed to have proved the Riemann Hypothesis with Claude,...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/anthropic-mathematician-riemann-proof-joke",
+      "image_url": null,
+      "pub_date": "Tue, 24 Nov 2026 00:48:14 +0000",
+      "author": "Aamir Khollam",
+      "categories": [
+        "AI and Robotics",
+        "Culture"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-24T01:47:33.046Z",
+      "created_at": "2026-11-24T01:47:33.046Z"
+    },
+    {
+      "id": 29953,
+      "source": "CNBC Tech",
+      "title_en": "Amazon faces FAA probe after delivery drone strikes Michigan fiber cable, garage",
+      "description_en": "An Amazon drone \"struck a fiber cable, a residential garage, and became entangled in power lines during takeoff,\" a preliminary FAA report stated.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/23/amazon-drone-crash-michigan-faa-investigation.html",
+      "image_url": null,
+      "pub_date": "Tue, 24 Nov 2026 00:56:10 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-24T01:47:33.335Z",
+      "created_at": "2026-11-24T01:47:33.335Z"
+    },
+    {
+      "id": 29954,
+      "source": "CNBC Tech",
+      "title_en": "Asian Nvidia-related stocks jump after Huang's return, with Taiwan's near price limits",
+      "description_en": "Investors piled back into the tech market, following the reinstatement of Nvidia CEO Jensen Huang by its board.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html",
+      "image_url": null,
+      "pub_date": "Tue, 24 Nov 2026 01:40:30 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-24T01:47:33.335Z",
+      "created_at": "2026-11-24T01:47:33.335Z"
+    },
+    {
+      "id": 29955,
+      "source": "CNBC Tech",
+      "title_en": "AI adoption grows in Asia, but measuring the gains remains tricky",
+      "description_en": "Businesses across Asia-Pacific are seeing returns from AI investments, even as confidence in measuring those gains varies, according to an AWS survey.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/24/aws-asia-gains-roi.html",
+      "image_url": null,
+      "pub_date": "Mon, 23 Nov 2026 23:42:27 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-24T01:47:33.335Z",
+      "created_at": "2026-11-24T01:47:33.335Z"
+    },
+    {
+      "id": 29956,
+      "source": "CNBC Tech",
+      "title_en": "Jim Cramer sees more upside for Nvidia stock with Jensen Huang back as CEO",
+      "description_en": "CNBC's Jim Cramer said Jensen Huang's return as Nvidia CEO could help revive the chipmaker's battered stock.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/23/jim-cramer-nvidia-jensen-huang-ceo-return.html",
+      "image_url": null,
+      "pub_date": "Mon, 23 Nov 2026 23:14:34 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-24T01:47:33.335Z",
+      "created_at": "2026-11-24T01:47:33.335Z"
+    },
+    {
+      "id": 29957,
+      "source": "AI Post (TG)",
+      "title_en": "🎬 Let your AI coding agent make your launch videos: the free tools 9,000 people savedThe author of this list says they make a new animation every day with 18 free GitHub repos. Over 9,000 people save",
+      "description_en": "🎬 Let your AI coding agent make your launch videos: the free tools 9,000 people savedThe author of this list says they make a new animation every day with 18 free GitHub repos. Over 9,000 people saved the post on X. The video-making core:1. HyperFrames from HeyGen: write it in HTML, render it as video2. Remotion: build and render videos in React code3. huashu-motion: your agent makes a product launch film and composes its music4. anything2explainer: a topic goes in, a narrated explainer video c",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8879",
+      "image_url": null,
+      "pub_date": "2026-11-23T22:58:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-24T01:47:37.186Z",
+      "created_at": "2026-11-24T01:47:37.186Z"
+    },
+    {
+      "id": 29958,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 US moves to blacklist Singapore's Megaspeed over suspected Nvidia chip diversion to ChinaCommerce says it plans to add the data center developer to the Entity List, after investigating it for almos",
+      "description_en": "🚨 US moves to blacklist Singapore's Megaspeed over suspected Nvidia chip diversion to ChinaCommerce says it plans to add the data center developer to the Entity List, after investigating it for almost two years, well before the Alice Huang affair story broke. The suspicion is that it helped get restricted Nvidia chips to Chinese companies, and Alibaba is its largest customer. No effective date yet.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/1109",
+      "image_url": null,
+      "pub_date": "2026-11-23T23:05:48+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-24T01:47:37.568Z",
+      "created_at": "2026-11-24T01:47:37.568Z"
+    },
+    {
+      "id": 29959,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🤖 Anthropic says Claude settled VP vs. VNP, the arithmetic cousin of P vs. NPAnthropic's formal-math repo has a paper claiming Claude solved it. VP vs. VNP asks the same question as P vs. NP, but for",
+      "description_en": "🤖 Anthropic says Claude settled VP vs. VNP, the arithmetic cousin of P vs. NPAnthropic's formal-math repo has a paper claiming Claude solved it. VP vs. VNP asks the same question as P vs. NP, but for algebraic circuits computing polynomials instead of Boolean problems.It doesn't touch P vs. NP itself, and nobody outside Anthropic has checked the proof yet.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/1110",
+      "image_url": null,
+      "pub_date": "2026-11-23T23:08:59+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-24T01:47:37.568Z",
+      "created_at": "2026-11-24T01:47:37.568Z"
     }
   ]
 }
