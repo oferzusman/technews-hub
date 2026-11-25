@@ -1,9 +1,9 @@
 {
-  "total": 30111,
-  "translated": 30102,
+  "total": 30117,
+  "translated": 30108,
   "untranslated": 9,
-  "today": 8,
-  "week": 745,
+  "today": 14,
+  "week": 751,
   "sources": [
     {
       "name": "Tom's Hardware",
@@ -13,14 +13,14 @@
     },
     {
       "name": "Interesting Engineering",
-      "total": 2667,
-      "translated": 2667,
+      "total": 2668,
+      "translated": 2668,
       "lastDate": "Wed, 30 Sep 2026 23:56:36 +0000"
     },
     {
       "name": "CNBC Tech",
-      "total": 1968,
-      "translated": 1968,
+      "total": 1969,
+      "translated": 1969,
       "lastDate": "Wed, 30 Sep 2026 23:50:01 GMT"
     },
     {
@@ -49,14 +49,14 @@
     },
     {
       "name": "The Guardian AI",
-      "total": 1527,
-      "translated": 1527,
+      "total": 1528,
+      "translated": 1528,
       "lastDate": "Wed, 30 Sep 2026 19:12:28 GMT"
     },
     {
       "name": "New Atlas",
-      "total": 1335,
-      "translated": 1335,
+      "total": 1336,
+      "translated": 1336,
       "lastDate": "Wed, 30 Sep 2026 22:56:52 GMT"
     },
     {
@@ -79,9 +79,9 @@
     },
     {
       "name": "Prompt AI News (TG)",
-      "total": 981,
-      "translated": 981,
-      "lastDate": "2026-11-24T22:54:02+00:00"
+      "total": 983,
+      "translated": 983,
+      "lastDate": "2026-11-25T02:24:01+00:00"
     },
     {
       "name": "MarkTechPost",
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-11-25T01:35:39.128Z"
+  "generatedAt": "2026-11-25T02:40:10.184Z"
 }
