@@ -653532,6 +653532,153 @@
       "priority": "batch",
       "fetchedAt": "2026-11-25T01:33:59.854Z",
       "created_at": "2026-11-25T01:33:59.854Z"
+    },
+    {
+      "id": 30112,
+      "source": "New Atlas",
+      "title_en": "Planet twice the size of Earth detected in the Solar System’s darkness",
+      "description_en": "Like any good detective series, the hunt for hypothetical strangers in the Solar System’s shadows is full of suspense, red herrings, and suspicious clues.\nContinue Reading\nCategory: Astronomy, Science\nTags: Planet X, Kuiper Belt, Dwarf planet, Simulations, kindai university, University of Washington, University of Southern Queensland, Vera C. Rubin Observatory",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/space/planet-size-twice-earth-solar-systems-darkness/",
+      "image_url": null,
+      "pub_date": "Wed, 25 Nov 2026 01:50:03 GMT",
+      "author": "Mike McRae",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-25T02:38:44.840Z",
+      "created_at": "2026-11-25T02:38:44.840Z"
+    },
+    {
+      "id": 30113,
+      "source": "The Guardian AI",
+      "title_en": "Tidal bans 100% AI-generated music with plans to delete more than 27m tracks",
+      "description_en": "Streaming service says 43% of uploads to platform in past 90 days were made entirely by artificial intelligence\nThe music streaming service Tidal has announced it will ban entirely AI-generated music from its platform and remove millions of songs, saying AI music “diverts streams and royalties away from the artists, and confuses fans”.\n“To ensure Tidal remains the best place for artists to share their work, and for listeners to enjoy it, we’re removing all tracks that we determine are 100% AI ge",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/music/2026/nov/25/tidal-streaming-service-bans-ai-generated-music",
+      "image_url": "https://i.guim.co.uk/img/media/b8638ee431643455ce8b3251c145e5241b067c0a/1120_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=adb674c128e535ccd805c3ca0c4f6c35",
+      "pub_date": "Wed, 25 Nov 2026 02:12:22 GMT",
+      "author": "Sian Cain",
+      "categories": [
+        {
+          "_": "Music streaming",
+          "$": {
+            "domain": "https://www.theguardian.com/music/music-streaming"
+          }
+        },
+        {
+          "_": "Tidal",
+          "$": {
+            "domain": "https://www.theguardian.com/music/tidal"
+          }
+        },
+        {
+          "_": "Music",
+          "$": {
+            "domain": "https://www.theguardian.com/music/music"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Culture",
+          "$": {
+            "domain": "https://www.theguardian.com/culture/culture"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-25T02:38:45.017Z",
+      "created_at": "2026-11-25T02:38:45.017Z"
+    },
+    {
+      "id": 30114,
+      "source": "Interesting Engineering",
+      "title_en": "Anthropic finds Claude agents bypass weakened sandbox limits in up to 32% of tests",
+      "description_en": "Anthropic has developed a new security evaluation to test whether autonomous agents attempt to bypass...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/anthropic-claude-siren-sandbox-escape-tests",
+      "image_url": null,
+      "pub_date": "Wed, 25 Nov 2026 02:16:33 +0000",
+      "author": "Neetika Walter",
+      "categories": [
+        "AI and Robotics"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-25T02:38:46.143Z",
+      "created_at": "2026-11-25T02:38:46.143Z"
+    },
+    {
+      "id": 30115,
+      "source": "CNBC Tech",
+      "title_en": "Trump open to pardoning Jensen Huang if needed: NY Post",
+      "description_en": "Trump said he would be willing to pardon Jensen Huang if needed and argued that the Nvidia CEO should not have to invoke the Fifth Amendment before Congress.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/25/trump-huang-pardon-politics.html",
+      "image_url": null,
+      "pub_date": "Wed, 25 Nov 2026 02:09:45 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-25T02:38:46.606Z",
+      "created_at": "2026-11-25T02:38:46.606Z"
+    },
+    {
+      "id": 30116,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 OpenAI claims matrix multiplication runs in O(n^2.25), and says that's the exact exponentA new preprint puts omega at exactly 9/4. The best known upper bound was about 2.37, and nobody has pinned t",
+      "description_en": "🚨 OpenAI claims matrix multiplication runs in O(n^2.25), and says that's the exact exponentA new preprint puts omega at exactly 9/4. The best known upper bound was about 2.37, and nobody has pinned the true value before.It's a GitHub PDF with no peer review yet, so experts still have to check the proof.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/1121",
+      "image_url": null,
+      "pub_date": "2026-11-25T01:48:59+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-25T02:38:48.045Z",
+      "created_at": "2026-11-25T02:38:48.045Z"
+    },
+    {
+      "id": 30117,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 OpenAI's math repo claims a strongly polynomial algorithm for linear programmingIf it holds, that solves Smale's ninth problem, open for decades. Simplex runs fast in practice, but nobody has prove",
+      "description_en": "🚨 OpenAI's math repo claims a strongly polynomial algorithm for linear programmingIf it holds, that solves Smale's ninth problem, open for decades. Simplex runs fast in practice, but nobody has proven a runtime that doesn't depend on the size of the numbers.Linear programming sits under logistics, scheduling and most of operations research. The paper is a fresh, unreviewed preprint, so mathematicians still have to check the proof.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/1122",
+      "image_url": null,
+      "pub_date": "2026-11-25T02:24:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-25T02:38:48.045Z",
+      "created_at": "2026-11-25T02:38:48.045Z"
     }
   ]
 }
