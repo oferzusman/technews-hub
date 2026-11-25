@@ -655411,7 +655411,7 @@
         "cloud storage"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-11-25T20:01:30.378Z",
       "created_at": "2026-11-25T20:01:30.378Z"
     },
@@ -655455,7 +655455,7 @@
         "OpenAI"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-11-25T20:01:31.259Z",
       "created_at": "2026-11-25T20:01:31.259Z"
     },
@@ -655631,7 +655631,7 @@
         "Storage"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-11-25T20:01:33.628Z",
       "created_at": "2026-11-25T20:01:33.628Z"
     },
@@ -655829,7 +655829,7 @@
       "author": null,
       "categories": [],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-11-25T20:01:39.460Z",
       "created_at": "2026-11-25T20:01:39.460Z"
     },
@@ -655900,6 +655900,81 @@
       "priority": "batch",
       "fetchedAt": "2026-11-25T20:01:40.085Z",
       "created_at": "2026-11-25T20:01:40.086Z"
+    },
+    {
+      "id": 30221,
+      "source": "The Decoder",
+      "title_en": "Anthropic CEO Dario Amodei says letting AI govern society would be \"a bad idea\"",
+      "description_en": "Anthropic CEO Dario Amodei is pushing back on an Axios report saying some employees believe humanity will hand power to superintelligent systems. Amodei says \"turning over governance to AI is a bad idea.\"\nThe article Anthropic CEO Dario Amodei says letting AI govern society would be \"a bad idea\" appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/anthropic-ceo-dario-amodei-says-letting-ai-govern-society-would-be-a-bad-idea/",
+      "image_url": null,
+      "pub_date": "Wed, 25 Nov 2026 20:15:50 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "Anthropic",
+        "Dario Amodei"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-25T20:39:01.193Z",
+      "created_at": "2026-11-25T20:39:01.193Z"
+    },
+    {
+      "id": 30222,
+      "source": "Interesting Engineering",
+      "title_en": "Anthropic CEO rejects machine rule and says democracy must remain in human hands",
+      "description_en": "Anthropic CEO Dario Amodei has rejected suggestions that humanity should surrender its political authority to...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/anthropic-ceo-rejects-machine-led-governance",
+      "image_url": null,
+      "pub_date": "Wed, 25 Nov 2026 20:18:13 +0000",
+      "author": "Aamir Khollam",
+      "categories": [
+        "AI and Robotics"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-25T20:39:02.858Z",
+      "created_at": "2026-11-25T20:39:02.858Z"
+    },
+    {
+      "id": 30223,
+      "source": "CNBC Tech",
+      "title_en": "SpaceX, Musk pledge to donate a share each to active Trump Accounts",
+      "description_en": "SpaceX said it will donate one share of the company's class A stock to every active Trump Account, and CEO Elon Musk would match it.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/25/spacex-musk-trump-account-stock.html",
+      "image_url": null,
+      "pub_date": "Wed, 25 Nov 2026 20:25:09 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-25T20:39:03.738Z",
+      "created_at": "2026-11-25T20:39:03.738Z"
+    },
+    {
+      "id": 30224,
+      "source": "Prompt AI News (TG)",
+      "title_en": "⚡️ Google's DiffusionGemma generates text like an image diffuser. And it's fast.  DiffusionGemma is Google DeepMind's open-weight text diffusion model built on a clever trick: it's a 25.2B-parameter M",
+      "description_en": "⚡️ Google's DiffusionGemma generates text like an image diffuser. And it's fast.  DiffusionGemma is Google DeepMind's open-weight text diffusion model built on a clever trick: it's a 25.2B-parameter MoE with only ~3.8B active params per forward pass.  No retraining…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/1129",
+      "image_url": null,
+      "pub_date": "2026-11-25T20:13:51+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-25T20:39:05.167Z",
+      "created_at": "2026-11-25T20:39:05.167Z"
     }
   ]
 }
