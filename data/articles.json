@@ -654279,6 +654279,1084 @@
       "priority": "batch",
       "fetchedAt": "2026-11-25T10:25:38.983Z",
       "created_at": "2026-11-25T10:25:38.983Z"
+    },
+    {
+      "id": 30145,
+      "source": "The Verge AI",
+      "title_en": "Amazon is reportedly in talks to end Muse AI shopping block",
+      "description_en": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of products the AI agent recommends and the potential impact on the ecommerce giant's advertising revenue.\nAs reported by Fortune, Amazon is concerned that it could lose advertising revenue by allowing Muse on its site, since it depends on actual humans seeing ads across its online mark",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+      "image_url": null,
+      "pub_date": "2026-11-25T14:12:33.000Z",
+      "author": "Emma Roth",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-25T15:54:59.822Z",
+      "created_at": "2026-11-25T15:54:59.822Z"
+    },
+    {
+      "id": 30146,
+      "source": "The Verge AI",
+      "title_en": "Has vibe coding made open source the new normal for synths?",
+      "description_en": "The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world, leaving companies scrambling to figure out how to respond. While some, like Roland, have remained silent for now, others have embraced the modding community. In the last several weeks, as it's become clear that no piece of music gear is safe from Claude and a subreddit full of curious tinkerers, companies have begun making more and more of their devices open source.\nThe",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
+      "image_url": null,
+      "pub_date": "2026-11-25T13:00:00.000Z",
+      "author": "Terrence O’Brien",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-25T15:54:59.822Z",
+      "created_at": "2026-11-25T15:54:59.822Z"
+    },
+    {
+      "id": 30147,
+      "source": "Ars Technica",
+      "title_en": "A familiar Iranian hacking group has found a new way to cause chaos",
+      "description_en": "France blames an Iranian cyber unit for sabotaging hundreds of supermarket freezers.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/security/2026/11/a-familiar-iranian-hacking-group-has-found-a-new-way-to-cause-chaos/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/freezer-cleanup-1024x648.jpg",
+      "pub_date": "Wed, 25 Nov 2026 14:29:43 +0000",
+      "author": "\n                    Tom Wilson, Financial Times\n                ",
+      "categories": [
+        "Security",
+        "cybersecurity",
+        "freezer hack",
+        "Iran",
+        "Iran Revolutionary Guard Corps",
+        "iranian state hackers",
+        "syndication"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-25T15:54:59.852Z",
+      "created_at": "2026-11-25T15:54:59.852Z"
+    },
+    {
+      "id": 30148,
+      "source": "Ars Technica",
+      "title_en": "AI may soon change what it means to be a theoretical physicist",
+      "description_en": "Frontier AI is already solving problems that once took top physicists a full day.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/physics-and-ai-1152x648.jpg",
+      "pub_date": "Wed, 25 Nov 2026 12:00:28 +0000",
+      "author": "\n                    Dan Kagan-Kans, Understanding AI\n                ",
+      "categories": [
+        "AI",
+        "Features",
+        "Science",
+        "frontier models",
+        "Physics"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-25T15:54:59.852Z",
+      "created_at": "2026-11-25T15:54:59.852Z"
+    },
+    {
+      "id": 30149,
+      "source": "The Decoder",
+      "title_en": "AI agents now control part of Deepmind's compute for Gemini experiments, but recursive self-improvement remains distant",
+      "description_en": "Google Deepmind uses AI agents to run experiments on their own for upcoming Gemini models. Research chief Koray Kavukcuoglu says the lab is still far from recursive self-improvement. For oversight, Deepmind intentionally leaves the agents' internal chains of thought untrained so they can be reviewed. Kavukcuoglu measures AGI by everyday user trust rather than benchmarks.\nThe article AI agents now control part of Deepmind's compute for Gemini experiments, but recursive self-improvement remains di",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
+      "image_url": null,
+      "pub_date": "Wed, 25 Nov 2026 13:23:36 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI research",
+        "Artificial Intelligence",
+        "Short News",
+        "Google Deepmind"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-25T15:55:00.322Z",
+      "created_at": "2026-11-25T15:55:00.323Z"
+    },
+    {
+      "id": 30150,
+      "source": "The Decoder",
+      "title_en": "Anthropic study shows the hardest part of adopting AI at work has little to do with learning the tools",
+      "description_en": "Anthropic studied nearly 300 AI deployments across 58 US companies with sobering results. Nearly one in five still delivers no business value, held back by heavy review workloads, internal bottlenecks, and employee resistance. The researchers say the biggest hurdles stem from outdated company structures.\nThe article Anthropic study shows the hardest part of adopting AI at work has little to do with learning the tools appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/anthropic-study-shows-the-hardest-part-of-adopting-ai-at-work-has-little-to-do-with-learning-the-tools/",
+      "image_url": null,
+      "pub_date": "Wed, 25 Nov 2026 13:14:27 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI research",
+        "Artificial Intelligence",
+        "Anthropic",
+        "Claude"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-25T15:55:00.323Z",
+      "created_at": "2026-11-25T15:55:00.323Z"
+    },
+    {
+      "id": 30151,
+      "source": "The Decoder",
+      "title_en": "Back-to-back cyber incidents at US financial investigators and spy agencies follow a string of federal hacks and outages",
+      "description_en": "The US Financial Crimes Enforcement Network took systems offline as a precaution after unauthorized access. Hours earlier, reports emerged of a separate breach at the CIA, NGA, and ODNI, in which investigators suspect attackers used the AI defense tool Artex. Both incidents land on a US public that is already on edge.\nThe article Back-to-back cyber incidents at US financial investigators and spy agencies follow a string of federal hacks and outages appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/back-to-back-cyber-incidents-at-us-financial-investigators-and-spy-agencies-follow-a-string-of-federal-hacks-and-outages/",
+      "image_url": null,
+      "pub_date": "Wed, 25 Nov 2026 13:07:44 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "Cybersecurity"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-25T15:55:00.323Z",
+      "created_at": "2026-11-25T15:55:00.323Z"
+    },
+    {
+      "id": 30152,
+      "source": "The Decoder",
+      "title_en": "PrismML shrinks a 54 GB language model to 5.9 GB by reducing every weight to just three possible values",
+      "description_en": "Startup PrismML has released Ternary Bonsai 2.5 27B, an updated version of its aggressively compressed language model.\nThe article PrismML shrinks a 54 GB language model to 5.9 GB by reducing every weight to just three possible values appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/prismml-squeezes-an-agent-based-coding-model-with-27-billion-parameters-into-5-9-gb/",
+      "image_url": null,
+      "pub_date": "Wed, 25 Nov 2026 11:51:49 +0000",
+      "author": "Jonathan Kemper",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "PrismML"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-25T15:55:00.323Z",
+      "created_at": "2026-11-25T15:55:00.323Z"
+    },
+    {
+      "id": 30153,
+      "source": "The Decoder",
+      "title_en": "MIT team discovers that unrealistic training data makes AI climate predictions more reliable",
+      "description_en": "MIT researchers have developed a method that lets AI climate models get by with a single training run instead of the usual six to eight. An algorithm generates deliberately unrealistic scenarios with extreme CO2 or methane swings that make the model more robust. Until now, these emulators were often outdated by the time they were finished, according to the researchers.\nThe article MIT team discovers that unrealistic training data makes AI climate predictions more reliable appeared first on The D",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/mit-team-discovers-that-unrealistic-training-data-makes-ai-climate-predictions-more-reliable/",
+      "image_url": null,
+      "pub_date": "Wed, 25 Nov 2026 10:47:51 +0000",
+      "author": "Manuel Uth",
+      "categories": [
+        "AI research",
+        "Artificial Intelligence",
+        "Short News",
+        "AI and climate"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-25T15:55:00.323Z",
+      "created_at": "2026-11-25T15:55:00.323Z"
+    },
+    {
+      "id": 30154,
+      "source": "MIT Technology Review",
+      "title_en": "The Download: AI swamping open records, and firefighting for permafrost",
+      "description_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI is straining America’s open records systems AI has intensified investors’ interest in public records. Over the last few years, venture-backed startups have raised upwards of $100 million to collect data…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/",
+      "image_url": null,
+      "pub_date": "Wed, 25 Nov 2026 13:10:00 +0000",
+      "author": "Thomas Macaulay",
+      "categories": [
+        "The Download"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-25T15:55:00.410Z",
+      "created_at": "2026-11-25T15:55:00.410Z"
+    },
+    {
+      "id": 30155,
+      "source": "New Atlas",
+      "title_en": "New Hyundai Elantra unveiled: Even more space and 53-mpg efficiency",
+      "description_en": "Hyundai has unveiled the all-new Elantra and Elantra Hybrid at the Los Angeles Automobility show. The cars feature a new Art of Steel design, advanced technology, and added passenger space.\nContinue Reading\nCategory: Automotive, Transport\nTags: Hyundai, Hybrid, Sedan, LA Auto Show 2026",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/automotive/2027-hyundai-elantra-2028-elantra-hybrid-unveiled/",
+      "image_url": null,
+      "pub_date": "Wed, 25 Nov 2026 14:45:01 GMT",
+      "author": "Aaron Turpen",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-25T15:55:00.852Z",
+      "created_at": "2026-11-25T15:55:00.853Z"
+    },
+    {
+      "id": 30156,
+      "source": "The Guardian AI",
+      "title_en": "New York bans AI toys, including those using internet to talk to children",
+      "description_en": "The state attorney general says she would ‘not hesitate to enforce’ the five-year ban signed by governor Kathy Hochul\nThe New York governor, Kathy Hochul, signed legislation on Wednesday that places a five year ban on the manufacture and sale of toys powered by AI chatbots, including talking stuffed animals, dolls and robots that use the internet to hold conversations with children.\nThe recently re-elected governor, who has also placed a one-year moratorium AI datacenter construction in the stat",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys",
+      "image_url": "https://i.guim.co.uk/img/media/c63cd1b6d68275d8461c1bc612aa99fff6a89fc6/344_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=5d28722a369f9fd83cd445274e6f8376",
+      "pub_date": "Wed, 25 Nov 2026 15:29:21 GMT",
+      "author": "Edward Helmore",
+      "categories": [
+        {
+          "_": "New York",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/new-york"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Toys",
+          "$": {
+            "domain": "https://www.theguardian.com/lifeandstyle/toys"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-25T15:55:00.914Z",
+      "created_at": "2026-11-25T15:55:00.914Z"
+    },
+    {
+      "id": 30157,
+      "source": "The Guardian AI",
+      "title_en": "Botty? AI helps resurrect voice of John Motson for football video game",
+      "description_en": "Late broadcaster’s family allows EA Sports to create digital version of ‘Motty’ to commentate on popular FC27\nFirst it was Val Kilmer, then Greta Garbo, but finally AI has resurrected a star the terraces can cheer for: John Motson, the BBC football pundit who died in February 2023, is coming back to commentate on the next generation of footballers – at least on a video game.\nThe legendary commentator’s family has approved the use of AI technology to create a digital version of “Motty” – as he wa",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/media/2026/nov/25/ai-helps-resurrect-voice-john-motson-football-video-game-fc27",
+      "image_url": "https://i.guim.co.uk/img/media/d52e8fa78cedadca70c70f6e59bfcd90f9e39367/57_0_2250_1800/master/2250.jpg?width=140&quality=85&auto=format&fit=max&s=3114b2b42e73428bec0fd49db5beb3e5",
+      "pub_date": "Wed, 25 Nov 2026 15:13:10 GMT",
+      "author": "Robert Booth UK technology editor",
+      "categories": [
+        {
+          "_": "John Motson",
+          "$": {
+            "domain": "https://www.theguardian.com/media/john-motson"
+          }
+        },
+        {
+          "_": "Games",
+          "$": {
+            "domain": "https://www.theguardian.com/games/games"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Media",
+          "$": {
+            "domain": "https://www.theguardian.com/media/media"
+          }
+        },
+        {
+          "_": "Football",
+          "$": {
+            "domain": "https://www.theguardian.com/football/football"
+          }
+        },
+        {
+          "_": "Sport",
+          "$": {
+            "domain": "https://www.theguardian.com/sport/sport"
+          }
+        },
+        {
+          "_": "Culture",
+          "$": {
+            "domain": "https://www.theguardian.com/culture/culture"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-25T15:55:00.914Z",
+      "created_at": "2026-11-25T15:55:00.914Z"
+    },
+    {
+      "id": 30158,
+      "source": "The Guardian AI",
+      "title_en": "Aidan is one of thousands of students forced to verbally defend his honours thesis as universities take on AI",
+      "description_en": "Honours students are increasingly being asked to sit oral assessments – but at the University of Sydney it’s become a requirement for all\n\nGet our breaking news email, free app or daily news podcast\n\nWhen Aidan Elwig Pollock signed up for an honours program at the University of Sydney, he did not expect his 20,000-word thesis to be accompanied by a spoken component.\nBut, as AI increasingly makes written research an unreliable form of assessment, the university has demanded all students taking th",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/australia-news/2026/nov/25/australian-universities-tackle-ai-plagiarism-oral-assessment-honours-masters-phd",
+      "image_url": "https://i.guim.co.uk/img/media/908614cdd05b81d36b3667409a3239a6f801312e/0_0_6795_5439/master/6795.jpg?width=140&quality=85&auto=format&fit=max&s=313689c82f7c4780c7069cde9e6f55c2",
+      "pub_date": "Wed, 25 Nov 2026 14:00:29 GMT",
+      "author": "Zeina Khochaiche and Luca Ittimani",
+      "categories": [
+        {
+          "_": "Australian universities",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/australian-universities"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Australian education",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/australian-education"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Australia news",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/australia-news"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-25T15:55:00.914Z",
+      "created_at": "2026-11-25T15:55:00.914Z"
+    },
+    {
+      "id": 30159,
+      "source": "The Guardian AI",
+      "title_en": "Democrats must unite on AI regulation. Here’s our three-point plan | Nathan E Sanders and Bruce Schneier",
+      "description_en": "Voters are demanding action on the issue. We need to make AI work for the American public, not the tech oligarchs\nThis month’s elections demonstrated the American public’s urgent demand for change. But they also revealed a glaring problem for the Democrats’ policy agenda: they haven’t presented a compelling plan around AI.\nThis is important, because AI isn’t just a political issue in itself: it’s also a primary force behind both the economic disruption and political corruption that drove so many",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/25/democrats-ai-regulation-plan",
+      "image_url": "https://i.guim.co.uk/img/media/052f70b3cd29d16bf1465828355cd94e1de55a2f/31_0_4626_3703/master/4626.jpg?width=140&quality=85&auto=format&fit=max&s=e0876dff0837012a828ff0f845bb6ba3",
+      "pub_date": "Wed, 25 Nov 2026 13:00:26 GMT",
+      "author": "Nathan E Sanders and Bruce Schneier",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "US Congress",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-congress"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Democrats",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/democrats"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "US politics",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-politics"
+          }
+        },
+        {
+          "_": "Datacenters – US",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/datacenters--us-"
+          }
+        },
+        {
+          "_": "Trump administration",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/trump-administration"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-25T15:55:00.914Z",
+      "created_at": "2026-11-25T15:55:00.914Z"
+    },
+    {
+      "id": 30160,
+      "source": "The Guardian AI",
+      "title_en": "Our ‘Paris manifesto’ proposes how to deal with extreme wealth in the AI age | Open letter",
+      "description_en": "It is possible for democracy to reverse the dynamic of oligarchy. But we must act now\nThe explosion of extreme wealth in the world is the defining social fact of our times.\nWhen Forbes magazine began ranking the world’s largest fortunes in 1987, the wealth of the richest 0.0001% of our planet’s population equaled 3% of global GDP. Since that time, the wealth held by this tiny group of people – just 3,000 households – has ballooned and now reaches 17% of global GDP.\n Continue reading...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/25/paris-manifesto-open-letter-ai-oligarchy",
+      "image_url": "https://i.guim.co.uk/img/media/2dd975b73ad768204e517055d0fd577371cdf078/598_0_4903_3922/master/4903.jpg?width=140&quality=85&auto=format&fit=max&s=a9ed09c809e9d202b100178e38712dd4",
+      "pub_date": "Wed, 25 Nov 2026 11:00:47 GMT",
+      "author": "Open letter",
+      "categories": [
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "US politics",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-politics"
+          }
+        },
+        {
+          "_": "US income inequality",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-income-inequality"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-25T15:55:00.914Z",
+      "created_at": "2026-11-25T15:55:00.914Z"
+    },
+    {
+      "id": 30161,
+      "source": "Interesting Engineering",
+      "title_en": "Largest US mill triggers 1-million-pound uranium run to fuel rising utility demand",
+      "description_en": "Energy Fuels will launch a major uranium processing campaign in December at its White Mesa...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/energy/largest-us-mill-triggers-million-pound-uranium",
+      "image_url": null,
+      "pub_date": "Wed, 25 Nov 2026 15:29:16 +0000",
+      "author": "Aman Tripathi",
+      "categories": [
+        "Energy"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-25T15:55:01.796Z",
+      "created_at": "2026-11-25T15:55:01.796Z"
+    },
+    {
+      "id": 30162,
+      "source": "Interesting Engineering",
+      "title_en": "Pentagon to add 15 more Boeing refueling tankers to extend US Air Force reach",
+      "description_en": "Global military reach just received a massive financial and operational boost. Following a $2.8 billion...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/pentagon-add-more-boeing-tankers",
+      "image_url": null,
+      "pub_date": "Wed, 25 Nov 2026 14:42:59 +0000",
+      "author": "Mrigakshi Dixit",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-25T15:55:01.796Z",
+      "created_at": "2026-11-25T15:55:01.796Z"
+    },
+    {
+      "id": 30163,
+      "source": "Interesting Engineering",
+      "title_en": "YouTuber turns blowgun into 4,500 PSI supersonic launcher that pierces ballistic armor",
+      "description_en": "A YouTuber from the United Kingdom, Mike Shake, has upgraded his basic blowgun by pairing...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/innovation/youtuber-turns-blowgun-into-supersonic-launcher",
+      "image_url": null,
+      "pub_date": "Wed, 25 Nov 2026 14:18:41 +0000",
+      "author": "Muskan Bhatia",
+      "categories": [
+        "Innovation"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-25T15:55:01.796Z",
+      "created_at": "2026-11-25T15:55:01.796Z"
+    },
+    {
+      "id": 30164,
+      "source": "Interesting Engineering",
+      "title_en": "Russian strike drones use Nvidia Jetson Orin modules for target selection: Reports",
+      "description_en": "Ukrainian forensic examiners found Nvidia Jetson Orin minicomputers in the wreckage of Russian drones that...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/nvidia-jetson-orin-russia-drone",
+      "image_url": null,
+      "pub_date": "Wed, 25 Nov 2026 13:55:21 +0000",
+      "author": "Daniel Kamberski",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-25T15:55:01.796Z",
+      "created_at": "2026-11-25T15:55:01.796Z"
+    },
+    {
+      "id": 30165,
+      "source": "Interesting Engineering",
+      "title_en": "Royal Navy to get US-made underwater drones that can hunt sea mines for 110 hours",
+      "description_en": "Britain has awarded U.S. shipbuilder HII a $186 million contract to supply the Royal Navy...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/royal-navy-us-hii-underwater-drones",
+      "image_url": null,
+      "pub_date": "Wed, 25 Nov 2026 13:24:33 +0000",
+      "author": "Sujita Sinha",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-25T15:55:01.796Z",
+      "created_at": "2026-11-25T15:55:01.796Z"
+    },
+    {
+      "id": 30166,
+      "source": "Tom's Hardware",
+      "title_en": "Best Black Friday Gaming PC Deals 2026",
+      "description_en": "We've gathered the top Black Friday pre-built gaming desktop deals. We're constantly updating this list with the best discounts across all retailers.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/desktops/gaming-pcs/best-gaming-pc-deals-prebuilts-2026",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/WQriGt25Vt5SRi8Xbn7KwJ-1920-80.jpg",
+      "pub_date": "Wed, 25 Nov 2026 15:45:59 +0000",
+      "author": " Stewart Bendle ",
+      "categories": [
+        "Gaming PCs",
+        "Desktops"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-25T15:55:02.144Z",
+      "created_at": "2026-11-25T15:55:02.144Z"
+    },
+    {
+      "id": 30167,
+      "source": "Tom's Hardware",
+      "title_en": "7 new Intel Nova Lake-S Core Ultra 4000-series CPUs detailed in new leak",
+      "description_en": "A number of new, unannounced Intel Core Ultra 4000-series chips have been detailed in a Nova Lake document, ahead of what is expected to be an official unveiling of the chips at a next-generation desktop chip event in Berlin, Germany, in February 2027.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/cpus/7-new-intel-nova-lake-s-core-ultra-4000-series-cpus-detailed-in-new-leak-lineup-includes-5-5ghz-ultra-9-4970k-bfc-ahead-of-the-expected-february-2027-release",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/229FoESMtHATGsTaPQxpLj-1920-80.jpg",
+      "pub_date": "Wed, 25 Nov 2026 15:30:00 +0000",
+      "author": " Oliver Haslam ",
+      "categories": [
+        "CPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-25T15:55:02.144Z",
+      "created_at": "2026-11-25T15:55:02.144Z"
+    },
+    {
+      "id": 30168,
+      "source": "Tom's Hardware",
+      "title_en": "Save $250 on the 2026 M5 MacBook Air right now, undoing Apple's June price hike with a price of $1,049",
+      "description_en": "Grab Apple's 2026 MacBook Air with M5 chip for $1,049 right now, a $250 price drop that knocks it below early 2026 pricing.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/laptops/macbooks/save-up-to-usd300-on-the-2026-m5-macbook-air-right-now-deal-nets-you-current-gen-models-with-16gb-or-24gb-ram-and-up-to-1tb-storage",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/8zcLL6e9F4zn59dDuQXkqF-1920-80.jpg",
+      "pub_date": "Wed, 25 Nov 2026 14:52:59 +0000",
+      "author": " Brandon Hill ",
+      "categories": [
+        "Macbooks",
+        "Laptops"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-25T15:55:02.144Z",
+      "created_at": "2026-11-25T15:55:02.144Z"
+    },
+    {
+      "id": 30169,
+      "source": "Tom's Hardware",
+      "title_en": "Resourceful PC owner repurposes CPU watercooler with dead pump as standalone LCD hardware monitor, vibecodes new software for module",
+      "description_en": "The Redditor salvaged the LCD and controller board, 3D-printed a stand, and used AI to develop a custom software to turn the screen into a standalone PC monitoring display.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/liquid-cooling/resourceful-pc-owner-repurposes-cpu-watercooler-with-dead-pump-as-standalone-lcd-hardware-monitor-vibecodes-new-software-for-module-nzxt-krakens-lcd-and-controller-board-combined-with-3d-printed-stand-for-second-chance-at-life",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/PhywGimNE7gbWBVp7vRDoj-1920-80.jpg",
+      "pub_date": "Wed, 25 Nov 2026 14:03:51 +0000",
+      "author": " Kunal Khullar ",
+      "categories": [
+        "Liquid Cooling",
+        "PC Components",
+        "Cooling"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-25T15:55:02.144Z",
+      "created_at": "2026-11-25T15:55:02.144Z"
+    },
+    {
+      "id": 30170,
+      "source": "Tom's Hardware",
+      "title_en": "Deep clean your PC in seconds with cordless duster deals from $19",
+      "description_en": "Black Friday 2026 is the perfect time to pick up an air blower to clean grime and dust from your PC fans, keyboard keys, and more.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/peripherals/deep-clean-your-pc-in-seconds-with-cordless-air-duster-deals-from-usd19-on-black-friday-save-hundreds-on-canned-air-with-unlimited-high-rpm-dusting-power",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/XqSr2HVpJS99JzhHZfjtPf-1920-80.jpg",
+      "pub_date": "Wed, 25 Nov 2026 13:58:19 +0000",
+      "author": " Zhiye Liu ",
+      "categories": [
+        "Peripherals"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-25T15:55:02.144Z",
+      "created_at": "2026-11-25T15:55:02.144Z"
+    },
+    {
+      "id": 30171,
+      "source": "Tom's Hardware",
+      "title_en": "Husband of Jensen Huang’s mistress has much more significant Chinese intelligence connections than her, report claims",
+      "description_en": "The husband of alleged Chinese spy Alice Huang, the former Megaspeed employee who was involved in an affair with Nvidia CEO Jensen Huang, has even stronger ties to the Chinese intelligence services, U.S. intelligence officials have told Congress.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/husband-of-jensen-huangs-mistress-has-much-more-significant-chinese-intelligence-connections-than-her-report-claims-us-officials-warn-he-was-asset-with-ministry-of-state-security-connections",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/YtB9RGwrLiZvKMoFdZYGtD-1920-80.jpg",
+      "pub_date": "Wed, 25 Nov 2026 13:11:02 +0000",
+      "author": " Oliver Haslam ",
+      "categories": [
+        "Big Tech",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-25T15:55:02.144Z",
+      "created_at": "2026-11-25T15:55:02.144Z"
+    },
+    {
+      "id": 30172,
+      "source": "Tom's Hardware",
+      "title_en": "US blacklists Megaspeed, but leaves potential loophole for lower-performance chips",
+      "description_en": "The U.S. Department of Commerce has added Megaspeed and six affiliated entities to its Entity List due to concerns about the diversion of advanced AI accelerators to China.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/us-blacklists-megaspeed-but-leaves-potential-loophole-for-lower-performance-chips-company-at-center-of-jensen-huang-affair-scandal-added-to-entity-list",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/fz9pYfMDdnCBzedQbzBuUR-1920-80.jpg",
+      "pub_date": "Wed, 25 Nov 2026 12:30:00 +0000",
+      "author": " Anton Shilov ",
+      "categories": [
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-25T15:55:02.145Z",
+      "created_at": "2026-11-25T15:55:02.145Z"
+    },
+    {
+      "id": 30173,
+      "source": "Tom's Hardware",
+      "title_en": "Google DeepMind AI engineers conjure mathematical proof of Signal's encryption protocol",
+      "description_en": "Google DeepMind AI engineers conjure mathematical proof of Signal's encryption protocol — AlphaProof Code framework powered human-bot cooperation for speedy work",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-deepmind-ai-engineers-conjure-mathematical-proof-of-signals-encryption-protocol-alphaproof-code-framework-powered-human-bot-cooperation-for-speedy-work",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/ZZNtLfjyEWc5zZUk4vJ8ED-1920-80.png",
+      "pub_date": "Wed, 25 Nov 2026 12:00:00 +0000",
+      "author": " Bruno Ferreira ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-25T15:55:02.145Z",
+      "created_at": "2026-11-25T15:55:02.145Z"
+    },
+    {
+      "id": 30174,
+      "source": "Tom's Hardware",
+      "title_en": "AMD's Radeon RX 9060 XT sets new GPU frequency world record of 4.837 GHz",
+      "description_en": "AMD's Radeon RX 9060 XT has reached a new GPU frequency world record of 4,837 MHz. AMD VP Jack Huynh and veteran overclocker Bill Alverson used liquid nitrogen cooling to help the smaller RDNA 4 GPU open a 48MHz gap over the previous world record run.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/gpus/radeon-rx-9060-xt-sets-new-gpu-frequency-world-record-of-4-837-ghz-amd-overclocking-team-pushes-mid-range-rdna-4-gpu-to-the-max-under-liquid-nitrogen",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/xZuigq5Szn7wTRX8pM9SwP-1920-80.jpg",
+      "pub_date": "Wed, 25 Nov 2026 11:30:00 +0000",
+      "author": " Kunal Khullar ",
+      "categories": [
+        "GPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-25T15:55:02.145Z",
+      "created_at": "2026-11-25T15:55:02.145Z"
+    },
+    {
+      "id": 30175,
+      "source": "Tom's Hardware",
+      "title_en": "This Acer Nitro V laptop with Nvidia RTX 5060 GPU is $1,049 at Best Buy",
+      "description_en": "This 15.6-inch Acer Nitro gaming laptop features an RTX 5060 GPU, a 10-core Intel CPU, and a 512GB SSD for $1,049",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/laptops/gaming-laptops/this-acer-nitro-v-laptop-with-nvidia-rtx-5060-gpu-is-usd1-049-at-best-buy-16-inch-boasts-16gb-ddr5-ram-and-a-512gb-ssd",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/EFmd4zw7NGtUgp9oMfGvvn-1920-80.jpg",
+      "pub_date": "Wed, 25 Nov 2026 11:22:34 +0000",
+      "author": " Stewart Bendle ",
+      "categories": [
+        "Gaming Laptops",
+        "Laptops"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-25T15:55:02.145Z",
+      "created_at": "2026-11-25T15:55:02.145Z"
+    },
+    {
+      "id": 30176,
+      "source": "Tom's Hardware",
+      "title_en": "Jensen Huang denies special government treatment at first Nvidia all-hands since return",
+      "description_en": "Jensen Huang says he didn't get special treatment from the government at first Nvidia all-hands meeting since his return — \"there are rumors on the internet that apparently I’m a tech bro, and therefore I’m back\"",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/jensen-huang-denies-special-government-treatment-at-first-nvidia-all-hands-since-return-there-are-rumors-on-the-internet-that-apparently-im-a-tech-bro-and-therefore-im-back",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/umLVLKxLCxcj2CWHug2Wb8-1920-80.jpg",
+      "pub_date": "Wed, 25 Nov 2026 10:30:00 +0000",
+      "author": " Bruno Ferreira ",
+      "categories": [
+        "Big Tech",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-25T15:55:02.145Z",
+      "created_at": "2026-11-25T15:55:02.145Z"
+    },
+    {
+      "id": 30177,
+      "source": "CNBC Tech",
+      "title_en": "Futures sink further into the red as tech worries resurge",
+      "description_en": "Huang defies calls for Nvidia succession planning, sending shares lower premarket",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/25/futures-sink-further-into-the-red-as-tech-worries-resurge.html",
+      "image_url": null,
+      "pub_date": "Wed, 25 Nov 2026 11:43:37 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-25T15:55:02.156Z",
+      "created_at": "2026-11-25T15:55:02.156Z"
+    },
+    {
+      "id": 30178,
+      "source": "CNBC Tech",
+      "title_en": "Trump’s meddling in Huang scandal reignites voter angst over tech’s outsized political power",
+      "description_en": "Nvidia’s decision to reinstate CEO Jensen Huang after pressure from Trump is intensifying bipartisan scrutiny of tech companies' ties to the administration.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/25/huang-reinstatement-reignites-voter-angst-over-techs-outsized-power.html",
+      "image_url": null,
+      "pub_date": "Wed, 25 Nov 2026 13:20:34 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-25T15:55:02.156Z",
+      "created_at": "2026-11-25T15:55:02.156Z"
+    },
+    {
+      "id": 30179,
+      "source": "Backdoor (TG)",
+      "title_en": "⚡️ Россияне начали зарабатывать на банах Claude — СМИ. За прохождение KYC берут 5000 рублей.Темщики привлекают мигрантов из СНГ: Таджикистана, Киргизии, Узбекистана, в которых Claude официально работа",
+      "description_en": "⚡️ Россияне начали зарабатывать на банах Claude — СМИ. За прохождение KYC берут 5000 рублей.Темщики привлекают мигрантов из СНГ: Таджикистана, Киргизии, Узбекистана, в которых Claude официально работает. Они используют свои документы, чтобы пройти вам KYC.Людей вербуют прямо на стройке и других местах работы, пишет «База». Затем с ними делят вознаграждение за успешную проверку Claude.👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/33321",
+      "image_url": "https://cdn4.telesco.pe/file/tXv3Il98p8Tk-U7xFgg47wHPJJwlorTGxQymSEqOonlf9uKPD4_Auz_OGS5YbgBs9XOfJoP32T3ohw8sLx1hXuCQ2Gtyurr9nsN_37X2L48Qpzg4EKjEyjQzQMaamG5pzjrVn0dLXWSjgRLUNDGAnaI6550WZ1U2SXJAGcIPHAp6caUmGrqXdLthQkP7ierDsaHjMm4qdc6Q5K0PikuLBQQpJXs8JmkWtccGeduMMNtq8aoMAJDcjhD0zy3By0Scc51BncNuTqbqDCLGUVKdDJYuz1Tx0faFtsJRRB2OEF2apBdpf8KXUgKqhQTNG9TlfQBofcu14517qfbDE4d0NA.jpg",
+      "pub_date": "2026-11-25T10:56:06+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-25T15:55:07.255Z",
+      "created_at": "2026-11-25T15:55:07.255Z"
+    },
+    {
+      "id": 30180,
+      "source": "Backdoor (TG)",
+      "title_en": "⚡️ NVIDIA снижает выпуск игровых видеокарт еще на 3️⃣0️⃣% — компания официально уведомила партнеров. Дефицит RTX 50-й серии станет еще жестче, а цены на них взлетят сильнее. В России цены на карточки ",
+      "description_en": "⚡️ NVIDIA снижает выпуск игровых видеокарт еще на 3️⃣0️⃣% — компания официально уведомила партнеров. Дефицит RTX 50-й серии станет еще жестче, а цены на них взлетят сильнее. В России цены на карточки уже в космосе.Китайским дистрибьюторам посоветовали закупать устаревшие RTX 3060 и RTX 3050. Производство видеокарт хотят сократить до января 2027 года — компания уже второй раз сворачивает процессы за последние пару лет. Так NVIDIA планирует покрыть нужды ИИ-бигтехов.Хуанг зря вернулся.👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/33329",
+      "image_url": "https://cdn4.telesco.pe/file/RLIBZwK2XvogZkNt8UwkMq0cYOFQJFVn1xl9iJavyWzdFU90BJ6LC8CdclZWnSTDAHs60DxtXI1hiuVizmf7YZ5cwYL7RJuyxV7Z0EIsuzhTIzBVcIAq191u3C3yCECMjD-Z37NoZ_9c1WIrGkI7EbvtOrKAR_OGHa-0LzKrmIOEYIndBq0pgwYMv9atywszpn1PGb3I7qnwdfTsDy5wfKAhfyEMFLyg118R_naGuD5idBUxribmschkC9g5kOGI0XfmqS74t18xaejz1KredhKojUWr60W7iw7ndDQl4gtfZXy4lIynnm1sxL5yLSUxugm9TCVPe7k1H3WNmRTdZA.jpg",
+      "pub_date": "2026-11-25T13:47:42+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-25T15:55:07.255Z",
+      "created_at": "2026-11-25T15:55:07.255Z"
+    },
+    {
+      "id": 30181,
+      "source": "Backdoor (TG)",
+      "title_en": "⚡️ Порт GTA VI на ПК запустили в 16 FPS — ещё 3 часа назад (!) рекорд был 4 FPSВайбкодеры буквально долбят Claude запросами: «Работай, пока не будет 30 кадров и стабильная графика». И он работает.Оста",
+      "description_en": "⚡️ Порт GTA VI на ПК запустили в 16 FPS — ещё 3 часа назад (!) рекорд был 4 FPSВайбкодеры буквально долбят Claude запросами: «Работай, пока не будет 30 кадров и стабильная графика». И он работает.Осталось ещё 10 кадров, и будет как на консолях👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/33330",
+      "image_url": null,
+      "pub_date": "2026-11-25T14:34:48+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-25T15:55:07.255Z",
+      "created_at": "2026-11-25T15:55:07.255Z"
+    },
+    {
+      "id": 30182,
+      "source": "XOR Journal (TG)",
+      "title_en": "Учиться на программистов все-таки придется — ученые выяснили, что вайбкодеры без знаний ИТ-основ справляются с задачами хуже 😧Исследователи из ETH Zurich провели эксперимент со 100 студентами. Участн",
+      "description_en": "Учиться на программистов все-таки придется — ученые выяснили, что вайбкодеры без знаний ИТ-основ справляются с задачами хуже 😧Исследователи из ETH Zurich провели эксперимент со 100 студентами. Участникам предложили создать веб-приложения исключительно с помощью ИИ и промптов, даже не заглядывая в исходный код.По итогу выяснилось, что на успех в вайбкодинге влияют два навыка: знание компьютерных наук и… умение грамотно излагать мысли. Причём вклад технических знаний оказался примерно вдвое выше ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10600",
+      "image_url": "https://cdn4.telesco.pe/file/cjV65qbP624HVd0xJSkpKjnPvJU9m-gNqCm4RSHFaQ9757pKmJw1uzZUekPsE9yadLzxnsbryoEpYw_sROOdysWscV5hTuGAzNmG7AbKr2gqEEvN8_ZRUOWT6sIKK-YadTAaqkuy6yY6dpeerXNY9uIMxyycsRcRchnegNL74U5yV6IHZKauiXJWGTHc_b5LjISJSMcwkDjyBTNd8SJlNjRnG4Tz4FGGuChB902bgj1AKeRIFZ-GqVXc8436WZ7P5uG6MlNGmOjIqYyUzZYaeSZBVtSzldsK6goqKjSpil6k92YtKeJDmUiIWnSaEvdacgtvxxne580AfCGZEiHzDw.jpg",
+      "pub_date": "2026-11-25T12:07:33+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-25T15:55:07.313Z",
+      "created_at": "2026-11-25T15:55:07.313Z"
+    },
+    {
+      "id": 30183,
+      "source": "Habr (TG)",
+      "title_en": "Как ИИ помогает восстанавливать старые игры с исходным кодомНа декомпиляцию Super Smash Bros. Melee сообществу понадобилось шесть лет. В игре почти 20 тысяч функций, и каждую нужно восстановить так, ч",
+      "description_en": "Как ИИ помогает восстанавливать старые игры с исходным кодомНа декомпиляцию Super Smash Bros. Melee сообществу понадобилось шесть лет. В игре почти 20 тысяч функций, и каждую нужно восстановить так, чтобы после компиляции получился машинный код, побайтно совпадающий с оригиналом. Иногда достаточно заменить for на while, чтобы всё перестало сходиться.Теперь к такой работе подключают LLM-агентов. Они могут сотни раз переписывать функцию, компилировать её и проверять результат. Правда, иногда начин",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/habr_com/70117",
+      "image_url": "https://cdn4.telesco.pe/file/Ea_opDQ2zU8dWmXJ69cg5-jYvQ3n-Mq0OeRGHLY1PIOpzXBLUqS0HOfrmWlHJrTVG-nwSuDVBPcyJPO6-GsK8Flb3G1YCaf1EDreCOotXzhpJdkVPZY6TQeCgj2xCHHWRpMXrrY1mX-ecxJoGbH9XH6BzSaQ_4aq9I_gLr74cR7iLLuqdosXtN3ECmr1ysd6qcyeLzdYIZmkfKV8rU-D63ky2qdkWe3LZ70U_t3UZEZlb0Dy6EiCg9vnY5MuapcqSpJ1Fr_anaMkyUpPLt4KxIOIaddUmkAACbYnnM4p5mpEgLAdIa76O1dYWZhXdzEtyH33nB1MfDrbN4TGa3dmDw.jpg",
+      "pub_date": "2026-11-25T14:01:44+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-25T15:55:07.570Z",
+      "created_at": "2026-11-25T15:55:07.570Z"
+    },
+    {
+      "id": 30184,
+      "source": "Habr (TG)",
+      "title_en": "ИИ нового масштаба: международная конференция AI Journey 2026 🤖26-28 ноября на AI Journey 2026 обсудят, куда движется искусственный интеллект. Три дня конференции посвятят разным направлениям: «Общес",
+      "description_en": "ИИ нового масштаба: международная конференция AI Journey 2026 🤖26-28 ноября на AI Journey 2026 обсудят, куда движется искусственный интеллект. Три дня конференции посвятят разным направлениям: «Общество» — влиянию ИИ на жизнь людей и роль человека в мире ИИ-агентов, «Бизнес» — внедрению технологий в компании и экономику, «Наука» — фундаментальным исследованиям и автономным системам.В программе — более 300 ведущих экспертов из более чем 20 стран, включая Китай, Индию, Бразилию. 👉 Следите за про",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/habr_com/70118",
+      "image_url": "https://cdn4.telesco.pe/file/YCv64jFwvmVOKSKw3ZsFyqLKZwCQFqkOxR93mIJp85oZrT90FzxY8TFh3LNLSbR0zrRSvyXSpOqMkC9bueQljYPQW6MYb43d_DDlJuj-xq1xbrahgewunnpUVuqOy9aw5vUTS2OMQmyexCTr7lKhZRejoXX5ImLdjQM0JFzCC7b6ZOghMEX4EXZTCaGnlvXYJaq4Pm8LCRUJXQSTNM6PT4PaAe4bVDLZMyiOxS_1aFwikQKbL05G9oCF06P7ShfJz4LX5LzNXXkcju2460R5LS4fdShZemMvb5MW1DPVlrLo2x44xRg3RGpmdQc6HEdznQWsidZrJNNyOQ-WaEJrsQ.jpg",
+      "pub_date": "2026-11-25T15:02:04+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-25T15:55:07.570Z",
+      "created_at": "2026-11-25T15:55:07.570Z"
+    },
+    {
+      "id": 30185,
+      "source": "Hi, AI English (TG)",
+      "title_en": "❤️ GTA VI Has a Memorial to Loved Ones the Developers Lost While Making the GameJust north of the town of Hamlet in Leonida stands the Deep Roots Memorial Sanctuary. At least some of the names on its ",
+      "description_en": "❤️ GTA VI Has a Memorial to Loved Ones the Developers Lost While Making the GameJust north of the town of Hamlet in Leonida stands the Deep Roots Memorial Sanctuary. At least some of the names on its wall belong to developers' real relatives who did not live to see the game's release.Quality assurance staffer Matt Green said his path to Rockstar began with his mum, Bev.\"As a kid I remember practically begging my Mum to let me get GTA Vice City and even though she was understandably reluctant, sh",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimediaen/2961",
+      "image_url": "https://cdn4.telesco.pe/file/k8xRo_gmBeVDlw3KPb71XdjWWmnd2Ef9cvFT-tNWGRYI0LC-Y0tUYlFeG-THhqS6Xe0f2k00Nb9RgPysgnqTdpUZKoZHrRxGf_n_Uf-CCYRrhPs2T4WulyRO32AmIH49BnXPnHvdt6g20qvWeTXRkSPb2m940UfQyS2D4HaEdLPEs9uPkvbHeaQcajcra4uRpk0d8DUadEdPLsHByMaHRMBo-O3IkcFKzU_4ioOi-HHuH1CxAioXom3tjVqJHIMbsSQSHrV2tln56KB9E5Oh8U6j7Rt1IP9LCWYI5uJIf7ZSIn56bCmXMvxxPxI8NvzSH5avwHnTBIEtEUqCX5zszw.jpg",
+      "pub_date": "2026-11-25T10:36:21+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-25T15:55:07.598Z",
+      "created_at": "2026-11-25T15:55:07.598Z"
+    },
+    {
+      "id": 30186,
+      "source": "Hi, AI English (TG)",
+      "title_en": "🤖 Startup from an Old Horse Stable Builds a Humanoid Robot in Eight WeeksDuring the COVID-19 pandemic, bored at home, engineering student Christopher Helmke started 3D-printing monitor mounts with hi",
+      "description_en": "🤖 Startup from an Old Horse Stable Builds a Humanoid Robot in Eight WeeksDuring the COVID-19 pandemic, bored at home, engineering student Christopher Helmke started 3D-printing monitor mounts with his roommate. With so many people working from home, demand rose, and the two students earned €60,000 in just a couple of months.💻 To keep up with orders, Christopher built a machine in his apartment that automatically counted and packaged eight screws for each mount.The students shared a video about",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimediaen/2962",
+      "image_url": "https://cdn4.telesco.pe/file/ege8eEH2bVuRFA9hQJ_7p6NBR28AXJIrNjDk-GLuatujfcfskuzjBSq4sYw84O6ViaZAVWxpaOjU3gmDERvDGDshVC0MuJHz_LSE73ov9LJEivmvgl4tyYVT7Fiuv8PRQptiVbFiSBovXOli8nNo_LW3yyU4fQ2m0u6mnAUQBaOREmcaczuA98CHYFlYbCU4MAvrLPqD5joeaW9Jui5n-cH1P0fHeXUs_Z_xPFwUYue8NDLxdO8HFBjdrYfknir0Cuozjri6zpUMvP85wxH1KK6jo165-tGvDH5SOcFWAGwmqn4EmgnhO77bwdjrvAC1tBKcqo_GEyZTilcceyh4HA.jpg",
+      "pub_date": "2026-11-25T15:23:15+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-25T15:55:07.598Z",
+      "created_at": "2026-11-25T15:55:07.598Z"
+    },
+    {
+      "id": 30187,
+      "source": "AI Post (TG)",
+      "title_en": "📚 Learn the job of setting up Claude inside companies: 7 of Anthropic's 11 courses are freeAnthropic has laid out a training path for Forward Deployed Engineers, the people who take a client from a f",
+      "description_en": "📚 Learn the job of setting up Claude inside companies: 7 of Anthropic's 11 courses are freeAnthropic has laid out a training path for Forward Deployed Engineers, the people who take a client from a first use case to a working Claude pilot, on site. It's 11 self-paced courses, about 9.5 hours in all. By the end you can write a pilot plan: the baseline to beat, what ships first and who gets it first.The full path is only for members of the Claude Partner Network. Seven of its courses are free for",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8892",
+      "image_url": "https://cdn4.telesco.pe/file/WCbQ-3kUv3KNqiOnbIGY6v4NPdCbuUNm-he8N8ga21kUTslPWQsSQNcHJTQc5IHfi9rKIRh6glIuceYCqn6Bz2I7p3gyyEi2kQqCXmIvgTtdUP4TmRayioT5WXwsJnCB2CTeKk7F1FLNn4Pxf0DPP0uAhXs0X_3_qV-JTB8tcE1ye4SFw5_1UPOsBgHEonNzVPOMFFhwx_N9QDvHdh6JAwQgsKcxAtPNmzPVuK6Tianx0achW-HasptStCaTtfy_ud30uIPrNv7lE6P275iLm073lBZL2bidkgzO5qMjrR1YoviQHtMywtp4Z3qldAQ86YCWgfIrF9grOqbmr76DLw.jpg",
+      "pub_date": "2026-11-25T11:19:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-25T15:55:07.814Z",
+      "created_at": "2026-11-25T15:55:07.814Z"
+    },
+    {
+      "id": 30188,
+      "source": "AI Post (TG)",
+      "title_en": "🧐 Can AI catch breast cancers doctors miss? The NHS is testing it with nearly 700,000 womenWomen invited for breast screening in Cambridgeshire are the first to join EDITH, the world's largest trial ",
+      "description_en": "🧐 Can AI catch breast cancers doctors miss? The NHS is testing it with nearly 700,000 womenWomen invited for breast screening in Cambridgeshire are the first to join EDITH, the world's largest trial of AI-assisted screening. Nearly 700,000 women at 30 UK sites are set to take part over three years.Today two specialists check every mammogram. The trial tests whether AI can help spot cancers too small to see or feel, so that most scans need only one specialist.Nothing changes at the appointment. ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8893",
+      "image_url": "https://cdn4.telesco.pe/file/o6ouEYjN-4o048ZVAxeqEyr0Ujxz8-FwJaaaefRVNxYC8VseKd4s8zFjy-piT59hEJJYy9Wti8hTs_P2bJtktDgUm30nnydhrx_f3T6dWF7t5j3aIoiBLH7GQwoBSIcsUQWWryAwlNXCv3V69BK0y0MmFCX-oLmpmkTUaLHuLHUISXm3S1kq89yYy64eJboZGkO3YoOOp7N6WJTbNddGuMtpirT4s4SKYabjoHuK5YagXxTiELdOA-ElqDsyP8vnUqDoPTJKcNRw6CWDvLvMAe2WRe8kr4wK898bJ3G186ds9j6IJAWUjWphuLUhmH2B8PvOc1y_tpTbYOJ-bJgfMQ.jpg",
+      "pub_date": "2026-11-25T13:56:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-25T15:55:07.814Z",
+      "created_at": "2026-11-25T15:55:07.814Z"
+    },
+    {
+      "id": 30189,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "💡 Мыши могут объяснить, почему людям нравится смотреть на драки Ученые из Принстона выяснили, что мыши, которые наблюдали за драками других, лучше справлялись с сильным противником. В мозге у них вкл",
+      "description_en": "💡 Мыши могут объяснить, почему людям нравится смотреть на драки Ученые из Принстона выяснили, что мыши, которые наблюдали за драками других, лучше справлялись с сильным противником. В мозге у них включались те же цепи, что и у настоящих бойцов, поэтому похожий механизм может работать и у людей, которым нравится смотреть на насилие. Исследователи разделили самцов мышей на три группы. «Бойцы» дрались между собой. «Зрителей» разместили на платформе за прозрачной перегородкой, где они могли слышать",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3879",
+      "image_url": "https://cdn4.telesco.pe/file/TByNynTKUPlRuXFTJtdqeO8zPlVXOUkEj16THYUyoFHcoQRuZIyXZ1Hbm5s5dCxi_6nhB9BSa4N5k61MTVo2IMA9ktzqo-Ip9oZpNfvi6F9R5IGBhsG2GWobfhDOot1ewfrcbSfe2uXDyn7jdjasV1Mdfai_DTs2b6wIrzwSM59yyr5zK7h75AS7LBuMoIsHn4B3EKe2B0r9f1jeDUFv26d7HhgKaCDh6VHKu4b7DwUI8IV1U6nqkdLZm-4kw_V2348Py0euUNMr63QmEzg-5KKNgMGmB0l0uXM3_aAd7YrUgoe-VtuUiwKqnG1f-_65bDzm7ogoU5xuDW9NGfc_8A.jpg",
+      "pub_date": "2026-11-25T11:12:45+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-25T15:55:08.150Z",
+      "created_at": "2026-11-25T15:55:08.150Z"
+    },
+    {
+      "id": 30190,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 Apple pulled Talkie, a Chinese AI companion app, after an ABC investigation into sexualized chats with kidsAbout 50,000 Australian kids aged 10 to 17 said they'd used it, though it's rated 18+. In ",
+      "description_en": "🚨 Apple pulled Talkie, a Chinese AI companion app, after an ABC investigation into sexualized chats with kidsAbout 50,000 Australian kids aged 10 to 17 said they'd used it, though it's rated 18+. In a joint ABC and Bureau of Investigative Journalism probe, parents reported sexual and abusive roleplay with their 12, 13 and 10-year-old daughters.Company documents show MiniMax, Talkie's maker, penalized bots in testing if they couldn't keep conversations going. Users average over 70 minutes a day.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/1126",
+      "image_url": null,
+      "pub_date": "2026-11-25T11:25:14+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-25T15:55:08.387Z",
+      "created_at": "2026-11-25T15:55:08.387Z"
+    },
+    {
+      "id": 30191,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🧮 Google drops 9 math papers from Cogentic, including sub-exponential integer factoring and sub-quasi-polynomial discrete logsCogentic is a multi-agent harness that, per its arXiv write-up, has LLMs ",
+      "description_en": "🧮 Google drops 9 math papers from Cogentic, including sub-exponential integer factoring and sub-quasi-polynomial discrete logsCogentic is a multi-agent harness that, per its arXiv write-up, has LLMs coordinate through a shared database of proofs. Google published the PDFs under Apache 2.0. Others cover Nash equilibria, the log-rank conjecture and prophet inequalities.The factoring claim is L_N[1/3, O(1)] with no unproven assumptions. None of the papers have been peer reviewed yet.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/1127",
+      "image_url": null,
+      "pub_date": "2026-11-25T14:26:14+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-25T15:55:08.387Z",
+      "created_at": "2026-11-25T15:55:08.387Z"
     }
   ]
 }
