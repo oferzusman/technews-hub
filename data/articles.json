@@ -653324,6 +653324,214 @@
       "priority": "hot",
       "fetchedAt": "2026-11-24T22:40:35.239Z",
       "created_at": "2026-11-24T22:40:35.239Z"
+    },
+    {
+      "id": 30104,
+      "source": "Ars Technica",
+      "title_en": "Half of NASA's aging Mars fleet knocked offline by technical issues",
+      "description_en": "Perseverance is having trouble transmitting to Earth. Odyssey is rapidly burning through its waning fuel supply.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/PIA26752-1152x648-1795552223.jpg",
+      "pub_date": "Tue, 24 Nov 2026 22:50:11 +0000",
+      "author": "\n                    Stephen Clark\n                ",
+      "categories": [
+        "Science",
+        "Space",
+        "jet propulsion laboratory",
+        "Mars",
+        "Mars 2020",
+        "mars odyssey",
+        "Mars Perseverance",
+        "NASA",
+        "planetary science",
+        "solar system"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-25T01:33:53.890Z",
+      "created_at": "2026-11-25T01:33:53.890Z"
+    },
+    {
+      "id": 30105,
+      "source": "MarkTechPost",
+      "title_en": "Meet Facebook’s Your Algorithm: How Meta Turns Plain-Language Preferences Into Ranking",
+      "description_en": "Meta's engineering team explains how Facebook's Your Algorithm turns plain-language interests into ranking signals for Feed and Reels, using LLM validation, 4 retrieval sources, layered filtering and a fine-tuned LLM reranker.\nThe post Meet Facebook’s Your Algorithm: How Meta Turns Plain-Language Preferences Into Ranking appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/11/24/meta-facebook-your-algorithm-llm-recommendations/",
+      "image_url": null,
+      "pub_date": "Tue, 24 Nov 2026 23:06:17 +0000",
+      "author": "Michal Sutter",
+      "categories": [
+        "Agentic AI",
+        "Editors Pick",
+        "For Devs",
+        "Software Engineering",
+        "Staff"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-25T01:33:54.453Z",
+      "created_at": "2026-11-25T01:33:54.453Z"
+    },
+    {
+      "id": 30106,
+      "source": "OpenAI Blog",
+      "title_en": "Clay helps sales teams win with Codex and ChatGPT",
+      "description_en": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://openai.com/business/customer-stories/clay-plugins-openai",
+      "image_url": null,
+      "pub_date": "Tue, 24 Nov 2026 00:00:00 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-25T01:33:54.550Z",
+      "created_at": "2026-11-25T01:33:54.550Z"
+    },
+    {
+      "id": 30107,
+      "source": "The Guardian AI",
+      "title_en": "I asked AI if it was OK to use AI to write an obituary. The answer surprised me | Anna Spargo-Ryan",
+      "description_en": "Victorian Liberal leader Jess Wilson’s tribute to Molly Meldrum contained heaps of the right words. But they were written by something that can’t feel\nI know how this will sound but when my nanna died the second thought I had, after utter devastation, was: “This is a writer’s dream.” She was 101. That is so many years old. I wrote the eulogy to end all eulogies, breaking my own heart with a bottomless well of memories, anecdotes and in-jokes. It was achingly personal and exquisitely her.\nThe Vic",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/25/jess-wilson-molly-meldrum-tribute-ai-ethics-obituary",
+      "image_url": "https://i.guim.co.uk/img/media/f3c83be0e5415a34561d49dc0d5206b7ca0cc88f/16_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=d4dbb3d9bd30f5163e93f4d3cfd25d72",
+      "pub_date": "Wed, 25 Nov 2026 01:00:01 GMT",
+      "author": "Anna Spargo-Ryan",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Jess Wilson",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/jess-wilson"
+          }
+        },
+        {
+          "_": "Victorian politics",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/victorian-politics"
+          }
+        },
+        {
+          "_": "Victoria",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/victoria"
+          }
+        },
+        {
+          "_": "Australia news",
+          "$": {
+            "domain": "https://www.theguardian.com/australia-news/australia-news"
+          }
+        },
+        {
+          "_": "Bereavement",
+          "$": {
+            "domain": "https://www.theguardian.com/lifeandstyle/bereavement"
+          }
+        },
+        {
+          "_": "Family",
+          "$": {
+            "domain": "https://www.theguardian.com/lifeandstyle/family"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Grandparents and grandparenting",
+          "$": {
+            "domain": "https://www.theguardian.com/lifeandstyle/grandparents-and-grandparenting"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-25T01:33:54.821Z",
+      "created_at": "2026-11-25T01:33:54.821Z"
+    },
+    {
+      "id": 30108,
+      "source": "CNBC Tech",
+      "title_en": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
+      "description_en": "Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
+      "image_url": null,
+      "pub_date": "Wed, 25 Nov 2026 01:13:56 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-25T01:33:58.083Z",
+      "created_at": "2026-11-25T01:33:58.083Z"
+    },
+    {
+      "id": 30109,
+      "source": "CNBC Tech",
+      "title_en": "Jim Cramer says Tuesday's market pullback is an encouraging sign. Here's why",
+      "description_en": "Jim Cramer said Tuesday's market action following Monday's massive rally is an encouraging sign that stocks are on the path to a more sustainable recovery.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/24/jim-cramer-market-pullback.html",
+      "image_url": null,
+      "pub_date": "Tue, 24 Nov 2026 23:23:34 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-25T01:33:58.083Z",
+      "created_at": "2026-11-25T01:33:58.083Z"
+    },
+    {
+      "id": 30110,
+      "source": "AI Post (TG)",
+      "title_en": "👽 Two hobbyists went planet hunting with AI. A SETI astronomer then found two of the same signalsKevin Bond had Codex build a search program for public data from NASA's Kepler telescope, about 100,00",
+      "description_en": "👽 Two hobbyists went planet hunting with AI. A SETI astronomer then found two of the same signalsKevin Bond had Codex build a search program for public data from NASA's Kepler telescope, about 100,000 stars. It flagged more than 200 signals, including 10 planets already known.Two stood out: a star in Lyra that dims every 13.8 days, perhaps from a planet about 2.4 times Earth's width, and a faint star that dims every 4.8 days. An astronomer at the SETI Institute ran his own search and found both",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8888",
+      "image_url": null,
+      "pub_date": "2026-11-25T01:07:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-25T01:33:59.673Z",
+      "created_at": "2026-11-25T01:33:59.673Z"
+    },
+    {
+      "id": 30111,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 The European Commission confirms hackers stole personal data in an AI-assisted attackThe Commission confirmed that EU Academy, its online learning platform, was breached, and names and email addres",
+      "description_en": "🚨 The European Commission confirms hackers stole personal data in an AI-assisted attackThe Commission confirmed that EU Academy, its online learning platform, was breached, and names and email addresses of people outside the EU institutions were taken. It doesn't know how many users are affected, and it warned them with a website notice instead of contacting them directly. Public access to the platform is disabled.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/1120",
+      "image_url": null,
+      "pub_date": "2026-11-24T22:54:02+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-25T01:33:59.854Z",
+      "created_at": "2026-11-25T01:33:59.854Z"
     }
   ]
 }
