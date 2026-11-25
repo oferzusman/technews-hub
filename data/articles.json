@@ -653753,6 +653753,532 @@
       "priority": "hot",
       "fetchedAt": "2026-11-25T05:14:44.028Z",
       "created_at": "2026-11-25T05:14:44.028Z"
+    },
+    {
+      "id": 30122,
+      "source": "MIT Technology Review",
+      "title_en": "AI is straining America’s open records systems",
+      "description_en": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a wood-frame structure built as a church in 1858—he also fielded public records requests. Recently, he…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+      "image_url": null,
+      "pub_date": "Wed, 25 Nov 2026 10:00:00 +0000",
+      "author": "Matthew King",
+      "categories": [
+        "Artificial intelligence",
+        "App"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-25T10:25:30.964Z",
+      "created_at": "2026-11-25T10:25:30.964Z"
+    },
+    {
+      "id": 30123,
+      "source": "MarkTechPost",
+      "title_en": "ByteDance Researchers Open-Sources Laminar, an Async Reinforcement Learning RL Post-Training Framework",
+      "description_en": "Laminar is an open-source asynchronous RL post-training framework from HKU and ByteDance Seed researchers. It decouples rollout, training and weight sync, and lifted Qwen3-Coder-30B-A3B to 52.2% on SWE-bench Verified.\nThe post ByteDance Researchers Open-Sources Laminar, an Async Reinforcement Learning RL Post-Training Framework appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/11/24/bytedance-seed-laminar-async-rl-post-training-framework/",
+      "image_url": null,
+      "pub_date": "Wed, 25 Nov 2026 05:42:05 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "AI Paper Summary",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "For Devs",
+        "New Releases",
+        "Open Source",
+        "Reinforcement Learning",
+        "Staff",
+        "Tech News",
+        "Technology",
+        "Uncategorized"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-25T10:25:31.005Z",
+      "created_at": "2026-11-25T10:25:31.005Z"
+    },
+    {
+      "id": 30124,
+      "source": "Hugging Face Blog",
+      "title_en": "An Indic Voice Agent with CUGA",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+      "image_url": null,
+      "pub_date": "Wed, 25 Nov 2026 10:22:09 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-25T10:25:31.046Z",
+      "created_at": "2026-11-25T10:25:31.046Z"
+    },
+    {
+      "id": 30125,
+      "source": "New Atlas",
+      "title_en": "Wild wearable turns your arm skin into the trackpad",
+      "description_en": "Smartwatches have evolved from basic timepieces, calculators, and fitness trackers into powerful devices that can also make calls, play videos, handle GPS navigation, and so much more. Great stuff. The problem is that we want even more smartphone functionality – plus touch navigation – on screens typically smaller than the average human thumb. Researchers at North Carolina State University have developed technology that takes the screen-size limitation out of the equation, turning the wearer's a",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/electronics/epipad-forearm-trackpad/",
+      "image_url": null,
+      "pub_date": "Wed, 25 Nov 2026 08:12:30 GMT",
+      "author": "Etiido Uko",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-25T10:25:31.415Z",
+      "created_at": "2026-11-25T10:25:31.415Z"
+    },
+    {
+      "id": 30126,
+      "source": "The Guardian AI",
+      "title_en": "AI's shock-and-awe raid on maths looks like pride before a fall | Rafael Behr",
+      "description_en": "Machines are bulldozing through hard problems to assert the power of their tech bro creators, not to advance human knowledge\nIn most walks of life, trying something 12,363,153,437,138 times and getting the same result is reason enough to assume it works every time. Not in maths, where a conjecture that holds up more than 12tn times looks very probably true but doesn’t qualify as proven.\nThat was the status of the Riemann hypothesis, one of the most famous mathematical conundrums in existence, un",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/25/ai-mathematics-human-knowledge-progress-technology-industry",
+      "image_url": "https://i.guim.co.uk/img/media/cdd7dbf6b2851930cbc2eb7bcc23473a0b6d999f/493_4_4048_3242/master/4048.jpg?width=140&quality=85&auto=format&fit=max&s=c79b1302acc25bf0dce86b0007ce0c94",
+      "pub_date": "Wed, 25 Nov 2026 10:05:15 GMT",
+      "author": "Rafael Behr",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Mathematics",
+          "$": {
+            "domain": "https://www.theguardian.com/science/mathematics"
+          }
+        },
+        {
+          "_": "Science",
+          "$": {
+            "domain": "https://www.theguardian.com/science/science"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "OpenAI",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/openai"
+          }
+        },
+        {
+          "_": "Anthropic",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/anthropic"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-25T10:25:31.624Z",
+      "created_at": "2026-11-25T10:25:31.624Z"
+    },
+    {
+      "id": 30127,
+      "source": "The Guardian AI",
+      "title_en": "‘It’s been really a mess’: Meta insiders concerned over push to AI content moderation",
+      "description_en": "Several employees say rapid speed at which algorithms work means mistakes can happen at greater scale\nMeta employees have expressed concern at the company’s push to replace human moderators with artificial intelligence, claiming the technology is leading to mistakes with the potential for sweeping political consequences.\nThe social media company, which owns Facebook and Instagram, has been experimenting with AI-driven moderation for years, first introducing it in 2017 to filter out violent extre",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/nov/25/meta-insiders-concerned-push-to-ai-content-moderation",
+      "image_url": "https://i.guim.co.uk/img/media/534fcd6f2a9a97fae39f19c96472abe6ec41e0b9/0_819_3766_3013/master/3766.jpg?width=140&quality=85&auto=format&fit=max&s=632f0b0606f2a8be0dc94de85ed6a7ee",
+      "pub_date": "Wed, 25 Nov 2026 07:00:08 GMT",
+      "author": "Aisha Down Global technology reporter",
+      "categories": [
+        {
+          "_": "Meta",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/meta"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Facebook",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/facebook"
+          }
+        },
+        {
+          "_": "Instagram",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/instagram"
+          }
+        },
+        {
+          "_": "Social media",
+          "$": {
+            "domain": "https://www.theguardian.com/media/social-media"
+          }
+        },
+        {
+          "_": "Internet",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/internet"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-25T10:25:31.624Z",
+      "created_at": "2026-11-25T10:25:31.624Z"
+    },
+    {
+      "id": 30128,
+      "source": "The Guardian AI",
+      "title_en": "What real or imagined horrors are waking you up at 4am? | First Dog on the Moon",
+      "description_en": "We are in the most globally anxious period since WW2. I made this up but it sounds true\n\nSign up here to get an email whenever First Dog cartoons are published\n\nGet all your needs met at the First Dog shop if what you need is First Dog merchandise and prints\n\n Continue reading...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/commentisfree/picture/2026/nov/25/what-real-or-imagined-horrors-are-waking-you-up-at-4am",
+      "image_url": "https://i.guim.co.uk/img/media/c834265aaf1f6dbe479a1f76f6ad7cf321895cea/0_48_636_509/master/636.jpg?width=140&quality=85&auto=format&fit=max&s=1705a13f66eb9189d582541a38ea6788",
+      "pub_date": "Wed, 25 Nov 2026 05:28:12 GMT",
+      "author": "First Dog on the Moon",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Climate crisis",
+          "$": {
+            "domain": "https://www.theguardian.com/environment/climate-crisis"
+          }
+        },
+        {
+          "_": "Nuclear weapons",
+          "$": {
+            "domain": "https://www.theguardian.com/world/nuclear-weapons"
+          }
+        },
+        {
+          "_": "Donald Trump",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/donaldtrump"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-25T10:25:31.624Z",
+      "created_at": "2026-11-25T10:25:31.624Z"
+    },
+    {
+      "id": 30129,
+      "source": "Interesting Engineering",
+      "title_en": "9,500 pounds of aging explosives to be detonated by US Army as court lifts ban",
+      "description_en": "The U.S. Army has received clearance to destroy 9,500 pounds of deteriorating lead azide at...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/us-army-to-detonate-9500-pounds-explosives",
+      "image_url": null,
+      "pub_date": "Wed, 25 Nov 2026 09:15:23 +0000",
+      "author": "Atharva Gosavi",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-25T10:25:32.242Z",
+      "created_at": "2026-11-25T10:25:32.242Z"
+    },
+    {
+      "id": 30130,
+      "source": "Tom's Hardware",
+      "title_en": "These four portable monitors are on sale for Black Friday",
+      "description_en": "These four portable monitors are available at low prices for Black Friday. Get a second screen for your PC or console, starting under $55",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/monitors/portable-monitors/these-four-portable-monitors-are-on-sale-for-black-friday-get-a-second-screen-for-your-pc-or-console-for-less",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/zUKkpzrNjmEmdMxuvXGZRR-1920-80.jpg",
+      "pub_date": "Wed, 25 Nov 2026 10:00:00 +0000",
+      "author": " Matt Safford ",
+      "categories": [
+        "Portable Monitors",
+        "Monitors"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-25T10:25:32.870Z",
+      "created_at": "2026-11-25T10:25:32.870Z"
+    },
+    {
+      "id": 30131,
+      "source": "Tom's Hardware",
+      "title_en": "Black Friday 2026 gaming monitor deals live",
+      "description_en": "The best Black Friday monitor sales, live round-the-clock coverage of all the best deals.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/live/news/black-friday-2026-monitors",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/hFgpVUzJT5Q4HvfMqSDJ4g-1920-80.jpg",
+      "pub_date": "Wed, 25 Nov 2026 09:21:02 +0000",
+      "author": " The Editors of Tom&#039;s Hardware ",
+      "categories": [
+        "Gift Guides and Seasonal Sales"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-25T10:25:32.870Z",
+      "created_at": "2026-11-25T10:25:32.870Z"
+    },
+    {
+      "id": 30132,
+      "source": "CNBC Tech",
+      "title_en": "AI debt worries grow as Nvidia rebound masks Big Tech spending squeeze",
+      "description_en": "Big Tech could find it increasingly tough to secure funding from debt markets critical to the AI build-out, as lenders become pickier over corporate bonds.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/25/ai-debt-big-tech-spending-nvidia.html",
+      "image_url": null,
+      "pub_date": "Wed, 25 Nov 2026 06:29:46 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-25T10:25:32.878Z",
+      "created_at": "2026-11-25T10:25:32.878Z"
+    },
+    {
+      "id": 30133,
+      "source": "CNBC Tech",
+      "title_en": "Crypto talent will return ‘when AI implodes,’ Arthur Hayes says",
+      "description_en": "Maelstrom CIO Arthur Hayes expects the AI trade to face headwinds in the second half of 2027, with startup talent potentially returning to crypto afterward.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/25/talents-crypto-ai-investment.html",
+      "image_url": null,
+      "pub_date": "Wed, 25 Nov 2026 06:09:44 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-25T10:25:32.878Z",
+      "created_at": "2026-11-25T10:25:32.878Z"
+    },
+    {
+      "id": 30134,
+      "source": "Product Hunt",
+      "title_en": "Hai",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/hai-4",
+      "image_url": null,
+      "pub_date": "2026-11-24T11:19:56.000Z",
+      "author": "Prashant",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-25T10:25:37.708Z",
+      "created_at": "2026-11-25T10:25:37.708Z"
+    },
+    {
+      "id": 30135,
+      "source": "Product Hunt",
+      "title_en": "Airbot",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/airbots",
+      "image_url": null,
+      "pub_date": "2026-11-19T16:45:54.000Z",
+      "author": "Ben Lang",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-25T10:25:37.708Z",
+      "created_at": "2026-11-25T10:25:37.708Z"
+    },
+    {
+      "id": 30136,
+      "source": "Product Hunt",
+      "title_en": "MAGI-2",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/magi-1",
+      "image_url": null,
+      "pub_date": "2026-11-25T05:35:39.000Z",
+      "author": "Justin Jincaid",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-25T10:25:37.708Z",
+      "created_at": "2026-11-25T10:25:37.708Z"
+    },
+    {
+      "id": 30137,
+      "source": "Backdoor (TG)",
+      "title_en": "⚡️ ИИ-агент «Действуй!» в Алисе AI стал доступен раньше запланированного срока — некоторые юзеры опции Алиса Плюс сегодня утром обнаружили у себя доступ к новому режиму.Первые в России полноценные аге",
+      "description_en": "⚡️ ИИ-агент «Действуй!» в Алисе AI стал доступен раньше запланированного срока — некоторые юзеры опции Алиса Плюс сегодня утром обнаружили у себя доступ к новому режиму.Первые в России полноценные агентские сценарии начали тестировать на узком круге пользователей всего две недели назад, а официальный релиз был запланирован только на декабрь. Яндекс ситуацию пока не прокомментировал.Идем тестить русский Dots.👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/33314",
+      "image_url": "https://cdn4.telesco.pe/file/p7PXMBY15WCJWcYNvkLP4Kkp_wYxE3q_YMrk77BesZEWw0RxjW1N99kVssTbVEERXzFXBkfzhKx-CCS7IA_KfgUyM2UdsGoqmnYwViUHpg9SZ38w1UljxFSLweLlpAwgGLriDxN9zzjAWyM9sCX0wN8iRTzjOSMEaUP1l53UFZE6P-oPL2MhmjmL4N3pxtJMqcYnRXuz6ldcCFHOcFeFwBUjo9ecGimu0Qx2MSkd05rmh3JZi-NRkQQHf30O4d_wmyutvbYcc18aFht9b-DmjrE5W5XHjYSVUY_BMQ5C_D9FAtz4zrX2O4eJJvYGTxN4DcvPystnG1qQYA6PM2hqLg.jpg",
+      "pub_date": "2026-11-25T07:13:31+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-25T10:25:38.207Z",
+      "created_at": "2026-11-25T10:25:38.207Z"
+    },
+    {
+      "id": 30138,
+      "source": "XOR Journal (TG)",
+      "title_en": "Работает — не трогай. Главное презентовать потом красиво 😁@xor_journal",
+      "description_en": "Работает — не трогай. Главное презентовать потом красиво 😁@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10599",
+      "image_url": null,
+      "pub_date": "2026-11-25T08:57:18+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-25T10:25:38.228Z",
+      "created_at": "2026-11-25T10:25:38.228Z"
+    },
+    {
+      "id": 30139,
+      "source": "Hi, AI English (TG)",
+      "title_en": "🔍 Japanese Man Finds His Lost Key Using ChatGPTAn X user who goes by fsc2a said he had dropped his key, and the area he had to search stretched for several hundred meters. He couldn't find it on his ",
+      "description_en": "🔍 Japanese Man Finds His Lost Key Using ChatGPTAn X user who goes by fsc2a said he had dropped his key, and the area he had to search stretched for several hundred meters. He couldn't find it on his own and was at his wits' end.💡 So he pieced together his whole route from the last place he'd taken the key out, walked it again, and took about 420 photos of the ground with his phone. He fed the photos to the AI agent Codex, and an hour and a half later, it spotted the key in one of them.In his p",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimediaen/2960",
+      "image_url": "https://cdn4.telesco.pe/file/b5ZMcmwHNqjUn-8cZOjcdrbR4ac7ruT8HF9q8TvN4eXTwS--jFifpb1gGBfKcTYd3QBdBXO-oFC9t3cO_TH3zA8gje8uI3tkLFB9QdwVJ67bgNO_4T2H0SIu5jpq2sxRWHEXvfkALk_YYp5d2TLcHY1W8rq7JCZ-8n4c2pdExE5WS39G1lEvYyCgcy4k2npeQE5ueBthGA2nO2_lBXqAWIOAsot7psiX33xUxK1jx8m3p926C6N7JGqbW0GSK7nER1jHeqpMwolNWj25SboXMQ1IER6Dpa58TQWa1sJCX2HGgbj_jMcN_e6vCG-Ysb7cMZrNpu8SwdBa0ssWbDal_g.jpg",
+      "pub_date": "2026-11-25T08:18:06+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-25T10:25:38.512Z",
+      "created_at": "2026-11-25T10:25:38.512Z"
+    },
+    {
+      "id": 30140,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "🤖 Стартап из конюшни за восемь недель собрал гуманоидного роботаВо время коронавируса студент-инженер Кристофер Хельмке заскучал дома и вместе с соседом начал печатать на 3D-принтере кронштейны для м",
+      "description_en": "🤖 Стартап из конюшни за восемь недель собрал гуманоидного роботаВо время коронавируса студент-инженер Кристофер Хельмке заскучал дома и вместе с соседом начал печатать на 3D-принтере кронштейны для мониторов. Удаленка сформировала спрос, и за пару месяцев студенты заработали 60 тыс. евро.💻 Чтобы успевать за заказами, Кристофер собрал в квартире «счетный станок», который упаковывал восемь винтов для каждого кронштейна.Видео о разработке выложили на YouTube. За неделю ролик посмотрели 20 тыс. че",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3878",
+      "image_url": "https://cdn4.telesco.pe/file/k2QvzqU4vgDfAK84ol4gwaph0eOEiul_EdPiu-p0z-NLuC7ZlX-4qDgmcaPlFAY3PBJw1b9VIVj5_V35pfpZ2by9Qc2q3KDHFBSUK5NrJnqVHgGZS76qejGoWVZzYCA6IwxaVaivw56SH_HNMEAoiAszmitvvKwSjOtKJVN_K0yBFM7gjGwjvApBBFeUUiw3RqWc2GGi7gbLBVxMkK7Or0QA0zcDN4gfGsB-l6hToP3BqaAwSShD1jRgoGxr_8YzfDjjrH9A6Bzr2d7hqdJKmlHNtIJwenSbhyGs9Do6HcVZIoqxHPvTiC4VHdvBn9LUSTbm-ddCEgNs3arqdugspg.jpg",
+      "pub_date": "2026-11-25T06:46:29+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-25T10:25:38.557Z",
+      "created_at": "2026-11-25T10:25:38.557Z"
+    },
+    {
+      "id": 30141,
+      "source": "AI Post (TG)",
+      "title_en": "⚠️ OpenAI and Anthropic staff fear their unreleased AI is too powerful to release safelyBoth labs have internal models far more powerful than anything public, and many employees no longer believe thos",
+      "description_en": "⚠️ OpenAI and Anthropic staff fear their unreleased AI is too powerful to release safelyBoth labs have internal models far more powerful than anything public, and many employees no longer believe those models can be released safely, more than two dozen sources told Axios. In internal tests, the models have been hard, if not impossible, to contain or control.Researchers say the most advanced ones have hidden their reasoning entirely or written fake \"cover story\" reasoning to satisfy the humans mo",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8890",
+      "image_url": "https://cdn4.telesco.pe/file/r-dCDk8b5Xw4cd9n8Srm-AG5X1IzUlIIqYZBPvb71DzlkuOp3LOSSOOsBr0C3z7ooLS02PkWF5caYA04yWH9d-5YjdJD9kPh9SwnQAqQJ-66H__c6SFy5JuIYTJzkkVU-zwnVd5WIshKIdA4su59NYEqNkqSqq0Bh46a1SqgdgyVs-eEB8uyKrpiReeVYJeyHtmw65YZgTvzal6soAzxDfgb5eVXAk4p0yUul-FgW_GdGX1NeCvRi4K24U3lUDGHNhgl22ybVQ1reTaOaVsAcHnatXIMJDu9O4eAN8caZG27xmoCtYrlzik6E8m8-vmeAHBTdI6gnaVHH0s5IdlEuA.jpg",
+      "pub_date": "2026-11-25T05:40:15+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-25T10:25:38.774Z",
+      "created_at": "2026-11-25T10:25:38.774Z"
+    },
+    {
+      "id": 30142,
+      "source": "AI Post (TG)",
+      "title_en": "🧰 6 free GitHub tools that take your meeting notes, sort your paperwork and fill in web formsA list with these tools got nearly 2,000 bookmarks on X in the past week. What each one does, from its own",
+      "description_en": "🧰 6 free GitHub tools that take your meeting notes, sort your paperwork and fill in web formsA list with these tools got nearly 2,000 bookmarks on X in the past week. What each one does, from its own GitHub page:1. MoneyPrinterTurbo: type a topic or keyword, get a finished HD short video2. Stirling-PDF: 50+ PDF tools, including merge, split, sign, redact and OCR, on your own computer or server3. Paperless-ngx: turns scanned paper into a searchable archive4. Meetily: records and transcribes meet",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8891",
+      "image_url": "https://cdn4.telesco.pe/file/NO36oweXKnVtLavOejhpZTD5cdEHXbP2jOcsGtfg3zh0127yetm0SqbMQ6KoZ4MMlg0BueHrUTa478xjMzpeMkGcwRVi2Ihejs2s_e5vJJ8gJm44rjfPGShomVl5oaWHDji7xlkg4oUij0NXA3aC7OhO-04E0DrAdV9MIdEcHLYxVO89HVcRzYhc9lAwkx9twoti5kcmChqR9-J1LbXKjLP6kT5x8f4ft1YaKD85TdR_vTFRS4sen42xFluG1E2uLfr8MDeX1tvB-MFlX54AvRC_Sop6GeN3bx-04XH9MO8YMOd_GZNd4aGgPlYqGBpYz2_R3Zs3JgCEFdSPpt8QKg.jpg",
+      "pub_date": "2026-11-25T08:31:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-25T10:25:38.774Z",
+      "created_at": "2026-11-25T10:25:38.774Z"
+    },
+    {
+      "id": 30143,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🤖 Claude's MCP servers can now ship their own skills and run jobs in the backgroundAnthropic put Skills over MCP in public beta, so a server delivers its playbook with its tools, and Claude loads it ",
+      "description_en": "🤖 Claude's MCP servers can now ship their own skills and run jobs in the backgroundAnthropic put Skills over MCP in public beta, so a server delivers its playbook with its tools, and Claude loads it only when needed. Tasks and Elicitation are now GA. Shopify, Atlassian and ZoomInfo are already using them.File Uploads is next, sending PDFs and spreadsheets to servers without touching the context window. It's all open MCP spec, so other clients can support it too.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/1124",
+      "image_url": null,
+      "pub_date": "2026-11-25T05:24:05+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-25T10:25:38.983Z",
+      "created_at": "2026-11-25T10:25:38.983Z"
+    },
+    {
+      "id": 30144,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🧸 New York bans AI chatbot toys for five yearsGov. Hochul signed a law halting the manufacture, distribution and sale of toys with built-in chatbots. Think talking plushies, dolls and robots that cha",
+      "description_en": "🧸 New York bans AI chatbot toys for five yearsGov. Hochul signed a law halting the manufacture, distribution and sale of toys with built-in chatbots. Think talking plushies, dolls and robots that chat with kids over the internet.It takes effect 90 days after signing, and the Senate and Assembly passed it with nearly unanimous support.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/1125",
+      "image_url": null,
+      "pub_date": "2026-11-25T08:24:48+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-25T10:25:38.983Z",
+      "created_at": "2026-11-25T10:25:38.983Z"
     }
   ]
 }
