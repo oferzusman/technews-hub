@@ -656616,6 +656616,528 @@
       "priority": "hot",
       "fetchedAt": "2026-11-26T08:00:46.790Z",
       "created_at": "2026-11-26T08:00:46.790Z"
+    },
+    {
+      "id": 30259,
+      "source": "The Verge AI",
+      "title_en": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+      "description_en": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off \"the private chat histories of more than 21 million U.S. accounts - more than 2.1 million of them registered to minors - with no safeguards for the people whose conversations are being sold.\"\nIn October, Character.AI filed for bankruptc",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+      "image_url": null,
+      "pub_date": "2026-11-26T09:54:40.000Z",
+      "author": "Terrence O’Brien",
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-26T11:32:06.649Z",
+      "created_at": "2026-11-26T11:32:06.649Z"
+    },
+    {
+      "id": 30260,
+      "source": "The Decoder",
+      "title_en": "Microsoft details how state-backed hackers use the ARTEX AI framework to automate cyberattacks",
+      "description_en": "Microsoft has published the technical architecture of ARTEX, an AI framework in wide use since July 2026 that runs cyberattacks with specialized agents and almost no human involvement. State-backed groups from China and North Korea, along with criminal organizations, are already using the system. Microsoft recommends deception techniques like honeypots and faked success signals as defenses, but how long those will hold up against agents that learn and adapt remains an open question.\nThe article ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/microsoft-details-how-state-backed-hackers-use-the-artex-ai-framework-to-automate-cyberattacks/",
+      "image_url": null,
+      "pub_date": "Thu, 26 Nov 2026 11:30:06 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "Cybersecurity",
+        "Microsoft"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-26T11:32:07.102Z",
+      "created_at": "2026-11-26T11:32:07.102Z"
+    },
+    {
+      "id": 30261,
+      "source": "The Decoder",
+      "title_en": "Nvidia halts server shipments to Malaysia, Singapore, Thailand, and Indonesia after tighter US export controls",
+      "description_en": "Nvidia has told partners such as Dell and Supermicro to stop shipping servers to Malaysia, Singapore, Thailand, and Indonesia. Following new US export controls targeting Chinese cloud access, dealers are already seeking buyers for thousands of B300 chips, while one cloud executive describes \"chaos\", Loans and major deals are now on the line for Southeast Asia's data centers.\nThe article Nvidia halts server shipments to Malaysia, Singapore, Thailand, and Indonesia after tighter US export controls",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/nvidia-halts-server-shipments-to-malaysia-singapore-thailand-and-indonesia-after-tighter-us-export-controls/",
+      "image_url": null,
+      "pub_date": "Thu, 26 Nov 2026 11:21:16 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "China",
+        "Nvidia",
+        "USA"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-26T11:32:07.103Z",
+      "created_at": "2026-11-26T11:32:07.103Z"
+    },
+    {
+      "id": 30262,
+      "source": "New Atlas",
+      "title_en": "362-hp ID.Polo GTI concept resets the limits of EV hot hatch thrills",
+      "description_en": "Can small electric cars still raise a driver's pulse? Range anxiety and charging speeds dominate today's EV conversation, threatening to leave the naughty old world of hot hatches behind.\nContinue Reading\nCategory: Automotive, Transport\nTags: Volkswagen, Electric Vehicles, Concept Cars, Hot hatch, Performance",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/automotive/volkswagen-id-polo-gti-clubsport-concept/",
+      "image_url": null,
+      "pub_date": "Thu, 26 Nov 2026 08:17:11 GMT",
+      "author": "Simon Heptinstall",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-26T11:32:07.410Z",
+      "created_at": "2026-11-26T11:32:07.410Z"
+    },
+    {
+      "id": 30263,
+      "source": "The Guardian AI",
+      "title_en": "Dozens of court cases in England and Wales affected by undisclosed AI use in 2026",
+      "description_en": "Exclusive: Investigation finds at least 25 cases affected by AI-generated witness statements, fictitious case law and nonexistent statutes \nUndisclosed AI use has affected more than two dozen court cases this year, prompting judges to complain about AI-generated witness statements, fictitious case law and nonexistent statutes, an investigation has revealed.\nProceedings where judges have been forced to deal with lawyers, police officers and claimants misusing the technology in 2026 include a high",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/nov/26/dozens-of-court-cases-in-england-and-wales-affected-by-undisclosed-ai-use-in-2026",
+      "image_url": "https://i.guim.co.uk/img/media/18a0e7b9f66bc93973a6114fb4fac2215545e754/415_0_4167_3335/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=4dde606c8245482dad518cc7a22ff83f",
+      "pub_date": "Thu, 26 Nov 2026 10:00:51 GMT",
+      "author": "Robert Booth and Mark Wilding",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Law",
+          "$": {
+            "domain": "https://www.theguardian.com/law/law"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "UK criminal justice",
+          "$": {
+            "domain": "https://www.theguardian.com/law/criminal-justice"
+          }
+        },
+        {
+          "_": "Judiciary",
+          "$": {
+            "domain": "https://www.theguardian.com/law/judiciary"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-26T11:32:07.427Z",
+      "created_at": "2026-11-26T11:32:07.427Z"
+    },
+    {
+      "id": 30264,
+      "source": "The Guardian AI",
+      "title_en": "Employers: do you have concerns about the rollout of Muse and other AI agents?",
+      "description_en": "Are you worried about staff connecting their digital assistants to work emails and databases? What steps are you taking to address this?\nMeta has rolled out its Muse AI assistant, which can be tasked with shopping, booking tickets and carrying out negotiations on a user’s behalf, across countries including the UK, US, Canada, Australia and Japan.\nThe AI agent needs the customer’s permission to go out and make purchases, connect to apps, use bank details or send emails autonomously. However, the ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/nov/26/employers-do-you-have-concerns-about-the-rollout-of-muse-and-other-ai-agents",
+      "image_url": "https://i.guim.co.uk/img/media/24f8156f1c3ce3ecc74c4c1c10d376b740af751e/225_0_3166_2533/master/3166.jpg?width=140&quality=85&auto=format&fit=max&s=c45d4cf88cd883f2652dd754344da698",
+      "pub_date": "Thu, 26 Nov 2026 11:23:41 GMT",
+      "author": "Guardian community team",
+      "categories": [
+        {
+          "_": "Virtual assistant",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/virtual-assistant"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Meta",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/meta"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-26T11:32:07.427Z",
+      "created_at": "2026-11-26T11:32:07.427Z"
+    },
+    {
+      "id": 30265,
+      "source": "Interesting Engineering",
+      "title_en": "US transfers 10,400-ton nuclear-powered submarine trainers to Australia in historic first",
+      "description_en": "Australia has taken delivery of its first sovereign Virginia-class submarine training systems at HMAS Stirling...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/us-first-virginia-class-submarine-simulator",
+      "image_url": null,
+      "pub_date": "Thu, 26 Nov 2026 10:26:15 +0000",
+      "author": "Kaif Shaikh",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-26T11:32:08.499Z",
+      "created_at": "2026-11-26T11:32:08.499Z"
+    },
+    {
+      "id": 30266,
+      "source": "Interesting Engineering",
+      "title_en": "Video: Multiple humanoid robots dance together, avoid obstacles and change formations",
+      "description_en": "AGIBOT has demonstrated a coordinated dance performance featuring multiple X2 humanoid robots, showcasing advances in...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/agibot-x2-humanoids-dance-as-team",
+      "image_url": "https://www.youtube.com/embed/k58HqCW_xco",
+      "pub_date": "Thu, 26 Nov 2026 09:30:48 +0000",
+      "author": "Jijo Malayil",
+      "categories": [
+        "AI and Robotics"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-26T11:32:08.499Z",
+      "created_at": "2026-11-26T11:32:08.499Z"
+    },
+    {
+      "id": 30267,
+      "source": "Nature Machine Intelligence",
+      "title_en": "Accelerating inverse materials design using generative diffusion models with reinforcement learning",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.nature.com/articles/s42256-026-01334-5",
+      "image_url": null,
+      "pub_date": "2026-11-26T00:00:00.000Z",
+      "author": "Junwu Chen",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-26T11:32:08.522Z",
+      "created_at": "2026-11-26T11:32:08.522Z"
+    },
+    {
+      "id": 30268,
+      "source": "Tom's Hardware",
+      "title_en": "Trump says a pardon for Nvidia CEO Jensen Huang is 'always an option'",
+      "description_en": "U.S. President Donald Trump says that he could pardon Nvidia CEO Jensen Huang if he finds himself in legal hot water over his affair with an alleged Chinese spy. Huang is set to meet with the House Foreign Affairs Committee next week.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/trump-says-a-pardon-for-nvidia-ceo-jensen-huang-is-always-an-option-urges-him-not-to-plead-the-fifth-ahead-of-house-committee-grilling",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/MtvzW6bzjpUC6wKfyCAg8-1920-80.jpg",
+      "pub_date": "Thu, 26 Nov 2026 11:00:00 +0000",
+      "author": " Oliver Haslam ",
+      "categories": [
+        "Big Tech",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-26T11:32:08.580Z",
+      "created_at": "2026-11-26T11:32:08.580Z"
+    },
+    {
+      "id": 30269,
+      "source": "CNBC Tech",
+      "title_en": "Latin America has the copper and energy the AI build-out needs. Infrastructure is the test",
+      "description_en": "Latin America’s copper, oil, gas and rare earths could benefit from rising AI energy demand, if infrastructure and fiscal policy attract investment.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/26/latin-america-copper-energy-ai-investment.html",
+      "image_url": null,
+      "pub_date": "Thu, 26 Nov 2026 08:59:11 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-26T11:32:08.620Z",
+      "created_at": "2026-11-26T11:32:08.620Z"
+    },
+    {
+      "id": 30270,
+      "source": "Product Hunt",
+      "title_en": "Kagi Mail",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/kagi",
+      "image_url": null,
+      "pub_date": "2026-11-25T07:24:38.000Z",
+      "author": "Justin Jincaid",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-26T11:32:09.635Z",
+      "created_at": "2026-11-26T11:32:09.635Z"
+    },
+    {
+      "id": 30271,
+      "source": "Product Hunt",
+      "title_en": "Claude-Mem Cloud Sync",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/claude-mem",
+      "image_url": null,
+      "pub_date": "2026-11-26T07:58:18.000Z",
+      "author": "Alex Newman",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-26T11:32:09.635Z",
+      "created_at": "2026-11-26T11:32:09.635Z"
+    },
+    {
+      "id": 30272,
+      "source": "Product Hunt",
+      "title_en": "Fairwind",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/fairwind",
+      "image_url": null,
+      "pub_date": "2026-11-26T07:11:15.000Z",
+      "author": "Kevin Choi",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-26T11:32:09.635Z",
+      "created_at": "2026-11-26T11:32:09.635Z"
+    },
+    {
+      "id": 30273,
+      "source": "Backdoor (TG)",
+      "title_en": "⚡️ OpenAI урезает лимиты GPT-6.2 на 4️⃣0️⃣%, да почти в половину! В компании заявили, что ранее лимиты расходовались ошибочно.Теперь Astra будет тратить токены на 40% быстрее, Sol — на 25% быстрее. В ",
+      "description_en": "⚡️ OpenAI урезает лимиты GPT-6.2 на 4️⃣0️⃣%, да почти в половину! В компании заявили, что ранее лимиты расходовались ошибочно.Теперь Astra будет тратить токены на 40% быстрее, Sol — на 25% быстрее. В качестве компенсации всем платным подписчикам дали один бесплатный сброс лимитов.Альтман — хитрый лис.👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/33349",
+      "image_url": "https://cdn4.telesco.pe/file/JqxB9gPtUIuFNcgUvzdQzAUHYhAu5K1M-BzfeWG8WZ7VQzxnE73Jp7AWNKzydJlrpXDwMPYfI6XQzQYmYUEhH_pvHoXr5clFxGhd1Kultn1zzXUSHkuetF57r7iwTeuwl2ahtE5OLIcFZkrtAWuI-Gwu2FDmgMlzBG4rqL5QJfknkZIEkF3DZpD8M2uzbCIOrr5pJKCQ6l1iLLMr61g52H8Z62Gd9XDI_ekEJFgoGYh5s8VkjTcTE2F5ywt8bkHzesV9BW7sxWIjGYK6tnz6TR5PRtBzpBZaAzpMz8vTyRB-zOoS1VZV8TI4ZLpdXcScvfYoWFy-aekqffjo1JwxLw.jpg",
+      "pub_date": "2026-11-26T09:35:23+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-26T11:32:10.038Z",
+      "created_at": "2026-11-26T11:32:10.038Z"
+    },
+    {
+      "id": 30274,
+      "source": "Backdoor (TG)",
+      "title_en": "⚡️ Российская модель научилась создавать приложения С НУЛЯ — Сбер выкатил GigaChat 4 сразу в двух версиях: на 708 и 37 млрд параметров.Во время тестов флагман 708B показал себя на уровне GLM 5.3, Deep",
+      "description_en": "⚡️ Российская модель научилась создавать приложения С НУЛЯ — Сбер выкатил GigaChat 4 сразу в двух версиях: на 708 и 37 млрд параметров.Во время тестов флагман 708B показал себя на уровне GLM 5.3, Deepseek Fash v4.1, Mistral 4 large:• Самостоятельно написал симуляцию операционки с рабочим столом, терминалом и файловым менеджером, а затем развернул её на сервере.• Написал музыкальный трек и собрал сайт, на котором можно отдельно послушать каждую дорожку.Модель уже можно бесплатно подключить по API",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/33350",
+      "image_url": null,
+      "pub_date": "2026-11-26T10:32:04+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-26T11:32:10.038Z",
+      "created_at": "2026-11-26T11:32:10.038Z"
+    },
+    {
+      "id": 30275,
+      "source": "Backdoor (TG)",
+      "title_en": "Россияне научились проходить KYC в Claude, но есть нюанс👍 Бэкдор",
+      "description_en": "Россияне научились проходить KYC в Claude, но есть нюанс👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/33351",
+      "image_url": "https://cdn4.telesco.pe/file/TXWirUBhDW-rino_3HTWh9K9QsU5etEg9TadQk4JcemAOc0XPVc3_Y8djNZWpjcw-kiPSrAvNE8MjprUZns5QuMjB10Xbd0BUPs-s1NXE21qZ6XPLuBHfIBeXM8SiB2gXGF3dU_5DmF0kP_GBf4zjYANOcBhv6CgOoEGQoaGpHze2zN2rZBdXc_6pT44rZ4j4PB-Z2BIxyNGFVJE-HVCrkxcHi5NBpQMHwuyh_kgnzu1cQIGqFNUTrmICmPahw-yx0UPn3_BmNqRh55HLO10VGdvod8zv7kB_wTbfzvvT3LVslr6TpjcsajryZOCR7c1EmaAgByJmir3g-EXiyqN3g.jpg",
+      "pub_date": "2026-11-26T11:03:31+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-26T11:32:10.038Z",
+      "created_at": "2026-11-26T11:32:10.038Z"
+    },
+    {
+      "id": 30276,
+      "source": "Backdoor (TG)",
+      "title_en": "NVIDIA случайно сломала мониторы геймерам, пока пыталась починить баг с SSD — компания выпустила драйвер 621.40.Он создал больше проблем, чем починил: • У геймеров вылезает чёрный экран при включении•",
+      "description_en": "NVIDIA случайно сломала мониторы геймерам, пока пыталась починить баг с SSD — компания выпустила драйвер 621.40.Он создал больше проблем, чем починил: • У геймеров вылезает чёрный экран при включении• Рандомно теряется сигнал через DisplayPort и HDMI.• Не подключается второй монитор или выдаёт артефакты.Зато драйвер больше не изнашивает SSD, это единственный плюс. Владельцам RTX 40 и RTX 50 советуют остаться на 617.42.Хуанг навайбкодил быстренько.👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/33352",
+      "image_url": "https://cdn4.telesco.pe/file/BVf0lp3h_1mDb5rBYD337IV1m59z_Ltig81dy_Dc4c1kxPF_zLMF6H0UGH32wq1bt0VCfd4dfdvcpEZn8toEsxGlX6TCC4bxPBtaWjNKvAUgeS8eNykOroscDU3SS7RZUz0DhOuMcYmsT7FnDRASX8GxqTX3udpBplEH0fp2pCRghB0YhJIf27dlvFjnMEf8_DKIq5mmvPewUcCF9e1ihCIYX6AkZ2ULy8960hpHzmODUh9or6O_vmCxkmpXpT72JGxZp_w2KlPeVLaMlWu_hJMbEsc4FflHUZgaHL36wvYqnYabJz8C0QH2TR6UFiJyH3WwvOzOcFfFLrPl9NHcDw.jpg",
+      "pub_date": "2026-11-26T11:12:54+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-26T11:32:10.038Z",
+      "created_at": "2026-11-26T11:32:10.038Z"
+    },
+    {
+      "id": 30277,
+      "source": "Wylsacom Red (TG)",
+      "title_en": "«Сбер» первым среди отечественных производителей выпустил умные телевизоры с RGB MiniLEDНа конференции AI Journey «Сбер» представил новую 9000 серию своих ТВ, в которых появилась подсветка RGB MiniLED",
+      "description_en": "«Сбер» первым среди отечественных производителей выпустил умные телевизоры с RGB MiniLEDНа конференции AI Journey «Сбер» представил новую 9000 серию своих ТВ, в которых появилась подсветка RGB MiniLED, ранее не использованная ни одним российским производителем, — сообщает пресс-служба компании.Технология подсветки отличается от привычной QD-MiniLED тем, что может регулировать как яркость каждой отдельной зоны, так и оттенки цвета. Топовая модель обеспечивает не только разрешение 4К, частоту 144 ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/Wylsared/37358",
+      "image_url": "https://cdn4.telesco.pe/file/gbUM87NaggGUx0_ECv2_up0n4Vd3_L2RYgg__pToFnUreNAWnCdMMZxPK_YRDunnSJfSgNoMoOLPi4GrCIV_Y7sHPg5nXiLNjXa9sWmNiwk6U_GWPvfxPMHTCsoohti7gwCu2ya0Gz_LGpTXsVn3WL3SZ_RHzoIvB3JymrfGiz0zQ2-_BD0ALieJxmlC164JUO95KRlHDLIeFnxRWsnjJJ-pzoYqEYBK6y4h3i4AxkccY3hBoCC6OcSh17pU2edzl6OU8nW2DcxXKLl0tvBkevo4HHbz-e3o3neTqbJ18mePopmgGYUC5yF8LuGvONkodLj_YHiaPj9FjWKWcbxdXQ.jpg",
+      "pub_date": "2026-11-26T08:42:04+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-26T11:32:10.068Z",
+      "created_at": "2026-11-26T11:32:10.068Z"
+    },
+    {
+      "id": 30278,
+      "source": "XOR Journal (TG)",
+      "title_en": "Халява закончилась: OpenAI ускоряет расход лимитов GPT-6.2 аж на 40% 🤡В компании заявили, что с момента релиза новых моделей лимиты по ошибке расходовались медленнее, чем должны были. Теперь они буду",
+      "description_en": "Халява закончилась: OpenAI ускоряет расход лимитов GPT-6.2 аж на 40% 🤡В компании заявили, что с момента релиза новых моделей лимиты по ошибке расходовались медленнее, чем должны были. Теперь они будут сгорать на 40% быстрее у Astra и на 25% у Sol.В качестве компенсации пользователям платных подписок дадут один бесплатный сброс лимитов, если вас это успокоит. Скам Альтман в своем репертуаре 😖@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10604",
+      "image_url": "https://cdn4.telesco.pe/file/vQzaKuUyHJaV6rl_CN2qEHKC5UrlAhCtTNaiEWClF2tLRFv9WYtPFxgM4lgWdIWTGTw9r03reDZVjJQJGhcKevf96b0eRLNMjJdWrCGVSmET_FYSpKVEwGikov25GjCdWIty0QqGL6DgWGL62qxdp46CrlfG8-lcsI6UQsw-RePH_LO2kvaKFKTpo7YgeVV-zZ5an335e_sLWq2lt6ZDWR7pi_zqDKpf-RLNiy9m5XKLxTisV_N08QEGDWu0-FrAwjfmrrKd6fU114U3S2zU_mUSgv-06MaipfPzqwrnDFaPguzi1uRhMpBQTzjK5e-v6dl60R3TdtyOI7ZQ1MwhwA.jpg",
+      "pub_date": "2026-11-26T09:15:02+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-26T11:32:10.150Z",
+      "created_at": "2026-11-26T11:32:10.150Z"
+    },
+    {
+      "id": 30279,
+      "source": "Hi, AI English (TG)",
+      "title_en": "👨‍💻 Amateur Astronomers Are Hunting for Exoplanets with AIKevin Bond, an engineer at OpenAI, and Ethan Byrd, founder of the start-up Primitive, spend their spare time looking for new worlds orbiting",
+      "description_en": "👨‍💻 Amateur Astronomers Are Hunting for Exoplanets with AIKevin Bond, an engineer at OpenAI, and Ethan Byrd, founder of the start-up Primitive, spend their spare time looking for new worlds orbiting distant stars in public telescope data. To simplify the search, each asked AI to study existing planet-hunting methods, optimize them, and build a program to analyze the data automatically.Bond's AI agents analyzed the light curves of 100,000 stars observed by the Kepler Space Telescope and identif",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimediaen/2963",
+      "image_url": null,
+      "pub_date": "2026-11-26T09:11:15+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-26T11:32:10.386Z",
+      "created_at": "2026-11-26T11:32:10.386Z"
+    },
+    {
+      "id": 30280,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "👨‍💻 Астрономы-любители ищут экзопланеты с помощью ИИИнженер OpenAI Кевин Бонд и основатель стартапа Primitive Итан Берд в свободное время ищут новые миры у далеких звезд в архивных данных НАСА. Чтоб",
+      "description_en": "👨‍💻 Астрономы-любители ищут экзопланеты с помощью ИИИнженер OpenAI Кевин Бонд и основатель стартапа Primitive Итан Берд в свободное время ищут новые миры у далеких звезд в архивных данных НАСА. Чтобы упростить задачу, каждый из них попросил ИИ изучить известные методы, оптимизировать их и собрать программу для автоматического анализа записей.ИИ-агенты Бонда искали изменения яркости 100 тыс. звезд из архива телескопа «Кеплер» и обнаружили свыше 200 подозрительных сигналов. На два из них также о",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3884",
+      "image_url": null,
+      "pub_date": "2026-11-26T09:08:30+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-26T11:32:10.403Z",
+      "created_at": "2026-11-26T11:32:10.403Z"
+    },
+    {
+      "id": 30281,
+      "source": "Habr (TG)",
+      "title_en": "⚡ Новости к этому часубустануть канал 👉📜 Запущен проект по коллективной расшифровке манускрипта Войнича при помощи ИИ‑агентов [IMG]🎥 Google запустит персональный телеканал с ИИ‑фильмами🔟 Windows 7",
+      "description_en": "⚡ Новости к этому часубустануть канал 👉📜 Запущен проект по коллективной расшифровке манускрипта Войнича при помощи ИИ‑агентов [IMG]🎥 Google запустит персональный телеканал с ИИ‑фильмами🔟 Windows 7 получила неофициальную поддержку DirectX 12, Vulkan 1.4 и современных видеокарт📚 Американские писатели обвинили NVIDIA в незаконном распространении их произведений🖥 NVIDIA вновь сокращает поставки игровых видеокарт — в четвертом квартале квоты урежут на 20-30%📄 В России создадут единую базу инте",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/habr_com/70124",
+      "image_url": "https://cdn4.telesco.pe/file/ivVnp6MQzGqvyBG8pGe1F-6nqRTlsjv_bdf_M_RySN-MGryq5OyAA9aDrGDQkClLD20dw6wazRxQfLize7zGitbRUXDubObvprd94CbfsOISCeFU9m2uhnGmi41C1fVLWhGSQ8C99YxnLBpJhekkb2_4E-ui1GrgG9UnH-uJuTt7rMRV4oCAwPj6XkQkWuhBsmBtLwqsTlzeBI4XeR017f_xBnr-ryrnBPz_dxYSfnAnQd1XCpIuWd6UGbeTuWX4a91mjPeGk0sCxWFu-W8a_DNOOcbvhrrVz8xRCYnpBGzknNHq5YT2FB5HuJJiV2hMzaB_rIld7KT4iwrd3yvX4Q.jpg",
+      "pub_date": "2026-11-26T10:34:04+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-26T11:32:10.425Z",
+      "created_at": "2026-11-26T11:32:10.425Z"
+    },
+    {
+      "id": 30282,
+      "source": "AI Post (TG)",
+      "title_en": "😎 Ask Claude for an app, click install, and it's on your laptop. Free plan includedThe small tools Claude builds in chat (artifacts) can now be installed as desktop apps on Mac and Windows, each with",
+      "description_en": "😎 Ask Claude for an app, click install, and it's on your laptop. Free plan includedThe small tools Claude builds in chat (artifacts) can now be installed as desktop apps on Mac and Windows, each with its own icon and window. Each runs on your Claude account, so there's nothing to package or sign and no API key.Anthropic's own examples: a Pomodoro timer that lives in the menu bar, an hourly reminder to stretch, a Windows app that renames the photos in a folder by date.An app can use your connect",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8901",
+      "image_url": null,
+      "pub_date": "2026-11-26T08:22:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-26T11:32:10.595Z",
+      "created_at": "2026-11-26T11:32:10.595Z"
+    },
+    {
+      "id": 30283,
+      "source": "AI Post (TG)",
+      "title_en": "😐 Your GPT-6.2 limits will now run out up to 40% faster. OpenAI calls the old rate a mistakeSince the GPT-6.2 launch, OpenAI had been counting Astra and Sol usage at a discount for most users by mist",
+      "description_en": "😐 Your GPT-6.2 limits will now run out up to 40% faster. OpenAI calls the old rate a mistakeSince the GPT-6.2 launch, OpenAI had been counting Astra and Sol usage at a discount for most users by mistake. Thibault Sottiaux, who runs ChatGPT and Codex at OpenAI, says it's fixed now: the same work takes a bigger bite out of your plan.Compared with last week, you'll hit your limits 40% faster on GPT-6.2 Astra and 25% faster on Sol. He says both should still go further than the older 6 Astra and 6.1",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8902",
+      "image_url": "https://cdn4.telesco.pe/file/vjbJRteNd06OOK1CKNZqnFgTu6MH2CLQJO1OyndO1r5v5UHXAlFMuHUA5Fe_LKwkzp0kdWeeDp9dkEyhsfwgiaWj0_PWyNgZq5J99D_W7JPrrNun2iRNJhXO4aLTKr5tAoNCNU0_d1M9AmCP2K7S6K2h7UYWc0a70kxEaW5IlnEOC7KIyys1CaDOPi3qHCtvjHUz1pO-wb_VSdivJ9rdfJixM-qCciepFmlJJj-gxsyEKU4MtFlkNijs4a3pD4YfiI9NHp0wPqvBL0kiaxbvrtfKHXMv9LzN5jYb1KRdhahufFDpfVO_L5J6DgdefOfK_c_n85Rf10rdpu_ChWCnXA.jpg",
+      "pub_date": "2026-11-26T10:20:24+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-26T11:32:10.595Z",
+      "created_at": "2026-11-26T11:32:10.595Z"
+    },
+    {
+      "id": 30284,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🕵️ Nvidia's \"preferred partner\" in San Jose is owned by a Chinese firmCBS News found that RiCloud AI got partner status 10 weeks after incorporating. Its parent, Yuxing, is based in Shenzhen, and the",
+      "description_en": "🕵️ Nvidia's \"preferred partner\" in San Jose is owned by a Chinese firmCBS News found that RiCloud AI got partner status 10 weeks after incorporating. Its parent, Yuxing, is based in Shenzhen, and the CEO is a graduate of a PLA command college. Nvidia books those sales as American, and a second California buyer was simply renamed after its parent got blacklisted. The US hasn't accused RiCloud or Yuxing of wrongdoing.A \"US customer\" label turns out to cover a lot of ground.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/1134",
+      "image_url": null,
+      "pub_date": "2026-11-26T09:59:29+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-26T11:32:10.882Z",
+      "created_at": "2026-11-26T11:32:10.882Z"
     }
   ]
 }
