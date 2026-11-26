@@ -656308,6 +656308,314 @@
       "priority": "hot",
       "fetchedAt": "2026-11-26T02:46:22.987Z",
       "created_at": "2026-11-26T02:46:22.987Z"
+    },
+    {
+      "id": 30243,
+      "source": "Hugging Face Blog",
+      "title_en": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+      "image_url": null,
+      "pub_date": "Thu, 26 Nov 2026 05:05:36 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-26T08:00:38.956Z",
+      "created_at": "2026-11-26T08:00:38.956Z"
+    },
+    {
+      "id": 30244,
+      "source": "New Atlas",
+      "title_en": "Review: RedMagic 12 Pro levels up as top gaming smartphone for 2026",
+      "description_en": "Without a whole lot of competition right now, RedMagic has established itself as the go-to gaming phone brand. And with the latest model, the RedMagic 12 Pro, the company proves that even with an absence of competitors, it’s not getting complacent.\nContinue Reading\nCategory: Mobile Technology, Consumer Tech, Technology\nTags: Portable Gaming, smartphones, Smartphones, Consumer Electronics, Reviews",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/mobile-technology/review-redmagic-12-pro/",
+      "image_url": null,
+      "pub_date": "Thu, 26 Nov 2026 05:30:00 GMT",
+      "author": "Bronwyn Thompson",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-26T08:00:39.272Z",
+      "created_at": "2026-11-26T08:00:39.272Z"
+    },
+    {
+      "id": 30245,
+      "source": "The Guardian AI",
+      "title_en": "Elon Musk pledges to give two SpaceX shares to every child in the US",
+      "description_en": "The total value of the shares could reach almost $18bn and comes as tech companies debate how to share the spoils of the AI boom\nElon Musk, the world’s richest person, has pledged to give every child in the US two shares in SpaceX, the space ⁠and AI company he ​runs, worth a total of almost $18bn.\nIn a brief post on X, the social media platform that he owns, Musk said children will receive one share from the company itself, and one from him personally. SpaceX announced earlier on Wednesday that ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/nov/26/elon-musk-pledges-to-give-two-spacex-shares-to-every-child-in-the-us",
+      "image_url": "https://i.guim.co.uk/img/media/6b1786336d92dd9924ed6029c54417bb3647a7e8/448_0_4604_3681/master/4604.jpg?width=140&quality=85&auto=format&fit=max&s=58d0e57e7ee97b156409e6c3860efca3",
+      "pub_date": "Thu, 26 Nov 2026 07:02:37 GMT",
+      "author": "Reuters",
+      "categories": [
+        {
+          "_": "Elon Musk",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/elon-musk"
+          }
+        },
+        {
+          "_": "SpaceX",
+          "$": {
+            "domain": "https://www.theguardian.com/science/spacex"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "The super-rich",
+          "$": {
+            "domain": "https://www.theguardian.com/news/the-super-rich"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-26T08:00:39.461Z",
+      "created_at": "2026-11-26T08:00:39.461Z"
+    },
+    {
+      "id": 30246,
+      "source": "Interesting Engineering",
+      "title_en": "250-nm light-powered nanorobots deliver five times more drugs across brain barrier",
+      "description_en": "Caltech researchers have developed tiny, biodegradable robots that use near-infrared light to help medicines cross...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/caltech-brainbots-drug-delivery-blood-brain-barrier",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Gao_Wei-SEM-of-BrainBots-WEB.88ed8b8f.width-450.jpg",
+      "pub_date": "Thu, 26 Nov 2026 03:40:49 +0000",
+      "author": "Neetika Walter",
+      "categories": [
+        "AI and Robotics",
+        "Health"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-26T08:00:40.319Z",
+      "created_at": "2026-11-26T08:00:40.319Z"
+    },
+    {
+      "id": 30247,
+      "source": "Interesting Engineering",
+      "title_en": "China’s 1,300-mph J-20 stealth fighter flies alongside autonomous wingman drones",
+      "description_en": "China is incorporating artificial intelligence and autonomous drone support into routine fighter pilot training, giving...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/china-1300-mph-j20-fighter-drone-wingmen",
+      "image_url": null,
+      "pub_date": "Thu, 26 Nov 2026 03:05:15 +0000",
+      "author": "Aamir Khollam",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-26T08:00:40.319Z",
+      "created_at": "2026-11-26T08:00:40.319Z"
+    },
+    {
+      "id": 30248,
+      "source": "CNBC Tech",
+      "title_en": "Robots could be doing household chores in just 1-2 years, Chinese EV firm says",
+      "description_en": "Xpeng Co-President Brian Gu shared his humanoid robot predictions with CNBC in an interview Thursday.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/26/china-ev-xpeng-humanoid-robots-household-chores.html",
+      "image_url": null,
+      "pub_date": "Thu, 26 Nov 2026 07:30:11 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-26T08:00:40.629Z",
+      "created_at": "2026-11-26T08:00:40.629Z"
+    },
+    {
+      "id": 30249,
+      "source": "CNBC Tech",
+      "title_en": "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
+      "description_en": "S&P Global Ratings said Nvidia's credit rating could be cut by one notch as it flagged \"rising\" management and governance risk at the chipmaker.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html",
+      "image_url": null,
+      "pub_date": "Thu, 26 Nov 2026 03:19:44 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-26T08:00:40.629Z",
+      "created_at": "2026-11-26T08:00:40.629Z"
+    },
+    {
+      "id": 30250,
+      "source": "CNBC Tech",
+      "title_en": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
+      "description_en": "Denny's reaffirmed its longstanding ties with Jensen Huang following his return as Nvidia CEO, revealing that a plaque had been restored.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/26/dennys-jensen-huang-nvidia.html",
+      "image_url": null,
+      "pub_date": "Thu, 26 Nov 2026 03:13:43 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-26T08:00:40.630Z",
+      "created_at": "2026-11-26T08:00:40.630Z"
+    },
+    {
+      "id": 30251,
+      "source": "Product Hunt",
+      "title_en": "AgentDE",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/agentde",
+      "image_url": null,
+      "pub_date": "2026-11-26T03:15:08.000Z",
+      "author": "Andrey Kurenkov",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-26T08:00:45.441Z",
+      "created_at": "2026-11-26T08:00:45.441Z"
+    },
+    {
+      "id": 30252,
+      "source": "Product Hunt",
+      "title_en": "MusicProductionAI",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/musicproductionai",
+      "image_url": null,
+      "pub_date": "2026-11-25T08:25:07.000Z",
+      "author": "yanhua wang",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-26T08:00:45.441Z",
+      "created_at": "2026-11-26T08:00:45.441Z"
+    },
+    {
+      "id": 30253,
+      "source": "XOR Journal (TG)",
+      "title_en": "Разраб запустил огромную Qwen на 180 млрд параметров прямо на MacBook 🤔На M4 Max с 64 ГБ памяти модель выдала 56 токенов в секунду. Секрет оказался в бесплатном движке Magnitude, который хранит наибо",
+      "description_en": "Разраб запустил огромную Qwen на 180 млрд параметров прямо на MacBook 🤔На M4 Max с 64 ГБ памяти модель выдала 56 токенов в секунду. Секрет оказался в бесплатном движке Magnitude, который хранит наиболее востребованные части модели в быстрой памяти, а остальные подгружает с SSD по мере необходимости.Запустить такую махину можно и на ПК с относительно бюджетным железом. Так, на RTX 3060 с 12 ГБ видеопамяти и 32 ГБ оперативки та же модель выдала 17 токенов в секунду.Выпускаем монстра 💪",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10603",
+      "image_url": null,
+      "pub_date": "2026-11-26T06:41:03+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-26T08:00:45.965Z",
+      "created_at": "2026-11-26T08:00:45.965Z"
+    },
+    {
+      "id": 30254,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "🚀 Зонд НАСА оставил на астероиде кратер размером со стадионВ зале динозавров Музея естествознания в Берлине показали снимки астероида, пережившего контролируемое космическое «ДТП». Место презентации ",
+      "description_en": "🚀 Зонд НАСА оставил на астероиде кратер размером со стадионВ зале динозавров Музея естествознания в Берлине показали снимки астероида, пережившего контролируемое космическое «ДТП». Место презентации выбрали не случайно: столкновение зонда DART с астероидом Диморф — проверка способности человечества избежать повторения доисторической катастрофы.🎓 Подрыв угрожающего Земле астероида героем-астронавтом — известный голливудский сюжет, но далеко не лучший на практике. В реальности взрыв может превра",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3880",
+      "image_url": "https://cdn4.telesco.pe/file/fbD1EsjOuhV5WJeSbySLSxJG5Q4yqhl9RCfO0iO_AXFaVuwQ98bHF_OqDVHPwjqjdlnJBy5u2SIzr6mu2lhQO27KEhjG3D1bkZSYN-HUPkct5r32HvlyCY_hqV4nBQu6Kpz1_kjCcPKvBcoEsI0RxdW6T0nHlNZAgaUYuV8AslY3APSPkmbAW4Im1Fbu0Fpl9nZ_izCBqt-KahHwDXkk3qHSzyJvLKXGI-BTiyakKVlmFoIskBg7jIzi6enSi8yiPmdZdkqEU0jXTHa400610tcRvXZ2G2R9bCPNtGORvaFNvrdiJVf89hgNdDN0UeZBfafNRpiq91qoxZqKBM_5Ug.jpg",
+      "pub_date": "2026-11-26T06:29:17+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-26T08:00:46.403Z",
+      "created_at": "2026-11-26T08:00:46.403Z"
+    },
+    {
+      "id": 30255,
+      "source": "AI Post (TG)",
+      "title_en": "😎 Musk said robot demos fail if you move the table. Figure moved the tableElon Musk said last week that today's humanoid robot demos are \"staged and pre-programmed.\" His example: ask a robot to pick ",
+      "description_en": "😎 Musk said robot demos fail if you move the table. Figure moved the tableElon Musk said last week that today's humanoid robot demos are \"staged and pre-programmed.\" His example: ask a robot to pick up an apple, then move the table, and \"it won't be able to pick up the apple anymore.\"Figure's CEO Brett Adcock replied with this clip. His robot picks up an apple and puts it back. Then the table is pulled away, and when asked again, the robot steps forward and grabs the apple anyway.Adcock says it",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8899",
+      "image_url": null,
+      "pub_date": "2026-11-26T02:52:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-26T08:00:46.562Z",
+      "created_at": "2026-11-26T08:00:46.562Z"
+    },
+    {
+      "id": 30256,
+      "source": "AI Post (TG)",
+      "title_en": "❗️ Character.AI is putting 21 million users' private chats up for auction, kids' includedThe bankrupt chatbot company plans to sell nearly everything it owns on December 1, including chat histories fr",
+      "description_en": "❗️ Character.AI is putting 21 million users' private chats up for auction, kids' includedThe bankrupt chatbot company plans to sell nearly everything it owns on December 1, including chat histories from more than 21 million US accounts. Over 2.1 million of them are registered to minors, California's attorney general says.Each chat is tied to the user's profile and IP address. Some were with \"therapist\" and \"physician\" bots, where users, minors among them, wrote about self-harm, eating disorders ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8900",
+      "image_url": "https://cdn4.telesco.pe/file/t0erPziPQdJ08QWMQKIeb5vDBcC6Rlq3Ojecq4MeEIGp-kXlkiCCifsULFuqkCzIjFxGERvFjBizHkxIDqvv3zAHVEac_lQVMP8XaI0Htt_L-5cD-LyxCbgsd_trGGGCpkxzLjjTozl9You0BoEFxDEs1A_bTDUjrTNn7jPyBLTj1Rjy-YwNG-sjc-B5cLU1CCTHwqfsGm3wEo3xrPcCgFc3sxj_kWIgnQ27zmTT07jqMZkc1oirQZDg_rqRDlph_eA_IHLww7W5g4ZfJVlCLM5gmpsNU4USvfkbXUCCmbP6dyBdWfZ9AaHwbJk2VyasIfPPzuvEHJhyDPzCXf49rA.jpg",
+      "pub_date": "2026-11-26T05:39:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-26T08:00:46.562Z",
+      "created_at": "2026-11-26T08:00:46.562Z"
+    },
+    {
+      "id": 30257,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🖥 Claude's new Mac \"apps\" are HTML files in an Electron shim, and they need Claude running to workMacStories dug in and found the installed app is a tiny launcher that borrows Claude.app's Electron, ",
+      "description_en": "🖥 Claude's new Mac \"apps\" are HTML files in an Electron shim, and they need Claude running to workMacStories dug in and found the installed app is a tiny launcher that borrows Claude.app's Electron, so it's a Claude process in disguise.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/1132",
+      "image_url": null,
+      "pub_date": "2026-11-26T05:16:29+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-26T08:00:46.790Z",
+      "created_at": "2026-11-26T08:00:46.790Z"
+    },
+    {
+      "id": 30258,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 US moves to blacklist Singapore's Megaspeed over suspected Nvidia chip diversion to China  Commerce says it plans to add the data center developer to the Entity List, after investigating it for alm",
+      "description_en": "🚨 US moves to blacklist Singapore's Megaspeed over suspected Nvidia chip diversion to China  Commerce says it plans to add the data center developer to the Entity List, after investigating it for almost two years, well before the Alice Huang affair story broke.…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/1133",
+      "image_url": null,
+      "pub_date": "2026-11-26T06:58:52+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-26T08:00:46.790Z",
+      "created_at": "2026-11-26T08:00:46.790Z"
     }
   ]
 }
