@@ -660030,6 +660030,1120 @@
       "priority": "hot",
       "fetchedAt": "2026-11-27T13:17:00.799Z",
       "created_at": "2026-11-27T13:17:00.799Z"
+    },
+    {
+      "id": 30418,
+      "source": "The Verge AI",
+      "title_en": "Android’s DIY widgets are a bit of vibe-coding fun",
+      "description_en": "Widgets, your way. | Photo: Allison Johnson / The Verge\t\n\nAside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus.\nWhat I need is a widget. It needs to tell me real-time arrivals for the bus stop near my house. Tapping around on my phone screen to open the right app and select my stop will slow me down enough to miss a bus. I need glanceable information, and I hoped that Android's vibe-coded widget feature could help me out here. It hasn't, to",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+      "image_url": null,
+      "pub_date": "2026-11-27T14:00:00.000Z",
+      "author": "Allison Johnson",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-27T20:09:18.381Z",
+      "created_at": "2026-11-27T20:09:18.381Z"
+    },
+    {
+      "id": 30419,
+      "source": "Ars Technica",
+      "title_en": "The best Black Friday deals Ars could find",
+      "description_en": "Perhaps some commerce, to help all the Turkey Day leftovers go down easier?",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://arstechnica.com/shopping/2026/11/the-best-black-friday-deals-ars-could-find/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/black_friday_matrix-1152x648-1795796083.jpg",
+      "pub_date": "Fri, 27 Nov 2026 17:05:37 +0000",
+      "author": "\n                    Lee Hutchinson\n                ",
+      "categories": [
+        "Shopping",
+        "black friday",
+        "cyber monday",
+        "cybertron monday",
+        "Optimus Prime"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-27T20:09:18.410Z",
+      "created_at": "2026-11-27T20:09:18.410Z"
+    },
+    {
+      "id": 30420,
+      "source": "The Decoder",
+      "title_en": "OpenAI countersues Apple over trade secret theft and alleged coercion of shared suppliers",
+      "description_en": "OpenAI is suing Apple in a California court, accusing it of trade secret theft and of coercing shared suppliers. The countersuit follows Apple's own lawsuit from the summer. Just two years ago, the two companies teamed up to bring ChatGPT to the iPhone. Now OpenAI is building its own devices to compete directly with Apple.\nThe article OpenAI countersues Apple over trade secret theft and alleged coercion of shared suppliers appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/openai-countersues-apple-over-trade-secret-theft-and-alleged-coercion-of-shared-suppliers/",
+      "image_url": null,
+      "pub_date": "Fri, 27 Nov 2026 19:38:37 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Apple",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-27T20:09:19.131Z",
+      "created_at": "2026-11-27T20:09:19.131Z"
+    },
+    {
+      "id": 30421,
+      "source": "The Decoder",
+      "title_en": "Banned Nvidia Blackwell chips turn up in a Shanghai data center linked to Alice Huang, Bloomberg reports",
+      "description_en": "Two Chinese companies installed Nvidia's powerful Blackwell chips at a Shanghai data center linked to Alice Huang, according to a Bloomberg investigation. A serial number led Bloomberg to Taiwanese manufacturer Gigabyte. Exporting these chips to China without a US license is illegal.\nThe article Banned Nvidia Blackwell chips turn up in a Shanghai data center linked to Alice Huang, Bloomberg reports appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/banned-nvidia-blackwell-chips-turn-up-in-a-shanghai-data-center-linked-to-alice-huang-bloomberg-reports/",
+      "image_url": null,
+      "pub_date": "Fri, 27 Nov 2026 18:27:02 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "AI and China",
+        "AI Chips",
+        "AI in China",
+        "Chips",
+        "Nvidia"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-27T20:09:19.131Z",
+      "created_at": "2026-11-27T20:09:19.131Z"
+    },
+    {
+      "id": 30422,
+      "source": "The Decoder",
+      "title_en": "Three studies from Meta and AMI Labs back Yann LeCun's bet on JEPA world models over large language models",
+      "description_en": "Yann LeCun is pushing forward with his alternative to language models through his startup AMI Labs. The JEPA architecture aims to give machines an internal world model that captures cause and effect. Three new studies show progress in robot planning, more efficient training, and error correction, though the pieces still need to grow together.\nThe article Three studies from Meta and AMI Labs back Yann LeCun's bet on JEPA world models over large language models appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/three-studies-from-meta-and-ami-labs-back-yann-lecuns-bet-on-jepa-world-models-over-large-language-models/",
+      "image_url": null,
+      "pub_date": "Fri, 27 Nov 2026 16:58:56 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI research",
+        "Artificial Intelligence",
+        "AMI Labs",
+        "JEPA",
+        "Yann LeCun"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-27T20:09:19.131Z",
+      "created_at": "2026-11-27T20:09:19.131Z"
+    },
+    {
+      "id": 30423,
+      "source": "The Decoder",
+      "title_en": "Hackers breached the US Air Force's flagship Cloud One platform, report says",
+      "description_en": "Hackers breached the US Air Force's flagship cloud platform.\nThe article Hackers breached the US Air Force's flagship Cloud One platform, report says appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/hackers-breached-the-us-air-forces-flagship-cloud-one-platform-report-says/",
+      "image_url": null,
+      "pub_date": "Fri, 27 Nov 2026 16:06:43 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "Short News",
+        "Cybersecurity",
+        "Military",
+        "USA"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-27T20:09:19.131Z",
+      "created_at": "2026-11-27T20:09:19.131Z"
+    },
+    {
+      "id": 30424,
+      "source": "The Decoder",
+      "title_en": "OpenAI is building \"Athena\" data platform to cut down on AI agent guesswork",
+      "description_en": "OpenAI's data agent in ChatGPT Work still isn't accurate enough. Under the codename \"Athena,\" the company is building a semantic layer that gives agents standardized definitions for business metrics. The tool could also put OpenAI in direct competition with Snowflake and Databricks.\nThe article OpenAI is building \"Athena\" data platform to cut down on AI agent guesswork appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/openai-is-building-athena-data-platform-to-cut-down-on-ai-agent-guesswork/",
+      "image_url": null,
+      "pub_date": "Fri, 27 Nov 2026 16:05:23 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "OpenAI"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-27T20:09:19.131Z",
+      "created_at": "2026-11-27T20:09:19.131Z"
+    },
+    {
+      "id": 30425,
+      "source": "The Decoder",
+      "title_en": "Rockstar's AI dilemma: Can GTA 6's staggered release model survive coding agents?",
+      "description_en": "More than 40 projects are working to bring a leaked Xbox build of GTA 6 to PC through reverse engineering just days after its $3.79 billion record console launch. AI coding agents like Claude Code are speeding up the process so much that an early unofficial multiplayer mode is already running. Rockstar's delayed PC business model is coming under pressure.\nThe article Rockstar's AI dilemma: Can GTA 6's staggered release model survive coding agents? appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/rockstars-ai-dilemma-can-gta-6s-staggered-release-model-survive-coding-agents/",
+      "image_url": null,
+      "pub_date": "Fri, 27 Nov 2026 15:37:47 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "AI and coding",
+        "Rockstar"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-27T20:09:19.131Z",
+      "created_at": "2026-11-27T20:09:19.131Z"
+    },
+    {
+      "id": 30426,
+      "source": "The Decoder",
+      "title_en": "SAP plans to cut at least 10,000 jobs as it pivots to AI",
+      "description_en": "SAP is preparing to eliminate at least 10,000 positions as part of a sweeping AI restructuring, Bloomberg reports, citing people familiar with the matter.\nThe article SAP plans to cut at least 10,000 jobs as it pivots to AI appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/sap-plans-to-cut-at-least-10000-jobs-as-it-pivots-to-ai/",
+      "image_url": null,
+      "pub_date": "Fri, 27 Nov 2026 14:57:25 +0000",
+      "author": "Maximilian Schreiner",
+      "categories": [
+        "AI and society",
+        "Artificial Intelligence",
+        "Short News",
+        "SAP"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-27T20:09:19.131Z",
+      "created_at": "2026-11-27T20:09:19.131Z"
+    },
+    {
+      "id": 30427,
+      "source": "MIT Technology Review",
+      "title_en": "The Download: Innovators Under 35 nominations are open, and a bionic window into the mind",
+      "description_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Our 2027 Innovators Under 35 competition is now open Every year, MIT Technology Review honors 35 of the world’s brightest young scientists, entrepreneurs, and inventors in our Innovators Under 35 list.…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/",
+      "image_url": null,
+      "pub_date": "Fri, 27 Nov 2026 13:00:00 +0000",
+      "author": "Thomas Macaulay",
+      "categories": [
+        "The Download"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-27T20:09:19.246Z",
+      "created_at": "2026-11-27T20:09:19.246Z"
+    },
+    {
+      "id": 30428,
+      "source": "New Atlas",
+      "title_en": "Bendable book light provides an arch of illumination",
+      "description_en": "Most reading lights follow a familiar design: they clip onto the book and illuminate the pages from a single point, which often results in uneven lighting and shadows on the pages. Bowio is taking a different approach with its latest Kickstarter campaign: a reading light designed around the book. Quite literally.\nContinue Reading\nCategory: Good Thinking, Technology\nTags: xxKickbooster, Kickstarter, Books, Reading, Light, Leds",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/good-thinking/bowio-3-bendable-book-light/",
+      "image_url": null,
+      "pub_date": "Fri, 27 Nov 2026 18:09:14 GMT",
+      "author": "Maryna Holovnova",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-27T20:09:19.728Z",
+      "created_at": "2026-11-27T20:09:19.728Z"
+    },
+    {
+      "id": 30429,
+      "source": "New Atlas",
+      "title_en": "Black Friday gadget deals too tempting to pass up",
+      "description_en": "It's that time of year again. We've rounded up some of the most enticing Black Friday deals on gadgets out there that have me stretching my budget for the holidays.\nContinue Reading\nCategory: Consumer Tech, Technology\nTags: Black Friday, Gadgets, Apple, Nothing, Bose, Garmin, Fairphone, xxAffiliate",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://newatlas.com/consumer-tech/black-friday-gadgets-deals-2026-amazon-shop/",
+      "image_url": null,
+      "pub_date": "Fri, 27 Nov 2026 15:57:00 GMT",
+      "author": "Abhimanyu Ghoshal",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-27T20:09:19.728Z",
+      "created_at": "2026-11-27T20:09:19.728Z"
+    },
+    {
+      "id": 30430,
+      "source": "The Guardian AI",
+      "title_en": "Trump is destroying the rule of law in the US – to protect himself and the tech titans he worships as new gods | Jonathan Freedland",
+      "description_en": "To get Jensen Huang back at Nvidia, the president trampled on the justice system, national security and the trust America needs to do business in the global economy\nDon’t let the sex distract you. Or the lies or the boardroom intrigue or even the AI-generated bra, all of which could have come from an especially wild episode of Succession. Don’t let that lure you into thinking that the Jensen Huang affair is, as Donald Trump would have it, little more than a sex scandal involving a corporate maes",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/27/donald-trump-destroying-us-law-tech-titans-jensen-huang-nvidia",
+      "image_url": "https://i.guim.co.uk/img/media/2d3832750b4e0b3435ab9c1da113cb94cdd8b8cf/254_0_3291_2633/master/3291.jpg?width=140&quality=85&auto=format&fit=max&s=da8742fed3f30e33d76df0eeab22cf88",
+      "pub_date": "Fri, 27 Nov 2026 18:10:18 GMT",
+      "author": "Jonathan Freedland",
+      "categories": [
+        {
+          "_": "Donald Trump",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/donaldtrump"
+          }
+        },
+        {
+          "_": "US news",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-news"
+          }
+        },
+        {
+          "_": "US foreign policy",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-foreign-policy"
+          }
+        },
+        {
+          "_": "Jensen Huang",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/jensen-huang"
+          }
+        },
+        {
+          "_": "Nvidia",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/nvidia"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Trump administration",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/trump-administration"
+          }
+        },
+        {
+          "_": "US justice system",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-justice-system"
+          }
+        },
+        {
+          "_": "US politics",
+          "$": {
+            "domain": "https://www.theguardian.com/us-news/us-politics"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-27T20:09:20.147Z",
+      "created_at": "2026-11-27T20:09:20.147Z"
+    },
+    {
+      "id": 30431,
+      "source": "The Guardian AI",
+      "title_en": "The Guardian view on AI and the Riemann hypothesis: a triumph of intelligence, a test of democracy | Editorial",
+      "description_en": "Machines are solving problems that have been beyond the reach of human ingenuity. Their growing power must not become the sole preserve of billionaires\nFor the average person, the news that AI has helped crack a problem that has defied mathematicians since 1859 might elicit momentary awe. What ought to worry everyone is not the discovery per se, but what it says about the power of the machines making it. The pace of scientific discovery looks like it is outrunning the ability of humanity – and i",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/27/the-guardian-view-on-ai-and-the-riemann-hypothesis-a-triumph-of-intelligence-a-test-of-democracy",
+      "image_url": "https://i.guim.co.uk/img/media/bd8b97989478ecff9f2fcd62d27b70788c8ca338/1000_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=c71d85ae6645aec9f8cba961265feeeb",
+      "pub_date": "Fri, 27 Nov 2026 18:07:43 GMT",
+      "author": "Editorial",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Anthropic",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/anthropic"
+          }
+        },
+        {
+          "_": "Bank of England",
+          "$": {
+            "domain": "https://www.theguardian.com/business/bankofenglandgovernor"
+          }
+        },
+        {
+          "_": "Mathematics",
+          "$": {
+            "domain": "https://www.theguardian.com/science/mathematics"
+          }
+        },
+        {
+          "_": "Mathematics",
+          "$": {
+            "domain": "https://www.theguardian.com/education/mathematics"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-27T20:09:20.147Z",
+      "created_at": "2026-11-27T20:09:20.147Z"
+    },
+    {
+      "id": 30432,
+      "source": "Interesting Engineering",
+      "title_en": "Hackers target US Air Force’s Cloud One platform in major cybersecurity breach",
+      "description_en": "A cyberattack targeting the US Air Force’s cloud infrastructure has raised concerns about potential exposure...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/us-air-force-cloud-one-cyberattack",
+      "image_url": null,
+      "pub_date": "Fri, 27 Nov 2026 19:32:36 +0000",
+      "author": "Aamir Khollam",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-27T20:09:20.447Z",
+      "created_at": "2026-11-27T20:09:20.447Z"
+    },
+    {
+      "id": 30433,
+      "source": "Interesting Engineering",
+      "title_en": "DragonFire laser eyes Army role after Royal Navy trials against 404 mph drones",
+      "description_en": "As well as at sea, Britain is looking into whether DragonFire can be deployed on...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/uk-army-land-dragonfire-naval-trial",
+      "image_url": null,
+      "pub_date": "Fri, 27 Nov 2026 19:10:46 +0000",
+      "author": "Kaushal Kishore",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-27T20:09:20.447Z",
+      "created_at": "2026-11-27T20:09:20.447Z"
+    },
+    {
+      "id": 30434,
+      "source": "Interesting Engineering",
+      "title_en": "9-billion-kWh reactor: China begins building new unit at Taishan nuclear plant",
+      "description_en": "Chinese state-owned clean energy company China General Nuclear Power Corporation (CGN) has kick-started the second...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/energy/9-billion-kwh-reactor-china",
+      "image_url": null,
+      "pub_date": "Fri, 27 Nov 2026 17:44:14 +0000",
+      "author": "Muskan Bhatia",
+      "categories": [
+        "Energy"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-27T20:09:20.447Z",
+      "created_at": "2026-11-27T20:09:20.447Z"
+    },
+    {
+      "id": 30435,
+      "source": "Interesting Engineering",
+      "title_en": "New computational method separates cell signals from scaffold noise in Raman images",
+      "description_en": "A team led by Hokkaido University has built a computational method that reduces interference from...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/science/hokkaido-aliva-raman-cancer-stem-cells",
+      "image_url": null,
+      "pub_date": "Fri, 27 Nov 2026 15:30:00 +0000",
+      "author": "Daniel Kamberski",
+      "categories": [
+        "Science"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-27T20:09:20.447Z",
+      "created_at": "2026-11-27T20:09:20.447Z"
+    },
+    {
+      "id": 30436,
+      "source": "Interesting Engineering",
+      "title_en": "China’s 8-ton W8000 cargo drone targets 60% more payload than its predecessor",
+      "description_en": "Air White Whale, a Chinese developer of uncrewed cargo aircraft, has shown a mock-up of...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/transportation/china-cargo-drone-w8000-air-white-mockup",
+      "image_url": null,
+      "pub_date": "Fri, 27 Nov 2026 15:15:06 +0000",
+      "author": "Daniel Kamberski",
+      "categories": [
+        "Transportation"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-27T20:09:20.447Z",
+      "created_at": "2026-11-27T20:09:20.447Z"
+    },
+    {
+      "id": 30437,
+      "source": "Tom's Hardware",
+      "title_en": "Get the cheapest RTX 5070 around this Black Friday with Gigabyte's $839 Gaming OC card",
+      "description_en": "Looking for a midrange RTX 50-series upgrade this Black Friday? The Gigabyte Gaming RTX 5070 gets you a big cooler and RGB flair for the lowest price we've seen this week.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/gpus/get-the-cheapest-rtx-5070-around-this-black-friday-with-gigabytes-usd839-gaming-oc-card-midrange-blackwell-continues-to-shine-with-dlss-4-5-and-dlss-5",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/5zDu242Ef6zHZhEtLhv8z8-1920-80.jpg",
+      "pub_date": "Fri, 27 Nov 2026 19:38:08 +0000",
+      "author": " Jeffrey Kampman ",
+      "categories": [
+        "GPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-27T20:09:21.015Z",
+      "created_at": "2026-11-27T20:09:21.015Z"
+    },
+    {
+      "id": 30438,
+      "source": "Tom's Hardware",
+      "title_en": "This Silicon Power SSD is selling for a stunning 10 cents per GB — at only $209, this is the best 2TB SSD deal on Newegg",
+      "description_en": "Grab 2TB of storage for 10 cents per GB at Newegg. Silicon Power's P34A60 is one of the best-value SSD deals during the Black Friday sales.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/ssds/this-silicon-power-ssd-is-selling-for-a-stunning-10-cents-per-gb-at-only-usd209-this-is-the-best-2tb-ssd-deal-on-newegg",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/6ovjAGQpwvDHJQHn8kbJKj-1920-80.jpg",
+      "pub_date": "Fri, 27 Nov 2026 19:35:21 +0000",
+      "author": " Stewart Bendle ",
+      "categories": [
+        "SSDs",
+        "PC Components",
+        "Storage"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-27T20:09:21.015Z",
+      "created_at": "2026-11-27T20:09:21.015Z"
+    },
+    {
+      "id": 30439,
+      "source": "Tom's Hardware",
+      "title_en": "Get a 29% discount on the 280,000-RPM MiaEpic Z3 electric air duster",
+      "description_en": "The MiaEpic Z3 electric air duster comes with four nozzles and two brush attachments, allowing you to use it for your PC, accessories, and other things around the house. It also has a massive battery and digital display, helping you keep track of its battery levels, so you never run out of power.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/get-a-29-percent-discount-on-the-280-000-rpm-miaepic-z3-electric-air-duster-keeping-your-pc-clean-doesnt-have-to-be-pricey",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/uCYBh2rRh5X9pWD3BaSopP-1920-80.png",
+      "pub_date": "Fri, 27 Nov 2026 19:20:00 +0000",
+      "author": " Jowi Morales ",
+      "categories": [
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-27T20:09:21.015Z",
+      "created_at": "2026-11-27T20:09:21.015Z"
+    },
+    {
+      "id": 30440,
+      "source": "Tom's Hardware",
+      "title_en": "iBuyPower’s Black Friday offers net you $650 off powerful RTX 5080 prebuilt PC",
+      "description_en": "Prebuilt PC extraordinaires iBuyPower is having a huge Black Friday sale across a whole range of products, including a powerful bundle on an all-AMD Ryzen 9 7800X3D  / RX 9070 XT build, which will also net you free bundled extras, including a set of Asus peripherals and a 144Hz FHD MSI gaming monitor, and a total of $650 off an RTX 5080 gaming PC",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/desktops/gaming-pcs/ibuypowers-black-friday-offers-net-you-usd650-off-powerful-rtx-5080-prebuilt-pc-stackable-offer-code-can-net-you-a-bargain-bundle-with-a-free-monitor-and-peripherals",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Gp577vQ5kmUbGnbXeW2CEn-1920-80.jpg",
+      "pub_date": "Fri, 27 Nov 2026 17:30:00 +0000",
+      "author": " Sayem Ahmed ",
+      "categories": [
+        "Gaming PCs",
+        "Desktops"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-27T20:09:21.015Z",
+      "created_at": "2026-11-27T20:09:21.015Z"
+    },
+    {
+      "id": 30441,
+      "source": "Tom's Hardware",
+      "title_en": "China’s AI hardware push is moving beyond GPUs to the PCBs underneath them — Beijing races to corner the market on copper foil and micro-drill bits as board complexity explodes",
+      "description_en": "AI hardware bottlenecks are expanding beyond GPUs to the PCBs underneath them. As AI servers like Rubin Ultra push PCB layers toward 78 layers using denser laminates, drill bits are wearing out 10 times faster than normal, while high-speed signalling stretches the demand for smooth copper foil.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/manufacturing/chinas-ai-hardware-push-is-moving-beyond-gpus-to-the-pcbs-underneath-them-beijing-races-to-corner-the-market-on-copper-foil-and-micro-drill-bits-as-board-complexity-explodes",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/moKeCrUTNupN5AMgroQTtg-1920-80.jpg",
+      "pub_date": "Fri, 27 Nov 2026 17:00:00 +0000",
+      "author": " Chris Stokel-Walker ",
+      "categories": [
+        "Manufacturing",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-27T20:09:21.016Z",
+      "created_at": "2026-11-27T20:09:21.016Z"
+    },
+    {
+      "id": 30442,
+      "source": "Tom's Hardware",
+      "title_en": "Best Black Friday gaming monitor deals 2026",
+      "description_en": "Save big with one of these great Black Friday monitor deals. We’re hard at work updating this list with the best deals across all your favorite big tech retailers.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/monitors/gaming-monitors/best-gaming-monitor-deals-oled",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/YhpQUSUekfeckmWH7XQJLi-1920-80.jpg",
+      "pub_date": "Fri, 27 Nov 2026 16:59:53 +0000",
+      "author": " Stewart Bendle ",
+      "categories": [
+        "Gaming Monitors",
+        "Monitors"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-27T20:09:21.016Z",
+      "created_at": "2026-11-27T20:09:21.016Z"
+    },
+    {
+      "id": 30443,
+      "source": "Tom's Hardware",
+      "title_en": "This $619 PowerColor Radeon RX 9070 GRE is the cheapest around this Black Friday",
+      "description_en": "PowerColor's Radeon RX 9070 GRE is just $619 at Amazon this Black Friday — a rare midrange gaming GPU deal in today's tough market.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/gpus/this-usd619-powercolor-radeon-rx-9070-gre-is-the-cheapest-around-this-black-friday-grab-a-great-1080p-or-1440p-gaming-upgrade-for-a-great-price",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/TEjDjaSBNGN5SUqtCharqj-1920-80.jpg",
+      "pub_date": "Fri, 27 Nov 2026 16:41:32 +0000",
+      "author": " Anj Bryant ",
+      "categories": [
+        "GPUs",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-27T20:09:21.016Z",
+      "created_at": "2026-11-27T20:09:21.016Z"
+    },
+    {
+      "id": 30444,
+      "source": "Tom's Hardware",
+      "title_en": "Grab a new Secretlab gaming chair or desk to upgrade your setup in its Black Friday sale with up to $537 off",
+      "description_en": "Grab a new gaming chair or desk in this Secretlab Black Friday sale.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/peripherals/gaming-chairs/grab-a-new-secretlab-gaming-chair-or-desk-to-upgrade-your-setup-in-its-black-friday-sale-with-up-to-usd537-off-individual-discounts-and-big-bundle-deals-mean-you-can-score-huge-savings-on-top-models-including-the-titan-evo-and-magnus-pro",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/CdstHcfZEoZftNMKw2B98N-1920-80.png",
+      "pub_date": "Fri, 27 Nov 2026 16:02:59 +0000",
+      "author": " Ben Stockton ",
+      "categories": [
+        "Gaming Chairs",
+        "Peripherals"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-27T20:09:21.016Z",
+      "created_at": "2026-11-27T20:09:21.016Z"
+    },
+    {
+      "id": 30445,
+      "source": "Tom's Hardware",
+      "title_en": "Best motherboard deals 2026",
+      "description_en": "Here are the best Black Friday motherboard deals available right now. We're constantly updating this list with the best deals across all your favorite retailers.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/motherboards/best-motherboard-deals-amd-intel",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/u8cPCjMzkT7cdAfRbXzemE-1920-80.jpg",
+      "pub_date": "Fri, 27 Nov 2026 15:42:24 +0000",
+      "author": " Joe Shields ",
+      "categories": [
+        "Motherboards",
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-27T20:09:21.016Z",
+      "created_at": "2026-11-27T20:09:21.016Z"
+    },
+    {
+      "id": 30446,
+      "source": "Tom's Hardware",
+      "title_en": "Beijing’s AI ambitions are under threat as models may fall behind by up to nine months versus competitors — Chinese AI labs are under heavy fire from export controls, maturing chip stacks and a distillation crackdown",
+      "description_en": "This week, several reports have detailed how closing GPU rental loopholes across Asia may have had an impact on the development of Chinese AI models.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/beijings-ai-ambitions-are-under-threat-as-models-may-fall-behind-by-up-to-nine-months-versus-competitors-chinese-ai-labs-are-under-heavy-fire-from-export-controls-maturing-chip-stacks-and-a-distillation-crackdown",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/72RfazhH7UiPwPYLuGp2yh-1920-80.jpg",
+      "pub_date": "Fri, 27 Nov 2026 15:00:00 +0000",
+      "author": " Sayem Ahmed ",
+      "categories": [
+        "Artificial Intelligence",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-27T20:09:21.016Z",
+      "created_at": "2026-11-27T20:09:21.016Z"
+    },
+    {
+      "id": 30447,
+      "source": "Tom's Hardware",
+      "title_en": "The ultimate Black Friday 3D printer gift guide",
+      "description_en": "We’ve got our sights set on Black Friday sales, and the bargains for some of the best 3D printers are hot!",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/3d-printing/the-ultimate-black-friday-3d-printer-gift-guide-bargains-from-bambu-lab-prusa-research-and-elegoo-plus-usd199-kid-friendly-printers",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/UoGYoRhy4CRSgdzXf3td6E-1920-80.png",
+      "pub_date": "Fri, 27 Nov 2026 14:41:55 +0000",
+      "author": " Denise Bertacchi ",
+      "categories": [
+        "3D Printing"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-27T20:09:21.016Z",
+      "created_at": "2026-11-27T20:09:21.016Z"
+    },
+    {
+      "id": 30448,
+      "source": "Tom's Hardware",
+      "title_en": "Best Black Friday SSD deals 2026",
+      "description_en": "We've rounded up the best Black Friday SSD deals to help you expand your PC's storage without breaking the bank.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/ssds/best-ssd-deals-discounts-2026",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Esjx3rXSqKUTNxg8Ynsqsh-1920-80.jpg",
+      "pub_date": "Fri, 27 Nov 2026 13:35:12 +0000",
+      "author": " Stewart Bendle ",
+      "categories": [
+        "SSDs",
+        "PC Components",
+        "Storage"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-27T20:09:21.016Z",
+      "created_at": "2026-11-27T20:09:21.016Z"
+    },
+    {
+      "id": 30449,
+      "source": "CNBC Tech",
+      "title_en": "Jensen Huang's return did little to ease AI jitters. We used the weakness to buy",
+      "description_en": "Jensen Huang's return sparked a fleeting AI rally, but persistent market volatility gave us another opportunity to put cash to work.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/investingclub/2026/11/27/jensen-huangs-return-did-little-to-ease-ai-jitters-we-bought-on-weakness.html",
+      "image_url": null,
+      "pub_date": "Fri, 27 Nov 2026 18:46:20 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-27T20:09:21.063Z",
+      "created_at": "2026-11-27T20:09:21.063Z"
+    },
+    {
+      "id": 30450,
+      "source": "CNBC Tech",
+      "title_en": "AI shopping agents are having a moment, but Amazon and a growing number of sites threaten to stunt their growth",
+      "description_en": "AI shopping agents from OpenAI, Meta, Google and Instinct promise to help users shop, but they're hitting roadblocks at Amazon and other retailers.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/27/ai-shopping-agents-retailer-blocks.html",
+      "image_url": null,
+      "pub_date": "Fri, 27 Nov 2026 16:43:14 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-27T20:09:21.063Z",
+      "created_at": "2026-11-27T20:09:21.063Z"
+    },
+    {
+      "id": 30451,
+      "source": "Backdoor (TG)",
+      "title_en": "3D-дизайнеры остались без работы — вот так теперь выглядят анимации и графика на three.js.Прогресс ощущается даже за последние полгода — лучше стало всё: как флагманы, занятые оркестрацией ИИ-агентов,",
+      "description_en": "3D-дизайнеры остались без работы — вот так теперь выглядят анимации и графика на three.js.Прогресс ощущается даже за последние полгода — лучше стало всё: как флагманы, занятые оркестрацией ИИ-агентов, так и сами модели для звука, видео и генерации объектов.Видосом энтузиаста поделилась сама библиотека. Именно на three.js нейронки почему-то творят чудеса 3D. Если хотите генерить так же, вот стек автора:GPT Astra 6.2, three.js, Gemini 4 Neon, Claude Opus 5.5, ElevenLabs👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/33400",
+      "image_url": null,
+      "pub_date": "2026-11-27T13:50:03+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-27T20:09:21.794Z",
+      "created_at": "2026-11-27T20:09:21.794Z"
+    },
+    {
+      "id": 30452,
+      "source": "Backdoor (TG)",
+      "title_en": "⚡️ Claude забанил чувака за отпуск в Китае. Вайбкодер случайно открыл нейронку в путешествии и мгновенно отлетел в бан, в апелляции тоже отказали.Но это ещё не всё: сам чувак живет в США (!) и имеет а",
+      "description_en": "⚡️ Claude забанил чувака за отпуск в Китае. Вайбкодер случайно открыл нейронку в путешествии и мгновенно отлетел в бан, в апелляции тоже отказали.Но это ещё не всё: сам чувак живет в США (!) и имеет американский паспорт. Он прикладывал документы и даже показал, где живёт. Anthropic всё равно посчитали его китайским шпиономКонтора самых приятных ребят 👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/33401",
+      "image_url": "https://cdn4.telesco.pe/file/vo4NJzfplrzgSaPYSPYpv4kGpz7XZR9x8BonFdkJgyJNNQ-5eGRHDQv0yurEIdW2xBXKyHUksoBiHXN2b900dFoOks-XdWEMZZrLUA50vzXuhh4ZjylFYVRCivDhuuLS2YppK3jgEW5vH9rRJU6MKWboJcrnqGKJtwYdDZ2yO5Y5zk6LoeZ5YNTRGOSJFAmXGP_gufoxI6W7-34V3p4-ORq2_W82sU6eftEg4s2UcNtkdyPIqMzeM9rJLthPXydvwZhEVjP1MgIT9wFYxgVVeGOTlf-rOe88XcuvGsDE1YhSXOEMvzupB3EweUhFnyejT9TeK7xBniy3MuTe_YRlqg.jpg",
+      "pub_date": "2026-11-27T14:38:02+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-27T20:09:21.794Z",
+      "created_at": "2026-11-27T20:09:21.794Z"
+    },
+    {
+      "id": 30453,
+      "source": "Backdoor (TG)",
+      "title_en": "⚡️ OpenAI и Anthropic смогут взломать весь мировой интернет — среди ученых ходит слух, что нейронки компаний научились быстро взламывать RSA-шифры, на них держится почти весь цифровой мир.  • RSA-шифр",
+      "description_en": "⚡️ OpenAI и Anthropic смогут взломать весь мировой интернет — среди ученых ходит слух, что нейронки компаний научились быстро взламывать RSA-шифры, на них держится почти весь цифровой мир.  • RSA-шифрование касается почти всего в сети: SSH-ключи в сервисах…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/33402",
+      "image_url": "https://cdn4.telesco.pe/file/nilxBoD05F2ELZs9rasxeC6oupxMZJdXGGCJGUfMsPV0pmAbLuk-zlEyEUfMpS2X_B2_1-Sopd4OYx31M9j6KPRYV5_v_h7EK5lDgtO33P7WZwH4BLt4ropPK-f5NWTQK6niYa8Hm66TuHh9VH7GG7ekvjhWxHgY5Ajf82M4RKIpNQZ7S5bUgHZRRk7ZEYeMDGRnfXutmud1CfvzFzLseT6yCEadUm1_SSJnEV71T-l8ykj1o6f8foXviHpxm6I1DN-L0QhpF2oA6Poz90iFzDeZbFJj2-JNtExFEHPl8k8DbFSn9cA3m32Z-ErH0ozyOkzfxSB99yZkqQNOWOOLcA.jpg",
+      "pub_date": "2026-11-27T15:05:42+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-27T20:09:21.794Z",
+      "created_at": "2026-11-27T20:09:21.794Z"
+    },
+    {
+      "id": 30454,
+      "source": "Wylsacom Red (TG)",
+      "title_en": "Стартап Character.AI продаёт личные разговоры миллионов пользователей после банкротстваВы могли слышать о платформе: на ней для разговоров можно было создать себе ИИ-бота. Хоть подружку, хоть психолог",
+      "description_en": "Стартап Character.AI продаёт личные разговоры миллионов пользователей после банкротстваВы могли слышать о платформе: на ней для разговоров можно было создать себе ИИ-бота. Хоть подружку, хоть психолога, хоть консультанта — любая роль на выбор! И после банкротства в октябре все личные переписки решили продать, чтобы наскрести деньжат.Там находятся сообщения, связанные с IP и именами пользователей, — никакой анонимности. Да и сделка мутная: новый покупатель не обязан соблюдать старые политики конф",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/Wylsared/37378",
+      "image_url": "https://cdn4.telesco.pe/file/ZXE22MasZKR6gF2ZBbuFZwBFoCGHvqFRf_YZae-7q4l8EkznqAod3TcyZN2lPW6Ggqid4mu9BXX7ZjEm4nBwN9aEwO3KgePfPkQOdshVilfqvmkbWMu5O5CaGq7qhCxI3cjmEuYcSlTvwlJYhR9Oy7PmUsptu7LEKQaUzVyYbmeAdjCTiZwn2qE9Lzp2ADBAQM4Dv-SVlklVaZlQXViOrg4WW8tv35JTODtKHT8gjggePc8gGjaFILBqqlt48hQl1rrLH7iSDmm36zURBJ8L22VXlRD-egFcpMtI7lpuGx4fJT4kGE3ptSavydbS4d1ow63if1f6bn6OTm7h1UAmJw.jpg",
+      "pub_date": "2026-11-27T17:27:19+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-27T20:09:21.831Z",
+      "created_at": "2026-11-27T20:09:21.831Z"
+    },
+    {
+      "id": 30455,
+      "source": "XOR Journal (TG)",
+      "title_en": "Не мы выбираем 1С, он выбирает нас 🥲@xor_journal",
+      "description_en": "Не мы выбираем 1С, он выбирает нас 🥲@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10612",
+      "image_url": "https://cdn4.telesco.pe/file/Cp62jFGIqLzY6Opllt81ia1Oop_ps3M_33cBDuZheW-g_y-J-JaAoSU_5qKy0ywVMGPYZfaoLWNiEulBlrTACKeGCfVsClGaDLN7kPjmKBkfzGvuyAvL8HinQnfY18sco-gowZ4ZDjHL8Btdjo3G7Qj6Ut39jw18lJa_LFu81jUh1m-7VkdDB7vpn9_ifIbofhgFHfb_OqLPy6anZWNQDj_G-oa-XceT6oKs-K8jMXzMrKV18x_YDQ_WT_ajBJVThWCnmonOOTgUVCZA-Xf_CVgolbeMMvB_QICKcpeZEKahu6R6qcpLdqkZ8i49OHU8NIcBUNVoE0KxM6FUjhyHbw.jpg",
+      "pub_date": "2026-11-27T15:25:20+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-27T20:09:21.854Z",
+      "created_at": "2026-11-27T20:09:21.854Z"
+    },
+    {
+      "id": 30456,
+      "source": "XOR Journal (TG)",
+      "title_en": "Расшифровывать речь можно теперь прямо на лету — команда GigaChat выпустила ДВЕ открытые нейронки для распознавания речи в реальном времени.🟢 GigaAM-v4 работает с русским и английским. У модели в 6 с",
+      "description_en": "Расшифровывать речь можно теперь прямо на лету — команда GigaChat выпустила ДВЕ открытые нейронки для распознавания речи в реальном времени.🟢 GigaAM-v4 работает с русским и английским. У модели в 6 с лишним раз меньше параметров, чем у Whisper large-v3, но качество на англоязычных тестах сопоставимое.🟢 GigaAM Multilingual-v2 поддерживает сразу 21 язык, умеет автоматически определять язык и распознавать речь с переключением между ними. При этом на тестах по языкам СНГ модель допускает в 4 с лиш",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10613",
+      "image_url": "https://cdn4.telesco.pe/file/l147-G7czqYPVvy2GXbN8pG7g5rvJXyrasH4o9Dp1q1-ex1lt3FCO8FWK3eNK8DwkmCchc2Ycy-Fd8UG1fPNBPO_kFbn76-5yRKwy6FlqJuwWosYUchvo_c2Ag4zcnOLopV8so7K-9yK3biz8kUbiuwPwa9L7lhPEXf4Zz3iKQ1zntyRNLqPcQLXnezYkoKW6VFJaBPsykUys9wISrvuMUlZrANtb6wBhy1ImzZH274egKq2JQHZancYA9OxFk0vJHx-Ka5o83utFj7fWaMHGHWya-rcHDYNZDfuLCz86oR4X2nsteZ4RWmO5bhJBxykqEAcQvy1DS4oEeK4-PWn0A.jpg",
+      "pub_date": "2026-11-27T16:15:04+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-27T20:09:21.854Z",
+      "created_at": "2026-11-27T20:09:21.854Z"
+    },
+    {
+      "id": 30457,
+      "source": "XOR Journal (TG)",
+      "title_en": "Выясняем, какие процессы в системе жрут ресурсы и откуда они взялись — принесли для этого бесплатную утилиту witr.Она показывает, что именно запустило процесс, с какими службами он связан и всю цепочк",
+      "description_en": "Выясняем, какие процессы в системе жрут ресурсы и откуда они взялись — принесли для этого бесплатную утилиту witr.Она показывает, что именно запустило процесс, с какими службами он связан и всю цепочку его запуска, подсвечивая всё подозрительное. Искать можно по имени процесса, PID или сетевому порту.Работает на всех ОС и не требует предварительной настройки. Исходники лежат на GitHub.Распутываем клубок 😑@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10614",
+      "image_url": "https://cdn4.telesco.pe/file/ADy0DfSdtaL3fyFZ2ouFpZvpvYL73Y5mYZzgZqW7T1cuAx3NtRbLufmD2N3EJuXGunE3O5PZgmUiZhe5-i0P6YWzVNiLgbTG16fICgAWnswyW64QJ7MbTXw_lBYUdCwOLrkgBP4YIo3Hvcr565ozR8sxX0R6kmnS9-2UsqnVdTJ2hwUueBM9ma5AL7Ovd3kkZiD1MqYCVFOaDz1cBb7VeAmnRIs9Qo5tAui_CW5-Nm7A7aq2iymxKjZ7OKpB_fpEuNrkhPeCsV1-DlmBoE5_NlraEE1_n_N3cDeaPTcUWDmyFaGhJz9hcaPu1hHd3QTxj_CNrFIxMMYRVa_QCYnPtw.jpg",
+      "pub_date": "2026-11-27T16:50:04+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-27T20:09:21.854Z",
+      "created_at": "2026-11-27T20:09:21.854Z"
+    },
+    {
+      "id": 30458,
+      "source": "XOR Journal (TG)",
+      "title_en": "Роботы из России произвели фурор за рубежом — их выступление с артистами балета Бориса Эйфмана считают технологическим прорывом 😳Ближневосточный IT-предприниматель Ахмед Халифа назвал номер на конфер",
+      "description_en": "Роботы из России произвели фурор за рубежом — их выступление с артистами балета Бориса Эйфмана считают технологическим прорывом 😳Ближневосточный IT-предприниматель Ахмед Халифа назвал номер на конференции AI Journey лучшим совместным выступлением людей и роботов. А Сбер задал новую планку в мировой технологической гонке, объединив классический балет и ИИ.Роботы теперь могут в высокое искусство 😘@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10615",
+      "image_url": null,
+      "pub_date": "2026-11-27T18:02:03+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-27T20:09:21.854Z",
+      "created_at": "2026-11-27T20:09:21.854Z"
+    },
+    {
+      "id": 30459,
+      "source": "XOR Journal (TG)",
+      "title_en": "Ну мы? 💃@xor_journal",
+      "description_en": "Ну мы? 💃@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10616",
+      "image_url": null,
+      "pub_date": "2026-11-27T18:46:25+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-27T20:09:21.854Z",
+      "created_at": "2026-11-27T20:09:21.854Z"
+    },
+    {
+      "id": 30460,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "❗️ В 2027 году ИИ может оказаться разрушительнее ковида Так заявляет исследователь Никола Юркович из лаборатории METR, которая оценивает безопасность передовых ИИ-систем. Ее как независимого наблюдате",
+      "description_en": "❗️ В 2027 году ИИ может оказаться разрушительнее ковида Так заявляет исследователь Никола Юркович из лаборатории METR, которая оценивает безопасность передовых ИИ-систем. Ее как независимого наблюдателя над индустрией поддерживали глава Anthropic Дарио Амодеи, CEO OpenAI Сэм Альтман и основатель SpaceX Илон Маск.Юркович полагает, что без жесткого глобального регулирования ИИ начнет совершенствовать сам себя и может намного превзойти самых умных людей уже в 2027 году. И на смену локальным инциден",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3893",
+      "image_url": "https://cdn4.telesco.pe/file/oPVvfBX5C1g9__sheEOFdbAOY5zYB6oprEq80czBH5zxJSaft_40_D7GfiiZaoev6R-ca7b-HGeZ7sXvyj95Y3SZyBeNoDIPfFjbQ9e35L4AigeBSax0uuqcsEzBI5_IU-S9UUHEBXLZ-aa1b3OLPJHi0ai4nPC8ddzEHVfZBBwKLhOZfEGJonMn1BaSOUoVHAGHhN1OIQuTm-soz2_09KP2iO6A8ZXUVMnjHhbTrjReWEFXTuD8NO6K_BGfMVkGm96XwbexeR8HJRKLTMGgDGkFfd2WMrhEVS7XCPv9CIQxzQMuUbV0dn8PnsFM6cwegUavq6SoqinAwgE--ryqnw.jpg",
+      "pub_date": "2026-11-27T13:28:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-27T20:09:22.142Z",
+      "created_at": "2026-11-27T20:09:22.142Z"
+    },
+    {
+      "id": 30461,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "🤖 ИИ-агенты помогут российским компаниям сократить время на выполнение бизнес-задачНа AI Journey ГК Softline договорилась о партнерстве с «Салют для Бизнеса» (группа Сбера). Вместе компании будут авт",
+      "description_en": "🤖 ИИ-агенты помогут российским компаниям сократить время на выполнение бизнес-задачНа AI Journey ГК Softline договорилась о партнерстве с «Салют для Бизнеса» (группа Сбера). Вместе компании будут автоматизировать бизнес-процессы с помощью платформы GigaCowork.Создавать агентов можно без глубоких технических знаний, описывая задачи обычным языком. Они взаимодействуют с корпоративными системами, обрабатывают документы, анализируют данные и выполняют многоэтапные задачи.Это позволит ускорить работ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3894",
+      "image_url": "https://cdn4.telesco.pe/file/HporO6xiN7HRgglxdEmFmzcrRYFEibO2rqS76pyLZZ1XIDEXCeLEiJamCgeLUIrkeVBiZl4EkmVCAOpJ7GBazQQxImMVFQHlVnsf8DABhnBZYbS7Nzoni9F6jGrno2NE4pLP_Oynhbzg_FvIVsYY5-SFAcr8CmskrVSMsFC_EQotYs0xKutI6qu9eyUFzXyKTbv-XZW8aP0aDE4npEJpDYcwOiiom99NV96S5mQuSzE9tcAWOWkoyOtdlD3jDsE-1E05RIZ8TkQEex4HjH9yOeGZRKj21jhOApoRCNjEsYPEQ3CV8S7E8eCYlds8QWWX0Xu9XVy0DCMNDI9c43V1hw.jpg",
+      "pub_date": "2026-11-27T14:15:15+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-27T20:09:22.142Z",
+      "created_at": "2026-11-27T20:09:22.142Z"
+    },
+    {
+      "id": 30462,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "🌐 OpenAI хайпует на квантовой гравитации?Исследователь Венкатеса Чандрасекаран из Института теоретической физики Лайнвебера, который параллельно работает в OpenAI, 25 ноября опубликовал препринт с из",
+      "description_en": "🌐 OpenAI хайпует на квантовой гравитации?Исследователь Венкатеса Чандрасекаран из Института теоретической физики Лайнвебера, который параллельно работает в OpenAI, 25 ноября опубликовал препринт с изложением новой теории алгебраического квантования гравитации — потенциальной базы для объединения общей теории относительности Эйнштейна и квантовой физики. Для вывода доказательства он использовал GPT-6 Astra, потратив около 400 млн токенов.Запись со ссылкой на препринт репостнул президент OpenAI Г",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3895",
+      "image_url": "https://cdn4.telesco.pe/file/vRQtI4q4gzCCMxoyty3E74dU13udLB4VA3ak5bFZOIZy0IHVyZjMCUHn9pcsJhhuSyce7KyvSMnMl1dzrr5vDGmODy95Icmriin9CwIoeMOz74e3X1hiVUdxdH5fYx4f1HDo49V-dDMrZT-FQpaFd6fcuRjvreCu5a3LKucGK9PZxHlC9XjUNrAAbhlYx1Esn0PQneh4OagPUPsk3gk7rVjNWAcu8x4fmVqTjdsNFXUGzNaQwO4R3NxLg9hcEOgh2w17hggMlkUUoaGbgvzBgbEgrsjKbzHTAC2OYl_QLrfHR_1BZ3iWxaemTQc2FxztVUGlt8GhCh8fZCPHNZMVqQ.jpg",
+      "pub_date": "2026-11-27T15:02:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-27T20:09:22.142Z",
+      "created_at": "2026-11-27T20:09:22.142Z"
+    },
+    {
+      "id": 30463,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "🤖 Лишь 21% компаний готовы к атакам моделей уровня MythosТакие данные показал опрос на конференции AI Journey. При этом 25% участников считают, что для защиты нужны собственные атакующие модели, а гл",
+      "description_en": "🤖 Лишь 21% компаний готовы к атакам моделей уровня MythosТакие данные показал опрос на конференции AI Journey. При этом 25% участников считают, что для защиты нужны собственные атакующие модели, а главными мерами назвали проверки систем наступательным ИИ (29%) и подготовку кадров (28%).Зампред правления Сбера Станислав Кузнецов отметил, что модели класса Mythos уже взломали около 10 тыс. считавшихся надежными систем. На атаку уходит до 30 часов, а на установку обновлений — 20 дней.По словам виц",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3896",
+      "image_url": "https://cdn4.telesco.pe/file/NjHnIDOTkmAXkPfR1uIZPC9AMxXusjVFw5JeOXh7KPmZzIa4BpCniUAUSl-xxLpbEN3eHOXP82u_ktCGYL7oZOY5OReafZ_gZyCLS00Bb-0zcb_MDuItXwwFbKpY_A68FwLky9R4UHClUfaSOcsQHkG_56t_xpxM4aNz-E7AO8d95HD_O3QVrkitvISJn94yei84BP0fUbYy-22-hVSwvJ1HgYUVmKtVvnVEBt0P-tEjwEziXd7sOEdh1ZnFV8_vrxJ67CnMXabrkGquMiu1TjiQtKad0HcqVG1Js_X-LMUP_Mj8WauhZFlTP2vIuUdEuIV38yk9HNgo3It47oNDpA.jpg",
+      "pub_date": "2026-11-27T18:52:27+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-27T20:09:22.142Z",
+      "created_at": "2026-11-27T20:09:22.142Z"
+    },
+    {
+      "id": 30464,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "👨‍💻 «Я пытался привлечь к нему внимание»Юра Борисов потратил месяцы на изучение основ математики и машинного обучения, готовясь к роли бывшего главного ученого OpenAI Ильи Суцкевера в фильме «Искусс",
+      "description_en": "👨‍💻 «Я пытался привлечь к нему внимание»Юра Борисов потратил месяцы на изучение основ математики и машинного обучения, готовясь к роли бывшего главного ученого OpenAI Ильи Суцкевера в фильме «Искусственный».«Мне было очень сложно играть Илью Суцкевера из-за вот этой научной части... Но по сравнению с Ильей я просто ноль...», — признается актер.🔍 Также он хотел бы, чтобы после фильма люди посмотрели интервью Суцкевера, который «создает новый шаг для человечества». Его мысли и чувства — это вид",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3897",
+      "image_url": null,
+      "pub_date": "2026-11-27T19:38:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-27T20:09:22.142Z",
+      "created_at": "2026-11-27T20:09:22.142Z"
+    },
+    {
+      "id": 30465,
+      "source": "Hi, AI English (TG)",
+      "title_en": "🎧 Legendary Commentator \"Resurrected\" With AIBritish commentator John Motson spent half a century covering football for the BBC and voiced the FIFA video game series from 1995 to 2004. He died in 202",
+      "description_en": "🎧 Legendary Commentator \"Resurrected\" With AIBritish commentator John Motson spent half a century covering football for the BBC and voiced the FIFA video game series from 1995 to 2004. He died in 2023, and Electronic Arts has since decided to recreate his voice for EA Sports FC 27.The developers trained an AI model on Motson's archived commentary and built his voice into the game. Some lines come straight from his old recordings, while the rest, such as the names of today's players, are voiced ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimediaen/2967",
+      "image_url": "https://cdn4.telesco.pe/file/M5vF7TQn-Zmw1dIJoblpaXFHU_Hv_UHbRUqUl7-ZgoYMJvJWxjyGMZahM6I6adTwktP36YeotlWiBgNuKvI30TmZjkdSZYVLXtSoUPtAisw1D4n6NTQY5zdjREyHsvAQrsTDRgC16Xka6hwAK56Mi9vcXEVwkYt1IGdlLMV4A5Wx2NQBdw33oNztLux2Cm1lA9l6tGm8s3ri71rSCWAwXngDDktTW3hVpC6rXv8VlJ8bX3T7CYD-VOkpOuMyGZbsXngjtYv58Ah3gAYI4SVlYEjm0oCGXu0_4k586zJqtA0SXSlUOdrb9j2MFwmln4MBo3D-tUh7b3aNBN8IHf-GQw.jpg",
+      "pub_date": "2026-11-27T13:33:17+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-27T20:09:22.161Z",
+      "created_at": "2026-11-27T20:09:22.161Z"
+    },
+    {
+      "id": 30466,
+      "source": "Hi, AI English (TG)",
+      "title_en": "❗️ AI Could Prove More Destructive Than COVID in 2027That's the warning from Nikola Jurkovic, a researcher at METR, a lab that evaluates the safety of frontier AI systems. Anthropic CEO Dario Amodei, ",
+      "description_en": "❗️ AI Could Prove More Destructive Than COVID in 2027That's the warning from Nikola Jurkovic, a researcher at METR, a lab that evaluates the safety of frontier AI systems. Anthropic CEO Dario Amodei, OpenAI CEO Sam Altman and SpaceX founder Elon Musk have backed it as an independent watchdog over the industry.Jurkovic believes that without strict global regulation, AI will start improving itself and could vastly surpass the smartest humans as early as 2027. Local incidents, such as agent swarms ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimediaen/2968",
+      "image_url": "https://cdn4.telesco.pe/file/dzUlYtzTQDniLP8Jycb6olk9r-l5lXSIioRRUAjXGZmA47SSAPQOgRXgVW9owkdV0XLGmkCqFZZiCtS47bicSFZGxl5n7sB617_zJDSxl02iaicHAS1CE49S1NL4xIqP5Mpn4sBcClyCMAylh5uxENDNOjhctTmgIDAnpTVSEGExDH8UxCCYkKx6Cu5lzn3EArNQ6tnJjXG3ArpLzBgngYa8idd0ZileeDw4m1IkkHo7zCKsy1n8aQ4SH0ulhTvuLciKasvVeKzo39iTY187e5HR4-vTzgyvuiwItbcyuR44Ds-uQmqbjKv1eOOd4rzEVckDjF37aeoe-0Z_UpzYGA.jpg",
+      "pub_date": "2026-11-27T17:00:04+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-27T20:09:22.161Z",
+      "created_at": "2026-11-27T20:09:22.161Z"
+    },
+    {
+      "id": 30467,
+      "source": "AI Post (TG)",
+      "title_en": "🤯 A physicist spent months with GPT-6 on a puzzle that has defeated physics for almost 100 yearsEinstein's gravity explains planets and black holes, quantum physics explains atoms, and for nearly a c",
+      "description_en": "🤯 A physicist spent months with GPT-6 on a puzzle that has defeated physics for almost 100 yearsEinstein's gravity explains planets and black holes, quantum physics explains atoms, and for nearly a century no one has joined them in one confirmed theory. Stanford physicist Venkatesa Chandrasekaran now proposes a way in an 83-page paper posted on Wednesday.He writes that several of its calculations and proofs came from \"detailed, back and forth collaboration with GPT-6 Astra over the course of ma",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8913",
+      "image_url": "https://cdn4.telesco.pe/file/s0aC1xDO4eOTNYnA1-atXOl59nhifZgO48gl2bymgC_1bias4Y-LL-zW1HHtLIQwq9jXNBgl5zU8cViWBDr3z6T78a0-KRzUIgWzxh9hezyDP_iI4-gLhLKKvFDh-BmFvLx7BAZ-N-DFMS4OXGurfsq2ctn6_NGih0CsVO0d-tnzZQA2C7R3HLL8-rTtWquaeOeD_9zWHG-U8sKzQ_yJ0JsO7HPgsdtEu0kyz872W2msiuJqCKFZ9mxk9x705h1F8C5SmzaazPe0FX9Ue_DbgDY_eOUrH1BdlW2DCSwppxhaYD3UCaykcHin8d0WQzPzmjeeb8CDFTRuTn1tLwe4SA.jpg",
+      "pub_date": "2026-11-27T16:06:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-27T20:09:22.430Z",
+      "created_at": "2026-11-27T20:09:22.430Z"
+    },
+    {
+      "id": 30468,
+      "source": "AI Post (TG)",
+      "title_en": "🚀 Mustafa Suleyman on a 2015 lunch at SpaceX with Google co-founder Larry Page:\"He was suspicious of me as well, because he was like, 'You're one of those speciesists.'And he said, 'I think what you ",
+      "description_en": "🚀 Mustafa Suleyman on a 2015 lunch at SpaceX with Google co-founder Larry Page:\"He was suspicious of me as well, because he was like, 'You're one of those speciesists.'And he said, 'I think what you don't understand is that by the end of the century, I'm going to be exploring the galaxies at the head of a von Neumann probe'...He's basically saying, 'I will have a mind uploading moment and I'll be able to live forever.'@aipost 🏴",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8914",
+      "image_url": null,
+      "pub_date": "2026-11-27T19:12:49+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-27T20:09:22.430Z",
+      "created_at": "2026-11-27T20:09:22.430Z"
+    },
+    {
+      "id": 30469,
+      "source": "Prompt AI News (TG)",
+      "title_en": "⚖️ New York's AG now has a dedicated AI cop, and it can fine up to $25,000 per violationLetitia James created the ASSET Unit to enforce the RAISE Act (Jan 1, 2027) and the chatbot law (June 1, 2027). ",
+      "description_en": "⚖️ New York's AG now has a dedicated AI cop, and it can fine up to $25,000 per violationLetitia James created the ASSET Unit to enforce the RAISE Act (Jan 1, 2027) and the chatbot law (June 1, 2027). Frontier developers must report critical safety incidents within 72 hours.The chatbot law targets flattery and bots posing as human, and nobody has defined where sycophancy starts yet. That fight starts in court.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/1144",
+      "image_url": null,
+      "pub_date": "2026-11-27T16:09:29+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-27T20:09:22.776Z",
+      "created_at": "2026-11-27T20:09:22.776Z"
+    },
+    {
+      "id": 30470,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🧮 OpenAI preprint says one tensor geometry result cracks four open problemsThe paper ties the asymptotic spectrum of tensors to lower bounds for matrix multiplication and the Fourier transform. It al",
+      "description_en": "🧮 OpenAI preprint says one tensor geometry result cracks four open problemsThe paper ties the asymptotic spectrum of tensors to lower bounds for matrix multiplication and the Fourier transform. It also covers integer multiplication on multi-tape Turing machines and the Erdős-Rado sunflower problem.It's a GitHub preprint, so nobody has refereed it yet. If the proofs hold, one lemma doing the work of four papers is the real story.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/1145",
+      "image_url": null,
+      "pub_date": "2026-11-27T19:10:29+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-27T20:09:22.776Z",
+      "created_at": "2026-11-27T20:09:22.776Z"
     }
   ]
 }
