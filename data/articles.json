@@ -659222,7 +659222,7 @@
         "Tech Industry"
       ],
       "translated": false,
-      "priority": "hot",
+      "priority": "batch",
       "fetchedAt": "2026-11-27T11:12:12.261Z",
       "created_at": "2026-11-27T11:12:12.261Z"
     },
@@ -659650,6 +659650,258 @@
       "priority": "hot",
       "fetchedAt": "2026-11-27T11:12:18.626Z",
       "created_at": "2026-11-27T11:12:18.626Z"
+    },
+    {
+      "id": 30399,
+      "source": "Hugging Face Blog",
+      "title_en": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://huggingface.co/blog/video-trainium3",
+      "image_url": null,
+      "pub_date": "Fri, 27 Nov 2026 00:00:00 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-27T12:38:58.216Z",
+      "created_at": "2026-11-27T12:38:58.216Z"
+    },
+    {
+      "id": 30400,
+      "source": "The Guardian AI",
+      "title_en": "Meta whistleblower calls on Burnham to go further with ban on NDAs",
+      "description_en": "Sarah Wynn-Williams says tech insiders with concerns about AI are being silenced in system reminiscent of George Orwell’s 1984\nThe Meta whistleblower who made allegations about the social media company’s treatment of teenagers has urged Andy Burnham to go further in banning non-disclosure agreements, warning that tech insiders with concerns about AI development need to be protected.\nSarah Wynn-Williams, who served as the director of global public policy at Meta, then called Facebook, has been un",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/nov/27/meta-whistleblower-sarah-wynn-williams-calls-on-burnham-to-go-further-with-ban-on-non-disclosure-agreements",
+      "image_url": "https://i.guim.co.uk/img/media/f277f364251690f43120ef6a9b54a085d1c66319/245_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=abb01599ec71ca09f5bfeb9f9c7d8865",
+      "pub_date": "Fri, 27 Nov 2026 12:30:08 GMT",
+      "author": "Michael Savage Media editor",
+      "categories": [
+        {
+          "_": "Meta",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/meta"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Politics",
+          "$": {
+            "domain": "https://www.theguardian.com/politics/politics"
+          }
+        },
+        {
+          "_": "Law",
+          "$": {
+            "domain": "https://www.theguardian.com/law/law"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-27T12:38:58.431Z",
+      "created_at": "2026-11-27T12:38:58.431Z"
+    },
+    {
+      "id": 30401,
+      "source": "Interesting Engineering",
+      "title_en": "2,200-year-old Roman ship’s 10 coating samples reveal clues to repairs across regions",
+      "description_en": "Scientists from France and Croatia analyzed the waterproof coating of a 2,200-year-old Roman ship and...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/culture/roman-shipwreck-pollen-hull-pitch-repairs",
+      "image_url": null,
+      "pub_date": "Fri, 27 Nov 2026 12:30:00 +0000",
+      "author": "Daniel Kamberski",
+      "categories": [
+        "Culture"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-27T12:39:00.939Z",
+      "created_at": "2026-11-27T12:39:00.939Z"
+    },
+    {
+      "id": 30402,
+      "source": "Interesting Engineering",
+      "title_en": "DEEP Robotics deploys wheel-legged robot to automate inspections at Chinese cattle farm",
+      "description_en": "DEEP Robotics has deployed a wheel-legged robot, LYNX M20, at a cattle farm to automate...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/china-deploys-robotic-farm-inspector",
+      "image_url": "https://www.youtube.com/embed/D9Br0hD6jUw",
+      "pub_date": "Fri, 27 Nov 2026 12:29:15 +0000",
+      "author": "Jijo Malayil",
+      "categories": [
+        "AI and Robotics"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-27T12:39:00.939Z",
+      "created_at": "2026-11-27T12:39:00.939Z"
+    },
+    {
+      "id": 30403,
+      "source": "Interesting Engineering",
+      "title_en": "US YouTuber spends three years turning Tesla Model 3 parts into 50-mph mini jetboat",
+      "description_en": "YouTuber Tyler Fever of the Prop Department channel has repaired his Tesla-powered mini jetboat after...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/innovation/tesla-jetboat-nashville-inverter-failure",
+      "image_url": "https://www.youtube.com/embed/ID062k6AqMw",
+      "pub_date": "Fri, 27 Nov 2026 11:20:00 +0000",
+      "author": "Daniel Kamberski",
+      "categories": [
+        "Innovation"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-27T12:39:00.939Z",
+      "created_at": "2026-11-27T12:39:00.939Z"
+    },
+    {
+      "id": 30404,
+      "source": "Nature Machine Intelligence",
+      "title_en": "Exploring nonlinear body oscillations for natural quadruped gaits",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.nature.com/articles/s42256-026-01320-x",
+      "image_url": null,
+      "pub_date": "2026-11-27T00:00:00.000Z",
+      "author": "Annika Schmidt",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-27T12:39:01.075Z",
+      "created_at": "2026-11-27T12:39:01.075Z"
+    },
+    {
+      "id": 30405,
+      "source": "Nature Machine Intelligence",
+      "title_en": "A long-context generative foundation model for versatile RNA design",
+      "description_en": "",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.nature.com/articles/s42256-026-01321-w",
+      "image_url": null,
+      "pub_date": "2026-11-27T00:00:00.000Z",
+      "author": "Yanjie Huang",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-27T12:39:01.075Z",
+      "created_at": "2026-11-27T12:39:01.075Z"
+    },
+    {
+      "id": 30406,
+      "source": "Tom's Hardware",
+      "title_en": "Black Friday 2026 gaming monitor deals live",
+      "description_en": "The best Black Friday monitor sales, live round-the-clock coverage of all the best deals.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/live/news/black-friday-2026-monitor-deals",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/gWmiBnQBewXUVkxAoafnFD-1920-80.jpg",
+      "pub_date": "Fri, 27 Nov 2026 11:49:04 +0000",
+      "author": " The Editors of Tom&#039;s Hardware ",
+      "categories": [
+        "Gift Guides and Seasonal Sales"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-27T12:39:01.188Z",
+      "created_at": "2026-11-27T12:39:01.188Z"
+    },
+    {
+      "id": 30407,
+      "source": "Tom's Hardware",
+      "title_en": "Nvidia agrees to $290 million settlement over 2018 crypto mining GPU sales",
+      "description_en": "Nvidia agrees to pay $290 million settlement for class action allegedly misleading investors that much of gaming GPU sales were actually driven by cryptocurrency mining demand.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/nvidia-agrees-to-usd290-million-settlement-over-2018-crypto-mining-gpu-sales-ends-eight-year-investor-lawsuit-without-admitting-wrongdoing",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/vZTixu9pzvdLkseqLS3M4b-1920-80.jpg",
+      "pub_date": "Fri, 27 Nov 2026 11:30:00 +0000",
+      "author": " Jhet Borja ",
+      "categories": [
+        "Big Tech",
+        "Tech Industry"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-27T12:39:01.188Z",
+      "created_at": "2026-11-27T12:39:01.188Z"
+    },
+    {
+      "id": 30408,
+      "source": "CNBC Tech",
+      "title_en": "The Tech Download: Will Jensen Huang’s return be the spark the shaky AI market needs?",
+      "description_en": "AI stocks have fallen in recent times as investors question the sustainability of the AI boom.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.cnbc.com/2026/11/27/tech-download-jensen-huang-ai-market.html",
+      "image_url": null,
+      "pub_date": "Fri, 27 Nov 2026 12:00:22 GMT",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-27T12:39:01.250Z",
+      "created_at": "2026-11-27T12:39:01.250Z"
+    },
+    {
+      "id": 30409,
+      "source": "Backdoor (TG)",
+      "title_en": "DeepSeek стала сочной тянкой — нейронку превратили в красивую девочку в костюме горничной. Весь Китай прямо сейчас сходит с ума по «Кит-тян». Особенно популярна ее чиби-версия. Кит-тян обожает рис — а",
+      "description_en": "DeepSeek стала сочной тянкой — нейронку превратили в красивую девочку в костюме горничной. Весь Китай прямо сейчас сходит с ума по «Кит-тян». Особенно популярна ее чиби-версия. Кит-тян обожает рис — аналог токенов. Соперничает милаха с главной злодейкой — холодной Claude-тян. Мем зашел настолько далеко, что даже один из разработчиков Kimi — Тан Фэйху — пришел на конференцию по ИИ в костюме Кит-тян.Руки на стол.👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/33390",
+      "image_url": "https://cdn4.telesco.pe/file/O7Ne9TgoiTBJevx7wbX8iAbkUTSVlDi2ZdyBpT_50c90IFkG0ADbpiuNNI68FZuZrjlmrpd9A6L-aKKTKvUIRcLBIBbI8HN73s4ynQLEFZ3H1xxTSBvw2rft2wV4lolFEOKgK8NykGzz71HTKmac7D1kPTeJXQVlPvXWDRNTMhS_CZXTB8dIwG_7q4ddzRH6qEwd9dGBM-Slk0zV4QMnVtz_Fampo_0kc_W-9IjiwP0c1C8iHTBd29kvva2iaRFAM4u86K1bVRB5p7xrrvT7WoXC1jRLDrKtHn72GEAacKwrgGMPL5PewlHoXHVQF3JUTZd1tyjXJBjaM4BPXEh8SQ.jpg",
+      "pub_date": "2026-11-27T12:05:12+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-27T12:39:01.938Z",
+      "created_at": "2026-11-27T12:39:01.938Z"
+    },
+    {
+      "id": 30410,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "🎧 Легендарного комментатора «воскресили» с ИИБританец Джон Мотсон полвека вел футбольные репортажи на BBC и с 1995 по 2004 год озвучивал матчи в серии игр FIFA. Комментатора не стало в 2023 году, и п",
+      "description_en": "🎧 Легендарного комментатора «воскресили» с ИИБританец Джон Мотсон полвека вел футбольные репортажи на BBC и с 1995 по 2004 год озвучивал матчи в серии игр FIFA. Комментатора не стало в 2023 году, и после его смерти Electronic Arts решила воссоздать голос Мотсона для EA Sports FC 27.Разработчики обучили нейросеть на архивных озвучках Мотсона и встроили его голос в игру. Часть реплик взята из старых записей, а остальное, например имена современных футболистов, произносит ИИ.Идею EA одобрила семья",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3891",
+      "image_url": "https://cdn4.telesco.pe/file/i7vwmq1-x1rZifhru7Scyts76AXDMAjMT_O4KHQV8iv6ol5rZ1grOwe0B4nSTh775fHcnEUoZDGiozcwEKkgCqV16ijBJhul_riopHTShZMEampNBeqVaBpr9Ve1_jqxLdV59sUpd2WxgBF_Bqm1b8EeR25AdM7WbfnmYoReMAAf2G7MdK9LQ8bOzGL16557x9wIl-8aIj5_ayX2BLs04u-gnmN5xm0r84TIdKjAW93Okl_ARuumWpvFk6F4kWzgEDuz5bGfjrJOclhvVLHYWdBz_asI8nyr59uL5kDkqJOHAcjQoaQCwhSYhQgrN382LyLGAvJKIYuvPfrxsWoNwA.jpg",
+      "pub_date": "2026-11-27T11:52:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-27T12:39:02.348Z",
+      "created_at": "2026-11-27T12:39:02.348Z"
     }
   ]
 }
