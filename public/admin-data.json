@@ -1,20 +1,20 @@
 {
   "total": 30512,
-  "translated": 30477,
-  "untranslated": 35,
+  "translated": 30503,
+  "untranslated": 9,
   "today": 34,
   "week": 787,
   "sources": [
     {
       "name": "Tom's Hardware",
       "total": 2863,
-      "translated": 2859,
+      "translated": 2863,
       "lastDate": "Wed, 30 Sep 2026 18:00:39 +0000"
     },
     {
       "name": "Interesting Engineering",
       "total": 2719,
-      "translated": 2717,
+      "translated": 2719,
       "lastDate": "Wed, 30 Sep 2026 23:56:36 +0000"
     },
     {
@@ -32,25 +32,25 @@
     {
       "name": "AI Post (TG)",
       "total": 1837,
-      "translated": 1833,
+      "translated": 1835,
       "lastDate": "2026-11-28T09:01:02+00:00"
     },
     {
       "name": "The Decoder",
       "total": 1679,
-      "translated": 1677,
+      "translated": 1679,
       "lastDate": "Wed, 30 Sep 2026 22:06:30 +0000"
     },
     {
       "name": "Product Hunt",
       "total": 1556,
-      "translated": 1554,
+      "translated": 1556,
       "lastDate": "2026-11-27T03:17:55.000Z"
     },
     {
       "name": "The Guardian AI",
       "total": 1553,
-      "translated": 1549,
+      "translated": 1553,
       "lastDate": "Wed, 30 Sep 2026 19:12:28 GMT"
     },
     {
@@ -68,7 +68,7 @@
     {
       "name": "XOR Journal (TG)",
       "total": 1213,
-      "translated": 1210,
+      "translated": 1211,
       "lastDate": "2026-11-28T08:58:04+00:00"
     },
     {
@@ -80,19 +80,19 @@
     {
       "name": "Prompt AI News (TG)",
       "total": 1010,
-      "translated": 1007,
+      "translated": 1010,
       "lastDate": "2026-11-28T08:29:05+00:00"
     },
     {
       "name": "MarkTechPost",
       "total": 957,
-      "translated": 956,
+      "translated": 957,
       "lastDate": "Wed, 30 Sep 2026 21:30:08 +0000"
     },
     {
       "name": "Backdoor (TG)",
       "total": 819,
-      "translated": 815,
+      "translated": 817,
       "lastDate": "2026-11-28T09:01:00+00:00"
     },
     {
@@ -104,7 +104,7 @@
     {
       "name": "Hi, AI Russian (TG)",
       "total": 589,
-      "translated": 586,
+      "translated": 587,
       "lastDate": "2026-11-28T05:28:23+00:00"
     },
     {
@@ -122,7 +122,7 @@
     {
       "name": "Hi, AI English (TG)",
       "total": 414,
-      "translated": 413,
+      "translated": 414,
       "lastDate": "2026-11-28T07:32:45+00:00"
     },
     {
@@ -152,7 +152,7 @@
     {
       "name": "Habr (TG)",
       "total": 276,
-      "translated": 274,
+      "translated": 275,
       "lastDate": "2026-11-28T07:33:45+00:00"
     },
     {
@@ -2718,5 +2718,5 @@
       "lastDate": "2026-04-09T05:47:01Z"
     }
   ],
-  "generatedAt": "2026-11-28T11:25:56.270Z"
+  "generatedAt": "2026-11-28T11:26:41.060Z"
 }
