@@ -661424,6 +661424,683 @@
       "priority": "hot",
       "fetchedAt": "2026-11-28T03:52:44.073Z",
       "created_at": "2026-11-28T03:52:44.073Z"
+    },
+    {
+      "id": 30487,
+      "source": "The Decoder",
+      "title_en": "Google Deepmind's \"Humanity's First Exam\" shows top AI models still fail simple everyday tasks under repeated runs",
+      "description_en": "Google Deepmind tests the reliability of 18 AI models with \"Humanity's First Exam.\" Top models solve nearly every task family at least once, but even leaders like OpenAI's GPT-6.2 Astra stumble when asked for 16 straight correct answers. Visual perception accounts for 73 percent of errors, and more compute time doesn't fix the problem.\nThe article Google Deepmind's \"Humanity's First Exam\" shows top AI models still fail simple everyday tasks under repeated runs appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/google-deepminds-humanitys-first-exam-shows-top-ai-models-still-fail-simple-everyday-tasks-under-repeated-runs/",
+      "image_url": null,
+      "pub_date": "Sat, 28 Nov 2026 11:12:30 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI research",
+        "Artificial Intelligence",
+        "Benchmark",
+        "Benchmarks",
+        "Google",
+        "Google Deepmind"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-28T11:23:51.500Z",
+      "created_at": "2026-11-28T11:23:51.500Z"
+    },
+    {
+      "id": 30488,
+      "source": "The Decoder",
+      "title_en": "Robotics startup Embo raises $110 million in seed funding to build world-model AI for robots",
+      "description_en": "Embo raised $110 million in seed funding to build a universal robot brain with world models. Its AI learns how the physical world works from internet video and practices motor skills in simulation. Google Deepmind, Meta, and MIT researchers are behind the startup as the race for general-purpose robotics AI accelerates.\nThe article Robotics startup Embo raises $110 million in seed funding to build world-model AI for robots appeared first on The Decoder.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://the-decoder.com/robotics-startup-embo-raises-110-million-in-seed-funding-to-build-world-model-ai-for-robots/",
+      "image_url": null,
+      "pub_date": "Sat, 28 Nov 2026 10:48:18 +0000",
+      "author": "Matthias Bastian",
+      "categories": [
+        "AI in practice",
+        "Artificial Intelligence",
+        "Embo",
+        "Robotics",
+        "World models"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-28T11:23:51.501Z",
+      "created_at": "2026-11-28T11:23:51.501Z"
+    },
+    {
+      "id": 30489,
+      "source": "MarkTechPost",
+      "title_en": "Ant Group Releases LingSante-3.1-flash: An Open-Weight MoE Model with 560B Total Parameters and 25B Activations per Token",
+      "description_en": "Ant Group's Afu team open-sourced LingSante-3.1-flash, a 560B-parameter MoE medical AI model with 25B active parameters, a 1M-token context and an MIT license. It ranks first among open models on InclusionMed.\nThe post Ant Group Releases LingSante-3.1-flash: An Open-Weight MoE Model with 560B Total Parameters and 25B Activations per Token appeared first on MarkTechPost.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.marktechpost.com/2026/11/28/ant-group-lingsante-3-1-flash-open-source-medical-ai/",
+      "image_url": "https://www.marktechpost.com/wp-content/uploads/2026/11/image.jpeg",
+      "pub_date": "Sat, 28 Nov 2026 09:45:33 +0000",
+      "author": "Asif Razzaq",
+      "categories": [
+        "Agentic AI",
+        "AI Paper Summary",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Language Model",
+        "Large Language Model",
+        "Machine Learning",
+        "New Releases",
+        "Open Source",
+        "Promote",
+        "Sponsored",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-28T11:23:51.603Z",
+      "created_at": "2026-11-28T11:23:51.603Z"
+    },
+    {
+      "id": 30490,
+      "source": "The Guardian AI",
+      "title_en": "AI labs sitting on ‘bombshell’ revelations that could cause global chaos, experts warn",
+      "description_en": "Exclusive: AI may have cracked decades-old maths problems that underpin encryption at banks and government agencies\nAI companies are sitting on “bombshell” revelations that could disrupt a cornerstone of security for banks and governments in as soon as a few months, leading experts believe.\nScott Aaronson, a pre-eminent theoretical computer scientist, told the Guardian there were “well-attested rumours” that powerful artificial intelligence models had broken ground on decades-old maths problems ",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/nov/28/ai-artificial-intelligence-encryption-global-chaos",
+      "image_url": "https://i.guim.co.uk/img/media/f08944d0a359b09c93c14ea8aeeac1ec4a540ba1/1397_0_5399_4320/master/5399.jpg?width=140&quality=85&auto=format&fit=max&s=471d54a8ec6343f8bb2eeba54c218081",
+      "pub_date": "Sat, 28 Nov 2026 05:00:30 GMT",
+      "author": "Aisha Down",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Hacking",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/hacking"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-28T11:23:52.242Z",
+      "created_at": "2026-11-28T11:23:52.242Z"
+    },
+    {
+      "id": 30491,
+      "source": "The Guardian AI",
+      "title_en": "‘I told it to never call me again’: AI bots wreak havoc with UK restaurant bookings",
+      "description_en": "Meta claims its Muse assistant will make users’ lives easier, but business owners say AI is driving them to go analogue\nRestaurant owners are battling a horde of AI bots and returning to using the telephone instead of online booking as new virtual assistants launch in the UK – but sometimes even that isn’t enough to stop them.\nThis week, Mark Zuckerberg’s Meta launched its Muse AI assistant in the UK and is encouraging users to let it shop and make restaurant reservations. The bot is given acces",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/business/2026/nov/28/ai-bots-wreak-havoc-uk-restaurant-bookings-meta-muse",
+      "image_url": "https://i.guim.co.uk/img/media/8bc6323ce50cd4f0f889dd06738199072098a24d/530_0_5223_4180/master/5223.jpg?width=140&quality=85&auto=format&fit=max&s=329230a8f87826f26a67384e3474ff66",
+      "pub_date": "Sat, 28 Nov 2026 08:00:34 GMT",
+      "author": "Helena Horton",
+      "categories": [
+        {
+          "_": "Hospitality industry",
+          "$": {
+            "domain": "https://www.theguardian.com/business/hospitality-industry"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Meta",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/meta"
+          }
+        },
+        {
+          "_": "Chatbots",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/chatbots"
+          }
+        },
+        {
+          "_": "Restaurants",
+          "$": {
+            "domain": "https://www.theguardian.com/food/restaurants"
+          }
+        },
+        {
+          "_": "Food",
+          "$": {
+            "domain": "https://www.theguardian.com/food/food"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "UK news",
+          "$": {
+            "domain": "https://www.theguardian.com/uk/uk"
+          }
+        },
+        {
+          "_": "Food & drink industry",
+          "$": {
+            "domain": "https://www.theguardian.com/business/fooddrinks"
+          }
+        },
+        {
+          "_": "Business",
+          "$": {
+            "domain": "https://www.theguardian.com/business/business"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-28T11:23:52.243Z",
+      "created_at": "2026-11-28T11:23:52.243Z"
+    },
+    {
+      "id": 30492,
+      "source": "The Guardian AI",
+      "title_en": "Grand Theft Anthropic: how GTA can inspire a fightback against AI | Alexander Hurst",
+      "description_en": "As Anthropic cashes in on the stock market, human-made masterpieces need greater defence from endless extraction\nGrand Theft Auto VI came out on the same day that Anthropic made its stock market debut. I keep thinking about that coincidence. As more than one tech writer has pointed out, the new GTA took 13 years to make, more than $1bn of investment and involved 9,000 sets of human hands, and it will probably be the last blockbuster video game to be fully free of generative AI.\nOn the day of its",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/28/grand-theft-anthropic-gta-fightback-against-ai",
+      "image_url": "https://i.guim.co.uk/img/media/2122b6767c4f00241ae28941d7083ad487bff8c5/329_0_2428_1942/master/2428.jpg?width=140&quality=85&auto=format&fit=max&s=ef5f503eaa4a040eaf644813a67f1530",
+      "pub_date": "Sat, 28 Nov 2026 07:00:34 GMT",
+      "author": "Alexander Hurst",
+      "categories": [
+        {
+          "_": "Anthropic",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/anthropic"
+          }
+        },
+        {
+          "_": "Grand Theft Auto VI",
+          "$": {
+            "domain": "https://www.theguardian.com/games/grand-theft-auto-vi"
+          }
+        },
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "France",
+          "$": {
+            "domain": "https://www.theguardian.com/world/france"
+          }
+        },
+        {
+          "_": "Europe",
+          "$": {
+            "domain": "https://www.theguardian.com/world/europe-news"
+          }
+        },
+        {
+          "_": "Games",
+          "$": {
+            "domain": "https://www.theguardian.com/games/games"
+          }
+        },
+        {
+          "_": "World news",
+          "$": {
+            "domain": "https://www.theguardian.com/world/world"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-28T11:23:52.243Z",
+      "created_at": "2026-11-28T11:23:52.243Z"
+    },
+    {
+      "id": 30493,
+      "source": "The Guardian AI",
+      "title_en": "Could AI break encryption? What mathematical breakthroughs mean for cybersecurity",
+      "description_en": "Experts suggest AI companies may be sitting on ‘bombshell’ that could have severe consequences for secret information\nLeading experts and the governor of the Bank of England have suggested that top AI companies might have something under their hat – a “bombshell” revelation about encryption. Depending on what it is, it could have major consequences for the world’s secret information, and the banks and governments that hold and transmit it.\nThis is because of recent, startling mathematical advanc",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.theguardian.com/technology/2026/nov/28/could-ai-break-encryption-what-mathematical-breakthroughs-mean-for-cybersecurity",
+      "image_url": "https://i.guim.co.uk/img/media/7b3c245cf23380f751f0177a251f8961f4cecd5a/0_0_2502_2003/master/2502.jpg?width=140&quality=85&auto=format&fit=max&s=1f74c586765dac1ab1ac3885371cc851",
+      "pub_date": "Sat, 28 Nov 2026 05:00:30 GMT",
+      "author": "Aisha Down",
+      "categories": [
+        {
+          "_": "AI (artificial intelligence)",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/artificialintelligenceai"
+          }
+        },
+        {
+          "_": "Computing",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/computing"
+          }
+        },
+        {
+          "_": "Technology",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/technology"
+          }
+        },
+        {
+          "_": "Mathematics",
+          "$": {
+            "domain": "https://www.theguardian.com/science/mathematics"
+          }
+        },
+        {
+          "_": "OpenAI",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/openai"
+          }
+        },
+        {
+          "_": "Anthropic",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/anthropic"
+          }
+        },
+        {
+          "_": "ChatGPT",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/chatgpt"
+          }
+        },
+        {
+          "_": "Data and computer security",
+          "$": {
+            "domain": "https://www.theguardian.com/technology/data-computer-security"
+          }
+        },
+        {
+          "_": "Science",
+          "$": {
+            "domain": "https://www.theguardian.com/science/science"
+          }
+        }
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-28T11:23:52.243Z",
+      "created_at": "2026-11-28T11:23:52.243Z"
+    },
+    {
+      "id": 30494,
+      "source": "Interesting Engineering",
+      "title_en": "US’ nuclear rival upgrades Su-57 stealth jets with advanced missile detection system",
+      "description_en": "The Russian air force appears to have taken receipt of a new batch of fifth-generation...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/military/us-nuclear-rival-upgrades-su-57-jets",
+      "image_url": "https://www.youtube.com/embed/eXL3FuvHp38",
+      "pub_date": "Sat, 28 Nov 2026 11:21:34 +0000",
+      "author": "Christopher McFadden",
+      "categories": [
+        "Military"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-28T11:23:52.871Z",
+      "created_at": "2026-11-28T11:23:52.871Z"
+    },
+    {
+      "id": 30495,
+      "source": "Interesting Engineering",
+      "title_en": "AI-nativism: from AI tool to enterprise operating system",
+      "description_en": "In our latest episode of Lexicon, we sit down with Mohamed Battisha, Chief Technology Officer...",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://interestingengineering.com/ai-robotics/ai-nativism-from-ai-tool-to-enterprise-operating-system",
+      "image_url": null,
+      "pub_date": "Sat, 28 Nov 2026 09:01:18 +0000",
+      "author": "Christopher McFadden",
+      "categories": [
+        "AI and Robotics",
+        "Innovation"
+      ],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-28T11:23:52.871Z",
+      "created_at": "2026-11-28T11:23:52.871Z"
+    },
+    {
+      "id": 30496,
+      "source": "Tom's Hardware",
+      "title_en": "This nifty $35 dual hard drive dock can support up to 64TB of storage for your PC",
+      "description_en": "Pick up this dual-bay docking station and hook up two 3.5-inch or 2.5-inch drives simultaneously. It even has a built-in offline duplicator and cloning function.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/this-nifty-usd35-dual-hard-drive-dock-can-support-up-to-64tb-of-storage-for-your-pc-clone-duplicate-and-connect-2-5-inch-and-3-5-inch-ssds-and-hdds-with-ease",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/prgpzFjB748hMUCeBNma3V-1920-80.jpg",
+      "pub_date": "Sat, 28 Nov 2026 11:16:34 +0000",
+      "author": " Oliver Haslam ",
+      "categories": [
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-28T11:23:53.106Z",
+      "created_at": "2026-11-28T11:23:53.106Z"
+    },
+    {
+      "id": 30497,
+      "source": "Tom's Hardware",
+      "title_en": "Hair dye that turns your head into a brain-computer interface",
+      "description_en": "eHAIR is claimed to transform hair 'from a barrier into a functional bioelectronic interface.'",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/peripherals/wearable-tech/hair-dye-that-turns-your-head-into-a-brain-computer-interface-ehair-coats-strands-in-conductive-polymers-to-amplify-eeg-signals-without-surgery",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/grGbj64RsmzUetCWGbeU4a-1920-80.jpg",
+      "pub_date": "Sat, 28 Nov 2026 11:00:00 +0000",
+      "author": " Mark Tyson ",
+      "categories": [
+        "Wearable Tech",
+        "Peripherals"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-28T11:23:53.106Z",
+      "created_at": "2026-11-28T11:23:53.106Z"
+    },
+    {
+      "id": 30498,
+      "source": "Tom's Hardware",
+      "title_en": "Thermaltake’s budget RTX 5060 Ti gaming desktops are as little as $1,299",
+      "description_en": "Both prebuilt gaming PCs come with Nvidia's RTX 5060 Ti 8GB graphics, 1TB of storage, RGB cooling, and an Intel AI software bundle, while also including a holiday bundle with two PC games.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/desktops/gaming-pcs/thermaltakes-budget-rtx-5060-ti-gaming-desktops-are-as-little-as-usd1-299-choose-between-ddr4-and-ddr5-configurations-with-up-to-usd100-off",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/mKXeae6WoXFrzkUy9ST8gb-1920-80.jpg",
+      "pub_date": "Sat, 28 Nov 2026 10:45:00 +0000",
+      "author": " Kunal Khullar ",
+      "categories": [
+        "Gaming PCs",
+        "Desktops"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-28T11:23:53.106Z",
+      "created_at": "2026-11-28T11:23:53.106Z"
+    },
+    {
+      "id": 30499,
+      "source": "Tom's Hardware",
+      "title_en": "Corsair's Xeneon Edge PC touchscreen is $50 off in all colors",
+      "description_en": "Corsair's 14.5-inch touchscreen is $50 off in all five colors for Black Friday.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.tomshardware.com/pc-components/corsairs-xeneon-edge-pc-touchscreen-is-usd50-off-in-all-colors-tiny-14-5-inch-under-monitor-display-is-just-usd200",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/XqEQmS7rgfr3KxJ9WVgfuG-1920-80.jpg",
+      "pub_date": "Sat, 28 Nov 2026 10:30:00 +0000",
+      "author": " Sarah Jacobsson Purewal ",
+      "categories": [
+        "PC Components"
+      ],
+      "translated": false,
+      "priority": "hot",
+      "fetchedAt": "2026-11-28T11:23:53.106Z",
+      "created_at": "2026-11-28T11:23:53.106Z"
+    },
+    {
+      "id": 30500,
+      "source": "Product Hunt",
+      "title_en": "RetainIQ",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/retainiq-2",
+      "image_url": null,
+      "pub_date": "2026-11-14T10:10:18.000Z",
+      "author": "Jonno Riekwel",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-28T11:23:57.941Z",
+      "created_at": "2026-11-28T11:23:57.941Z"
+    },
+    {
+      "id": 30501,
+      "source": "Product Hunt",
+      "title_en": "airoom",
+      "description_en": "Discussion\n            |\n            Link",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://www.producthunt.com/products/airoom",
+      "image_url": null,
+      "pub_date": "2026-11-25T01:21:56.000Z",
+      "author": "Petrit Avdylaj",
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-28T11:23:57.941Z",
+      "created_at": "2026-11-28T11:23:57.941Z"
+    },
+    {
+      "id": 30502,
+      "source": "Backdoor (TG)",
+      "title_en": "Вайбкодеры, имба — нашли сервис, который поможет вам быстро и легко залить ваше приложение в App Store и Google Play. • Сервис проверяет проект по базе из 125 самых частых причин отказа и дает советы,",
+      "description_en": "Вайбкодеры, имба — нашли сервис, который поможет вам быстро и легко залить ваше приложение в App Store и Google Play. • Сервис проверяет проект по базе из 125 самых частых причин отказа и дает советы, как исправить положение.• Инструмент подключается к Claude Code, Codex, Cursor и другим агентам.• Публикается проводится автоматически и за пару минут. Вы получаете готовый подробный отчет с инструкцией.Выпускаем ваши творения в свет — тут.👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/33420",
+      "image_url": "https://cdn4.telesco.pe/file/IRvXGpwe-YK6rlPdDyNunaIqh7YMJmYcrZJKiufNXbSNGMzX9UhquG-_WykEOPaIfpe54NiyBge8XRFJwKxCNTZ1GpYyBa9NJhYRKbWgr3gc87759yWXmK9oUxlH-6jnLU8QEQGgapueEKDwbau1Cj5e4RIIToRHocQ3LPzEjU1NPJw4XB465nqcHs-XpMmON1ilKQ-aole5oZOLJOMEfLfVu9BCMhoB1MgdkzCNhhdnZoV-mVyRCn53L9Q5ZJPMVHZgi4ayqDbGvJwHdesv6poJn8tjdkzZBo36Z6YNYB9zVfyxiDuoV3TJwusfUYLXigQpOIJ51_eR8dDYEK4_uQ.jpg",
+      "pub_date": "2026-11-28T07:37:00+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-28T11:23:58.459Z",
+      "created_at": "2026-11-28T11:23:58.459Z"
+    },
+    {
+      "id": 30503,
+      "source": "Backdoor (TG)",
+      "title_en": "Боевые пропуска добрались до реальной жизни — ребята из TIMELESS запустили TIMELESS PASS с квестами, прокачкой, ачивками и наградами. Выполняем задания, фармим XP, поднимаем уровень и получаем Pass Co",
+      "description_en": "Боевые пропуска добрались до реальной жизни — ребята из TIMELESS запустили TIMELESS PASS с квестами, прокачкой, ачивками и наградами. Выполняем задания, фармим XP, поднимаем уровень и получаем Pass Coins, которые можно обменять на мерч, подарки и различные привилегии. С подписками BASIC и PREMIUM открывается больше квестов и возможностей для фарма. Причём грейдить подписку можно в любой момент — награды за уже пройденные уровни тоже отсыпят.Первый сезон уже идёт — залетаем.👍 Бэкдор",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/whackdoor/33421",
+      "image_url": "https://cdn4.telesco.pe/file/gz11NJvFl7mhIq50RC8syJhfmLkdn1HEAWOdF6zLYw5S5HpIm-vnq2ik7vU8iX28DlaIaIaNNDbUOOtCwBbkilOS2SUY1EdFpgnWwga9H2bNgVYjdnHk22oqtTf3Cn3skIquAWNjeviRt4fl1-6Uk2P1OxTDiWQuGRAh4cdTU4MFCxmIctxnQY9U8-xAtsmIf2ezptMfon2AbK71e9XljQweg5fX3KyyTzrvcb8OBtfi_nkKlhbWbbOJadZktEJnvGdMbLXPmgXGzf5aWhD346xP31itfL5U7lw1ptc_KIIf8_uhEu0DtpMWhjE-Ps00UK08XuXwkcj9jcVg2TWuuQ.jpg",
+      "pub_date": "2026-11-28T09:01:00+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-28T11:23:58.459Z",
+      "created_at": "2026-11-28T11:23:58.459Z"
+    },
+    {
+      "id": 30504,
+      "source": "XOR Journal (TG)",
+      "title_en": "Запускаем полноценный Linux прямо во вкладке браузера — безумец создал проект unkernel 🫨Автор скомпилировал настоящее ядро Linux в WebAssembly. Внутри можно устанавливать пакеты, запускать Python, No",
+      "description_en": "Запускаем полноценный Linux прямо во вкладке браузера — безумец создал проект unkernel 🫨Автор скомпилировал настоящее ядро Linux в WebAssembly. Внутри можно устанавливать пакеты, запускать Python, Node.js, графические приложения, ИИ-агентов и даже Chrome внутри самого Chrome.Всё работает локально на вашем устройстве, а файлы и изменения сохраняются прямо в браузере.Оценить Linux в соседней вкладке можно тут.@xor_journal",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/xor_journal/10619",
+      "image_url": null,
+      "pub_date": "2026-11-28T08:58:04+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-28T11:23:58.560Z",
+      "created_at": "2026-11-28T11:23:58.560Z"
+    },
+    {
+      "id": 30505,
+      "source": "Hi, AI English (TG)",
+      "title_en": "🔥 103-Year-Old Grandma Gears Up for a Tekken TournamentOn December 6, Toshiko Morishita of Japan will compete in an online Tekken 8 tournament for nursing home residents, and she'll be its oldest pla",
+      "description_en": "🔥 103-Year-Old Grandma Gears Up for a Tekken TournamentOn December 6, Toshiko Morishita of Japan will compete in an online Tekken 8 tournament for nursing home residents, and she'll be its oldest player. Together with her opponents, she'll try to set a world record for the highest average age of players — over 90.Morishita used to be into ikebana, but now she spends her free time training. She admits her age will make it hard to win, but says she enjoys even her losses.👨 The Care eSports Assoc",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimediaen/2969",
+      "image_url": null,
+      "pub_date": "2026-11-28T07:32:45+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-28T11:23:58.853Z",
+      "created_at": "2026-11-28T11:23:58.853Z"
+    },
+    {
+      "id": 30506,
+      "source": "Hi, AI Russian (TG)",
+      "title_en": "🔥 103-летняя бабушка готовится к турниру по Tekken Японка Тосико Морисита 6 декабря выйдет на онлайн-турнир по Tekken 8 для постояльцев домов престарелых и станет самой старшей их участницей. Вместе ",
+      "description_en": "🔥 103-летняя бабушка готовится к турниру по Tekken Японка Тосико Морисита 6 декабря выйдет на онлайн-турнир по Tekken 8 для постояльцев домов престарелых и станет самой старшей их участницей. Вместе с соперниками она попробует установить мировой рекорд по среднему возрасту игроков — более 90 лет.Раньше Морисита увлекалась икебаной, а теперь свободное время проводит за тренировками. Сама она признается, что из-за возраста победить ей будет непросто, но удовольствие она получает даже от поражений",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/hiaimedia/3898",
+      "image_url": null,
+      "pub_date": "2026-11-28T05:28:23+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-28T11:23:58.883Z",
+      "created_at": "2026-11-28T11:23:58.883Z"
+    },
+    {
+      "id": 30507,
+      "source": "Habr (TG)",
+      "title_en": "📺 AI Journey 2026 уже в эфире!Сегодня на конференции проходит день науки. Спикеры говорят об агентном ИИ, робототехнике и науку будущего. Хабр ведёт прямую трансляцию ключевых докладов.До 16:35 смотр",
+      "description_en": "📺 AI Journey 2026 уже в эфире!Сегодня на конференции проходит день науки. Спикеры говорят об агентном ИИ, робототехнике и науку будущего. Хабр ведёт прямую трансляцию ключевых докладов.До 16:35 смотрим главную сцену, затем переключаемся в Белый зал на спецессию «Физический ИИ: автономные системы в реальном мире» — обсудим Embodied AI, large behavior models и воплощённые нейросети.Подключайтесь к трансляции в телеграм или в VK Видео прямо сейчас, задавайте вопросы в комментариях и следите за гла",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/habr_com/70145",
+      "image_url": "https://cdn4.telesco.pe/file/Im0KL7RaEghtk2UJmsEvlIxUmbcF5VaxsOvV2onvu02cNuc2JG2DrMBGV-7s6uWB_fFJlwwjDC78xkMSNGkyGKLh7AWrfkbJBrcWiFjtvc_2g0tStyDgJnITwwkLMaWAyhXddyQgqpW4j3lDgpRN2F0RQbO362l_YwkyfZsZitS1xLv6MdBf2oC9OGfS7Gbjh5CNu5iwCehY5jfxj9BaFtC3NZqFqKi4sPo3c5q6s-H3kw-6LXPa28kQmDJFmEXbWn2Id2XaXZXjsWfeLBc02NbqSnPU_Cp8u7fckQdJYp2oeBLdatA2kOg_4lIDno7K9hg0hFXFc4RGm_uMCGeqNw.jpg",
+      "pub_date": "2026-11-28T07:33:45+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-28T11:23:58.953Z",
+      "created_at": "2026-11-28T11:23:58.953Z"
+    },
+    {
+      "id": 30508,
+      "source": "AI Post (TG)",
+      "title_en": "🤖 Robots worked XPENG's car booth for hours without a stumble. They just talked too muchAt this week's Guangzhou Auto Show, several of XPENG's IRON humanoids worked as receptionists, sales assistants",
+      "description_en": "🤖 Robots worked XPENG's car booth for hours without a stumble. They just talked too muchAt this week's Guangzhou Auto Show, several of XPENG's IRON humanoids worked as receptionists, sales assistants and guides, the Chinese carmaker says. One of them hosted its press conference.Humanoids Daily, which covers humanoid robots, spent several hours watching them. Visitors touched and grabbed the robots, and there wasn't a single stumble. Every so often, one walked itself back to an inner room to rec",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8919",
+      "image_url": null,
+      "pub_date": "2026-11-28T06:11:01+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-28T11:23:59.039Z",
+      "created_at": "2026-11-28T11:23:59.039Z"
+    },
+    {
+      "id": 30509,
+      "source": "AI Post (TG)",
+      "title_en": "⚠️ Japan wants AI companies to check who is using AI strong enough to hackJapan’s government laid out a draft amendment to its AI law on Friday, after a wave of AI-powered cyberattacks. Companies offe",
+      "description_en": "⚠️ Japan wants AI companies to check who is using AI strong enough to hackJapan’s government laid out a draft amendment to its AI law on Friday, after a wave of AI-powered cyberattacks. Companies offering frontier AI to a certain number of users in Japan would get binding safety duties.OpenAI, Anthropic, Google, Alibaba and DeepSeek are expected to be covered, the Yomiuri reports. They would have to refuse questions about cyberattack methods or making bombs and harmful substances, and verify the",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/aipost/8920",
+      "image_url": "https://cdn4.telesco.pe/file/BQPR4Wtqe5jttzSyWi9k8PT72e6INprSKFS4DOs0LiQW8Jjtr6C84gnGGF9aVSUWr8QcMIF1TyVHWL8P3Sf--5o1Qpp5yOI2bePQnx5qICxVeN-b3V6Nz3J0P4ZE25Kgps3DkHQAU-g8w9jaPoBMCLl2l_i-53iGy5Dy87PFxNq-Ha_9ErZGVH7ZiLG4Ewx99WhY532L2XqIL8WdkBHr_gLsocQ1hTlvSNGIewthwCKGPJDh9EXNdh_qhKa2jsGJRa9AcANFt9LFXDopBERcPJ8i8Ws9a_HtBTDT_LpzP0DV5Vs17OcPmQ3dgow8G-AsAZGk--javOfdNsD6AzbMxA.jpg",
+      "pub_date": "2026-11-28T09:01:02+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-28T11:23:59.039Z",
+      "created_at": "2026-11-28T11:23:59.039Z"
+    },
+    {
+      "id": 30510,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🧠 Google's DeepCrossAttention hits the same quality up to 3x fasterGoogle Research details DCA, an ICML 2025 paper that swaps plain residual summation for learned, per-token weights over earlier laye",
+      "description_en": "🧠 Google's DeepCrossAttention hits the same quality up to 3x fasterGoogle Research details DCA, an ICML 2025 paper that swaps plain residual summation for learned, per-token weights over earlier layers' outputs. The added parameter count is negligible.Standard residuals treat every prior layer equally, which dilutes detail in deep stacks. DCA lets each layer choose what to pull forward.",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/1148",
+      "image_url": null,
+      "pub_date": "2026-11-28T04:13:29+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-28T11:23:59.383Z",
+      "created_at": "2026-11-28T11:23:59.383Z"
+    },
+    {
+      "id": 30511,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 240,000 banned Nvidia chips allegedly reached China, mostly H100s and H200s  Tom's Hardware reports that Alice Huang helped secure over $7.5B in GPU imports during her three-year relationship with ",
+      "description_en": "🚨 240,000 banned Nvidia chips allegedly reached China, mostly H100s and H200s  Tom's Hardware reports that Alice Huang helped secure over $7.5B in GPU imports during her three-year relationship with Jensen Huang.  That's about $31K per chip on average, so…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/1149",
+      "image_url": null,
+      "pub_date": "2026-11-28T07:14:29+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-28T11:23:59.383Z",
+      "created_at": "2026-11-28T11:23:59.383Z"
+    },
+    {
+      "id": 30512,
+      "source": "Prompt AI News (TG)",
+      "title_en": "🚨 OpenAI claims matrix multiplication runs in O(n^2.25), and says that's the exact exponent  A new preprint puts omega at exactly 9/4. The best known upper bound was about 2.37, and nobody has pinned",
+      "description_en": "🚨 OpenAI claims matrix multiplication runs in O(n^2.25), and says that's the exact exponent  A new preprint puts omega at exactly 9/4. The best known upper bound was about 2.37, and nobody has pinned the true value before.  It's a GitHub PDF with no peer review…",
+      "title_he": null,
+      "description_he": null,
+      "link": "https://t.me/prompt/1150",
+      "image_url": null,
+      "pub_date": "2026-11-28T08:29:05+00:00",
+      "author": null,
+      "categories": [],
+      "translated": false,
+      "priority": "batch",
+      "fetchedAt": "2026-11-28T11:23:59.383Z",
+      "created_at": "2026-11-28T11:23:59.383Z"
     }
   ]
 }
